@@ -16,7 +16,7 @@ def csv_to_mongodb(csv_file, db_name, collection_name, mongodb_uri):
     collection.insert_many(data)
     print(f"Dati inseriti con successo nella collezione '{collection_name}' del database '{db_name}'.")
 
-def filter_collection_by_pmid(db_name, collection_name, target_collection_name, pmid_csv_file, mongodb_uri="mongodb://localhost:27017/"):
+def filter_collection_by_pmid(db_name, collection_name, target_collection_name, pmid_csv_file, mongodb_uri):
 
     client = MongoClient(mongodb_uri)
     db = client[db_name]
@@ -47,9 +47,3 @@ csv_to_mongodb(csv_file, db_name, collection_name, mongodb_uri)
 new_collection_name = "Dataset2000Entries"
 pmid_csv_file = "pmid_samples.csv"
 filter_collection_by_pmid(db_name, collection_name, new_collection_name, pmid_csv_file)
-
-
-
-
-
-
