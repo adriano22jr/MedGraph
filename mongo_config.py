@@ -38,12 +38,13 @@ def filter_collection_by_pmid(db_name, collection_name, target_collection_name, 
     else:
         print(f"Nessun documento trovato con i PMIDs forniti.")
 
-csv_file = "dataset.csv"
-db_name = "MedGraph"
-collection_name = "Dataset"
-mongodb_uri = "mongodb://localhost:27017/"
-csv_to_mongodb(csv_file, db_name, collection_name, mongodb_uri)
+if __name__ == "__main__":
+    csv_file = "dataset.csv"
+    db_name = "MedGraph"
+    collection_name = "Dataset"
+    mongodb_uri = "mongodb://localhost:27017/"
+    csv_to_mongodb(csv_file, db_name, collection_name, mongodb_uri)
 
-new_collection_name = "Dataset2000Entries"
-pmid_csv_file = "pmid_samples.csv"
-filter_collection_by_pmid(db_name, collection_name, new_collection_name, pmid_csv_file, mongodb_uri)
+    new_collection_name = "Dataset2000Entries"
+    pmid_csv_file = "pmid_samples.csv"
+    filter_collection_by_pmid(db_name, collection_name, new_collection_name, pmid_csv_file, mongodb_uri)
