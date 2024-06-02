@@ -10,6 +10,7 @@ def csv_to_mongodb(csv_file, db_name, collection_name, mongodb_uri):
         return
 
     df = pd.read_csv(csv_file)
+    df.drop(columns=["DOI", "pages", "ISSN", "SJR"], inplace=True)
     data = df.to_dict(orient="records")
 
     collection = db[collection_name]
@@ -31,13 +32,10 @@ def filter_collection_by_pmid(db_name, collection_name, target_collection_name, 
     matching_documents = source_collection.find({"PMID": {"$in": pmid_list}})
 
     target_collection = db[target_collection_name]
-    matching_docs_list = list(matching_documents)
-    if matching_docs_list:
-        target_collection.insert_many(matching_docs_list)
-        print(f"Dati inseriti con successo nella collezione '{target_collection_name}' del database '{db_name}'.")
-    else:
-        print(f"Nessun documento trovato con i PMIDs forniti.")
 
+    for doc in matching_documents:
+        doc["_id"] = doc.pop("PMID")
+        target_collection.insert_one(doc)
 
 if __name__ == "__main__":
     csv_file = "data/dataset.csv"
