@@ -1,0 +1,15 @@
+Rab family => protein_family | max_score: 0.9760143160820007 | count: 1
+small GTP-binding proteins => protein_family | max_score: 0.6691150069236755 | count: 1
+Rab7 => protein | max_score: 0.662916898727417 | count: 3
+innate immune system => biological_process | max_score: 0.6942387223243713 | count: 1
+Chinese mitten crab => species | max_score: 0.7776234745979309 | count: 2
+Eriocheir sinensis => species | max_score: 0.864661455154419 | count: 1
+EsRab7 => protein | max_score: 0.7335850596427917 | count: 6
+205-amino acid polypeptide => peptide | max_score: 0.6537307500839233 | count: 1
+muscle => body_part | max_score: 0.8878346681594849 | count: 1
+hepatopancreas => tissue | max_score: 0.8610746264457703 | count: 1
+hemocytes => cell_type | max_score: 0.8566064238548279 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.6997525095939636 | count: 1
+Vibrio parahaemolyticus => bacteria | max_score: 0.7905948758125305 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8357481956481934 | count: 1
+Toll signaling pathway => biological_process | max_score: 0.7802677750587463 | count: 1

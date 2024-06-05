@@ -1,0 +1,17 @@
+Humoral practice => biological_process | max_score: 0.5634854435920715 | count: 1
+infectious bacteria => bacteria | max_score: 0.5563246607780457 | count: 1
+blood circulatory system => anatomical_system | max_score: 0.5966742634773254 | count: 1
+peptide function => molecular_function | max_score: 0.621197521686554 | count: 1
+Eisenia fetida => species | max_score: 0.7607184052467346 | count: 1
+Ca2+ binding calmodulin => enzyme | max_score: 0.6770716309547424 | count: 1
+metallothionein => protein | max_score: 0.8013216853141785 | count: 1
+lysozyme => enzyme | max_score: 0.8303292393684387 | count: 1
+lysenin => protein | max_score: 0.7637857794761658 | count: 2
+eiseniapore => protein | max_score: 0.7234681844711304 | count: 1
+antibacterial vermi-peptides family (AVPF) => protein_family | max_score: 0.7125173211097717 | count: 1
+PP-I => peptide | max_score: 0.5254538059234619 | count: 1
+CCF like protein => protein | max_score: 0.5665568113327026 | count: 1
+fetidin => peptide | max_score: 0.7595580220222473 | count: 1
+lumbricin => peptide | max_score: 0.7121858596801758 | count: 3
+lumbricusin => peptide | max_score: 0.7547435760498047 | count: 1
+energy intake => diet | max_score: 0.8987506628036499 | count: 1

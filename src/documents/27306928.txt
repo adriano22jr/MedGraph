@@ -1,0 +1,13 @@
+Polymyxins => antibiotic | max_score: 0.7970871925354004 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9378733038902283 | count: 2
+combination therapy => treatment | max_score: 0.5876132249832153 | count: 1
+polymyxin B => antibiotic | max_score: 0.9078059196472168 | count: 4
+Streptomyces => fungus | max_score: 0.8928371667861938 | count: 1
+netropsin => antibiotic | max_score: 0.7228271961212158 | count: 5
+Gram-negative pathogenic bacteria => bacteria | max_score: 0.5652614235877991 | count: 1
+polymixin B => antibiotic | max_score: 0.5452022552490234 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.822102427482605 | count: 1
+Escherichia coli => bacteria | max_score: 0.9679462909698486 | count: 1
+Shigella flexineri => bacteria | max_score: 0.9669607877731323 | count: 1
+Salmonella typhimuruim => bacteria | max_score: 0.965506911277771 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9764332175254822 | count: 1

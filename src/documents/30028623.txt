@@ -1,0 +1,8 @@
+antimetastasis therapy => treatment | max_score: 0.9189216494560242 | count: 2
+lung metastases => tissue | max_score: 0.6021034717559814 | count: 1
+melittin => peptide | max_score: 0.5486773252487183 | count: 1
+legM => peptide | max_score: 0.5353161692619324 | count: 1
+macrophages => cell_type | max_score: 0.7431108951568604 | count: 2
+legumain protease => enzyme | max_score: 0.8613641262054443 | count: 1
+4T1 cancer cells => cell_line | max_score: 0.8114711046218872 | count: 1
+lung metastatic lesions => tissue | max_score: 0.523615300655365 | count: 1

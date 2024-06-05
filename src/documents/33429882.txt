@@ -1,0 +1,11 @@
+Pseudomonas aeruginosa => bacteria | max_score: 0.9860426783561707 | count: 1
+respiratory function => biological_process | max_score: 0.5625773668289185 | count: 1
+immunomodulatory activities => activity | max_score: 0.5352190732955933 | count: 1
+Esc(1-21) => peptide | max_score: 0.7404776811599731 | count: 2
+Esc peptides => compound | max_score: 0.6502190828323364 | count: 2
+antimicrobial activity => activity | max_score: 0.5261138677597046 | count: 1
+P. aeruginosa => bacteria | max_score: 0.8616449236869812 | count: 2
+alveolar epithelial cells => cell_type | max_score: 0.9130558967590332 | count: 2
+IL-6 => enzyme | max_score: 0.6460070610046387 | count: 1
+cyclooxygenase-2 => enzyme | max_score: 0.9133860468864441 | count: 1
+macrophages => cell_type | max_score: 0.817426323890686 | count: 1

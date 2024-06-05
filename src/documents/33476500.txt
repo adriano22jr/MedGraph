@@ -1,0 +1,15 @@
+antimicrobial drugs => drug | max_score: 0.549738347530365 | count: 1
+vitamin D activity => treatment | max_score: 0.5079737901687622 | count: 1
+immunoprophylaxis => treatment | max_score: 0.6659592986106873 | count: 3
+antimicrobial peptides => peptide | max_score: 0.9113813042640686 | count: 1
+cathelicidins => peptide | max_score: 0.8893856406211853 | count: 1
+defensins => peptide | max_score: 0.7910740971565247 | count: 1
+viruses => virus | max_score: 0.8405616879463196 | count: 1
+bacteria => bacteria | max_score: 0.8670567870140076 | count: 1
+fungal infections => fungus | max_score: 0.7149374485015869 | count: 1
+immune cells => cell_type | max_score: 0.6507319808006287 | count: 1
+elderly age => age | max_score: 0.9724915623664856 | count: 1
+pregnant women => sex | max_score: 0.9304088354110718 | count: 1
+gastrointestinal tract => anatomical_system | max_score: 0.7284046411514282 | count: 1
+diet => diet | max_score: 0.941585123538971 | count: 1
+dietary supplement => diet | max_score: 0.5310685634613037 | count: 1

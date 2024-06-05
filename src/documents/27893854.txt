@@ -1,0 +1,10 @@
+Polymyxins => antibiotic | max_score: 0.9110327363014221 | count: 1
+Gram-negative pathogens => bacteria | max_score: 0.7180822491645813 | count: 1
+polymyxins => antibiotic | max_score: 0.9224622845649719 | count: 2
+mcr-1 => gene | max_score: 0.9608849287033081 | count: 2
+MCR-1 => gene | max_score: 0.8623992204666138 | count: 4
+human gut microbiota => bacteria | max_score: 0.5047509074211121 | count: 1
+plasmid transfer => biological_process | max_score: 0.5478044152259827 | count: 1
+PEA lipid A transferase => protein | max_score: 0.7194194197654724 | count: 1
+Paenibacili => bacteria | max_score: 0.8762413263320923 | count: 1
+Neisseria LptA (EptA) => bacteria | max_score: 0.6501909494400024 | count: 1

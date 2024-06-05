@@ -1,0 +1,3 @@
+β-sheet peptides => peptide | max_score: 0.7541795969009399 | count: 1
+Gram(+) => bacteria | max_score: 0.8102406859397888 | count: 1
+Gram(-) => bacteria | max_score: 0.8972740769386292 | count: 1

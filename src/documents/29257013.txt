@@ -1,0 +1,11 @@
+leukocyte count => lab_value | max_score: 0.7370878458023071 | count: 2
+polymorphonucleocytes => cell_type | max_score: 0.6244025230407715 | count: 1
+C-reactive protein => immunologic_marker | max_score: 0.5759903788566589 | count: 1
+α-defensin => immunologic_marker | max_score: 0.8083660006523132 | count: 2
+IL-8 => immunologic_marker | max_score: 0.6902649998664856 | count: 2
+IL-10 => immunologic_marker | max_score: 0.6787301898002625 | count: 1
+IL-1β => immunologic_marker | max_score: 0.7120240330696106 | count: 1
+vascular endothelial growth factor [VEGF] => immunologic_marker | max_score: 0.6419728398323059 | count: 1
+granulocyte-colony stimulating factor [G-CSF] => immunologic_marker | max_score: 0.600722074508667 | count: 1
+culture => diagnostic_procedure | max_score: 0.6461214423179626 | count: 2
+IL-6 => immunologic_marker | max_score: 0.6070247292518616 | count: 1

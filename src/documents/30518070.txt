@@ -1,0 +1,15 @@
+physiological processes => biological_process | max_score: 0.5043100714683533 | count: 1
+gene regulation => biological_process | max_score: 0.7800102829933167 | count: 1
+growth arrest => biological_process | max_score: 0.78557950258255 | count: 1
+survival => biological_process | max_score: 0.7165676951408386 | count: 1
+bacteria => bacteria | max_score: 0.6478791236877441 | count: 1
+environmental stress => environmental_factor | max_score: 0.9940716624259949 | count: 1
+Type II TA systems => chemical_system | max_score: 0.6503820419311523 | count: 2
+protein toxins => protein | max_score: 0.6251652240753174 | count: 1
+antitoxins => protein | max_score: 0.5381488800048828 | count: 1
+peptides => peptide | max_score: 0.8178509473800659 | count: 1
+pathogenic bacteria => bacteria | max_score: 0.8400863409042358 | count: 2
+Mycobacterium tuberculosis => bacteria | max_score: 0.9679259657859802 | count: 1
+type III TA systems => chemical_system | max_score: 0.6239135265350342 | count: 2
+inflammatory diseases => disease_disorder | max_score: 0.7636407613754272 | count: 1
+obesity => disease_disorder | max_score: 0.6782314777374268 | count: 1

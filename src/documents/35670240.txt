@@ -1,0 +1,10 @@
+polymyxin B => drug | max_score: 0.5694964528083801 | count: 1
+multidrug-resistant gram-negative bacteria => bacteria | max_score: 0.6865654587745667 | count: 1
+clinical cure => condition_outcome | max_score: 0.8521087169647217 | count: 1
+30-day all-cause mortality => condition_outcome | max_score: 0.871161162853241 | count: 4
+January 2016 => date | max_score: 0.9866614937782288 | count: 1
+February 2020 => date | max_score: 0.9903399348258972 | count: 1
+Clinical cure => condition_outcome | max_score: 0.8692319989204407 | count: 2
+neurotoxicity => condition_outcome | max_score: 0.6029738187789917 | count: 2
+hyperpigmentation => condition_outcome | max_score: 0.6066767573356628 | count: 2
+renal replacement therapy => treatment | max_score: 0.7851899862289429 | count: 1

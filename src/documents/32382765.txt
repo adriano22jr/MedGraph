@@ -1,0 +1,14 @@
+Bacillus spp. => bacteria | max_score: 0.5670730471611023 | count: 1
+biocontrol potential => activity | max_score: 0.7863911390304565 | count: 2
+Bacillus subtilis => bacteria | max_score: 0.7831089496612549 | count: 1
+Bacillus flexus => bacteria | max_score: 0.8180338144302368 | count: 1
+in vitro conditions => environmental_factor | max_score: 0.7657169699668884 | count: 2
+antagonistic activity => activity | max_score: 0.5678201913833618 | count: 1
+B. subtilis (SSR2I) => bacteria | max_score: 0.5365630388259888 | count: 1
+B. flexus => bacteria | max_score: 0.5551234483718872 | count: 2
+antimicrobial peptide genes => peptide | max_score: 0.6663512587547302 | count: 1
+B. subtilis => bacteria | max_score: 0.6765415072441101 | count: 1
+in vivo => environmental_factor | max_score: 0.5001013278961182 | count: 1
+Ralstonia solanacearum => fungus | max_score: 0.825395941734314 | count: 1
+Fusarium oxysporum => fungus | max_score: 0.9556419849395752 | count: 1
+control plants => plant | max_score: 0.6297387480735779 | count: 1

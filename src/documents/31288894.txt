@@ -1,0 +1,10 @@
+DEFB1 gene => gene | max_score: 0.9441259503364563 | count: 2
+periodontitis => disease_disorder | max_score: 0.9114561676979065 | count: 5
+case-control studies => study_design | max_score: 0.7975836992263794 | count: 1
+February 13th, 2019 => date | max_score: 0.99164879322052 | count: 1
+AA => mutation | max_score: 0.6599081158638 | count: 3
+GG => mutation | max_score: 0.6937374472618103 | count: 4
+AG => mutation | max_score: 0.6857697367668152 | count: 3
+rs11362 => mutation | max_score: 0.7444941997528076 | count: 1
+rs1799946 => mutation | max_score: 0.8590685725212097 | count: 1
+rs1800972 => mutation | max_score: 0.8416004776954651 | count: 1

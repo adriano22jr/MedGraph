@@ -1,0 +1,10 @@
+airway epithelial barrier => anatomical_system | max_score: 0.7088446617126465 | count: 1
+lung => anatomical_system | max_score: 0.6082776784896851 | count: 2
+infectious causes => environmental_factor | max_score: 0.5538029074668884 | count: 1
+Opportunistic bacterial pathogens => bacteria | max_score: 0.7611066699028015 | count: 1
+adaptive metabolic changes => biological_process | max_score: 0.6604806184768677 | count: 1
+biofilm formation => biological_process | max_score: 0.7489300966262817 | count: 1
+IL-10 family => protein_family | max_score: 0.869202196598053 | count: 1
+IL-10RB => protein | max_score: 0.512600839138031 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7425976991653442 | count: 1
+airway epithelium => anatomical_system | max_score: 0.5679574608802795 | count: 1

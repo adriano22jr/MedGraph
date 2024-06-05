@@ -1,0 +1,9 @@
+epithelial cells => cell_type | max_score: 0.8946583271026611 | count: 1
+mucosal surfaces => tissue | max_score: 0.6336593627929688 | count: 1
+outside world => environmental_factor | max_score: 0.7817026972770691 | count: 1
+intestinal mucosa => anatomical_system | max_score: 0.6578918695449829 | count: 1
+homeostasis => biological_process | max_score: 0.6195711493492126 | count: 2
+G-protein coupled receptors => protein | max_score: 0.8021893501281738 | count: 1
+leukocyte trafficking => biological_process | max_score: 0.7198779582977295 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7531692385673523 | count: 1
+endotoxin signaling => biological_process | max_score: 0.6938354969024658 | count: 1

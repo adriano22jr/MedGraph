@@ -1,0 +1,9 @@
+hemocytes => cell_type | max_score: 0.9126312732696533 | count: 2
+immune responses => biological_process | max_score: 0.7466170787811279 | count: 1
+shrimps => species | max_score: 0.5245701670646667 | count: 1
+DNA => molecule | max_score: 0.7084054946899414 | count: 1
+antimicrobial peptides => molecule | max_score: 0.6620703935623169 | count: 1
+kuruma shrimp => species | max_score: 0.6940379738807678 | count: 1
+Escherichia coli => bacteria | max_score: 0.9753298163414001 | count: 1
+E. coli => bacteria | max_score: 0.8604525923728943 | count: 2
+c-type lysozyme proteins => protein | max_score: 0.8727542161941528 | count: 1

@@ -1,0 +1,9 @@
+Colistin => antibiotic | max_score: 0.9422659873962402 | count: 1
+colistin => antibiotic | max_score: 0.9368986487388611 | count: 3
+A. baumannii => bacteria | max_score: 0.6566409468650818 | count: 1
+SNP differences => mutation | max_score: 0.5067389607429504 | count: 1
+non-synonymous mutations => mutation | max_score: 0.8308774828910828 | count: 1
+pmrAB => gene | max_score: 0.9128580093383789 | count: 2
+carbapenems => antibiotic | max_score: 0.5411685109138489 | count: 1
+aminoglycosides => antibiotic | max_score: 0.7028803825378418 | count: 1
+tetracyclines => antibiotic | max_score: 0.7037474513053894 | count: 1

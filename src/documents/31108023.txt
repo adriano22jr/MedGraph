@@ -1,0 +1,9 @@
+Thrombotic diseases => disease_disorder | max_score: 0.7130855321884155 | count: 1
+cardiovascular diseases => disease_disorder | max_score: 0.6219785809516907 | count: 1
+tachyplesin I => peptide | max_score: 0.9258158206939697 | count: 6
+platelet aggregation => biological_process | max_score: 0.7211512923240662 | count: 3
+thrombosis => disease_disorder | max_score: 0.7291609644889832 | count: 6
+Platelet aggregation => biological_process | max_score: 0.7994382381439209 | count: 1
+whole blood aggregometer => device | max_score: 0.6901095509529114 | count: 1
+mice => species | max_score: 0.855130672454834 | count: 2
+Tachyplesin I => peptide | max_score: 0.8406428098678589 | count: 3

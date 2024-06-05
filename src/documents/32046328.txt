@@ -1,0 +1,7 @@
+antimicrobial activity => activity | max_score: 0.6413017511367798 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9551112055778503 | count: 1
+membrane-mimetic environments => environmental_factor | max_score: 0.9803348779678345 | count: 1
+peptide LRpG => peptide | max_score: 0.8956946730613708 | count: 3
+conventional antibiotics => antibiotic | max_score: 0.6683164834976196 | count: 1
+Peptide LRpG => peptide | max_score: 0.8642783761024475 | count: 1
+anti-inflammatory activity => activity | max_score: 0.8978978395462036 | count: 1

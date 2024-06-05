@@ -1,0 +1,15 @@
+Histatin5 => peptide | max_score: 0.7241590619087219 | count: 1
+Hst-5 => peptide | max_score: 0.7330659627914429 | count: 5
+histatin family => protein_family | max_score: 0.892919659614563 | count: 1
+antibacterial activity => activity | max_score: 0.7374314069747925 | count: 1
+pathogens => fungus | max_score: 0.5958667397499084 | count: 1
+vulvovaginal candidiasis => disease_disorder | max_score: 0.721831202507019 | count: 3
+women => sex | max_score: 0.9851999282836914 | count: 1
+childbearing age => age | max_score: 0.9826776385307312 | count: 1
+five consecutive days => treatment_duration | max_score: 0.9139047861099243 | count: 1
+topical treatment => treatment | max_score: 0.9082786440849304 | count: 2
+cast-off cells => cell | max_score: 0.5965991616249084 | count: 1
+cornified epithelial cells => cell | max_score: 0.8592307567596436 | count: 1
+inflammatory cells => cell | max_score: 0.886645495891571 | count: 1
+vagina tissue => tissue | max_score: 0.9190347194671631 | count: 1
+fungi => fungus | max_score: 0.8247388601303101 | count: 1

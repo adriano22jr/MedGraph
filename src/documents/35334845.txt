@@ -1,0 +1,11 @@
+climate => environmental_factor | max_score: 0.6479721069335938 | count: 1
+legume crops => plant | max_score: 0.9277148246765137 | count: 1
+Legume proteins => protein | max_score: 0.6541118621826172 | count: 1
+body tissues => tissue | max_score: 0.9075195789337158 | count: 1
+enzymatic inhibitors => protein | max_score: 0.8211875557899475 | count: 1
+lectins => protein | max_score: 0.8516634106636047 | count: 1
+storage globulins => protein | max_score: 0.8048036098480225 | count: 1
+lunasin => protein | max_score: 0.8432199954986572 | count: 1
+hydrophobic peptides => peptide | max_score: 0.7926098704338074 | count: 1
+legume proteins => protein | max_score: 0.6236942410469055 | count: 2
+peptides => peptide | max_score: 0.5068193078041077 | count: 1

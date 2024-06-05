@@ -1,0 +1,9 @@
+women => sex | max_score: 0.95660400390625 | count: 2
+healthy controls => sex | max_score: 0.6473097801208496 | count: 4
+CIN excision => surgical_procedure | max_score: 0.5203487277030945 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5179842114448547 | count: 1
+excisional treatment => surgical_procedure | max_score: 0.6015260219573975 | count: 1
+Lactobacillus species => bacteria | max_score: 0.6608229279518127 | count: 1
+Prevotella bivia => bacteria | max_score: 0.8742996454238892 | count: 2
+Sneathia amnii => bacteria | max_score: 0.8653218150138855 | count: 1
+Lactobacillus crispatus => bacteria | max_score: 0.9131225943565369 | count: 1

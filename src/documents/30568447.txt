@@ -1,0 +1,8 @@
+nanostructured supports => device | max_score: 0.7320847511291504 | count: 1
+buforin II (BUF2) => peptide | max_score: 0.6303643584251404 | count: 1
+magnetite nanoparticles => device | max_score: 0.7120230197906494 | count: 1
+Conjugates => compound | max_score: 0.5752629637718201 | count: 1
+conjugates => compound | max_score: 0.6084010601043701 | count: 3
+mammalian cells => cell_line | max_score: 0.6001264452934265 | count: 1
+THP-1 cells => cell_line | max_score: 0.9812756776809692 | count: 1
+BUF2 => peptide | max_score: 0.5448842644691467 | count: 1

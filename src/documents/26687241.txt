@@ -1,0 +1,13 @@
+Defensins => protein_family | max_score: 0.9051244854927063 | count: 1
+innate immune system => chemical_system | max_score: 0.7164806127548218 | count: 1
+bacteria => bacteria | max_score: 0.8814192414283752 | count: 1
+fungi => fungus | max_score: 0.9770267605781555 | count: 1
+viruses => virus | max_score: 0.9285419583320618 | count: 1
+defensins => protein_family | max_score: 0.9185717105865479 | count: 3
+conifers => plant | max_score: 0.618963897228241 | count: 1
+Scots pine => plant | max_score: 0.8028653860092163 | count: 1
+defensin 1 => protein | max_score: 0.5010251998901367 | count: 1
+Pinus sylvestris => plant | max_score: 0.9158967137336731 | count: 1
+antifungal activity => activity | max_score: 0.9173712730407715 | count: 1
+PsDef1 => protein | max_score: 0.5309619307518005 | count: 1
+dimers => protein_family | max_score: 0.5216009020805359 | count: 1

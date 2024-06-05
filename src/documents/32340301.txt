@@ -1,0 +1,13 @@
+multidrug-resistant bacteria => bacteria | max_score: 0.8140113353729248 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8964985013008118 | count: 2
+Antimicrobial peptides => peptide | max_score: 0.8759751915931702 | count: 2
+activity => activity | max_score: 0.5088128447532654 | count: 1
+Gram-positive => bacteria | max_score: 0.5573413968086243 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8987067341804504 | count: 1
+planktonic bacteria => bacteria | max_score: 0.8575700521469116 | count: 1
+antibiofilm activity => activity | max_score: 0.7456925511360168 | count: 1
+medical devices => device | max_score: 0.9764208197593689 | count: 1
+hostile environments => environmental_factor | max_score: 0.9905945062637329 | count: 1
+antibiotics => antibiotic | max_score: 0.509835958480835 | count: 1
+biofilm formation => biological_process | max_score: 0.5198776125907898 | count: 1
+antibiofilm peptides => peptide | max_score: 0.5010576844215393 | count: 1

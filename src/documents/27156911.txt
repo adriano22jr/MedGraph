@@ -1,0 +1,17 @@
+blood => body_part | max_score: 0.8740088939666748 | count: 1
+bones => body_part | max_score: 0.858449399471283 | count: 1
+meat trimmings => body_part | max_score: 0.8213010430335999 | count: 1
+skin => body_part | max_score: 0.8609821200370789 | count: 1
+fatty tissues => tissue | max_score: 0.8622143268585205 | count: 1
+horns => body_part | max_score: 0.7920056581497192 | count: 1
+hoofs => body_part | max_score: 0.8025059700012207 | count: 1
+feet => body_part | max_score: 0.8658562898635864 | count: 1
+skull => body_part | max_score: 0.8491836190223694 | count: 1
+viscera => body_part | max_score: 0.7955561876296997 | count: 1
+ecologically => environmental_factor | max_score: 0.5331026315689087 | count: 1
+innovation => activity | max_score: 0.5885037779808044 | count: 1
+bioactive peptides => peptide | max_score: 0.7979462146759033 | count: 1
+antihypertensive => peptide | max_score: 0.6258666515350342 | count: 1
+antioxidant => peptide | max_score: 0.6889049410820007 | count: 1
+antidiabetic => peptide | max_score: 0.5560621619224548 | count: 1
+antimicrobial => peptide | max_score: 0.7330302596092224 | count: 1

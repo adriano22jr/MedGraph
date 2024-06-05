@@ -1,0 +1,8 @@
+human beta-defensin 2 (hBD2) => protein | max_score: 0.6120186448097229 | count: 1
+hBD3 => protein | max_score: 0.6766399145126343 | count: 2
+adult oral epithelial cells => cell_line | max_score: 0.8618331551551819 | count: 2
+HIV => virus | max_score: 0.9863762259483337 | count: 6
+fetal/infant oral epithelia => cell_line | max_score: 0.6107044219970703 | count: 1
+hBD2 => protein | max_score: 0.6721848845481873 | count: 2
+hBDs => protein | max_score: 0.5452216267585754 | count: 1
+HBD2 => protein | max_score: 0.5150905251502991 | count: 1

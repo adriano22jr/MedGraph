@@ -1,0 +1,11 @@
+Invasive candidiasis => disease_disorder | max_score: 0.5379154086112976 | count: 1
+Candida albicans => fungus | max_score: 0.9883220791816711 | count: 1
+Candida parapsilosis => fungus | max_score: 0.9657981395721436 | count: 1
+Candida glabrata => fungus | max_score: 0.9823624491691589 | count: 1
+Candida auris => fungus | max_score: 0.9808468222618103 | count: 1
+antifungal drugs => drug | max_score: 0.5362647771835327 | count: 1
+polyenes => drug | max_score: 0.7126435041427612 | count: 1
+triazoles => drug | max_score: 0.662155270576477 | count: 1
+echinocandins => drug | max_score: 0.660395085811615 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8855066299438477 | count: 2
+activity => activity | max_score: 0.6252402067184448 | count: 1

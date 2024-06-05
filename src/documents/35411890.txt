@@ -1,0 +1,9 @@
+colistin => antibiotic | max_score: 0.9234025478363037 | count: 5
+severe bacterial infections => severity | max_score: 0.7841508984565735 | count: 1
+lipid membrane dynamics => biological_process | max_score: 0.7273526787757874 | count: 1
+morphological changes => biological_process | max_score: 0.6546857953071594 | count: 1
+E. coli => bacteria | max_score: 0.9688770174980164 | count: 1
+lipid dynamics => biological_process | max_score: 0.7628905773162842 | count: 3
+lipid diffusivity => biological_process | max_score: 0.6070603132247925 | count: 1
+filamentation-like cell elongation => biological_process | max_score: 0.5610913634300232 | count: 1
+lipid biosynthetic pathways => biological_process | max_score: 0.6249915361404419 | count: 1

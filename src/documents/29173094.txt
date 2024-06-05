@@ -1,0 +1,13 @@
+angiotensin converting enzyme => enzyme | max_score: 0.5609197020530701 | count: 1
+ACE => enzyme | max_score: 0.7810856103897095 | count: 5
+AFKDEDTEEVPFR => peptide | max_score: 0.8812761902809143 | count: 1
+KDEDTEEVP => peptide | max_score: 0.9275378584861755 | count: 3
+KDEDTEEVH => peptide | max_score: 0.8959142565727234 | count: 3
+antimicrobial activities => activity | max_score: 0.6154504418373108 | count: 1
+IC50 value => lab_value | max_score: 0.7468660473823547 | count: 1
+antioxidant => activity | max_score: 0.6170549392700195 | count: 2
+EC50 => lab_value | max_score: 0.7080622911453247 | count: 4
+antimicrobial activity => activity | max_score: 0.7049979567527771 | count: 1
+Gram-positive => bacteria | max_score: 0.5528167486190796 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9162026643753052 | count: 1
+MIC values => lab_value | max_score: 0.7005979418754578 | count: 1

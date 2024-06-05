@@ -1,0 +1,12 @@
+PrAMPs => peptide | max_score: 0.6349497437477112 | count: 3
+DnaK => protein | max_score: 0.6245585083961487 | count: 1
+SbmA => protein | max_score: 0.938167929649353 | count: 1
+MdtM => protein | max_score: 0.9196271300315857 | count: 1
+Knockout mutants => mutation | max_score: 0.6770196557044983 | count: 1
+cytosolic proteases => enzyme | max_score: 0.7039281725883484 | count: 1
+proline-rich antimicrobial peptides => peptide | max_score: 0.5795457363128662 | count: 1
+Escherichia coli BW25113 => bacteria | max_score: 0.6549904942512512 | count: 1
+ΔsbmA => mutation | max_score: 0.5823155045509338 | count: 1
+ΔsbmA yjiL::Tn10 => mutation | max_score: 0.6726106405258179 | count: 1
+minimal inhibitory concentrations => lab_value | max_score: 0.5280795693397522 | count: 1
+bacterial transport activities => activity | max_score: 0.892695963382721 | count: 1

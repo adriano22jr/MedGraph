@@ -1,0 +1,15 @@
+Tenebrio molitor => parasite | max_score: 0.6568219661712646 | count: 1
+hemocoelic defenses => biological_process | max_score: 0.6772967576980591 | count: 1
+PRRs => protein | max_score: 0.5086086988449097 | count: 1
+NF-κB => protein | max_score: 0.6833361387252808 | count: 1
+Toll => protein | max_score: 0.604015588760376 | count: 1
+IMD pathways => biological_process | max_score: 0.5649222731590271 | count: 1
+AMPs => peptide | max_score: 0.51658034324646 | count: 2
+hemocyte-driven phagocytosis => biological_process | max_score: 0.6184864044189453 | count: 1
+prophenoloxidase => protein | max_score: 0.5465125441551208 | count: 1
+melanization => biological_process | max_score: 0.6762266159057617 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.9189968705177307 | count: 1
+autophagy => biological_process | max_score: 0.6879701018333435 | count: 3
+IMD pathway => biological_process | max_score: 0.5977526307106018 | count: 3
+L. monocytogenes => bacteria | max_score: 0.7652589082717896 | count: 3
+T. molitor => parasite | max_score: 0.5185225605964661 | count: 2

@@ -1,0 +1,11 @@
+soil => environmental_factor | max_score: 0.8178715705871582 | count: 1
+antimicrobial activity => activity | max_score: 0.8676671981811523 | count: 1
+Aspergillus tubingensis => fungus | max_score: 0.9849580526351929 | count: 1
+β-tubulin gene => gene | max_score: 0.7491527795791626 | count: 1
+antibiofilm activity => activity | max_score: 0.8389425277709961 | count: 2
+astucin => peptide | max_score: 0.9126906991004944 | count: 2
+MIC => lab_value | max_score: 0.9145774841308594 | count: 1
+m/L => volume | max_score: 0.6073819398880005 | count: 1
+MBIC => lab_value | max_score: 0.8898655772209167 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9525775909423828 | count: 1
+MRSA => bacteria | max_score: 0.8760718703269958 | count: 1

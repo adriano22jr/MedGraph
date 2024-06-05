@@ -1,0 +1,8 @@
+CMCS-OH30 NPs => compound | max_score: 0.5144198536872864 | count: 1
+OH-CATH30 => peptide | max_score: 0.816551685333252 | count: 1
+OH-30 => peptide | max_score: 0.834021806716919 | count: 4
+NP-30-NFs => compound | max_score: 0.7245094180107117 | count: 5
+antibacterial activities => activity | max_score: 0.7091262340545654 | count: 1
+Escherichia coli => bacteria | max_score: 0.974628746509552 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9818440079689026 | count: 1
+mouse skin wounds => body_part | max_score: 0.7309565544128418 | count: 1

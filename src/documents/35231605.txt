@@ -1,0 +1,6 @@
+Legionella micdadei => bacteria | max_score: 0.9301000833511353 | count: 1
+L. micdadei => bacteria | max_score: 0.8052327632904053 | count: 2
+membrane system => chemical_system | max_score: 0.6661391258239746 | count: 1
+LL-37 peptide => peptide | max_score: 0.8911107182502747 | count: 4
+Pcs pathway => chemical_system | max_score: 0.8635139465332031 | count: 2
+anti-L. micdadei activity => activity | max_score: 0.9576738476753235 | count: 1

@@ -1,0 +1,16 @@
+GK => protein | max_score: 0.7288309335708618 | count: 4
+inflammatory responses => biological_process | max_score: 0.6039026975631714 | count: 1
+IBD => disease_disorder | max_score: 0.5022740364074707 | count: 1
+epithelial cells => cell_type | max_score: 0.9381284713745117 | count: 1
+mice => species | max_score: 0.6830507516860962 | count: 4
+colon => anatomical_system | max_score: 0.5498126149177551 | count: 2
+Villin-Cre;Gankyrinf/f => cell_line | max_score: 0.8249944448471069 | count: 2
+Cdx2-Cre;Gankyrinf/f => cell_line | max_score: 0.7609471082687378 | count: 1
+upper small bowel => anatomical_system | max_score: 0.6163498759269714 | count: 2
+inflammatory activity => activity | max_score: 0.953734815120697 | count: 1
+colitis => disease_disorder | max_score: 0.5084412693977356 | count: 1
+dextran sodium sulfate => drug | max_score: 0.705366849899292 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5995511412620544 | count: 1
+α-Defensin-5 => peptide | max_score: 0.8121107816696167 | count: 1
+Helicobacter japonicum => bacteria | max_score: 0.9661653637886047 | count: 1
+Bilophila => bacteria | max_score: 0.9504908919334412 | count: 1

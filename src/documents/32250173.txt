@@ -1,0 +1,13 @@
+Polymyxins => antibiotic | max_score: 0.6228706240653992 | count: 1
+polymyxin B => antibiotic | max_score: 0.873177707195282 | count: 1
+colistin => antibiotic | max_score: 0.8741594552993774 | count: 1
+Gram-negative pathogens => bacteria | max_score: 0.7803906798362732 | count: 1
+two-component systems => chemical_system | max_score: 0.5164454579353333 | count: 1
+PmrAB => chemical_system | max_score: 0.7265575528144836 | count: 2
+PhoPQ => chemical_system | max_score: 0.7044541835784912 | count: 2
+nonsynonymous substitutions => mutation | max_score: 0.8968721032142639 | count: 1
+nonsynonymous mutations => mutation | max_score: 0.8480290770530701 | count: 1
+histidine kinases => protein_family | max_score: 0.7264357805252075 | count: 1
+adenylate cyclases => protein_family | max_score: 0.7448798418045044 | count: 1
+methyl accepting proteins => enzyme | max_score: 0.8550801277160645 | count: 1
+phosphatase => enzyme | max_score: 0.8765737414360046 | count: 1

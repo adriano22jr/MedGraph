@@ -1,0 +1,17 @@
+Inflammation => biological_process | max_score: 0.6477839350700378 | count: 1
+thrombosis => biological_process | max_score: 0.6388891339302063 | count: 2
+α-defensins => protein | max_score: 0.7183191776275635 | count: 1
+α-defs => protein | max_score: 0.8207003474235535 | count: 4
+neutrophils => cell_type | max_score: 0.8549500107765198 | count: 2
+clot formation => biological_process | max_score: 0.5549970865249634 | count: 1
+in vivo => environmental_factor | max_score: 0.5038498640060425 | count: 1
+intrinsic pathway of coagulation => biological_process | max_score: 0.7387895584106445 | count: 2
+α-Defs => protein | max_score: 0.7204239368438721 | count: 1
+fibrin polymerization => biological_process | max_score: 0.7364391088485718 | count: 1
+fibrinolysis => biological_process | max_score: 0.6804088354110718 | count: 1
+Transgenic mice => species | max_score: 0.5456023812294006 | count: 1
+WT mice => species | max_score: 0.6214218139648438 | count: 3
+heparin => drug | max_score: 0.9032474160194397 | count: 2
+bone marrow transplantation => surgical_procedure | max_score: 0.8247365355491638 | count: 1
+colchicine => drug | max_score: 0.7505300045013428 | count: 1
+phenotypic reversion => biological_process | max_score: 0.6436737775802612 | count: 1

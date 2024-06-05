@@ -1,0 +1,14 @@
+mHTT => mutation | max_score: 0.6927903890609741 | count: 7
+nervous system => anatomical_system | max_score: 0.9480262994766235 | count: 1
+immune responses => biological_process | max_score: 0.6405794620513916 | count: 3
+Drosophila melanogaster => species | max_score: 0.9186612367630005 | count: 1
+HTT => gene | max_score: 0.5302374362945557 | count: 1
+hemocytes => cell_type | max_score: 0.8242127895355225 | count: 4
+clot formation => biological_process | max_score: 0.7214806079864502 | count: 1
+encapsulation => biological_process | max_score: 0.6689019203186035 | count: 1
+entomopathogenic nematode => parasite | max_score: 0.8933467268943787 | count: 1
+parasitoid wasp => parasite | max_score: 0.8839734196662903 | count: 1
+Drosophila macrophage-like S2 cells => cell_line | max_score: 0.6963563561439514 | count: 1
+phagocytic activity => activity | max_score: 0.9755699634552002 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7382087707519531 | count: 1
+JAK/STAT signaling => biological_process | max_score: 0.5580040812492371 | count: 1

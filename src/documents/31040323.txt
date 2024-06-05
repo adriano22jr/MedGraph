@@ -1,0 +1,11 @@
+HDPs => peptide | max_score: 0.6896364688873291 | count: 5
+innate immune response => biological_process | max_score: 0.6566442251205444 | count: 1
+peptide antimicrobial activity => activity | max_score: 0.5133166313171387 | count: 1
+human apolipoprotein B => protein | max_score: 0.829456090927124 | count: 1
+broad-spectrum antimicrobial activity => activity | max_score: 0.8520357608795166 | count: 1
+wound healing => biological_process | max_score: 0.5038399696350098 | count: 1
+ApoB => protein | max_score: 0.706699550151825 | count: 2
+conventional antibiotics => antibiotic | max_score: 0.8629292845726013 | count: 1
+eukaryotic cells => cell | max_score: 0.8644272089004517 | count: 1
+bacterial strains => bacteria | max_score: 0.7279943823814392 | count: 1
+extracellular microenvironments => environmental_factor | max_score: 0.9039933681488037 | count: 1

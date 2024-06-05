@@ -1,0 +1,16 @@
+Polymyxins => antibiotic | max_score: 0.874199628829956 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.8747126460075378 | count: 3
+mcr-1 => gene | max_score: 0.9402832388877869 | count: 7
+nonfermenter Gram-negative bacilli => bacteria | max_score: 0.6136064529418945 | count: 1
+polymyxins => antibiotic | max_score: 0.886311411857605 | count: 1
+colistin => antibiotic | max_score: 0.7386118769645691 | count: 1
+Escherichia coli => bacteria | max_score: 0.9043123126029968 | count: 1
+Salmonella enterica serovar Typhimurium => bacteria | max_score: 0.9061527848243713 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.925682783126831 | count: 1
+S Typhimurium => bacteria | max_score: 0.520332932472229 | count: 1
+K. pneumoniae => bacteria | max_score: 0.5056843161582947 | count: 1
+Inc groups => protein_family | max_score: 0.6519699096679688 | count: 1
+IncP-1 => gene | max_score: 0.6368743181228638 | count: 1
+IncFII => protein_family | max_score: 0.7396000623703003 | count: 1
+IncHI1 => protein_family | max_score: 0.836089015007019 | count: 1
+IncH => protein_family | max_score: 0.7334340810775757 | count: 1

@@ -1,0 +1,11 @@
+MSI-78A => peptide | max_score: 0.9178386926651001 | count: 3
+Pexiganan A => peptide | max_score: 0.6021255254745483 | count: 1
+Helicobacter pylori => bacteria | max_score: 0.975851833820343 | count: 2
+gastric mucosa => tissue | max_score: 0.869686484336853 | count: 1
+Antibiotics => antibiotic | max_score: 0.6345353722572327 | count: 1
+H. pylori => bacteria | max_score: 0.7571419477462769 | count: 4
+H. pylori J99 => bacteria | max_score: 0.728526771068573 | count: 1
+MSI-78A-SH => peptide | max_score: 0.5882130861282349 | count: 1
+simulated gastric conditions => environmental_factor | max_score: 0.8495298624038696 | count: 1
+antimicrobial activity => activity | max_score: 0.6969016194343567 | count: 1
+non-cardia gastric cancers => disease_disorder | max_score: 0.6091848611831665 | count: 1

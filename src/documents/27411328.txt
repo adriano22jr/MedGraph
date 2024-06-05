@@ -1,0 +1,14 @@
+conventional antibiotics => antibiotic | max_score: 0.7653466463088989 | count: 2
+antimicrobial peptides => peptide | max_score: 0.6337912082672119 | count: 1
+AMPs => peptide | max_score: 0.719281017780304 | count: 5
+plant => plant | max_score: 0.8994829058647156 | count: 1
+cell-mediated immune response => biological_process | max_score: 0.72426438331604 | count: 1
+antimicrobial activities => activity | max_score: 0.6943431496620178 | count: 1
+bacteria => bacteria | max_score: 0.80711430311203 | count: 1
+fungi => fungus | max_score: 0.9868432879447937 | count: 1
+viruses => virus | max_score: 0.973209798336029 | count: 1
+antibacterial peptides => peptide | max_score: 0.5030432939529419 | count: 1
+microbial cells => cell | max_score: 0.6241961121559143 | count: 1
+cellular membrane permeability => biological_process | max_score: 0.6426647305488586 | count: 1
+nucleic acid binding => biological_process | max_score: 0.6662440299987793 | count: 1
+proteases => enzyme | max_score: 0.8082739114761353 | count: 1

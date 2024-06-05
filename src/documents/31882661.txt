@@ -1,0 +1,14 @@
+colistin => antibiotic | max_score: 0.9737313389778137 | count: 13
+E. coli => bacteria | max_score: 0.7996402978897095 | count: 3
+Multiple mutations => mutation | max_score: 0.6443037986755371 | count: 1
+L-Ara-4-N pathway => biological_process | max_score: 0.699880838394165 | count: 1
+mgrB => gene | max_score: 0.8066263794898987 | count: 1
+mcr1-9 => gene | max_score: 0.7594234347343445 | count: 1
+MarR => gene | max_score: 0.7716299891471863 | count: 3
+salicylate => antibiotic | max_score: 0.7342888116836548 | count: 4
+U3790 strain => bacteria | max_score: 0.5446576476097107 | count: 1
+MIC => mutation | max_score: 0.7976418733596802 | count: 1
+AcrAB => gene | max_score: 0.6249281764030457 | count: 1
+MarA => gene | max_score: 0.7684689164161682 | count: 1
+muscle tissue => tissue | max_score: 0.9566042423248291 | count: 2
+zebrafish => species | max_score: 0.8758575320243835 | count: 1

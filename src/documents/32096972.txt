@@ -1,0 +1,8 @@
+Microcin H47 => peptide | max_score: 0.7625852227210999 | count: 1
+MccH47 => peptide | max_score: 0.8256410360336304 | count: 6
+Escherichia coli => bacteria | max_score: 0.9765616655349731 | count: 1
+inhibitory activity => activity | max_score: 0.7807464003562927 | count: 2
+enteric pathogens => bacteria | max_score: 0.7208034992218018 | count: 1
+E. coli => bacteria | max_score: 0.799090564250946 | count: 2
+Salmonella => bacteria | max_score: 0.9504943490028381 | count: 2
+MccH47-MGE => peptide | max_score: 0.5467240214347839 | count: 1

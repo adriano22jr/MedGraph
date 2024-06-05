@@ -1,0 +1,11 @@
+nisin => compound | max_score: 0.7178871631622314 | count: 9
+linalool => compound | max_score: 0.608958899974823 | count: 3
+p-coumaric acid => compound | max_score: 0.7220373153686523 | count: 7
+Bacillus cereus => bacteria | max_score: 0.9703956842422485 | count: 1
+Salmonella typhimurium => bacteria | max_score: 0.9739255905151367 | count: 1
+planktonic cells => cell | max_score: 0.8561033010482788 | count: 4
+preformed biofilms => cell | max_score: 0.5275651812553406 | count: 1
+Nisin => compound | max_score: 0.6778954267501831 | count: 1
+B. cereus => bacteria | max_score: 0.5512993335723877 | count: 1
+S. typhimurium => bacteria | max_score: 0.5723687410354614 | count: 1
+food-borne bacteria => bacteria | max_score: 0.697725236415863 | count: 2

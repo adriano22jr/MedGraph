@@ -1,0 +1,8 @@
+EFV12 => peptide | max_score: 0.9531403183937073 | count: 4
+Lactobacillus gasseri => bacteria | max_score: 0.9506392478942871 | count: 1
+Toll-like receptor 4 => enzyme | max_score: 0.8192644119262695 | count: 1
+extracellular signal-regulated kinase => enzyme | max_score: 0.8798472285270691 | count: 1
+p38 => enzyme | max_score: 0.8734626770019531 | count: 1
+Jun N-terminal kinase => enzyme | max_score: 0.8808428049087524 | count: 1
+mitogen-activated protein kinases => enzyme | max_score: 0.7394346594810486 | count: 1
+L. gasseri => bacteria | max_score: 0.5445260405540466 | count: 1

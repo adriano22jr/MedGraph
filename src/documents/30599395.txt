@@ -1,0 +1,9 @@
+proteins => protein | max_score: 0.7257099747657776 | count: 3
+host factors => environmental_factor | max_score: 0.765188992023468 | count: 1
+microorganisms => organism | max_score: 0.5862369537353516 | count: 1
+diet => diet | max_score: 0.9938066005706787 | count: 1
+host susceptibility => environmental_factor | max_score: 0.8079928159713745 | count: 1
+caries process => biological_process | max_score: 0.6955674290657043 | count: 1
+dental caries => disease_disorder | max_score: 0.6047303080558777 | count: 4
+diagnosis => biological_process | max_score: 0.5138950347900391 | count: 1
+bioactive peptides => peptide | max_score: 0.663476288318634 | count: 1

@@ -1,0 +1,14 @@
+Nosocomial pneumonia => disease_disorder | max_score: 0.614799439907074 | count: 1
+carbapenem-resistant gram-negative bacteria => bacteria | max_score: 0.5799333453178406 | count: 1
+mortality => condition_outcome | max_score: 0.6245981454849243 | count: 5
+nosocomial pneumonia => disease_disorder | max_score: 0.6918114423751831 | count: 2
+colistin-based therapy => treatment | max_score: 0.8883058428764343 | count: 3
+retrospective study => study_design | max_score: 0.8413229584693909 | count: 1
+January 2016 => date | max_score: 0.9877851009368896 | count: 1
+December 2016 => date | max_score: 0.9901840090751648 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9872028231620789 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9909150004386902 | count: 1
+length of hospital stay (LOS) => treatment_duration | max_score: 0.6067409515380859 | count: 1
+supportive care => treatment | max_score: 0.5936755537986755 | count: 1
+vasopressor therapy => treatment | max_score: 0.6456173062324524 | count: 1
+escalation of antimicrobial therapy => treatment | max_score: 0.7807481288909912 | count: 1

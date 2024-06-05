@@ -1,0 +1,13 @@
+SPLUNC1 => protein | max_score: 0.9483921527862549 | count: 2
+airway => anatomical_system | max_score: 0.8660991191864014 | count: 1
+antibiofilm activities => activity | max_score: 0.690712034702301 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9688438177108765 | count: 1
+S. aureus => bacteria | max_score: 0.9584879279136658 | count: 3
+cystic fibrosis => disease_disorder | max_score: 0.8093441724777222 | count: 1
+α4 => protein | max_score: 0.5316178798675537 | count: 1
+SPLUNC1Δα4 => protein | max_score: 0.8573669195175171 | count: 2
+α4 => peptide | max_score: 0.5527504682540894 | count: 1
+α4M1 => peptide | max_score: 0.6009129881858826 | count: 2
+MRSA => bacteria | max_score: 0.510552167892456 | count: 1
+USA300 => bacteria | max_score: 0.7299278378486633 | count: 1
+Hemolytic activity => activity | max_score: 0.9231337904930115 | count: 1

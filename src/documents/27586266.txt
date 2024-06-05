@@ -1,0 +1,14 @@
+Antimicrobial peptides => peptide | max_score: 0.6170791387557983 | count: 1
+hemolymph => body_part | max_score: 0.7350944876670837 | count: 3
+insect innate immunity => biological_process | max_score: 0.5640815496444702 | count: 1
+fat body => body_part | max_score: 0.9137694239616394 | count: 5
+hemocytes => body_part | max_score: 0.7796752452850342 | count: 3
+antimicrobial peptides => peptide | max_score: 0.7703685164451599 | count: 3
+hemocytes => cell_type | max_score: 0.7980976700782776 | count: 1
+Calliphora vicina => species | max_score: 0.9123239517211914 | count: 1
+antimicrobial activity => biological_process | max_score: 0.631081759929657 | count: 1
+defensin => peptide | max_score: 0.9278579950332642 | count: 1
+cecropin => peptide | max_score: 0.9194544553756714 | count: 1
+diptericins => peptide | max_score: 0.9009428024291992 | count: 1
+proline-rich peptides => peptide | max_score: 0.9146290421485901 | count: 1
+antibacterial activity => activity | max_score: 0.6427371501922607 | count: 1

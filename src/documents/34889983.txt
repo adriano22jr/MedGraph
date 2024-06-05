@@ -1,0 +1,5 @@
+N6NH2 => peptide | max_score: 0.9315474629402161 | count: 5
+E. coli ATCC25922 => cell_line | max_score: 0.8919843435287476 | count: 1
+E. coli => bacteria | max_score: 0.7587860822677612 | count: 1
+MIC => lab_value | max_score: 0.9168608784675598 | count: 2
+antibacterial activity => biological_process | max_score: 0.6512792110443115 | count: 1

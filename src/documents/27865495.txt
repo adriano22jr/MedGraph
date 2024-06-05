@@ -1,0 +1,7 @@
+antioxidant => peptide | max_score: 0.732586145401001 | count: 2
+antimicrobial => peptide | max_score: 0.7211834788322449 | count: 2
+anti-inflammatory => activity | max_score: 0.5750413537025452 | count: 2
+antihemolytic => peptide | max_score: 0.5264804363250732 | count: 2
+Lactobacillus plantarum => bacteria | max_score: 0.8870643377304077 | count: 1
+L. plantarum => bacteria | max_score: 0.704878032207489 | count: 2
+antioxidant activity => activity | max_score: 0.7084593176841736 | count: 1

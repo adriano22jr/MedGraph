@@ -1,0 +1,12 @@
+leishmaniasis => parasite | max_score: 0.6527305841445923 | count: 1
+side effects => side_effect | max_score: 0.738293468952179 | count: 1
+polymyxin B => drug | max_score: 0.5124717950820923 | count: 1
+Leishmania amazonensis => parasite | max_score: 0.8537890315055847 | count: 1
+macrophages => cell | max_score: 0.9067204594612122 | count: 2
+release rate => side_effect | max_score: 0.5661845803260803 | count: 1
+adjuvant leishmanicidal therapy => treatment | max_score: 0.5728819370269775 | count: 1
+polB activity => activity | max_score: 0.665452241897583 | count: 1
+antimicrobial activity => activity | max_score: 0.6283864378929138 | count: 1
+E. coli => bacteria | max_score: 0.9321870803833008 | count: 1
+Pseudomonas => bacteria | max_score: 0.9546923637390137 | count: 1
+Klebsiella => bacteria | max_score: 0.9632975459098816 | count: 1

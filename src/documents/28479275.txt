@@ -1,0 +1,10 @@
+Peptides => peptide | max_score: 0.6911245584487915 | count: 1
+external flux => environmental_factor | max_score: 0.5606141686439514 | count: 1
+amphipathic peptide systems => chemical_system | max_score: 0.8965719938278198 | count: 1
+Gram-positive => bacteria | max_score: 0.7635180354118347 | count: 1
+Gram-negative => bacteria | max_score: 0.8142733573913574 | count: 1
+antibiotic-resistant bacteria => bacteria | max_score: 0.9251103401184082 | count: 1
+peptides => peptide | max_score: 0.7409011721611023 | count: 1
+electrostatic environment => environmental_factor | max_score: 0.8618205785751343 | count: 1
+bactericidal activity => activity | max_score: 0.9800583124160767 | count: 1
+antimicrobial activity => activity | max_score: 0.5478195548057556 | count: 1

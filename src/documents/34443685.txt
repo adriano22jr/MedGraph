@@ -1,0 +1,17 @@
+host immune response => biological_process | max_score: 0.6395342946052551 | count: 2
+β-1,3-glucan => molecule | max_score: 0.6224115490913391 | count: 2
+α-1,3-glucan => molecule | max_score: 0.685974657535553 | count: 7
+humoral immune response => biological_process | max_score: 0.5894670486450195 | count: 1
+Galleria mellonella => species | max_score: 0.7159109711647034 | count: 1
+Aspergillus niger => fungus | max_score: 0.9821453094482422 | count: 1
+A. niger => fungus | max_score: 0.502983570098877 | count: 1
+apolipophorin I => protein | max_score: 0.8791282176971436 | count: 1
+apolipophorin II => protein | max_score: 0.8826919198036194 | count: 1
+prophenoloxidase => enzyme | max_score: 0.9102321863174438 | count: 1
+phenoloxidase activating factor => enzyme | max_score: 0.8767213821411133 | count: 1
+arylphorin => protein | max_score: 0.897567093372345 | count: 1
+serine protease => enzyme | max_score: 0.9125483632087708 | count: 1
+galiomicin => peptide | max_score: 0.7321017384529114 | count: 2
+gallerimycin => peptide | max_score: 0.5603433847427368 | count: 1
+antifungal activity => activity | max_score: 0.9221459627151489 | count: 1
+hemolymph => body_part | max_score: 0.565330982208252 | count: 1

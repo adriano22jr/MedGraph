@@ -1,0 +1,13 @@
+Dinoponera quadriceps => species | max_score: 0.8145048022270203 | count: 1
+sDq-2562 => peptide | max_score: 0.9256932139396667 | count: 1
+sDq-3162 => peptide | max_score: 0.9272765517234802 | count: 3
+ponericin-like dinoponeratoxin family => protein_family | max_score: 0.9645130038261414 | count: 1
+microbicide activity => activity | max_score: 0.8074008822441101 | count: 1
+antibiotic-resistant bacteria => bacteria | max_score: 0.8300119042396545 | count: 2
+MICs => lab_value | max_score: 0.6918321847915649 | count: 2
+drug-resistant bacteria => bacteria | max_score: 0.5313122272491455 | count: 1
+conventional antibiotics => antibiotic | max_score: 0.6469743251800537 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9362768530845642 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9649848937988281 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9776198863983154 | count: 1
+human erythrocytes => cell | max_score: 0.8046077489852905 | count: 1

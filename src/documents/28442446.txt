@@ -1,0 +1,12 @@
+Triatominae subfamily => protein_family | max_score: 0.9219950437545776 | count: 1
+Trypanosoma cruzi => parasite | max_score: 0.9645071625709534 | count: 1
+saliva => body_part | max_score: 0.6146449446678162 | count: 6
+anti-hemostatic proteins => protein | max_score: 0.7578006386756897 | count: 2
+blood coagulation => biological_process | max_score: 0.6458151340484619 | count: 1
+vasodilation => biological_process | max_score: 0.7851184010505676 | count: 1
+platelet aggregation => biological_process | max_score: 0.781561017036438 | count: 1
+salivary glands => body_part | max_score: 0.8243438005447388 | count: 1
+2DE gels => device | max_score: 0.7811712026596069 | count: 2
+Triatoma pallidipennis => species | max_score: 0.833034336566925 | count: 2
+thrombolytic polypeptides => protein | max_score: 0.7873373031616211 | count: 1
+angiotensin-converting enzyme => enzyme | max_score: 0.9249134659767151 | count: 1

@@ -1,0 +1,13 @@
+MDAP-2 => peptide | max_score: 0.9515244364738464 | count: 9
+antibacterial activity => activity | max_score: 0.853438138961792 | count: 2
+hemolytic activi- ty => activity | max_score: 0.5366894006729126 | count: 1
+mammalian cells => cell | max_score: 0.5767799615859985 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9486456513404846 | count: 4
+hemolytic activity => activity | max_score: 0.8358307480812073 | count: 3
+rabbit red blood cells => cell | max_score: 0.6080385446548462 | count: 1
+mammalian cells => cell_line | max_score: 0.648807942867279 | count: 1
+IC50 values => lab_value | max_score: 0.9336498975753784 | count: 1
+HEK-293 cells => cell_line | max_score: 0.9820453524589539 | count: 1
+VERO cells => cell_line | max_score: 0.9851889610290527 | count: 1
+IPEC-J2 cells => cell_line | max_score: 0.9820587038993835 | count: 1
+membrane-like conditions => environmental_factor | max_score: 0.9061646461486816 | count: 1

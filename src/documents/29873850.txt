@@ -1,0 +1,13 @@
+adults => age | max_score: 0.5404950380325317 | count: 1
+rosacea => disease_disorder | max_score: 0.5857856273651123 | count: 2
+innate immune response => biological_process | max_score: 0.5188255310058594 | count: 1
+LL-37 => protein | max_score: 0.6267282366752625 | count: 1
+IL-33 => protein | max_score: 0.7986387014389038 | count: 11
+rosacea skin => body_part | max_score: 0.7228153944015503 | count: 3
+HaCaT cells => cell_line | max_score: 0.9680280685424805 | count: 3
+ultraviolet B (UVB) => environmental_factor | max_score: 0.712632954120636 | count: 1
+VEGF => protein | max_score: 0.7201082110404968 | count: 4
+LL-37 => peptide | max_score: 0.5055985450744629 | count: 1
+UVB => environmental_factor | max_score: 0.5953453779220581 | count: 2
+IL-1β => protein | max_score: 0.6552073359489441 | count: 1
+angiogenesis => biological_process | max_score: 0.5114786028862 | count: 1

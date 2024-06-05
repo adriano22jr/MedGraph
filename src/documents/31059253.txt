@@ -1,0 +1,2 @@
+melittin => peptide | max_score: 0.9125241041183472 | count: 1
+L-melittin => peptide | max_score: 0.8791049718856812 | count: 2

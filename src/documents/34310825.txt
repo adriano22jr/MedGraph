@@ -1,0 +1,14 @@
+Edeines => peptide | max_score: 0.7297645211219788 | count: 1
+Brevibacillus => bacteria | max_score: 0.9287169575691223 | count: 3
+antimicrobial => activity | max_score: 0.5122096538543701 | count: 1
+anticancer => activity | max_score: 0.5859150290489197 | count: 1
+immunosuppressive activities => activity | max_score: 0.7621682286262512 | count: 1
+edeines => peptide | max_score: 0.7046207189559937 | count: 4
+ede BGC => gene | max_score: 0.5774418711662292 | count: 2
+Pmwp => gene | max_score: 0.9062850475311279 | count: 2
+Pspc => gene | max_score: 0.8657066822052002 | count: 1
+PxylA => gene | max_score: 0.8658774495124817 | count: 1
+Pshuttle-09 => gene | max_score: 0.8516396284103394 | count: 1
+Pgrac => gene | max_score: 0.8609771728515625 | count: 1
+P43 => gene | max_score: 0.8743812441825867 | count: 1
+B. brevis X23 => cell_line | max_score: 0.5174645185470581 | count: 1

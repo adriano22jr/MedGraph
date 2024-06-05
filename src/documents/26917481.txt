@@ -1,0 +1,13 @@
+LL-37 => peptide | max_score: 0.9308527708053589 | count: 7
+Candida albicans => fungus | max_score: 0.987580418586731 | count: 1
+vaginal epithelial cells => cell_type | max_score: 0.8459246754646301 | count: 1
+Escherichia coli M15 => bacteria | max_score: 0.8144055008888245 | count: 1
+Antifungal activity => activity | max_score: 0.9264283776283264 | count: 1
+human vaginal epithelial cells => cell_line | max_score: 0.88346928358078 | count: 1
+Candida => fungus | max_score: 0.8835033178329468 | count: 3
+Interferon γ (IFN-γ) => protein | max_score: 0.6406513452529907 | count: 1
+interleukin 10 (IL-10) => protein | max_score: 0.7420654296875 | count: 1
+IFN-γ => protein | max_score: 0.546889066696167 | count: 1
+IL-10 => protein | max_score: 0.6496970653533936 | count: 1
+anti-fungal activity => activity | max_score: 0.8300020098686218 | count: 1
+absorbance values => lab_value | max_score: 0.6493918895721436 | count: 1

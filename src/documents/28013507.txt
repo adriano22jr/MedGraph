@@ -1,0 +1,3 @@
+Antimicrobial peptides => peptide | max_score: 0.6389781832695007 | count: 1
+AMPs => peptide | max_score: 0.7039214372634888 | count: 4
+Gram-positive bacteria => bacteria | max_score: 0.8085770010948181 | count: 1

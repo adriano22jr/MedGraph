@@ -1,0 +1,11 @@
+Dose-limiting nephrotoxicity => side_effect | max_score: 0.8081080317497253 | count: 1
+polymyxin B => antibiotic | max_score: 0.9287159442901611 | count: 5
+clinical studies => clinical_trial | max_score: 0.8304038047790527 | count: 1
+guidance => clinical_guideline | max_score: 0.5014088749885559 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.850527286529541 | count: 1
+q12h => drug_frequency | max_score: 0.8741639256477356 | count: 7
+Patient weight => weight | max_score: 0.8841786980628967 | count: 1
+50 kg => weight | max_score: 0.8781587481498718 | count: 2
+75 kg => weight | max_score: 0.9065190553665161 | count: 2
+100 kg => weight | max_score: 0.7654876708984375 | count: 1
+minimum inhibitory concentrations (MICs) => lab_value | max_score: 0.5097101926803589 | count: 1

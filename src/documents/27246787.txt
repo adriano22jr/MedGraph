@@ -1,0 +1,12 @@
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.832817554473877 | count: 1
+MRSA => bacteria | max_score: 0.863132894039154 | count: 7
+human immunodeficiency virus/acquired immune deficiency syndrome => virus | max_score: 0.9045923948287964 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6302027702331543 | count: 1
+AMPs => peptide | max_score: 0.5708928108215332 | count: 2
+activity => activity | max_score: 0.5576874613761902 | count: 2
+minimum inhibitory concentration values => lab_value | max_score: 0.8286179304122925 | count: 1
+lemongrass => plant | max_score: 0.9019731283187866 | count: 1
+Lemon myrtle => plant | max_score: 0.9685021638870239 | count: 1
+Mountain savory => plant | max_score: 0.982982337474823 | count: 1
+Cinnamon bark => plant | max_score: 0.9872123599052429 | count: 1
+Melissa => plant | max_score: 0.9633976817131042 | count: 1

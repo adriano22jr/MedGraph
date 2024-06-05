@@ -1,0 +1,6 @@
+Paneth cells => cell | max_score: 0.6918315887451172 | count: 1
+PCs => cell | max_score: 0.5965399742126465 | count: 6
+ileum tissue => tissue | max_score: 0.9566104412078857 | count: 1
+gestional age => age | max_score: 0.8023912906646729 | count: 1
+standard autopsy procedure => surgical_procedure | max_score: 0.6450468301773071 | count: 1
+GA => age | max_score: 0.5198236107826233 | count: 2

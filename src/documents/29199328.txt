@@ -1,0 +1,9 @@
+human dental pulp tissue => tissue | max_score: 0.8783777952194214 | count: 3
+Human dental pulp cells => cell_line | max_score: 0.8012286424636841 | count: 2
+TNF-α => protein | max_score: 0.8668614029884338 | count: 4
+IL-1α => protein | max_score: 0.8129892349243164 | count: 4
+IL-1β => protein | max_score: 0.7063301205635071 | count: 2
+IL-6 => protein | max_score: 0.762199878692627 | count: 2
+HBD2 => protein | max_score: 0.5575981736183167 | count: 6
+LPS => protein | max_score: 0.6191851496696472 | count: 1
+HBDs => protein_family | max_score: 0.5248376131057739 | count: 2

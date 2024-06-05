@@ -1,0 +1,11 @@
+idiopathic pulmonary fibrosis => disease_disorder | max_score: 0.6663770079612732 | count: 1
+Current therapies => treatment | max_score: 0.5670990347862244 | count: 1
+immunosuppressive agents => drug | max_score: 0.5234889984130859 | count: 1
+polymyxin B-immobilized fibre column => device | max_score: 0.6284189224243164 | count: 1
+endotoxaemia => disease_disorder | max_score: 0.6378679871559143 | count: 1
+PMX-DHP treatment => treatment | max_score: 0.5907813906669617 | count: 1
+PMX-DHP => treatment | max_score: 0.6064157485961914 | count: 5
+2006 => date | max_score: 0.8441985249519348 | count: 1
+2015 => date | max_score: 0.8339361548423767 | count: 1
+peripheral white blood cell count => lab_value | max_score: 0.7916038036346436 | count: 1
+PaO2 /FiO2 (P/F) => lab_value | max_score: 0.7469666600227356 | count: 1

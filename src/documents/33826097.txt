@@ -1,0 +1,14 @@
+Human β-defensin => peptide | max_score: 0.5676687359809875 | count: 1
+antimicrobial peptides => peptide | max_score: 0.502314031124115 | count: 1
+respiratory epithelial cells => cell_type | max_score: 0.8787854313850403 | count: 1
+HBD-1 gene => gene | max_score: 0.8791660070419312 | count: 2
+chronic obstructive pulmonary disease => disease_disorder | max_score: 0.5433977842330933 | count: 1
+SNP => mutation | max_score: 0.685335636138916 | count: 2
+ethnic Saudi Arabian subjects => subject | max_score: 0.783240020275116 | count: 1
+rs1047031 => mutation | max_score: 0.9037269949913025 | count: 2
+rs1799946 => mutation | max_score: 0.9066590666770935 | count: 2
+rs2738047 => mutation | max_score: 0.9055210947990417 | count: 2
+rs11362 => mutation | max_score: 0.9044853448867798 | count: 2
+males => sex | max_score: 0.9654837846755981 | count: 1
+females => sex | max_score: 0.9707621335983276 | count: 1
+female smokers => sex | max_score: 0.5032779574394226 | count: 1

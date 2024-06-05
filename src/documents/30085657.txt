@@ -1,0 +1,11 @@
+C1B hydrolase family => protein_family | max_score: 0.9601571559906006 | count: 1
+C1B-like cysteine protease => enzyme | max_score: 0.6500473618507385 | count: 1
+Parabacteroides distasonis => bacteria | max_score: 0.923170268535614 | count: 1
+Pd_dinase => enzyme | max_score: 0.9304847717285156 | count: 4
+sequential diaminopeptidase activity => activity | max_score: 0.9528407454490662 | count: 1
+N-terminal glycine residues => peptide | max_score: 0.7968002557754517 | count: 1
+P2 glycine residue => peptide | max_score: 0.553774356842041 | count: 1
+glycine-arginine-AMC => peptide | max_score: 0.819339394569397 | count: 1
+glycine-arginine- AOMK => peptide | max_score: 0.5503847599029541 | count: 2
+P. distasonis => bacteria | max_score: 0.5340251922607422 | count: 1
+extracellular milieu => environmental_factor | max_score: 0.909714937210083 | count: 1

@@ -1,0 +1,10 @@
+Nonribosomal peptide antibiotics => antibiotic | max_score: 0.7059771418571472 | count: 1
+polymyxin => antibiotic | max_score: 0.8956842422485352 | count: 1
+vancomycin => antibiotic | max_score: 0.9132763147354126 | count: 1
+teixobactin => antibiotic | max_score: 0.8908651471138 | count: 1
+D-amino acids => peptide | max_score: 0.6724904179573059 | count: 1
+multidrug-resistant bacteria => bacteria | max_score: 0.9286947250366211 | count: 1
+resistant bacteria => bacteria | max_score: 0.5851262807846069 | count: 1
+nonribosomal peptide antibiotics => antibiotic | max_score: 0.7623823285102844 | count: 3
+hydrolytic cleavage => biological_process | max_score: 0.5037436485290527 | count: 1
+D-stereospecific peptidases => enzyme | max_score: 0.9513842463493347 | count: 2

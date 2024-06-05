@@ -1,0 +1,10 @@
+biomimetic toxin nanosponges => device | max_score: 0.7311728596687317 | count: 1
+hRBCs => cell | max_score: 0.5077080726623535 | count: 1
+polymeric nanoparticles => device | max_score: 0.734549343585968 | count: 1
+melittin => molecule | max_score: 0.6110090017318726 | count: 1
+α-hemolysin => molecule | max_score: 0.5544422268867493 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9349490404129028 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.975822925567627 | count: 1
+streptolysin O => molecule | max_score: 0.5080968141555786 | count: 1
+Group A Streptococcus => bacteria | max_score: 0.9736242294311523 | count: 1
+human umbilical vein endothelial cells => cell_line | max_score: 0.9443966746330261 | count: 1

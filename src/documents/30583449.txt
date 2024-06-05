@@ -1,0 +1,11 @@
+Bioactive peptides => peptide | max_score: 0.7918829917907715 | count: 2
+bioactive peptides => peptide | max_score: 0.7970777750015259 | count: 2
+proteolytic activity => activity | max_score: 0.9138646125793457 | count: 1
+Aspergillus oryzae => fungus | max_score: 0.9813641905784607 | count: 1
+Aspergillus flavipes => fungus | max_score: 0.9884672164916992 | count: 1
+antioxidant activity => activity | max_score: 0.9343753457069397 | count: 3
+proteases => enzyme | max_score: 0.6678493022918701 | count: 1
+solid-state fermentation => biological_process | max_score: 0.6778977513313293 | count: 2
+DPPH => peptide | max_score: 0.7136020660400391 | count: 1
+ORAC => peptide | max_score: 0.6618151664733887 | count: 1
+milk-specific sequences peptides => peptide | max_score: 0.5980473756790161 | count: 1

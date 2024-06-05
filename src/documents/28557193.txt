@@ -1,0 +1,7 @@
+peptide sequences => molecule | max_score: 0.5996951460838318 | count: 1
+amino acids => molecule | max_score: 0.5245043039321899 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.8604521155357361 | count: 1
+vancomycin-resistant Enterococci => bacteria | max_score: 0.9101302623748779 | count: 1
+VRE => bacteria | max_score: 0.5035430788993835 | count: 1
+homochiral sequences => molecule | max_score: 0.500103771686554 | count: 1
+sequences => molecule | max_score: 0.5050665140151978 | count: 1

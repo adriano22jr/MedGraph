@@ -1,0 +1,17 @@
+PolyB => drug | max_score: 0.6636701226234436 | count: 6
+endotoxemia => disease_disorder | max_score: 0.5570282936096191 | count: 1
+horses => species | max_score: 0.831375777721405 | count: 3
+humans => species | max_score: 0.5577638149261475 | count: 1
+ataxia => lab_value | max_score: 0.5760368704795837 | count: 1
+3-weeks wash out => treatment_duration | max_score: 0.7315691709518433 | count: 1
+Horses => species | max_score: 0.8442962169647217 | count: 1
+q12h => drug_frequency | max_score: 0.9136918783187866 | count: 2
+gentamicin => antibiotic | max_score: 0.7945196628570557 | count: 2
+7 doses => drug_frequency | max_score: 0.6006966233253479 | count: 1
+q24h => drug_frequency | max_score: 0.8289216756820679 | count: 1
+Urine status => lab_value | max_score: 0.6553932428359985 | count: 1
+urinary GGT/creatinine ratio => lab_value | max_score: 0.8515157103538513 | count: 1
+plasma creatinine => lab_value | max_score: 0.923701822757721 | count: 1
+urea => lab_value | max_score: 0.8981480002403259 | count: 1
+Gentamicin => antibiotic | max_score: 0.8042291402816772 | count: 1
+PolyB => antibiotic | max_score: 0.5763190388679504 | count: 2

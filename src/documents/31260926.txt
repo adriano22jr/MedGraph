@@ -1,0 +1,5 @@
+microorganisms => organism | max_score: 0.7286861538887024 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6806550025939941 | count: 1
+AMPs => peptide | max_score: 0.6506802439689636 | count: 4
+membrane disruption => biological_process | max_score: 0.6558732986450195 | count: 1
+phospholipid composition => biological_process | max_score: 0.5173377990722656 | count: 1

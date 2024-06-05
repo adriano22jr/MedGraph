@@ -1,0 +1,4 @@
+colistin => antibiotic | max_score: 0.6792498826980591 | count: 2
+polymyxin B => antibiotic | max_score: 0.764523983001709 | count: 2
+nisin => antibiotic | max_score: 0.711094856262207 | count: 2
+prominent multidrug-resistant pathogens => organism | max_score: 0.5362614393234253 | count: 1

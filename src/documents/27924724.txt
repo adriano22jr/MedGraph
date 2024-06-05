@@ -1,0 +1,7 @@
+Antimicrobial peptides => peptide | max_score: 0.5599114298820496 | count: 1
+AMPs => peptide | max_score: 0.557689905166626 | count: 2
+proteins => protein | max_score: 0.7760790586471558 | count: 3
+organisms => organism | max_score: 0.6231445670127869 | count: 1
+defense mechanisms => biological_process | max_score: 0.559221088886261 | count: 1
+antimicrobial compounds => compound | max_score: 0.6728159189224243 | count: 1
+drug delivery systems => device | max_score: 0.5867770314216614 | count: 1

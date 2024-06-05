@@ -1,0 +1,11 @@
+melittin => peptide | max_score: 0.9644778966903687 | count: 9
+mice => species | max_score: 0.6581191420555115 | count: 5
+macrophages => cell_type | max_score: 0.6757161021232605 | count: 3
+severe symptoms and signs => sign_symptom | max_score: 0.5262286067008972 | count: 1
+RAW264.7 macrophages => cell_line | max_score: 0.6411444544792175 | count: 1
+aerobic glycolysis => biological_process | max_score: 0.6060211658477783 | count: 1
+GLUT-1 => enzyme | max_score: 0.8096060752868652 | count: 1
+mTOR => enzyme | max_score: 0.5060410499572754 | count: 1
+PKM2 => enzyme | max_score: 0.7108867764472961 | count: 5
+HIF-1α => enzyme | max_score: 0.7372295260429382 | count: 2
+Melittin => peptide | max_score: 0.8941044807434082 | count: 1

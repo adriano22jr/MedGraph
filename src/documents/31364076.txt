@@ -1,0 +1,4 @@
+colistin methanesulfonate => drug | max_score: 0.8442367911338806 | count: 4
+CBA => medical_abbreviation | max_score: 0.5890499949455261 | count: 3
+IU => medical_abbreviation | max_score: 0.5606896877288818 | count: 1
+polymyxin B => drug | max_score: 0.728611171245575 | count: 2

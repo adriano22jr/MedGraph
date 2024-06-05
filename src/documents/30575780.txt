@@ -1,0 +1,12 @@
+human β-defensin-1 => peptide | max_score: 0.5596031546592712 | count: 1
+HBD1 => peptide | max_score: 0.897257924079895 | count: 9
+epithelial cells => cell_type | max_score: 0.9374846816062927 | count: 1
+mucosal surfaces => body_part | max_score: 0.6722388863563538 | count: 1
+anti-tumor activity => activity | max_score: 0.8552414774894714 | count: 1
+cancer signaling pathways => biological_process | max_score: 0.5439886450767517 | count: 1
+TC7 => cell_line | max_score: 0.9544524550437927 | count: 1
+HT-29 => cell_line | max_score: 0.9659349322319031 | count: 1
+normal human colonic primary cells => cell | max_score: 0.5693740844726562 | count: 1
+EGFR => gene | max_score: 0.7119564414024353 | count: 2
+MYC => gene | max_score: 0.764687716960907 | count: 2
+MIZ1 => gene | max_score: 0.6393041610717773 | count: 1

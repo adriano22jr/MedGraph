@@ -1,0 +1,7 @@
+aquatic organisms => parasite | max_score: 0.728435754776001 | count: 2
+Ectoparasites => parasite | max_score: 0.9305360913276672 | count: 1
+proteins => protein | max_score: 0.8965821266174316 | count: 3
+antimicrobial peptides => protein | max_score: 0.8504465222358704 | count: 1
+immunoglobulins => protein | max_score: 0.7942355871200562 | count: 1
+water samples => environmental_factor | max_score: 0.7307335734367371 | count: 2
+saline water samples => environmental_factor | max_score: 0.7349052429199219 | count: 1

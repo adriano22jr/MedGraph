@@ -1,0 +1,10 @@
+bacteria => bacteria | max_score: 0.6583006978034973 | count: 1
+fungi => fungus | max_score: 0.7264133095741272 | count: 1
+plants => plant | max_score: 0.9899470210075378 | count: 1
+antimicrobial drugs => drug | max_score: 0.6666713953018188 | count: 1
+Musca domestica => fungus | max_score: 0.5034515261650085 | count: 1
+highly contaminated environment => environmental_factor | max_score: 0.95119309425354 | count: 1
+uncharacterized gene => protein | max_score: 0.6405360698699951 | count: 1
+protein => protein | max_score: 0.7650884985923767 | count: 4
+antimicrobial activity => activity | max_score: 0.8487453460693359 | count: 1
+C. albicans => fungus | max_score: 0.8785080313682556 | count: 2

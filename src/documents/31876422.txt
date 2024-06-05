@@ -1,0 +1,7 @@
+MAG2 => peptide | max_score: 0.8843318819999695 | count: 9
+bacterial cells => cell | max_score: 0.5540626049041748 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9067540764808655 | count: 1
+Escherichia coli => bacteria | max_score: 0.9722046852111816 | count: 1
+native conditions => environmental_factor | max_score: 0.927089273929596 | count: 1
+cellular homeostasis machinery => biological_process | max_score: 0.5229734778404236 | count: 1
+AFM => device | max_score: 0.5711163878440857 | count: 1

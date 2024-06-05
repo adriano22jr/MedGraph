@@ -1,0 +1,8 @@
+colistin => antibiotic | max_score: 0.9067678451538086 | count: 3
+Gram-negative bacilli => bacteria | max_score: 0.8527753353118896 | count: 1
+Enterobacterales => bacteria | max_score: 0.9243879318237305 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9630730748176575 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9741938710212708 | count: 1
+susceptibility panel => device | max_score: 0.6946821808815002 | count: 1
+fluorescent probe => device | max_score: 0.7737927436828613 | count: 1
+CytoFLEX => device | max_score: 0.581821084022522 | count: 1

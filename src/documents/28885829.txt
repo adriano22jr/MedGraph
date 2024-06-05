@@ -1,0 +1,11 @@
+Methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.8272366523742676 | count: 1
+MRSA => bacteria | max_score: 0.8843409419059753 | count: 9
+skin burn wounds => body_part | max_score: 0.8305916786193848 | count: 2
+WRL3 => peptide | max_score: 0.9206397533416748 | count: 6
+WLRAFRRLVRRLARGLRR-NH2 => peptide | max_score: 0.7509133815765381 | count: 1
+antimicrobial activity => activity | max_score: 0.7006487250328064 | count: 1
+host cells => cell | max_score: 0.6569404602050781 | count: 1
+ceftriaxone => antibiotic | max_score: 0.9334473013877869 | count: 1
+sessile biofilm bacteria => bacteria | max_score: 0.672232449054718 | count: 1
+bactericidal activity => activity | max_score: 0.5044724941253662 | count: 1
+wound tissue => tissue | max_score: 0.9026037454605103 | count: 1

@@ -1,0 +1,6 @@
+Multidrug-resistant pathogens => organism | max_score: 0.5463480949401855 | count: 1
+antimicrobial regimens => treatment | max_score: 0.6931289434432983 | count: 1
+definitive treatment => treatment | max_score: 0.6276959180831909 | count: 1
+reserve antibiotics => drug | max_score: 0.5580905079841614 | count: 1
+aztreonam => antibiotic | max_score: 0.873872697353363 | count: 1
+colistin => antibiotic | max_score: 0.8840530514717102 | count: 1

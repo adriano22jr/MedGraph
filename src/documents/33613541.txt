@@ -1,0 +1,10 @@
+Haemophilus ducreyi => bacteria | max_score: 0.9526680707931519 | count: 1
+Pathogenesis => biological_process | max_score: 0.5818173885345459 | count: 1
+phagocytosis => biological_process | max_score: 0.8069534301757812 | count: 1
+suppurative granuloma-like niche => environmental_factor | max_score: 0.6629713773727417 | count: 1
+innate immune cells => cell | max_score: 0.8355710506439209 | count: 1
+memory T cells => cell | max_score: 0.8641870021820068 | count: 1
+H. ducreyi => bacteria | max_score: 0.6298665404319763 | count: 3
+human volunteers => subject | max_score: 0.5371814370155334 | count: 1
+central metabolism => biological_process | max_score: 0.6026315689086914 | count: 1
+nutrient availability => environmental_factor | max_score: 0.6575561761856079 | count: 1

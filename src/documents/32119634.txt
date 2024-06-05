@@ -1,0 +1,10 @@
+Antimicrobial peptides => peptide | max_score: 0.684196412563324 | count: 1
+AMPs => peptide | max_score: 0.8057704567909241 | count: 5
+eukaryotes => fungus | max_score: 0.5815249681472778 | count: 1
+prokaryotes => bacteria | max_score: 0.6049730777740479 | count: 1
+innate immunity => biological_process | max_score: 0.7378348708152771 | count: 1
+pathogen colonization => biological_process | max_score: 0.5568562150001526 | count: 1
+bacteria => bacteria | max_score: 0.8953132629394531 | count: 3
+fungi => fungus | max_score: 0.9717379808425903 | count: 1
+parasites => parasite | max_score: 0.9730964303016663 | count: 1
+plants => plant | max_score: 0.9648783802986145 | count: 1

@@ -1,0 +1,10 @@
+colistin => antibiotic | max_score: 0.9448415040969849 | count: 6
+Hafnia alvei => bacteria | max_score: 0.768817663192749 | count: 1
+Hafnia paralvei => bacteria | max_score: 0.8138838410377502 | count: 1
+16S rRNA gene => molecule | max_score: 0.6235463619232178 | count: 1
+Phoenix automated system => device | max_score: 0.9561472535133362 | count: 2
+Etest system => device | max_score: 0.9185895919799805 | count: 1
+Proteus => bacteria | max_score: 0.8688076734542847 | count: 1
+Morganella => bacteria | max_score: 0.8455913066864014 | count: 1
+Providencia => bacteria | max_score: 0.8172769546508789 | count: 1
+Serratia => bacteria | max_score: 0.831068217754364 | count: 1

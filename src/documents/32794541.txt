@@ -1,0 +1,7 @@
+host-guest systems => chemical_system | max_score: 0.8144347667694092 | count: 1
+DNA nanogels => chemical_system | max_score: 0.5514997243881226 | count: 1
+L12 peptide => peptide | max_score: 0.8457855582237244 | count: 1
+thermal annealing process => biological_process | max_score: 0.520915150642395 | count: 1
+L12 => peptide | max_score: 0.6023492813110352 | count: 1
+antimicrobial activity => activity | max_score: 0.8294753432273865 | count: 1
+S. aureus => bacteria | max_score: 0.8844238519668579 | count: 1

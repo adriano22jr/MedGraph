@@ -1,0 +1,12 @@
+specificity determinants => peptide | max_score: 0.6841895580291748 | count: 8
+prokaryotic cells => cell_type | max_score: 0.8580477833747864 | count: 1
+eukaryotic cells => cell | max_score: 0.901739239692688 | count: 1
+AMPs => peptide | max_score: 0.5771031379699707 | count: 5
+Lys residues => peptide | max_score: 0.6702110171318054 | count: 1
+antimicrobial activity => activity | max_score: 0.8848356008529663 | count: 2
+Acinetobacter baumannii => bacteria | max_score: 0.9293560981750488 | count: 1
+polymyxin B => antibiotic | max_score: 0.8921966552734375 | count: 1
+colistin => antibiotic | max_score: 0.7929364442825317 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9379401803016663 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9543551206588745 | count: 1
+Specificity determinants => peptide | max_score: 0.5277100801467896 | count: 1

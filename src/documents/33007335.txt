@@ -1,0 +1,15 @@
+Toll family of receptors => protein_family | max_score: 0.9020983576774597 | count: 1
+PRRs => protein_family | max_score: 0.7487143278121948 | count: 1
+innate immune responses => biological_process | max_score: 0.627278208732605 | count: 1
+white spot syndrome virus => virus | max_score: 0.7997903227806091 | count: 2
+WSSV => virus | max_score: 0.7192172408103943 | count: 6
+Vibrio parahaemolyticus => bacteria | max_score: 0.9279265403747559 | count: 2
+aquaculture shrimp => species | max_score: 0.5599188804626465 | count: 1
+Toll2 receptor => protein | max_score: 0.5249048471450806 | count: 1
+Pacific white shrimp => species | max_score: 0.5185723304748535 | count: 1
+Penaeus vannamei => species | max_score: 0.6626927852630615 | count: 1
+shrimp tissues => tissue | max_score: 0.5787073373794556 | count: 1
+VP28 => protein | max_score: 0.6483538746833801 | count: 1
+stomach tissues => tissue | max_score: 0.8599950075149536 | count: 1
+ALFs => peptide | max_score: 0.8479552865028381 | count: 1
+PENs => peptide | max_score: 0.8108107447624207 | count: 1

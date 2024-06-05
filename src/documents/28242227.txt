@@ -1,0 +1,17 @@
+traditional antibiotics => antibiotic | max_score: 0.6277554631233215 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5272170305252075 | count: 1
+AMPs => peptide | max_score: 0.6240764260292053 | count: 1
+insect => species | max_score: 0.6326544284820557 | count: 1
+arachnids => species | max_score: 0.5047118663787842 | count: 1
+centipedes => species | max_score: 0.6700566411018372 | count: 1
+AMPs => compound | max_score: 0.5862718224525452 | count: 2
+bacteria => bacteria | max_score: 0.5870455503463745 | count: 1
+antibacterial activity => activity | max_score: 0.9066746234893799 | count: 2
+bee => species | max_score: 0.7932451367378235 | count: 1
+wasp => species | max_score: 0.6734609603881836 | count: 1
+ant => species | max_score: 0.6283769011497498 | count: 1
+scorpion => species | max_score: 0.677093505859375 | count: 1
+spider => species | max_score: 0.6928972005844116 | count: 1
+scolopendra => species | max_score: 0.7024068832397461 | count: 1
+minimal inhibitory concentration values => lab_value | max_score: 0.9125890731811523 | count: 1
+minimal bactericidal concentration values => lab_value | max_score: 0.9462054371833801 | count: 1

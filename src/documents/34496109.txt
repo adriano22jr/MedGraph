@@ -1,0 +1,11 @@
+Acinetobacter baumannii => bacteria | max_score: 0.874615490436554 | count: 1
+antibacterial activity => activity | max_score: 0.8246079683303833 | count: 3
+Bio-AgNPs => compound | max_score: 0.6840229630470276 | count: 7
+Fusarium oxysporum => fungus | max_score: 0.9904881715774536 | count: 1
+polymyxin B => antibiotic | max_score: 0.8943007588386536 | count: 5
+carbapenem-resistant A. baumannii => bacteria | max_score: 0.8201603889465332 | count: 2
+ATCC® 19606™ => cell_line | max_score: 0.6363407969474792 | count: 2
+VERO mammalian cell line => cell_line | max_score: 0.89619380235672 | count: 1
+MIC => lab_value | max_score: 0.8948938846588135 | count: 2
+MBC => lab_value | max_score: 0.8263838887214661 | count: 1
+A. baumannii => bacteria | max_score: 0.6759265661239624 | count: 1

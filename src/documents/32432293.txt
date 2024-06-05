@@ -1,0 +1,7 @@
+lipid A => molecule | max_score: 0.5869726538658142 | count: 1
+cationic peptide antibiotics => antibiotic | max_score: 0.7377983331680298 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.980047881603241 | count: 1
+ArnD => enzyme | max_score: 0.9674345850944519 | count: 1
+metal-dependent deformylase => enzyme | max_score: 0.671288013458252 | count: 1
+biosynthesis => biological_process | max_score: 0.6787819862365723 | count: 1
+carbohydrate => molecule | max_score: 0.515413224697113 | count: 1

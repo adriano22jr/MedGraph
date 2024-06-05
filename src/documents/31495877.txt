@@ -1,0 +1,6 @@
+colistimethate sodium => drug | max_score: 0.6864060163497925 | count: 3
+plasma concentrations => lab_value | max_score: 0.6942132115364075 | count: 3
+3 MIU/8 h => drug_dosage | max_score: 0.6376937627792358 | count: 4
+5 MIU/8 h => drug_dosage | max_score: 0.6987939476966858 | count: 3
+Adverse events => clinical_event | max_score: 0.8596731424331665 | count: 1
+mg/L => volume | max_score: 0.7524633407592773 | count: 2

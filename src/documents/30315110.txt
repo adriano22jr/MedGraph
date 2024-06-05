@@ -1,0 +1,10 @@
+NulOs => compound | max_score: 0.6192106008529663 | count: 3
+Bacteria => bacteria | max_score: 0.676878809928894 | count: 2
+N-acetylneuraminic acid => compound | max_score: 0.5094952583312988 | count: 1
+host-pathogen recognition mechanisms => biological_process | max_score: 0.5541437864303589 | count: 1
+Vibrio vulnificus => bacteria | max_score: 0.9419993758201599 | count: 1
+V. vulnificus => bacteria | max_score: 0.6962338089942932 | count: 5
+5-N-acetyl-7-N-acetyl-d-alanyl-legionaminic acid => compound | max_score: 0.5214338302612305 | count: 1
+Leg5Ac7AcAla => compound | max_score: 0.7716468572616577 | count: 5
+Artemia franciscana => bacteria | max_score: 0.8011461496353149 | count: 1
+bacteria => bacteria | max_score: 0.5653489232063293 | count: 1

@@ -1,0 +1,13 @@
+enzyme-linked immunosorbent assay (ELISA) => diagnostic_procedure | max_score: 0.5525720119476318 | count: 1
+polymorphonuclear neutrophil percentage (PMN%) => lab_value | max_score: 0.5558265447616577 | count: 1
+total knee arthroplasty => surgical_procedure | max_score: 0.736526608467102 | count: 1
+total hip arthroplasty => surgical_procedure | max_score: 0.8187494277954102 | count: 1
+patients => subject | max_score: 0.7731069922447205 | count: 1
+TKA => surgical_procedure | max_score: 0.524267315864563 | count: 1
+WBC count => lab_value | max_score: 0.7176061272621155 | count: 1
+PMN% => lab_value | max_score: 0.5723700523376465 | count: 1
+AD LFA => diagnostic_procedure | max_score: 0.5619707107543945 | count: 1
+AD ELISA => diagnostic_procedure | max_score: 0.6210525035858154 | count: 1
+cells/mm3 => volume | max_score: 0.5121339559555054 | count: 1
+subjects => subject | max_score: 0.5100219249725342 | count: 1
+McNemar's test => diagnostic_procedure | max_score: 0.6751551032066345 | count: 1

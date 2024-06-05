@@ -1,0 +1,13 @@
+Multidrug resistant bacteria => bacteria | max_score: 0.5739654898643494 | count: 1
+environmental stresses => environmental_factor | max_score: 0.6204020977020264 | count: 1
+antibiotics => antibiotic | max_score: 0.779815673828125 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8109923601150513 | count: 2
+biofilm formation => biological_process | max_score: 0.9078199863433838 | count: 6
+LPS => molecule | max_score: 0.5954635143280029 | count: 2
+Pseudomonas aeruginosa PAO1 => bacteria | max_score: 0.7831724882125854 | count: 1
+loss of function mutation => mutation | max_score: 0.9164314270019531 | count: 1
+arnB gene => gene | max_score: 0.9867991805076599 | count: 1
+lipid A => molecule | max_score: 0.6627625823020935 | count: 2
+magnesium conditions => environmental_factor | max_score: 0.8860730528831482 | count: 1
+wild type => bacteria | max_score: 0.681819498538971 | count: 2
+Mg2+ limitation => environmental_factor | max_score: 0.9233322143554688 | count: 1

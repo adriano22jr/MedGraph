@@ -1,0 +1,8 @@
+immune mechanisms => biological_process | max_score: 0.6594134569168091 | count: 1
+bipolar disorder => disease_disorder | max_score: 0.8180794715881348 | count: 1
+cathelicidin LL-37 => peptide | max_score: 0.9480058550834656 | count: 2
+LL-37 => peptide | max_score: 0.6978850960731506 | count: 7
+ng/mL => lab_value | max_score: 0.6251304745674133 | count: 4
+women => sex | max_score: 0.9936063289642334 | count: 1
+men => sex | max_score: 0.9918323755264282 | count: 1
+pathomechanism => biological_process | max_score: 0.5645251870155334 | count: 1

@@ -1,0 +1,16 @@
+Escherichia coli => bacteria | max_score: 0.9822982549667358 | count: 1
+humans => species | max_score: 0.8139696717262268 | count: 1
+animals => species | max_score: 0.7424727082252502 | count: 2
+acute inflammation => sign_symptom | max_score: 0.6294232606887817 | count: 1
+watery diarrhea => sign_symptom | max_score: 0.8085443377494812 | count: 1
+hemorrhagic colitis => sign_symptom | max_score: 0.7819652557373047 | count: 1
+lipopolysaccharide => molecule | max_score: 0.5110406279563904 | count: 1
+LPS => molecule | max_score: 0.7911466360092163 | count: 5
+Shiga exotoxins (Stx) => molecule | max_score: 0.5658553242683411 | count: 1
+colistin => antibiotic | max_score: 0.9341686964035034 | count: 3
+amoxicillin => antibiotic | max_score: 0.9610527753829956 | count: 4
+enrofloxacin => antibiotic | max_score: 0.9345992803573608 | count: 1
+ciprofloxacin => antibiotic | max_score: 0.9232202172279358 | count: 1
+A549 => cell_line | max_score: 0.9584000110626221 | count: 2
+Vero cells => cell_line | max_score: 0.9855378270149231 | count: 1
+Colistin => antibiotic | max_score: 0.9177135229110718 | count: 1

@@ -1,0 +1,17 @@
+plant material => plant | max_score: 0.8197770714759827 | count: 1
+climate change challenges => environmental_factor | max_score: 0.9712175726890564 | count: 1
+enzymes => enzyme | max_score: 0.8057029247283936 | count: 5
+activity => chemical_system | max_score: 0.7240367531776428 | count: 1
+macroelements => compound | max_score: 0.5776044130325317 | count: 1
+bioactive compounds => compound | max_score: 0.6970595121383667 | count: 1
+novel derivatives => compound | max_score: 0.6316595077514648 | count: 2
+reducing sugars => compound | max_score: 0.8059270977973938 | count: 1
+phenolic content => compound | max_score: 0.6154395937919617 | count: 1
+peptides => peptide | max_score: 0.8322857618331909 | count: 1
+lignocellulose => compound | max_score: 0.5441334843635559 | count: 1
+cell wall => body_part | max_score: 0.6223673224449158 | count: 1
+cytosolic => body_part | max_score: 0.5078163743019104 | count: 1
+saccharides => compound | max_score: 0.6117604374885559 | count: 1
+oligosaccharides => compound | max_score: 0.7989170551300049 | count: 1
+prebiotics => compound | max_score: 0.7065167427062988 | count: 1
+phenolic compounds => compound | max_score: 0.5895492434501648 | count: 1

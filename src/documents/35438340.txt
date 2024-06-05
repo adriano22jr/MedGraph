@@ -1,0 +1,10 @@
+epididymis => body_part | max_score: 0.6099823713302612 | count: 4
+SPAG11A => gene | max_score: 0.9092462062835693 | count: 4
+proliferation => biological_process | max_score: 0.6409505605697632 | count: 2
+epididymal epithelial cells => cell_type | max_score: 0.7133820652961731 | count: 1
+immortalized cell lines => cell_line | max_score: 0.9161361455917358 | count: 1
+diethyl nitrosamine => drug | max_score: 0.5363632440567017 | count: 1
+DEN treatment => treatment | max_score: 0.7820543050765991 | count: 1
+caput epididymis => anatomical_system | max_score: 0.6924034953117371 | count: 4
+rats => species | max_score: 0.5713852047920227 | count: 2
+microenvironment => environmental_factor | max_score: 0.9836680293083191 | count: 1

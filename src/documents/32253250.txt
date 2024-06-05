@@ -1,0 +1,12 @@
+Gram-negative bacteria => bacteria | max_score: 0.9506755471229553 | count: 2
+phospholipids => molecule | max_score: 0.6777601838111877 | count: 2
+molecular permeability barrier => molecular_function | max_score: 0.5035848021507263 | count: 1
+hazards in the environment => environmental_factor | max_score: 0.8848837018013 | count: 1
+host immunity => biological_process | max_score: 0.5979199409484863 | count: 1
+environment => environmental_factor | max_score: 0.921352744102478 | count: 1
+cardiolipins => molecule | max_score: 0.66698157787323 | count: 1
+lipid A endotoxins => molecule | max_score: 0.6422805786132812 | count: 1
+TLR4/MD-2 => protein | max_score: 0.6289767026901245 | count: 1
+mouse caspase-11 => protein | max_score: 0.8669159412384033 | count: 1
+human caspases 4 and 5 => protein | max_score: 0.6246080994606018 | count: 1
+mammalian cells => cell | max_score: 0.6808499097824097 | count: 1

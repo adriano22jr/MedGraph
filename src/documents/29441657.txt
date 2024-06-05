@@ -1,0 +1,7 @@
+Synthetic polymers => compound | max_score: 0.5551168918609619 | count: 1
+multidrug-resistant bacteria => bacteria | max_score: 0.8889729976654053 | count: 1
+monomer distribution => biological_process | max_score: 0.5200211405754089 | count: 1
+linear high-order quasi-block copolymers => compound | max_score: 0.5213610529899597 | count: 1
+hydroxyethyl acrylamides => compound | max_score: 0.5782281756401062 | count: 1
+haemolytic activities => activity | max_score: 0.9137946963310242 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8289689421653748 | count: 1

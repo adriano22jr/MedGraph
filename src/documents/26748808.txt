@@ -1,0 +1,15 @@
+antimicrobial treatments => treatment | max_score: 0.8601291179656982 | count: 1
+AMPs => peptide | max_score: 0.5812809467315674 | count: 3
+broad-spectrum activity => activity | max_score: 0.7170345783233643 | count: 1
+bacteria => bacteria | max_score: 0.8176848292350769 | count: 1
+fungi => fungus | max_score: 0.9733386039733887 | count: 1
+viruses => virus | max_score: 0.9699516296386719 | count: 1
+protozoa => parasite | max_score: 0.917344868183136 | count: 1
+cancer cells => cell | max_score: 0.773244321346283 | count: 1
+TRPs => peptide | max_score: 0.6340619921684265 | count: 2
+antimicrobial activity => activity | max_score: 0.6269098520278931 | count: 1
+enzymes => enzyme | max_score: 0.8616604804992676 | count: 1
+indolicidin => peptide | max_score: 0.913673460483551 | count: 1
+tritrpticin => peptide | max_score: 0.9167241454124451 | count: 1
+lactoferricin => peptide | max_score: 0.8947451710700989 | count: 1
+antimicrobial activities => activity | max_score: 0.550417423248291 | count: 1

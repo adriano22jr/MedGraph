@@ -1,0 +1,17 @@
+Lantibiotics => antibiotic | max_score: 0.526314914226532 | count: 1
+RiPPs => peptide | max_score: 0.6266437768936157 | count: 1
+lanthionine => peptide | max_score: 0.7126421928405762 | count: 1
+methyllanthionine => peptide | max_score: 0.6322509050369263 | count: 1
+antimicrobial activity => activity | max_score: 0.9021449089050293 | count: 1
+Cacaoidin => antibiotic | max_score: 0.7450528144836426 | count: 2
+Streptomyces cacaoi => fungus | max_score: 0.8616171479225159 | count: 1
+d-amino acids => peptide | max_score: 0.6781175136566162 | count: 1
+N,N-dimethyl lanthionine => peptide | max_score: 0.8114258646965027 | count: 1
+cacaoidin => antibiotic | max_score: 0.688012957572937 | count: 1
+RiPP family => protein_family | max_score: 0.71208655834198 | count: 1
+lanthipeptides => peptide | max_score: 0.8266699910163879 | count: 2
+linaridins => peptide | max_score: 0.7553790211677551 | count: 2
+lanthidins => peptide | max_score: 0.7152733206748962 | count: 1
+antibacterial activity => activity | max_score: 0.8700084686279297 | count: 1
+Gram-positive pathogens => bacteria | max_score: 0.7800757884979248 | count: 1
+Clostridium difficile => bacteria | max_score: 0.965080738067627 | count: 1

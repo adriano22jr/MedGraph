@@ -1,0 +1,13 @@
+newly generated tissues => tissue | max_score: 0.5527107119560242 | count: 1
+immunorecognition => biological_process | max_score: 0.614570140838623 | count: 1
+Antibody molecules => molecule | max_score: 0.7436618208885193 | count: 1
+specific cell types => cell_type | max_score: 0.5323367118835449 | count: 1
+stent endothelialization => biological_process | max_score: 0.5028862357139587 | count: 1
+drug delivery => biological_process | max_score: 0.5339486598968506 | count: 1
+growth factors => molecule | max_score: 0.606884241104126 | count: 1
+Peptides => molecule | max_score: 0.5749824047088623 | count: 1
+extracellular matrix proteins => protein | max_score: 0.5818299055099487 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7182819247245789 | count: 1
+devices => device | max_score: 0.5894193649291992 | count: 1
+implants => device | max_score: 0.5918667316436768 | count: 1
+peptides => molecule | max_score: 0.6530980467796326 | count: 1

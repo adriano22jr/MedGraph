@@ -1,0 +1,14 @@
+skin => body_part | max_score: 0.9093685150146484 | count: 4
+antimicrobial peptides => peptide | max_score: 0.6905257105827332 | count: 1
+AMPs => peptide | max_score: 0.810651421546936 | count: 4
+epidermis => body_part | max_score: 0.8139309883117676 | count: 1
+stratum corneum => body_part | max_score: 0.70236736536026 | count: 1
+bacteria => bacteria | max_score: 0.6207069754600525 | count: 1
+fungi => fungus | max_score: 0.9756678938865662 | count: 1
+viruses => virus | max_score: 0.8864667415618896 | count: 1
+adaptive immune responses => biological_process | max_score: 0.6073423027992249 | count: 1
+pathogens => organism | max_score: 0.5135109424591064 | count: 1
+immune responses => biological_process | max_score: 0.5051833987236023 | count: 1
+wound healing => biological_process | max_score: 0.7684419751167297 | count: 1
+cell differentiation => biological_process | max_score: 0.7611128687858582 | count: 1
+reepithelialization => biological_process | max_score: 0.8021318316459656 | count: 1

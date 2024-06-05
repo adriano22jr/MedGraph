@@ -1,0 +1,7 @@
+Sodium colistimethate => antibiotic | max_score: 0.7100814580917358 | count: 1
+SCM => antibiotic | max_score: 0.5340440273284912 | count: 1
+amikacin => antibiotic | max_score: 0.769991934299469 | count: 1
+P. aeruginosa => bacteria | max_score: 0.97555011510849 | count: 1
+K. pneumoniae => bacteria | max_score: 0.9765198230743408 | count: 1
+A. baumannii => bacteria | max_score: 0.9455894827842712 | count: 2
+drug activity => activity | max_score: 0.6721943616867065 | count: 1

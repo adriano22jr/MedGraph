@@ -1,0 +1,8 @@
+recent guidelines => clinical_guideline | max_score: 0.8094144463539124 | count: 1
+bronchiolitis => disease_disorder | max_score: 0.8197243213653564 | count: 4
+guidelines => clinical_guideline | max_score: 0.6458508372306824 | count: 1
+clinical presentation => medical_term | max_score: 0.6244348883628845 | count: 1
+molecular immune signatures => immunologic_marker | max_score: 0.7649683952331543 | count: 1
+clinically relevant outcomes => condition_outcome | max_score: 0.7031334042549133 | count: 1
+respiratory failure => sign_symptom | max_score: 0.5113105177879333 | count: 1
+recurrent wheezing => sign_symptom | max_score: 0.5725557804107666 | count: 1

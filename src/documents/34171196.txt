@@ -1,0 +1,8 @@
+pleurocidin => peptide | max_score: 0.955180823802948 | count: 4
+antimicrobial activity => activity | max_score: 0.6166356801986694 | count: 1
+Gram-negative => bacteria | max_score: 0.5424068570137024 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.9393168091773987 | count: 1
+pore-forming process => biological_process | max_score: 0.6224279403686523 | count: 1
+water molecules => molecule | max_score: 0.8784504532814026 | count: 2
+Pleurocidin => peptide | max_score: 0.8956868648529053 | count: 1
+pore formation => biological_process | max_score: 0.500863790512085 | count: 1

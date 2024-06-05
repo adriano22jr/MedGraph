@@ -1,0 +1,12 @@
+imipenem-tigecycline => antibiotic | max_score: 0.8560410141944885 | count: 3
+imipenem-colistin => antibiotic | max_score: 0.857062578201294 | count: 3
+tigecycline-colistin => antibiotic | max_score: 0.7765511274337769 | count: 4
+minimum inhibition concentrations => lab_value | max_score: 0.6588259935379028 | count: 1
+imipenem => antibiotic | max_score: 0.8830187916755676 | count: 2
+colistin-sulphate => antibiotic | max_score: 0.7449911236763 | count: 1
+tigecycline => antibiotic | max_score: 0.850944995880127 | count: 2
+colistin => antibiotic | max_score: 0.7335506081581116 | count: 1
+Imipenem-colistin => antibiotic | max_score: 0.8102990388870239 | count: 1
+Tigecycline-colistin => antibiotic | max_score: 0.5306049585342407 | count: 1
+Klebsiella spp. => species | max_score: 0.7269784808158875 | count: 1
+Escherichia coli => bacteria | max_score: 0.8872087001800537 | count: 1

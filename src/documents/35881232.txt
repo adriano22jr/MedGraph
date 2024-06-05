@@ -1,0 +1,7 @@
+bacteriocin => peptide | max_score: 0.8824032545089722 | count: 3
+human cells => cell | max_score: 0.9073959589004517 | count: 1
+pH alterations => environmental_factor | max_score: 0.7306523323059082 | count: 1
+Bacillus species => bacteria | max_score: 0.8429746031761169 | count: 1
+mechanisms of action => biological_process | max_score: 0.5073903203010559 | count: 1
+culture conditions => environmental_factor | max_score: 0.8499918580055237 | count: 1
+Bacteriocin => peptide | max_score: 0.8686374425888062 | count: 1

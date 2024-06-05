@@ -1,0 +1,8 @@
+BV => medical_abbreviation | max_score: 0.5543947815895081 | count: 6
+humans => organism | max_score: 0.5759435296058655 | count: 1
+proteins => protein | max_score: 0.6164127588272095 | count: 1
+enzymes => enzyme | max_score: 0.7427064776420593 | count: 1
+Melittin => peptide | max_score: 0.6669332385063171 | count: 1
+phospholipase A2 (PLA2) => enzyme | max_score: 0.7426836490631104 | count: 1
+biological activities => activity | max_score: 0.5629160404205322 | count: 1
+human trials => clinical_trial | max_score: 0.9727970361709595 | count: 1

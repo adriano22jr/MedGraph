@@ -1,0 +1,8 @@
+antibiotics => drug | max_score: 0.5012710690498352 | count: 1
+internalization => biological_process | max_score: 0.6344552636146545 | count: 2
+nanomaterials => compound | max_score: 0.5403798222541809 | count: 3
+siderophores => drug | max_score: 0.5197514295578003 | count: 1
+cyclodextrins => compound | max_score: 0.5432825684547424 | count: 1
+metal nanoparticles => compound | max_score: 0.5478606820106506 | count: 1
+antimicrobial/cell-penetrating peptides => peptide | max_score: 0.8421253561973572 | count: 1
+fusogenic liposomes => compound | max_score: 0.624631941318512 | count: 1

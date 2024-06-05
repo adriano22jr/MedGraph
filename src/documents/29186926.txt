@@ -1,0 +1,16 @@
+Cyclic peptides => peptide | max_score: 0.5806238055229187 | count: 1
+cyclic peptides => peptide | max_score: 0.7055359482765198 | count: 4
+cyclodipeptides => peptide | max_score: 0.5651379227638245 | count: 1
+August 2017 => date | max_score: 0.9857252836227417 | count: 1
+Aspergillus => fungus | max_score: 0.9957870841026306 | count: 1
+Penicillium => fungus | max_score: 0.9925058484077454 | count: 1
+Fusarium => fungus | max_score: 0.9932142496109009 | count: 1
+Acremonium => fungus | max_score: 0.9945335388183594 | count: 1
+Amanita => fungus | max_score: 0.9902294278144836 | count: 1
+antimicrobial => activity | max_score: 0.7006286978721619 | count: 1
+cytotoxic => activity | max_score: 0.5768298506736755 | count: 1
+immunosuppressive => activity | max_score: 0.6468219757080078 | count: 1
+enzyme-inhibitory => activity | max_score: 0.6629385352134705 | count: 1
+echinocandins => peptide | max_score: 0.6125819683074951 | count: 1
+pneumocandins => peptide | max_score: 0.5715288519859314 | count: 1
+cyclosporin A => compound | max_score: 0.5489024519920349 | count: 1

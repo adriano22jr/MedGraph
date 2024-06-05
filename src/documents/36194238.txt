@@ -1,0 +1,12 @@
+Melittin => peptide | max_score: 0.9437418580055237 | count: 4
+anti-tumor activity => activity | max_score: 0.7241412401199341 | count: 1
+cell death => biological_process | max_score: 0.6672005653381348 | count: 5
+A549 cells => cell_line | max_score: 0.9839625954627991 | count: 7
+melittin => peptide | max_score: 0.9611566662788391 | count: 5
+glutathione-glutathione peroxidase 4 antioxidant system => chemical_system | max_score: 0.8132480382919312 | count: 2
+lipid peroxide accumulation => biological_process | max_score: 0.5252918601036072 | count: 1
+ferroptosis => biological_process | max_score: 0.8225053548812866 | count: 4
+ferrostatin-1 => peptide | max_score: 0.8955020308494568 | count: 1
+deferoxamine => peptide | max_score: 0.6174650192260742 | count: 1
+4-Phenylbutyric acid => peptide | max_score: 0.6150389909744263 | count: 1
+Ferroptosis => biological_process | max_score: 0.7735369801521301 | count: 1

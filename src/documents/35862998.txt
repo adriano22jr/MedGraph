@@ -1,0 +1,14 @@
+Fusion of cells => biological_process | max_score: 0.6258569359779358 | count: 1
+multinuclear cells => cell | max_score: 0.5863634943962097 | count: 1
+Cell fusion => biological_process | max_score: 0.6645846962928772 | count: 1
+Fusion => biological_process | max_score: 0.5722037553787231 | count: 1
+antibiotic-producing bacteria => bacteria | max_score: 0.9228456616401672 | count: 1
+cell-cell fusion => biological_process | max_score: 0.8062743544578552 | count: 2
+fusion => biological_process | max_score: 0.6563963890075684 | count: 5
+heterokaryons => cell | max_score: 0.5793869495391846 | count: 1
+antimicrobial activity => biological_process | max_score: 0.7049048542976379 | count: 1
+cellular age => age | max_score: 0.9509566426277161 | count: 1
+Cell-cell fusion => biological_process | max_score: 0.8302829265594482 | count: 1
+environment => environmental_factor | max_score: 0.674242377281189 | count: 1
+wall-deficient cells => cell | max_score: 0.7299337983131409 | count: 2
+synthetically designed peptides => peptide | max_score: 0.5046610832214355 | count: 1

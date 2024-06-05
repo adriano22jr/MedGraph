@@ -1,0 +1,6 @@
+Colistin => antibiotic | max_score: 0.9514990448951721 | count: 2
+critical infections => disease_disorder | max_score: 0.6374070048332214 | count: 1
+multidrug-resistant Gram-negative pathogens => bacteria | max_score: 0.8434501886367798 | count: 1
+colistin => antibiotic | max_score: 0.9569001793861389 | count: 8
+humans => species | max_score: 0.8124733567237854 | count: 3
+animals => species | max_score: 0.8273634314537048 | count: 2

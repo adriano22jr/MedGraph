@@ -1,0 +1,12 @@
+Gram-negative bacteria => bacteria | max_score: 0.7662567496299744 | count: 1
+lipid A => molecule | max_score: 0.7459567189216614 | count: 4
+LPS => molecule | max_score: 0.6560232043266296 | count: 1
+colistin => antibiotic | max_score: 0.9370192885398865 | count: 4
+Pseudomonas aeruginosa => bacteria | max_score: 0.971039891242981 | count: 1
+ArnT => enzyme | max_score: 0.8387351632118225 | count: 5
+P. aeruginosa => bacteria | max_score: 0.5556614398956299 | count: 2
+activity => activity | max_score: 0.6685938239097595 | count: 1
+BBN149 => compound | max_score: 0.9186254143714905 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.840938150882721 | count: 1
+bronchial epithelial cells => cell_type | max_score: 0.8756489157676697 | count: 1
+Lipid A => molecule | max_score: 0.6357614398002625 | count: 1

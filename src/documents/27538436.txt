@@ -1,0 +1,8 @@
+Plantaricin EF => peptide | max_score: 0.6268342137336731 | count: 1
+PlnE => peptide | max_score: 0.8905743360519409 | count: 3
+PlnF => peptide | max_score: 0.8902084827423096 | count: 8
+helix-helix interactions => mutation | max_score: 0.5114150047302246 | count: 1
+membrane proteins => protein | max_score: 0.7380947470664978 | count: 1
+PlnE => protein | max_score: 0.8586975932121277 | count: 7
+antimicrobial activity => activity | max_score: 0.9268648624420166 | count: 1
+PlnF => protein | max_score: 0.7854652404785156 | count: 1

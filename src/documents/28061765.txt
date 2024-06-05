@@ -1,0 +1,16 @@
+innate immune system => biological_process | max_score: 0.6166191101074219 | count: 1
+miRNA => molecule | max_score: 0.7834466695785522 | count: 1
+HCT116 => cell_line | max_score: 0.9119023680686951 | count: 3
+growth suppression => biological_process | max_score: 0.6536079049110413 | count: 1
+miR-663a => molecule | max_score: 0.8325458765029907 | count: 2
+in vitro => environmental_factor | max_score: 0.6244120597839355 | count: 2
+in vivo => environmental_factor | max_score: 0.766773521900177 | count: 2
+nmiR-663a => molecule | max_score: 0.5659607648849487 | count: 1
+LL-37 => peptide | max_score: 0.845119833946228 | count: 1
+FF/CAP18 => peptide | max_score: 0.8013149499893188 | count: 1
+CXCR4 => protein | max_score: 0.7516565918922424 | count: 1
+phosphorylation => biological_process | max_score: 0.5534738302230835 | count: 1
+Akt => protein | max_score: 0.8657558560371399 | count: 1
+cell cycle arrest => biological_process | max_score: 0.6055166721343994 | count: 1
+p21 => protein | max_score: 0.7824838757514954 | count: 1
+colon cancer cells => cell_type | max_score: 0.6693481206893921 | count: 1

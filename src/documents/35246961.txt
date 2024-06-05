@@ -1,0 +1,11 @@
+Membrane-lytic peptides => peptide | max_score: 0.7382701635360718 | count: 1
+noncancerous cells => cell | max_score: 0.5139284133911133 | count: 1
+membrane-perforating peptides => peptide | max_score: 0.5800971984863281 | count: 1
+anticancer peptides => peptide | max_score: 0.6136869192123413 | count: 3
+function-conserving mutations => mutation | max_score: 0.9545772075653076 | count: 1
+non-cancerogenic cells => cell | max_score: 0.5910547375679016 | count: 1
+doxorubicin => antibiotic | max_score: 0.7428428530693054 | count: 1
+cancer cells => cell | max_score: 0.6085147261619568 | count: 1
+chemotherapeutic treatment => treatment | max_score: 0.7232244610786438 | count: 1
+MDA-MB-231 => cell_line | max_score: 0.9262062311172485 | count: 1
+membrane-lytic peptides => peptide | max_score: 0.7737360596656799 | count: 1

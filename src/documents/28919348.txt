@@ -1,0 +1,10 @@
+colistin => antibiotic | max_score: 0.9286670684814453 | count: 5
+Enterobacteriaceae => bacteria | max_score: 0.8897786736488342 | count: 3
+cross-sectional study => study_design | max_score: 0.50966876745224 | count: 1
+Intrinsic-resistant species => bacteria | max_score: 0.6017311811447144 | count: 1
+mcr-1 => gene | max_score: 0.9734719395637512 | count: 3
+mcr-2 => gene | max_score: 0.9537725448608398 | count: 2
+Enterobacter cloacae => bacteria | max_score: 0.9494178295135498 | count: 1
+Escherichia coli => bacteria | max_score: 0.9375068545341492 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9644585847854614 | count: 1
+E. coli => bacteria | max_score: 0.5977611541748047 | count: 1

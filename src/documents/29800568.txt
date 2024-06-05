@@ -1,0 +1,14 @@
+innate immunity => biological_process | max_score: 0.7155622839927673 | count: 1
+host defense => biological_process | max_score: 0.6845479607582092 | count: 1
+adaptive immunity => biological_process | max_score: 0.5551349520683289 | count: 1
+chemoattraction => biological_process | max_score: 0.7602097988128662 | count: 1
+cytokine release => biological_process | max_score: 0.7794617414474487 | count: 1
+cell morphology => biological_process | max_score: 0.6364730596542358 | count: 2
+cell adhesion => biological_process | max_score: 0.7465859055519104 | count: 2
+Human Defensin 5 => peptide | max_score: 0.7952540516853333 | count: 1
+gut epithelial cells => cell_type | max_score: 0.8254543542861938 | count: 1
+HD-5 => peptide | max_score: 0.6512652635574341 | count: 1
+fibronectin => protein | max_score: 0.904763400554657 | count: 1
+T cells => cell_type | max_score: 0.8260579109191895 | count: 1
+intestinal epithelial cells => cell_type | max_score: 0.8705882430076599 | count: 1
+Human Neutrophil peptide-1 => peptide | max_score: 0.7486833930015564 | count: 1

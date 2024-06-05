@@ -1,0 +1,12 @@
+nMelittin => peptide | max_score: 0.8720083832740784 | count: 2
+melittin => peptide | max_score: 0.8646613359451294 | count: 7
+cytotoxicity => biological_process | max_score: 0.6030967235565186 | count: 3
+hemolysis => biological_process | max_score: 0.5863435864448547 | count: 3
+BALB/c mice => species | max_score: 0.8926970362663269 | count: 2
+Acinetobacter baumannii => bacteria | max_score: 0.8931518197059631 | count: 1
+methicillin-resistant Staphylococcus aureus (MRSA) => bacteria | max_score: 0.6560750007629395 | count: 1
+KPC-producing Klebsiella pneumonia => bacteria | max_score: 0.7214924097061157 | count: 1
+HD50 => lab_value | max_score: 0.7197923064231873 | count: 1
+IC50 => lab_value | max_score: 0.8354009985923767 | count: 1
+LD50 => lab_value | max_score: 0.6672782897949219 | count: 1
+MIC => lab_value | max_score: 0.5956907868385315 | count: 1

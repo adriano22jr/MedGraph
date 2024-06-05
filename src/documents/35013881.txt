@@ -1,0 +1,10 @@
+intracellular delivery => biological_process | max_score: 0.6023895144462585 | count: 2
+Brevinin-2R peptide => peptide | max_score: 0.9489271640777588 | count: 4
+marsh frog => species | max_score: 0.6803505420684814 | count: 1
+Rana ridibunda => species | max_score: 0.9447979927062988 | count: 1
+β-galactosidase protein => enzyme | max_score: 0.8517333269119263 | count: 1
+GFP => protein | max_score: 0.8091528415679932 | count: 2
+HeLa cells => cell_line | max_score: 0.9907526969909668 | count: 3
+endocytic pathways => biological_process | max_score: 0.7735694050788879 | count: 1
+β-galactosidase => protein | max_score: 0.7405660152435303 | count: 1
+endocytosis pathways => biological_process | max_score: 0.6202625632286072 | count: 1

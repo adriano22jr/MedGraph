@@ -1,0 +1,15 @@
+polyphenols => compound | max_score: 0.5304239392280579 | count: 1
+liver => body_part | max_score: 0.7078662514686584 | count: 3
+oxidative stress biomarkers => immunologic_marker | max_score: 0.824319064617157 | count: 1
+immune factors => immunologic_marker | max_score: 0.8541805148124695 | count: 2
+antimicrobial peptides => peptide | max_score: 0.7343467473983765 | count: 2
+Reg3b => peptide | max_score: 0.7709627747535706 | count: 1
+Reg3g => peptide | max_score: 0.7938390970230103 | count: 1
+gut => body_part | max_score: 0.6310000419616699 | count: 1
+Akkermansia => fungus | max_score: 0.7162488698959351 | count: 1
+Bacteroidetes => bacteria | max_score: 0.9071817398071289 | count: 1
+oxidative stress => environmental_factor | max_score: 0.5162540674209595 | count: 1
+Firmicutes => bacteria | max_score: 0.9150421619415283 | count: 1
+Proteobacteria => bacteria | max_score: 0.9394842386245728 | count: 1
+Bilophila => bacteria | max_score: 0.7347341775894165 | count: 1
+Butyricimonas => bacteria | max_score: 0.7633845210075378 | count: 1

@@ -1,0 +1,13 @@
+foodborne pathogenic bacteria => bacteria | max_score: 0.6969942450523376 | count: 1
+Brevibacillus spp. => bacteria | max_score: 0.9167131185531616 | count: 1
+cationic antimicrobial peptides => peptide | max_score: 0.5628439784049988 | count: 1
+Brevibacillus laterosporus => bacteria | max_score: 0.8210359215736389 | count: 1
+integrated cationic antimicrobial peptide synthetase system => chemical_system | max_score: 0.7592117190361023 | count: 1
+brevilaterin => peptide | max_score: 0.9373533725738525 | count: 2
+A domain => protein | max_score: 0.7352111339569092 | count: 3
+MbtH-independent enzyme => enzyme | max_score: 0.8758182525634766 | count: 1
+activity => activity | max_score: 0.8275580406188965 | count: 2
+bre261 => protein | max_score: 0.5013726353645325 | count: 1
+bre270 => protein | max_score: 0.5348722338676453 | count: 1
+bre2691A => mutation | max_score: 0.6534714102745056 | count: 1
+bre2662 => protein | max_score: 0.5843220353126526 | count: 1

@@ -1,0 +1,12 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.8669366240501404 | count: 1
+CR-KP BSI => disease_disorder | max_score: 0.6409422755241394 | count: 5
+prospective observational cohort study => study_design | max_score: 0.8329185843467712 | count: 1
+June 2010 => date | max_score: 0.9843548536300659 | count: 1
+June 2016 => date | max_score: 0.9916889071464539 | count: 1
+index blood cultures => diagnostic_procedure | max_score: 0.5259403586387634 | count: 1
+anti-CR-KP therapy => treatment | max_score: 0.7721536159515381 | count: 1
+Recurrence => clinical_event | max_score: 0.6194228529930115 | count: 2
+colistin => antibiotic | max_score: 0.6565539240837097 | count: 1
+meropenem-colistin-tigecycline regimen => treatment | max_score: 0.697161853313446 | count: 1
+length of therapy => treatment_duration | max_score: 0.5500603318214417 | count: 1
+recurrence => clinical_event | max_score: 0.5250033736228943 | count: 1

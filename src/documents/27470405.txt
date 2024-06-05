@@ -1,0 +1,16 @@
+cancer cells => cell | max_score: 0.5363220572471619 | count: 1
+PaDef => peptide | max_score: 0.7795334458351135 | count: 4
+avocado => plant | max_score: 0.9350373148918152 | count: 2
+Persea americana var. drymifolia => plant | max_score: 0.8487170934677124 | count: 1
+MCF-7 cancer cell line => cell_line | max_score: 0.9261706471443176 | count: 1
+breast cancer cell line => cell_line | max_score: 0.7267244458198547 | count: 1
+MCF-7 => cell_line | max_score: 0.8805609941482544 | count: 2
+IC50 => lab_value | max_score: 0.9465241432189941 | count: 2
+apoptosis => biological_process | max_score: 0.7955427169799805 | count: 3
+membrane potential => biological_process | max_score: 0.5072332620620728 | count: 1
+calcium flow => biological_process | max_score: 0.6395295858383179 | count: 1
+cytochrome c => protein | max_score: 0.7685152292251587 | count: 1
+Apaf-1 => protein | max_score: 0.7095449566841125 | count: 1
+caspase 7 and 9 => protein | max_score: 0.6200190186500549 | count: 1
+mitochondrial Δψm => protein | max_score: 0.6013199687004089 | count: 1
+MAPK p38 => protein | max_score: 0.6777379512786865 | count: 1

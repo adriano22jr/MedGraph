@@ -1,0 +1,14 @@
+nephrotoxicity => disease_disorder | max_score: 0.595851719379425 | count: 4
+Silybin => drug | max_score: 0.7429272532463074 | count: 1
+silybin => drug | max_score: 0.80574631690979 | count: 5
+polymyxin E => drug | max_score: 0.9092826247215271 | count: 3
+rats => subject | max_score: 0.5078185200691223 | count: 1
+control => treatment | max_score: 0.5832898616790771 | count: 1
+vehicle => treatment | max_score: 0.6317694187164307 | count: 1
+treatment => treatment | max_score: 0.6409603953361511 | count: 1
+protection => treatment | max_score: 0.6508409976959229 | count: 1
+daily => treatment_duration | max_score: 0.852812647819519 | count: 1
+7 days => treatment_duration | max_score: 0.5709666013717651 | count: 1
+N-acetyl-beta-D-glucosaminidase => enzyme | max_score: 0.6945753693580627 | count: 1
+NAG => enzyme | max_score: 0.5495551824569702 | count: 1
+Group III => treatment | max_score: 0.525231122970581 | count: 1

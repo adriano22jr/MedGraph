@@ -1,0 +1,14 @@
+meninges => anatomical_system | max_score: 0.5193250775337219 | count: 1
+blood-brain interface => anatomical_system | max_score: 0.7048215866088867 | count: 1
+mice => species | max_score: 0.8506503105163574 | count: 2
+psychosocial stress => environmental_factor | max_score: 0.9579776525497437 | count: 1
+Meningeal B cells => cell_type | max_score: 0.8120279908180237 | count: 1
+stress => environmental_factor | max_score: 0.5412989258766174 | count: 2
+Ly6Chi monocytes => cell | max_score: 0.8471306562423706 | count: 1
+meningeal myeloid cells => cell_type | max_score: 0.7934193015098572 | count: 1
+activation markers => immunologic_marker | max_score: 0.9744833707809448 | count: 1
+meningeal B cells => cell_type | max_score: 0.7828297019004822 | count: 1
+innate immune transcriptional programmes => biological_process | max_score: 0.5806244015693665 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8563528060913086 | count: 1
+exploratory behaviour => activity | max_score: 0.9239404797554016 | count: 1
+B cells => cell_type | max_score: 0.5564514398574829 | count: 1

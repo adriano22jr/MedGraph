@@ -1,0 +1,12 @@
+inflammatory responses => biological_process | max_score: 0.6715362071990967 | count: 1
+GPCRs => protein_family | max_score: 0.8365135192871094 | count: 2
+Formylpeptide receptors => protein | max_score: 0.5767698287963867 | count: 1
+FPRs => protein_family | max_score: 0.6632158160209656 | count: 2
+human => species | max_score: 0.8595544695854187 | count: 2
+Fprs => protein_family | max_score: 0.6712896227836609 | count: 2
+mice => species | max_score: 0.9015589952468872 | count: 1
+cancer progression => biological_process | max_score: 0.5935161113739014 | count: 1
+myeloid cells => cell_type | max_score: 0.8060310482978821 | count: 1
+Fpr2 => protein | max_score: 0.7359397411346436 | count: 1
+Cathelicidin-related antimicrobial peptide (CRAMP) => peptide | max_score: 0.6577808260917664 | count: 1
+mouse => species | max_score: 0.7630308270454407 | count: 1

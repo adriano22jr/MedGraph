@@ -1,0 +1,13 @@
+Porphyromonas gingivalis => bacteria | max_score: 0.8624333739280701 | count: 1
+Galleria mellonella => species | max_score: 0.9002761840820312 | count: 1
+P. gingivalis => bacteria | max_score: 0.8644701242446899 | count: 5
+survival => biological_process | max_score: 0.7000857591629028 | count: 2
+humoral immune responses => biological_process | max_score: 0.627439022064209 | count: 1
+melanization => biological_process | max_score: 0.7231438159942627 | count: 2
+cecropin => gene | max_score: 0.7810229063034058 | count: 2
+gloverin => gene | max_score: 0.7419160604476929 | count: 1
+cellular immune responses => biological_process | max_score: 0.6309146285057068 | count: 1
+nodulation => biological_process | max_score: 0.5464680194854736 | count: 1
+CFU/mL => volume | max_score: 0.7517989873886108 | count: 1
+sessile haemocytes => cell | max_score: 0.6700561046600342 | count: 1
+recovery => biological_process | max_score: 0.5141969323158264 | count: 1

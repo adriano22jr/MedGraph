@@ -1,0 +1,15 @@
+Streptococcus pneumoniae => bacteria | max_score: 0.9653323888778687 | count: 1
+primary neutrophils => cell_type | max_score: 0.7450209856033325 | count: 1
+pattern recognition receptors => protein | max_score: 0.8805782794952393 | count: 2
+antimicrobial peptides => peptide | max_score: 0.7715606093406677 | count: 1
+cytokine regulation => biological_process | max_score: 0.6352967619895935 | count: 1
+TLR2 => protein | max_score: 0.8482202887535095 | count: 1
+NOD2 => protein | max_score: 0.8622276782989502 | count: 1
+HNP1-3 => peptide | max_score: 0.7236450910568237 | count: 2
+LL-37 => peptide | max_score: 0.7854011654853821 | count: 1
+neutrophils => cell_type | max_score: 0.7160362005233765 | count: 1
+IL-4 => peptide | max_score: 0.6635203957557678 | count: 1
+SOCS-1 => protein | max_score: 0.7097815275192261 | count: 1
+SOCS-3 => protein | max_score: 0.7518670558929443 | count: 1
+NF-κB => protein | max_score: 0.789097011089325 | count: 1
+S. pneumoniae => bacteria | max_score: 0.5290898084640503 | count: 1

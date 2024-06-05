@@ -1,0 +1,14 @@
+bronchiectasis => disease_disorder | max_score: 0.7991107702255249 | count: 4
+Antibiotics => drug | max_score: 0.6645105481147766 | count: 1
+antibiotics => antibiotic | max_score: 0.7587496638298035 | count: 2
+randomised controlled trials => clinical_trial | max_score: 0.6535310745239258 | count: 1
+RCTs => clinical_trial | max_score: 0.7494632601737976 | count: 1
+30 April 2018 => date | max_score: 0.9815954566001892 | count: 1
+RCTs => study_design | max_score: 0.7477795481681824 | count: 1
+younger than 18 years => age | max_score: 0.7129653692245483 | count: 1
+bronchography => diagnostic_procedure | max_score: 0.7372573614120483 | count: 1
+high-resolution computed tomography => diagnostic_procedure | max_score: 0.6998009085655212 | count: 1
+daily signs and symptoms => sign_symptom | max_score: 0.5125364065170288 | count: 1
+cough => sign_symptom | max_score: 0.9176212549209595 | count: 1
+sputum production => sign_symptom | max_score: 0.938666045665741 | count: 1
+haemoptysis => sign_symptom | max_score: 0.9163162112236023 | count: 1

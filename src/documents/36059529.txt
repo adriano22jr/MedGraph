@@ -1,0 +1,17 @@
+STING => gene | max_score: 0.676365315914154 | count: 2
+Litopenaeus vannamei => bacteria | max_score: 0.8304486870765686 | count: 1
+LvSTING => gene | max_score: 0.6847875714302063 | count: 5
+antibacterial response => biological_process | max_score: 0.5712926983833313 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5841715931892395 | count: 1
+AMPs => peptide | max_score: 0.7776835560798645 | count: 5
+Vibrio parahaemolyticus => bacteria | max_score: 0.9479110240936279 | count: 1
+LvRelish => peptide | max_score: 0.7640638947486877 | count: 3
+V. parahaemolyticus => bacteria | max_score: 0.7549164295196533 | count: 2
+LvALF1 => gene | max_score: 0.5431798696517944 | count: 1
+LvCRU1 => peptide | max_score: 0.5827812552452087 | count: 1
+LvLYZ1 => peptide | max_score: 0.5418422222137451 | count: 1
+LvPEN4 => peptide | max_score: 0.6459115147590637 | count: 1
+LvIKKβ => gene | max_score: 0.6229009032249451 | count: 3
+phosphorylation => biological_process | max_score: 0.5150288939476013 | count: 1
+nuclear translocation => biological_process | max_score: 0.5503372550010681 | count: 1
+promoter activity => biological_process | max_score: 0.7496666312217712 | count: 1

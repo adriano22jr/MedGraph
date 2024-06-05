@@ -1,0 +1,9 @@
+antibiotics => antibiotic | max_score: 0.5449692010879517 | count: 1
+antibacterial activity => activity | max_score: 0.834829568862915 | count: 5
+PMAP-37 => peptide | max_score: 0.9639147520065308 | count: 17
+porcine myeloid marrow => tissue | max_score: 0.7101441621780396 | count: 1
+antimicrobial activity => activity | max_score: 0.747576117515564 | count: 1
+in vivo => study_design | max_score: 0.5023698806762695 | count: 1
+S. flexneri CICC21534 => bacteria | max_score: 0.8327714800834656 | count: 2
+ceftiofur sodium => antibiotic | max_score: 0.8591338396072388 | count: 1
+L. monocytogenes CICC21533 => bacteria | max_score: 0.7512583136558533 | count: 1

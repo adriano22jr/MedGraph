@@ -1,0 +1,9 @@
+Microbial transglutaminase => enzyme | max_score: 0.5039339661598206 | count: 1
+mTG => enzyme | max_score: 0.6436159610748291 | count: 7
+human apolipoprotein B => protein | max_score: 0.6512220501899719 | count: 1
+r(P)ApoBL => peptide | max_score: 0.8840410709381104 | count: 6
+antimicrobial activity => activity | max_score: 0.9344601631164551 | count: 2
+substance P => peptide | max_score: 0.6345961093902588 | count: 1
+bitter vetch => plant | max_score: 0.8443652391433716 | count: 2
+Vicia ervilia => plant | max_score: 0.7975625991821289 | count: 1
+biological activity => activity | max_score: 0.8203521966934204 | count: 2

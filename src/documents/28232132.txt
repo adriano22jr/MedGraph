@@ -1,0 +1,16 @@
+SpALF6 => protein | max_score: 0.8534832000732422 | count: 7
+Scylla paramamosain => species | max_score: 0.7740561962127686 | count: 1
+SpALF6-V => protein | max_score: 0.7058781385421753 | count: 4
+SNPs => mutation | max_score: 0.5433063507080078 | count: 1
+SpALF6 => peptide | max_score: 0.6692624688148499 | count: 2
+anionic peptide => peptide | max_score: 0.5080170035362244 | count: 1
+hemocytes => cell_type | max_score: 0.8983306288719177 | count: 1
+Vibrio parahaemolyticus => bacteria | max_score: 0.9334074258804321 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9551201462745667 | count: 1
+SpALF6-M => protein | max_score: 0.684334933757782 | count: 5
+H46 to R => mutation | max_score: 0.596480131149292 | count: 1
+antimicrobial activity => activity | max_score: 0.8470772504806519 | count: 1
+binding activity => activity | max_score: 0.5011445879936218 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.704768180847168 | count: 1
+fungi => fungus | max_score: 0.6142668724060059 | count: 1
+antibacterial activity => activity | max_score: 0.5458559989929199 | count: 1

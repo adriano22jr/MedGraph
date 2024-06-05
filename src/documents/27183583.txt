@@ -1,0 +1,15 @@
+Dietary lipids => diet | max_score: 0.8718414902687073 | count: 1
+peroxisome proliferative-activated receptor (PPAR) => protein_family | max_score: 0.5400192141532898 | count: 1
+transcription factors => protein_family | max_score: 0.5638372898101807 | count: 1
+PPARα isoform => protein_family | max_score: 0.6290367841720581 | count: 1
+inflammation => biological_process | max_score: 0.5115362405776978 | count: 2
+commensal homeostasis => biological_process | max_score: 0.7610944509506226 | count: 3
+mucosal immunity => biological_process | max_score: 0.708039402961731 | count: 4
+PPARα pathway => biological_process | max_score: 0.6433461904525757 | count: 3
+innate immune cells => cell_type | max_score: 0.8598849177360535 | count: 1
+IL-22 => peptide | max_score: 0.6191518902778625 | count: 1
+RegIIIβ => peptide | max_score: 0.9115387797355652 | count: 1
+RegIIIγ => peptide | max_score: 0.820807695388794 | count: 1
+calprotectin => peptide | max_score: 0.856743335723877 | count: 1
+intestinal macrophages => cell_type | max_score: 0.8446187376976013 | count: 1
+mice => species | max_score: 0.9166198372840881 | count: 1

@@ -1,0 +1,6 @@
+CAMPs => antibiotic | max_score: 0.5432226061820984 | count: 2
+drug-resistant bacterial infections => disease_disorder | max_score: 0.5333230495452881 | count: 1
+hemolytic activity => activity | max_score: 0.9382871389389038 | count: 2
+eukaryotic cells => cell | max_score: 0.9294255375862122 | count: 1
+OH-CM6 => peptide | max_score: 0.9306415915489197 | count: 1
+antimicrobial activity => activity | max_score: 0.6050959229469299 | count: 1

@@ -1,0 +1,5 @@
+LL-37 => peptide | max_score: 0.9271813035011292 | count: 6
+Apolipoprotein A-I => protein | max_score: 0.7714667320251465 | count: 1
+ApoA-I => protein | max_score: 0.9304556846618652 | count: 9
+HUVEC => cell_line | max_score: 0.8116284012794495 | count: 2
+HepG2 cells => cell_line | max_score: 0.9422816634178162 | count: 1

@@ -1,0 +1,7 @@
+Paneth cells => cell | max_score: 0.9135122895240784 | count: 5
+intestinal epithelium => tissue | max_score: 0.8966535329818726 | count: 1
+mice => species | max_score: 0.8741982579231262 | count: 4
+Mice => species | max_score: 0.8856564164161682 | count: 2
+biliary drainage procedure => surgical_procedure | max_score: 0.6100767850875854 | count: 1
+lysozyme => enzyme | max_score: 0.9280939698219299 | count: 2
+cryptdin-4 => enzyme | max_score: 0.8125654458999634 | count: 2

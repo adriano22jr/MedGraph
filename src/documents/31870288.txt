@@ -1,0 +1,12 @@
+Acinetobacter baumannii => bacteria | max_score: 0.9868180751800537 | count: 1
+Escherichia coli => bacteria | max_score: 0.9826033711433411 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9822200536727905 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9848288893699646 | count: 1
+colistin => antibiotic | max_score: 0.9259997010231018 | count: 4
+surfactin => antibiotic | max_score: 0.8298799395561218 | count: 2
+environmental samples => environmental_factor | max_score: 0.7991306781768799 | count: 1
+A. baumannii => bacteria | max_score: 0.7881360650062561 | count: 3
+P. aeruginosa => bacteria | max_score: 0.7594582438468933 | count: 3
+E. coli => bacteria | max_score: 0.7710846066474915 | count: 3
+K. pneumoniae => bacteria | max_score: 0.6728739142417908 | count: 4
+mcr => gene | max_score: 0.7585813403129578 | count: 1

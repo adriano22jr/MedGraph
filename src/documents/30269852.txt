@@ -1,0 +1,11 @@
+Candida species => fungus | max_score: 0.9600307941436768 | count: 2
+antifungal treatments => treatment | max_score: 0.654710590839386 | count: 1
+lycosin-I => peptide | max_score: 0.9712570309638977 | count: 8
+Lycosa singoriensis => species | max_score: 0.8654471635818481 | count: 1
+MIC50 => lab_value | max_score: 0.9029987454414368 | count: 1
+C. tropicalis => fungus | max_score: 0.7020843625068665 | count: 3
+colony-forming units/mL => volume | max_score: 0.6425389647483826 | count: 1
+MIC => lab_value | max_score: 0.7117322683334351 | count: 2
+biofilm metabolic activity => activity | max_score: 0.9520465731620789 | count: 1
+biofilm inhibitory concentration 50 (BIC50) => lab_value | max_score: 0.5369017124176025 | count: 1
+BEC50 => lab_value | max_score: 0.6167833805084229 | count: 1

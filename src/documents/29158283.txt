@@ -1,0 +1,7 @@
+Cryptococcus neoformans => fungus | max_score: 0.9653344750404358 | count: 1
+octapeptin C4 => peptide | max_score: 0.9198507070541382 | count: 5
+Octapeptin C4 => peptide | max_score: 0.9134044647216797 | count: 1
+MIC => lab_value | max_score: 0.9380288124084473 | count: 4
+C. neoformans var. grubii => fungus | max_score: 0.5167430639266968 | count: 1
+fluconazole => antibiotic | max_score: 0.8435550928115845 | count: 1
+amphotericin B => antibiotic | max_score: 0.8392815589904785 | count: 1

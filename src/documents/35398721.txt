@@ -1,0 +1,13 @@
+IL-17A => peptide | max_score: 0.7619349360466003 | count: 8
+IL-22 => peptide | max_score: 0.7944027185440063 | count: 8
+epithelial cells => cell_type | max_score: 0.8983390927314758 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6992926001548767 | count: 1
+disease outcome => condition_outcome | max_score: 0.7669569253921509 | count: 2
+SARS-CoV-2 => virus | max_score: 0.9891058802604675 | count: 2
+16 years => age | max_score: 0.769386887550354 | count: 1
+COVID-19 => disease_disorder | max_score: 0.5088754296302795 | count: 1
+CRP => immunologic_marker | max_score: 0.689267635345459 | count: 1
+serum ferritin => immunologic_marker | max_score: 0.5129360556602478 | count: 1
+ALT => immunologic_marker | max_score: 0.7015790343284607 | count: 1
+LDH => immunologic_marker | max_score: 0.6593382954597473 | count: 1
+D-dimer => immunologic_marker | max_score: 0.6748642921447754 | count: 1

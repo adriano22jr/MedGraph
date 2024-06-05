@@ -1,0 +1,8 @@
+self-assembly => biological_process | max_score: 0.7837855219841003 | count: 2
+antimicrobial activity => activity | max_score: 0.9180696606636047 | count: 2
+peptides => peptide | max_score: 0.6230127811431885 | count: 2
+TK913 => peptide | max_score: 0.8193495273590088 | count: 1
+TK9Z4 => peptide | max_score: 0.8689977526664734 | count: 2
+cytotoxicity => activity | max_score: 0.5448887944221497 | count: 2
+TKZ3 => peptide | max_score: 0.8743144869804382 | count: 2
+trypsin => enzyme | max_score: 0.692570686340332 | count: 1

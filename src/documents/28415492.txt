@@ -1,0 +1,9 @@
+Escherichia coli => bacteria | max_score: 0.9737733006477356 | count: 1
+E. coli => bacteria | max_score: 0.8967952132225037 | count: 4
+antibacterial activity => activity | max_score: 0.8415958881378174 | count: 5
+PcL342-354C => peptide | max_score: 0.9382005929946899 | count: 4
+Cry1Ab16 => protein | max_score: 0.6413321495056152 | count: 1
+Bacillus thuringiensis => species | max_score: 0.88653963804245 | count: 1
+LbL films => device | max_score: 0.5741710066795349 | count: 2
+minimal inhibitory concentration => lab_value | max_score: 0.6618078351020813 | count: 1
+minimal bactericidal concentration => lab_value | max_score: 0.7499355673789978 | count: 1

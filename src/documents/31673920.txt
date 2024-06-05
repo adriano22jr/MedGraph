@@ -1,0 +1,17 @@
+p38 => protein | max_score: 0.9130798578262329 | count: 4
+deleterious outcomes => condition_outcome | max_score: 0.5048229694366455 | count: 1
+signaling => biological_process | max_score: 0.504709005355835 | count: 1
+chemoresistance mechanisms => biological_process | max_score: 0.562160849571228 | count: 1
+Nile tilapia => species | max_score: 0.7085539698600769 | count: 1
+Oreochromis niloticus => species | max_score: 0.9011350870132446 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8191611766815186 | count: 1
+TP4 => peptide | max_score: 0.6303548216819763 | count: 4
+human triple-negative breast cancer cells => cell_line | max_score: 0.7671328783035278 | count: 1
+glioblastoma cells => cell_line | max_score: 0.7534238696098328 | count: 2
+U251 cells => cell_line | max_score: 0.8952457904815674 | count: 1
+SB202190 => drug | max_score: 0.8517918586730957 | count: 2
+VX-745 => drug | max_score: 0.8107674717903137 | count: 1
+U251 glioblastoma cells => cell_line | max_score: 0.7740139365196228 | count: 1
+noncancerous neural cells => cell_line | max_score: 0.7483304738998413 | count: 2
+apoptosis => biological_process | max_score: 0.547157347202301 | count: 1
+reactive oxygen species generation => biological_process | max_score: 0.5689286589622498 | count: 1

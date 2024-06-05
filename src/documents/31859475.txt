@@ -1,0 +1,5 @@
+research endeavors => activity | max_score: 0.5954543352127075 | count: 1
+polysaccharides => compound | max_score: 0.513674259185791 | count: 1
+peptide dendrimers => compound | max_score: 0.5113019943237305 | count: 1
+OCMC/G3KP => compound | max_score: 0.73753422498703 | count: 4
+in vivo studies => activity | max_score: 0.5648724436759949 | count: 1

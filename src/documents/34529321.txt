@@ -1,0 +1,6 @@
+research => activity | max_score: 0.8099278807640076 | count: 1
+education => activity | max_score: 0.7376603484153748 | count: 1
+2010 => date | max_score: 0.9501200318336487 | count: 1
+2020 => date | max_score: 0.9422981142997742 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6333873271942139 | count: 1
+host microbiota => organism | max_score: 0.5513282418251038 | count: 1

@@ -1,0 +1,16 @@
+expanded-spectrum cephalosporin (ESC) => antibiotic | max_score: 0.5287419557571411 | count: 1
+Escherichia coli => bacteria | max_score: 0.8879843354225159 | count: 1
+broilers => bacteria | max_score: 0.5892923474311829 | count: 2
+2018 => date | max_score: 0.7614110708236694 | count: 1
+E. coli => bacteria | max_score: 0.7165008187294006 | count: 4
+ESBL => enzyme | max_score: 0.563709557056427 | count: 3
+AmpC => enzyme | max_score: 0.5204063057899475 | count: 1
+critically important antibiotics => antibiotic | max_score: 0.6499295234680176 | count: 1
+blaCMY-2 => gene | max_score: 0.9493448138237 | count: 1
+blaCTX-M-3 => gene | max_score: 0.9563460946083069 | count: 1
+blaCTX-M-15 => gene | max_score: 0.9546751379966736 | count: 1
+blaCTX-M-27 => gene | max_score: 0.9583647847175598 | count: 1
+blaCTX-M-14b => gene | max_score: 0.9409798979759216 | count: 1
+ESBL => gene | max_score: 0.5389196872711182 | count: 1
+ST-457 => gene | max_score: 0.5060374140739441 | count: 1
+ciprofloxacin => antibiotic | max_score: 0.8041292428970337 | count: 1

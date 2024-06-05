@@ -1,0 +1,13 @@
+Antibiotic-resistant bacteria => bacteria | max_score: 0.5454742908477783 | count: 1
+AAMP => peptide | max_score: 0.7292352318763733 | count: 2
+target protein => protein | max_score: 0.8108464479446411 | count: 1
+pathogenic bacteria => bacteria | max_score: 0.5408124327659607 | count: 1
+peptides => peptide | max_score: 0.5763921141624451 | count: 3
+E. coli => bacteria | max_score: 0.9678797721862793 | count: 1
+T. thermophilus => bacteria | max_score: 0.9360877275466919 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9806559085845947 | count: 1
+S. aureus => bacteria | max_score: 0.9804309010505676 | count: 1
+S1 ribosomal proteins => protein | max_score: 0.8746562600135803 | count: 1
+bacterial cells => cell | max_score: 0.699395477771759 | count: 1
+MIC => lab_value | max_score: 0.5909335613250732 | count: 2
+gentamicin sulfate => antibiotic | max_score: 0.899133026599884 | count: 1

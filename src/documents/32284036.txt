@@ -1,0 +1,13 @@
+Gram-negative bacteria => bacteria | max_score: 0.5439231395721436 | count: 1
+broad-spectrum penicillins => antibiotic | max_score: 0.6031152606010437 | count: 1
+fluoroquinolones => antibiotic | max_score: 0.8089855313301086 | count: 1
+aminoglycosides => antibiotic | max_score: 0.7633476853370667 | count: 1
+β-lactams => antibiotic | max_score: 0.7504492402076721 | count: 1
+carbapenems => antibiotic | max_score: 0.7911549210548401 | count: 1
+monobactam => antibiotic | max_score: 0.7448473572731018 | count: 1
+cephalosporins => antibiotic | max_score: 0.8059053421020508 | count: 1
+MDR Gram-negative pathogens => bacteria | max_score: 0.7125735282897949 | count: 2
+polymyxins => antibiotic | max_score: 0.694597601890564 | count: 2
+colistin => antibiotic | max_score: 0.8541776537895203 | count: 6
+polymyxin B => antibiotic | max_score: 0.784020185470581 | count: 1
+Colistin => antibiotic | max_score: 0.7921158075332642 | count: 1

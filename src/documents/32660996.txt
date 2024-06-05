@@ -1,0 +1,5 @@
+mcr-3 => gene | max_score: 0.9445730447769165 | count: 2
+2017 => date | max_score: 0.9799933433532715 | count: 1
+Escherichia coliIn => bacteria | max_score: 0.934897780418396 | count: 1
+wild-type => bacteria | max_score: 0.5056037306785583 | count: 1
+recA-E. coli => bacteria | max_score: 0.819176971912384 | count: 1

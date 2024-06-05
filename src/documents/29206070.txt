@@ -1,0 +1,16 @@
+antimicrobial peptides => molecule | max_score: 0.6103633642196655 | count: 1
+clinical studies => study_design | max_score: 0.635664701461792 | count: 1
+study design => study_design | max_score: 0.6173822283744812 | count: 1
+objectives => study_design | max_score: 0.5326011180877686 | count: 1
+Comparative animal studies => study_design | max_score: 0.6806612014770508 | count: 1
+animal species => species | max_score: 0.5085867047309875 | count: 1
+rat => species | max_score: 0.9766344428062439 | count: 1
+rabbit => species | max_score: 0.9581966400146484 | count: 1
+dog => species | max_score: 0.9454594850540161 | count: 1
+sheep => species | max_score: 0.9535822868347168 | count: 1
+goat => species | max_score: 0.9610202312469482 | count: 1
+mini-pig => species | max_score: 0.9671006798744202 | count: 1
+small ruminants => species | max_score: 0.7297841906547546 | count: 1
+dogs => species | max_score: 0.6981541514396667 | count: 1
+mini-pigs => species | max_score: 0.7891911864280701 | count: 1
+Animal species => species | max_score: 0.5992470383644104 | count: 1

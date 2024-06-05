@@ -1,0 +1,9 @@
+lipo-α/sulfono-γ-AA hybrid peptides => peptide | max_score: 0.5567492246627808 | count: 2
+antimicrobial activity => activity | max_score: 0.5084776282310486 | count: 1
+Gram-positive => bacteria | max_score: 0.6053642630577087 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9026682376861572 | count: 1
+host-defense peptides => peptide | max_score: 0.6610729694366455 | count: 1
+HDPs => peptide | max_score: 0.6697543263435364 | count: 1
+lead compound => compound | max_score: 0.7758527994155884 | count: 1
+MRSA => bacteria | max_score: 0.9040486812591553 | count: 1
+E. coli => bacteria | max_score: 0.9394711256027222 | count: 1

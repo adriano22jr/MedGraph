@@ -1,0 +1,2 @@
+AMPs => peptide | max_score: 0.7157818675041199 | count: 5
+biological activity => activity | max_score: 0.8505595922470093 | count: 1

@@ -1,0 +1,8 @@
+RSV => virus | max_score: 0.8660998344421387 | count: 11
+LL-37 => peptide | max_score: 0.9555020928382874 | count: 6
+influenza virus => virus | max_score: 0.9797674417495728 | count: 2
+HEp-2 cells => cell_line | max_score: 0.9585543274879456 | count: 1
+HEp-2 => cell_line | max_score: 0.694452166557312 | count: 1
+polarized airway epithelial cells => cell_type | max_score: 0.8465438485145569 | count: 1
+Calu-3 cells => cell_line | max_score: 0.8605462908744812 | count: 1
+therapeutic treatment => treatment | max_score: 0.7796650528907776 | count: 1

@@ -1,0 +1,6 @@
+Restricted diffusion => biological_process | max_score: 0.6093625426292419 | count: 1
+integral OM proteins => protein | max_score: 0.5319761037826538 | count: 1
+lipopolysaccharide => molecule | max_score: 0.5589181780815125 | count: 1
+LPS => molecule | max_score: 0.7843650579452515 | count: 9
+Escherichia coli => bacteria | max_score: 0.9704207181930542 | count: 1
+fluorescence recovery => biological_process | max_score: 0.6090757250785828 | count: 1

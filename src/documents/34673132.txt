@@ -1,0 +1,8 @@
+Defensins => peptide | max_score: 0.7448552846908569 | count: 1
+cationic antimicrobial peptides => peptide | max_score: 0.5244654417037964 | count: 1
+bacteria => bacteria | max_score: 0.9050204157829285 | count: 2
+viruses => virus | max_score: 0.9704909324645996 | count: 1
+fungi => fungus | max_score: 0.9895607233047485 | count: 1
+immunological control => biological_process | max_score: 0.5787981748580933 | count: 1
+defensins => peptide | max_score: 0.8405174016952515 | count: 6
+conventional antibiotics => drug | max_score: 0.5607080459594727 | count: 1

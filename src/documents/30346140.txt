@@ -1,0 +1,9 @@
+EcDBS1R5 => peptide | max_score: 0.8854779601097107 | count: 7
+Gram-negative => bacteria | max_score: 0.6495729684829712 | count: 1
+Gram-positive => cell_type | max_score: 0.6905510425567627 | count: 1
+cancerous cell lines => cell_line | max_score: 0.6830931901931763 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9490161538124084 | count: 1
+biofilm-constituting cells => cell_type | max_score: 0.7995501756668091 | count: 1
+skin scarification mouse model => environmental_factor | max_score: 0.5269626379013062 | count: 1
+hydrophilic environments => environmental_factor | max_score: 0.9457622766494751 | count: 1
+v/v => volume | max_score: 0.8787150979042053 | count: 1

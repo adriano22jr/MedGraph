@@ -1,0 +1,17 @@
+pGP3 => protein | max_score: 0.8565566539764404 | count: 6
+LL-37 => protein | max_score: 0.826331615447998 | count: 3
+proinflammatory activity => lab_value | max_score: 0.5518507957458496 | count: 1
+psoriasis => disease_disorder | max_score: 0.7532961368560791 | count: 4
+pGP3M => protein | max_score: 0.703816294670105 | count: 6
+mice => species | max_score: 0.7233129739761353 | count: 5
+left leg => body_part | max_score: 0.8572908639907837 | count: 1
+imiquimod => drug | max_score: 0.597870945930481 | count: 1
+severity index score => severity | max_score: 0.653810441493988 | count: 1
+histological analysis => surgical_procedure | max_score: 0.5336133241653442 | count: 1
+Erythema => sign_symptom | max_score: 0.8757734298706055 | count: 1
+scaling => sign_symptom | max_score: 0.7343689203262329 | count: 1
+thickening => sign_symptom | max_score: 0.6311066746711731 | count: 1
+dorsal skin => body_part | max_score: 0.7305434346199036 | count: 1
+right ear skin => body_part | max_score: 0.6889968514442444 | count: 1
+erythema => sign_symptom | max_score: 0.8236922025680542 | count: 1
+skin tissues => body_part | max_score: 0.5803079009056091 | count: 1

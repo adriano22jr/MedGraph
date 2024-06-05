@@ -1,0 +1,14 @@
+Lactoferrin => protein | max_score: 0.6389162540435791 | count: 1
+iron-binding glycoprotein => protein | max_score: 0.5039668083190918 | count: 1
+mucosal epithelial cells => cell_type | max_score: 0.9398345351219177 | count: 1
+neutrophils => cell_type | max_score: 0.9199761152267456 | count: 1
+mammalian species => species | max_score: 0.8531177639961243 | count: 1
+humans => species | max_score: 0.923099160194397 | count: 1
+anti-inflammatory => activity | max_score: 0.5414873361587524 | count: 1
+antimicrobial activities => activity | max_score: 0.6856057643890381 | count: 1
+lactoferrin => protein | max_score: 0.6900517344474792 | count: 5
+immunomodulatory effects => activity | max_score: 0.5020854473114014 | count: 1
+antiviral activity => activity | max_score: 0.5217904448509216 | count: 1
+SARS-CoV-2 => virus | max_score: 0.799004077911377 | count: 1
+conjunctivitis => disease_disorder | max_score: 0.7910224795341492 | count: 1
+randomized controlled studies => study_design | max_score: 0.8928928971290588 | count: 1

@@ -1,0 +1,11 @@
+multidrug-resistant gram-negative bacteria => bacteria | max_score: 0.8492030501365662 | count: 1
+HX-12A => peptide | max_score: 0.865917980670929 | count: 1
+HX-12B => peptide | max_score: 0.8554724454879761 | count: 1
+HX-12C => peptide | max_score: 0.9067386388778687 | count: 2
+MDRAB => bacteria | max_score: 0.6634477376937866 | count: 2
+MDRKP isolates => bacteria | max_score: 0.8126984238624573 | count: 2
+peptides => peptide | max_score: 0.6092495322227478 | count: 4
+antibacterial activities => activity | max_score: 0.7555757164955139 | count: 1
+pH => environmental_factor | max_score: 0.8026702404022217 | count: 1
+salt => environmental_factor | max_score: 0.8813098073005676 | count: 1
+human serum => environmental_factor | max_score: 0.7668361067771912 | count: 1

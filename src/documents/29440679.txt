@@ -1,0 +1,8 @@
+heavy metals => environmental_factor | max_score: 0.6768584251403809 | count: 1
+food crops => plant | max_score: 0.9238303899765015 | count: 2
+rice => plant | max_score: 0.9163995385169983 | count: 3
+CAL1 => gene | max_score: 0.8225963711738586 | count: 4
+defensin-like protein => protein | max_score: 0.9449267387390137 | count: 1
+root exodermis => cell_type | max_score: 0.71242755651474 | count: 1
+xylem parenchyma cells => cell_type | max_score: 0.8214071393013 | count: 1
+cytosol => tissue | max_score: 0.600559413433075 | count: 1

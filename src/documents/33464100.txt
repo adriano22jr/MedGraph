@@ -1,0 +1,2 @@
+LM7-2 => peptide | max_score: 0.8308093547821045 | count: 4
+α-helix => protein | max_score: 0.5531560182571411 | count: 1

@@ -1,0 +1,12 @@
+rheumatoid arthritis => disease_disorder | max_score: 0.6589633822441101 | count: 1
+gastrointestinal side effects => side_effect | max_score: 0.8785273432731628 | count: 1
+skin => body_part | max_score: 0.6342477798461914 | count: 2
+microneedles => device | max_score: 0.8788251280784607 | count: 4
+mechanical strength => drug_strength | max_score: 0.5854447484016418 | count: 1
+melittin => drug | max_score: 0.6646922826766968 | count: 2
+RA => disease_disorder | max_score: 0.5690163373947144 | count: 1
+paw swelling => side_effect | max_score: 0.534053385257721 | count: 1
+therapeutic potency => drug_strength | max_score: 0.5460529923439026 | count: 1
+paws => body_part | max_score: 0.5674029588699341 | count: 1
+lymphatic organs => body_part | max_score: 0.8069208264350891 | count: 1
+regulatory CD4 T cells => cell | max_score: 0.5625565648078918 | count: 1

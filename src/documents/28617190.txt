@@ -1,0 +1,13 @@
+Heavy metal pollutants => environmental_factor | max_score: 0.7389939427375793 | count: 1
+metal-sensitive enzymes => enzyme | max_score: 0.921944797039032 | count: 1
+growth inhibition => biological_process | max_score: 0.5663015246391296 | count: 1
+plants => plant | max_score: 0.6905368566513062 | count: 2
+animals => organism | max_score: 0.6348935961723328 | count: 2
+metal-binding cysteine-rich peptides => peptide | max_score: 0.6663393974304199 | count: 1
+metallothioneins => peptide | max_score: 0.8080180287361145 | count: 1
+phytochelatins => enzyme | max_score: 0.7894653677940369 | count: 1
+defensins => peptide | max_score: 0.790798008441925 | count: 1
+bean => plant | max_score: 0.9428742527961731 | count: 1
+cadmium absorption => biological_process | max_score: 0.5100621581077576 | count: 1
+fully hydrated simulation box => device | max_score: 0.7074610590934753 | count: 1
+recombinant defensin => protein | max_score: 0.531706690788269 | count: 3

@@ -1,0 +1,9 @@
+contact lenses => device | max_score: 0.9088060855865479 | count: 7
+Contact lenses => device | max_score: 0.8538302183151245 | count: 1
+LKKLLKLLKKLLKL => peptide | max_score: 0.779102623462677 | count: 1
+IRIRIRIR => peptide | max_score: 0.8416256904602051 | count: 1
+IR => peptide | max_score: 0.5155064463615417 | count: 1
+room temperature => environmental_factor | max_score: 0.9827498197555542 | count: 1
+pH => environmental_factor | max_score: 0.8171963691711426 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9855603575706482 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9822226762771606 | count: 1

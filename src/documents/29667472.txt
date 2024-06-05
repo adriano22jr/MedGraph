@@ -1,0 +1,10 @@
+Selective vascular destruction => treatment | max_score: 0.6953166127204895 | count: 1
+pulsed dye laser => device | max_score: 0.9563084840774536 | count: 4
+right side => body_part | max_score: 0.6954895257949829 | count: 1
+left side => body_part | max_score: 0.7152994871139526 | count: 1
+severity score => severity | max_score: 0.8031613826751709 | count: 1
+Follow up => treatment_duration | max_score: 0.710975170135498 | count: 1
+three months => treatment_duration | max_score: 0.8216097354888916 | count: 1
+follow up => treatment_duration | max_score: 0.8405959606170654 | count: 1
+psoriasis => disease_disorder | max_score: 0.8782050013542175 | count: 1
+minimal side effects => side_effect | max_score: 0.5271157026290894 | count: 1

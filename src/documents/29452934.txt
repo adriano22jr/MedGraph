@@ -1,0 +1,11 @@
+EnkT => protein | max_score: 0.8654245138168335 | count: 4
+Ent53A => peptide | max_score: 0.6148741841316223 | count: 1
+Enterococcus faecium => bacteria | max_score: 0.9043916463851929 | count: 1
+Ent53C => peptide | max_score: 0.7118304967880249 | count: 6
+Lc => peptide | max_score: 0.6308168172836304 | count: 3
+point mutations => mutation | max_score: 0.8179707527160645 | count: 1
+truncations => mutation | max_score: 0.8312208652496338 | count: 1
+extensions => mutation | max_score: 0.6214942932128906 | count: 1
+antimicrobial activity => activity | max_score: 0.8621903657913208 | count: 2
+Ala substitution => mutation | max_score: 0.6677685976028442 | count: 1
+pediocin PA-1 => peptide | max_score: 0.6202062964439392 | count: 1

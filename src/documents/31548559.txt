@@ -1,0 +1,11 @@
+antifungals => drug | max_score: 0.5454859733581543 | count: 1
+Antimicrobial peptides => peptide | max_score: 0.506983757019043 | count: 1
+P-113Du => peptide | max_score: 0.886368453502655 | count: 2
+P-113Tri => peptide | max_score: 0.8507795333862305 | count: 2
+P-113 => peptide | max_score: 0.8250588774681091 | count: 1
+Candida albicans => fungus | max_score: 0.9887752532958984 | count: 1
+mitochondrial complex I => biological_process | max_score: 0.7608035802841187 | count: 3
+NADH dehydrogenase => enzyme | max_score: 0.9741233587265015 | count: 1
+electron transport chain => biological_process | max_score: 0.8929383158683777 | count: 1
+NADH dehydrogenases => enzyme | max_score: 0.7178141474723816 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5170108079910278 | count: 1

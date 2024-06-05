@@ -1,0 +1,12 @@
+A-12 => peptide | max_score: 0.7611892223358154 | count: 5
+UNA-12 => peptide | max_score: 0.8305147290229797 | count: 6
+trypsin => enzyme | max_score: 0.9700559377670288 | count: 1
+proteinase K => enzyme | max_score: 0.9760234355926514 | count: 1
+broad-spectrum antibacterial activity => activity | max_score: 0.7883550524711609 | count: 1
+MIC => lab_value | max_score: 0.7749414443969727 | count: 1
+methicillin resistant S. aureus => bacteria | max_score: 0.7817657589912415 | count: 1
+MRSA => bacteria | max_score: 0.6479443907737732 | count: 3
+methicillin-resistant S. epidermidis => bacteria | max_score: 0.8091952800750732 | count: 1
+MRSE => bacteria | max_score: 0.6144605278968811 | count: 1
+hRBCs => cell_line | max_score: 0.8808731436729431 | count: 1
+human keratinocytes => cell_line | max_score: 0.9017611742019653 | count: 1

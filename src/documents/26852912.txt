@@ -1,0 +1,10 @@
+Dairy products => diet | max_score: 0.7296980023384094 | count: 1
+bioactive peptides => peptide | max_score: 0.6620057225227356 | count: 2
+dairy products => diet | max_score: 0.7556132674217224 | count: 3
+anti-mutagenic => peptide | max_score: 0.5233344435691833 | count: 1
+antimicrobial => peptide | max_score: 0.5222623348236084 | count: 1
+opoid => peptide | max_score: 0.5423139333724976 | count: 1
+anti-thrombotic => peptide | max_score: 0.5072343349456787 | count: 1
+enzymatic hydrolysis => biological_process | max_score: 0.6564396619796753 | count: 1
+fermentation => biological_process | max_score: 0.5674419403076172 | count: 1
+gastrointestinal digestion => biological_process | max_score: 0.6406217813491821 | count: 1

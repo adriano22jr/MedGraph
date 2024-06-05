@@ -1,0 +1,16 @@
+host defense system => biological_process | max_score: 0.5668630003929138 | count: 1
+Arasin-like peptide => peptide | max_score: 0.6064931154251099 | count: 1
+LvArasin-like => peptide | max_score: 0.840141773223877 | count: 7
+hemocytes => cell_type | max_score: 0.9080734252929688 | count: 2
+pacific white shrimp => species | max_score: 0.642735481262207 | count: 1
+Litopenaeus vannamei => species | max_score: 0.9636676907539368 | count: 1
+signal peptide => peptide | max_score: 0.6215301156044006 | count: 1
+gills => body_part | max_score: 0.857020378112793 | count: 1
+LPS => peptide | max_score: 0.5449171662330627 | count: 1
+Poly I:C => peptide | max_score: 0.5205733776092529 | count: 1
+Vibrio parahaemolyticus => bacteria | max_score: 0.8870367407798767 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.945502519607544 | count: 1
+gram-negative bacteria => bacteria | max_score: 0.5345974564552307 | count: 1
+broad-spectrum antimicrobial activity => activity | max_score: 0.9365036487579346 | count: 1
+LvDorsal => protein | max_score: 0.57667076587677 | count: 1
+LvRelish => protein | max_score: 0.578352153301239 | count: 1

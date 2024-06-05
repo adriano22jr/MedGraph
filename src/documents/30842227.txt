@@ -1,0 +1,13 @@
+Colistin => antibiotic | max_score: 0.967150092124939 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9132117629051208 | count: 1
+colistin => antibiotic | max_score: 0.970873236656189 | count: 3
+mcr-1 => gene | max_score: 0.9706307053565979 | count: 1
+Escherichia coli => bacteria | max_score: 0.950570285320282 | count: 1
+multicentric study => study_design | max_score: 0.9020012617111206 | count: 1
+agar plates => device | max_score: 0.6400757431983948 | count: 1
+cassette => device | max_score: 0.740602433681488 | count: 1
+Migration => biological_process | max_score: 0.548991858959198 | count: 1
+specific band => immunologic_marker | max_score: 0.6320971250534058 | count: 1
+pink line => immunologic_marker | max_score: 0.7750334143638611 | count: 1
+MCR-4 => gene | max_score: 0.5505450963973999 | count: 1
+MCR-1 => gene | max_score: 0.9031030535697937 | count: 2

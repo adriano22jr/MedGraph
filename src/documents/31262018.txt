@@ -1,0 +1,14 @@
+LZ1 => peptide | max_score: 0.8562309145927429 | count: 6
+snake cathelicidin => drug | max_score: 0.5116803050041199 | count: 1
+antimalarial activity => biological_process | max_score: 0.7553001046180725 | count: 1
+Plasmodium falciparum => parasite | max_score: 0.8568469882011414 | count: 1
+P. falciparum => parasite | max_score: 0.6149383783340454 | count: 1
+IC50 value => lab_value | max_score: 0.8999271392822266 | count: 1
+antimalarial activity => activity | max_score: 0.6930880546569824 | count: 1
+Plasmodium berghei => parasite | max_score: 0.8327323794364929 | count: 1
+P. berghei => parasite | max_score: 0.6352060437202454 | count: 2
+glycolysis => biological_process | max_score: 0.683976948261261 | count: 1
+oxidative phosphorylation => biological_process | max_score: 0.7629197835922241 | count: 1
+erythrocytes => cell | max_score: 0.725768506526947 | count: 1
+parasite-infected erythrocyte => cell | max_score: 0.5778476595878601 | count: 1
+pyruvate kinase => enzyme | max_score: 0.9494876861572266 | count: 1

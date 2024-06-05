@@ -1,0 +1,13 @@
+flavonoids => compound | max_score: 0.6951073408126831 | count: 2
+plants => plant | max_score: 0.9793035984039307 | count: 2
+MDR bacteria => bacteria | max_score: 0.7174372673034668 | count: 1
+prenylation => biological_process | max_score: 0.7664899826049805 | count: 1
+α-mangostin => compound | max_score: 0.5647831559181213 | count: 1
+AMG => compound | max_score: 0.6904855370521545 | count: 3
+isobavachalcone => compound | max_score: 0.7667665481567383 | count: 1
+IBC => compound | max_score: 0.6701266765594482 | count: 3
+bactericidal activity => activity | max_score: 0.624608039855957 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.9370748400688171 | count: 1
+colistin => compound | max_score: 0.6324954628944397 | count: 1
+Gram-negative pathogens => bacteria | max_score: 0.8508670330047607 | count: 1
+phospholipids => molecule | max_score: 0.7245222926139832 | count: 1

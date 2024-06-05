@@ -1,0 +1,5 @@
+hBD-1 => gene | max_score: 0.5263219475746155 | count: 2
+PAC => disease_disorder | max_score: 0.5408275127410889 | count: 5
+patients => subject | max_score: 0.5480776429176331 | count: 2
+initial biopsy => diagnostic_procedure | max_score: 0.577517032623291 | count: 1
+basal cells => cell | max_score: 0.810523271560669 | count: 2

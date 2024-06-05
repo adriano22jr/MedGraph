@@ -1,0 +1,8 @@
+drug-resistant microbes => bacteria | max_score: 0.7990840673446655 | count: 2
+conventional antibiotics => antibiotic | max_score: 0.6333582997322083 | count: 1
+proteases => enzyme | max_score: 0.8535135984420776 | count: 1
+bioactivity => activity | max_score: 0.6831112504005432 | count: 2
+HMPI => peptide | max_score: 0.8726277351379395 | count: 6
+hemolytic activity => activity | max_score: 0.8950343132019043 | count: 2
+fungal cells => cell | max_score: 0.8981928825378418 | count: 1
+antifungal activity => activity | max_score: 0.8613155484199524 | count: 2

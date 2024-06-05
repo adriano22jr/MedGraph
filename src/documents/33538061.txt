@@ -1,0 +1,14 @@
+temporins => peptide | max_score: 0.6756983995437622 | count: 1
+TG => peptide | max_score: 0.6443487405776978 | count: 5
+influenza virus => virus | max_score: 0.9905536770820618 | count: 1
+hemagglutinin (HA) => protein | max_score: 0.5747290253639221 | count: 1
+HA => protein | max_score: 0.5898416042327881 | count: 2
+HA2 subunit => protein | max_score: 0.6499223709106445 | count: 1
+viral envelope fusion => biological_process | max_score: 0.5615493059158325 | count: 1
+host cell => cell | max_score: 0.7460352778434753 | count: 1
+parainfluenza virus => virus | max_score: 0.9726133346557617 | count: 1
+host cells => cell | max_score: 0.6485440135002136 | count: 1
+membrane-fusion process => biological_process | max_score: 0.52370285987854 | count: 1
+infected cells => cell | max_score: 0.5355527400970459 | count: 1
+supernatant => volume | max_score: 0.6647108197212219 | count: 1
+hemagglutinin/neuraminidase protein => protein | max_score: 0.6094692349433899 | count: 1

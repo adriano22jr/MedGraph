@@ -1,0 +1,15 @@
+Dental caries => disease_disorder | max_score: 0.6404774785041809 | count: 2
+acidogenic/aciduric bacteria => bacteria | max_score: 0.5859073400497437 | count: 1
+GH12 => peptide | max_score: 0.9424805045127869 | count: 10
+planktonic bacteria => bacteria | max_score: 0.5554880499839783 | count: 1
+Streptococcus mutans => bacteria | max_score: 0.8560861945152283 | count: 1
+Streptococcus gordonii => bacteria | max_score: 0.8465584516525269 | count: 1
+Streptococcus sanguinis => bacteria | max_score: 0.8300378322601318 | count: 1
+S. mutans => bacteria | max_score: 0.6476285457611084 | count: 5
+MIC => lab_value | max_score: 0.8743268847465515 | count: 1
+minimal bactericidal concentration (MBC) => lab_value | max_score: 0.8387487530708313 | count: 1
+mg/liter => volume | max_score: 0.5674381256103516 | count: 2
+biofilm formation => biological_process | max_score: 0.5789183378219604 | count: 1
+glucan synthesis => biological_process | max_score: 0.6839504241943359 | count: 1
+lactic acid production => biological_process | max_score: 0.720370888710022 | count: 1
+hydrogen peroxide production => biological_process | max_score: 0.5824050307273865 | count: 1

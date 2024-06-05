@@ -1,0 +1,10 @@
+DNA fibers => molecule | max_score: 0.575461745262146 | count: 1
+histones => protein | max_score: 0.6424616575241089 | count: 1
+enzymes => enzyme | max_score: 0.781570315361023 | count: 1
+anti-microbial peptides => peptide | max_score: 0.8360274434089661 | count: 1
+NETosis => biological_process | max_score: 0.8753535747528076 | count: 4
+DNA => molecule | max_score: 0.6931456327438354 | count: 1
+bacteria => bacteria | max_score: 0.732653021812439 | count: 1
+fungi => fungus | max_score: 0.9865553379058838 | count: 1
+helminth parasites => parasite | max_score: 0.9250255227088928 | count: 2
+parasites => parasite | max_score: 0.5879601836204529 | count: 2

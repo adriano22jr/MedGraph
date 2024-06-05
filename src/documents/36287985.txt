@@ -1,0 +1,11 @@
+Smp24 => peptide | max_score: 0.9658326506614685 | count: 5
+Scorpio => species | max_score: 0.5544250011444092 | count: 1
+Maurus palmatus => species | max_score: 0.809084415435791 | count: 1
+HepG2 => cell_line | max_score: 0.9763922691345215 | count: 5
+endocytosis => biological_process | max_score: 0.7946687340736389 | count: 1
+pore formation => biological_process | max_score: 0.7159560322761536 | count: 1
+cytoskeleton reorganization => biological_process | max_score: 0.7670924067497253 | count: 1
+ROS accumulation => biological_process | max_score: 0.7362048625946045 | count: 1
+mitochondrial dysfunction => biological_process | max_score: 0.7069486975669861 | count: 2
+apoptosis => biological_process | max_score: 0.5153859853744507 | count: 2
+protecting activity => activity | max_score: 0.6692309379577637 | count: 1

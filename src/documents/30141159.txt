@@ -1,0 +1,10 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.9203922748565674 | count: 1
+NDM-1 => enzyme | max_score: 0.7774155139923096 | count: 1
+OXA-232 => enzyme | max_score: 0.7936658263206482 | count: 1
+colistin => antibiotic | max_score: 0.9060718417167664 | count: 1
+fosfomycin => antibiotic | max_score: 0.8994867205619812 | count: 1
+tigecycline => antibiotic | max_score: 0.9195687770843506 | count: 1
+wzb gene => gene | max_score: 0.93598473072052 | count: 1
+capsular polysaccharide => molecule | max_score: 0.5170472860336304 | count: 1
+biofilm formation => biological_process | max_score: 0.571598470211029 | count: 1
+K. pneumoniae => bacteria | max_score: 0.8132028579711914 | count: 3

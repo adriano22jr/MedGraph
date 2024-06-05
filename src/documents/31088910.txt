@@ -1,0 +1,14 @@
+Toll signaling pathway => biological_process | max_score: 0.7375075221061707 | count: 1
+Drosophila melanogaster => bacteria | max_score: 0.8514754176139832 | count: 1
+Toll-1 => protein | max_score: 0.6725466847419739 | count: 8
+Drosophila S2 cell line => cell_line | max_score: 0.850803554058075 | count: 1
+Toll family => protein_family | max_score: 0.8019248843193054 | count: 2
+drosomycin => gene | max_score: 0.6420738697052002 | count: 3
+Toll-7 => protein | max_score: 0.577849268913269 | count: 5
+VSV => protein_family | max_score: 0.5880484580993652 | count: 1
+VSV => virus | max_score: 0.5353597402572632 | count: 2
+Enterococcus faecalis => bacteria | max_score: 0.9094741940498352 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9367673993110657 | count: 1
+Candida albicans => fungus | max_score: 0.9837018251419067 | count: 1
+adult females => sex | max_score: 0.8575577735900879 | count: 1
+males => sex | max_score: 0.9006245732307434 | count: 1

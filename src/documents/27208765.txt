@@ -1,0 +1,2 @@
+polymyxins => antibiotic | max_score: 0.7735275030136108 | count: 2
+Gram-negative pathogens => bacteria | max_score: 0.9133085012435913 | count: 1

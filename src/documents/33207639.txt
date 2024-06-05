@@ -1,0 +1,12 @@
+PuroA => peptide | max_score: 0.8259892463684082 | count: 5
+wheat => plant | max_score: 0.6410297751426697 | count: 1
+puroindoline A => protein | max_score: 0.760918378829956 | count: 1
+antimicrobial activities => activity | max_score: 0.5565134882926941 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.7611044049263 | count: 1
+MRSA => bacteria | max_score: 0.6988694667816162 | count: 2
+mammalian cells => cell_line | max_score: 0.7794907093048096 | count: 1
+P1 => peptide | max_score: 0.7490330338478088 | count: 2
+antimicrobial activity => activity | max_score: 0.6144349575042725 | count: 1
+W7 => peptide | max_score: 0.6095466613769531 | count: 1
+WW => peptide | max_score: 0.5623071193695068 | count: 1
+HeLa cells => cell_line | max_score: 0.9837520122528076 | count: 1

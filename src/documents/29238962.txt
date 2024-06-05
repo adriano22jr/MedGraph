@@ -1,0 +1,8 @@
+Polymyxin B => drug | max_score: 0.900026798248291 | count: 1
+Gram-negative bacterial infections => bacteria | max_score: 0.5968566536903381 | count: 1
+polymyxin B => drug | max_score: 0.9053174257278442 | count: 2
+total concentrations => lab_value | max_score: 0.7083823084831238 | count: 1
+clearance => lab_value | max_score: 0.8068186640739441 | count: 4
+volume of distribution (Vd ) => volume | max_score: 0.5888378024101257 | count: 1
+Vd => volume | max_score: 0.533547043800354 | count: 1
+34.3 ± 16.4 L => volume | max_score: 0.7204550504684448 | count: 1

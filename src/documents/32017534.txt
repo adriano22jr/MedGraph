@@ -1,0 +1,9 @@
+Cannabis sativa => plant | max_score: 0.994529664516449 | count: 1
+cannabinoids => drug | max_score: 0.7053446769714355 | count: 5
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.7690944671630859 | count: 1
+MRSA => bacteria | max_score: 0.7920077443122864 | count: 2
+stationary phase cells => cell | max_score: 0.5602726936340332 | count: 1
+cannabigerol => drug | max_score: 0.8402458429336548 | count: 3
+cytoplasmic membrane => body_part | max_score: 0.5655198097229004 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.8385084867477417 | count: 1
+polymyxin B => drug | max_score: 0.7230942249298096 | count: 1

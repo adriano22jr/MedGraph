@@ -1,0 +1,11 @@
+Entomopathogenic fungi => fungus | max_score: 0.9527416229248047 | count: 2
+insect hosts => organism | max_score: 0.6423742175102234 | count: 2
+behavior avoidance => biological_process | max_score: 0.5163476467132568 | count: 1
+innate immune defenses => biological_process | max_score: 0.6423855423927307 | count: 1
+physiological environment => environmental_factor | max_score: 0.5468522310256958 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8407292366027832 | count: 1
+reactive oxygen species => chemical_system | max_score: 0.5688886642456055 | count: 1
+innate immune responses => biological_process | max_score: 0.5094513297080994 | count: 1
+cellular immunity => biological_process | max_score: 0.6289733052253723 | count: 1
+humoral immunity => biological_process | max_score: 0.6954480409622192 | count: 1
+entomopathogenic fungi => fungus | max_score: 0.9672069549560547 | count: 2

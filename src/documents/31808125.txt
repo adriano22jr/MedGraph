@@ -1,0 +1,5 @@
+antibiotic therapy => treatment | max_score: 0.6442684531211853 | count: 1
+natural antimicrobial peptides => peptide | max_score: 0.630804181098938 | count: 1
+bacteriophages => virus | max_score: 0.8164485692977905 | count: 1
+live microbial vectors => organism | max_score: 0.5392572283744812 | count: 1
+antibiotics => antibiotic | max_score: 0.528499960899353 | count: 1

@@ -1,0 +1,5 @@
+antibacterial peptides => peptide | max_score: 0.5442653894424438 | count: 1
+ABPs => peptide | max_score: 0.679341733455658 | count: 6
+StaBle-ABPpred => device | max_score: 0.5076652765274048 | count: 1
+Streptococcus phage T12 => virus | max_score: 0.6135994791984558 | count: 1
+AMPs => peptide | max_score: 0.5470411777496338 | count: 1

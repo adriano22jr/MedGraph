@@ -1,0 +1,16 @@
+colistin => antibiotic | max_score: 0.6767776608467102 | count: 1
+colistin MIC => lab_value | max_score: 0.8185034990310669 | count: 4
+dipicolinic acid => antibiotic | max_score: 0.5812469124794006 | count: 1
+DPA => antibiotic | max_score: 0.5981448888778687 | count: 4
+colistin-MAC test => diagnostic_procedure | max_score: 0.5854240655899048 | count: 3
+900 μg/mL => volume | max_score: 0.6817043423652649 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.7108114957809448 | count: 1
+Escherichia coli => bacteria | max_score: 0.8818603754043579 | count: 1
+nine other species => bacteria | max_score: 0.556796133518219 | count: 1
+mcr-1-like genes => gene | max_score: 0.8174992203712463 | count: 1
+mcr genes => gene | max_score: 0.6675232648849487 | count: 1
+mcr-2-like genes => gene | max_score: 0.7648211717605591 | count: 1
+E. coli => bacteria | max_score: 0.6609010100364685 | count: 4
+Enterobacter cloacae complex => bacteria | max_score: 0.5613835453987122 | count: 1
+Citrobacter spp. => bacteria | max_score: 0.7486140131950378 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.8691036105155945 | count: 1

@@ -1,0 +1,13 @@
+antimicrobial compounds => compound | max_score: 0.6207444071769714 | count: 1
+pathogenic microorganisms => bacteria | max_score: 0.5869168043136597 | count: 1
+cereals => plant | max_score: 0.9861132502555847 | count: 1
+legumes => plant | max_score: 0.9723253846168518 | count: 1
+fruits => plant | max_score: 0.9661806225776672 | count: 1
+vegetables => plant | max_score: 0.9678235650062561 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6803234219551086 | count: 2
+broad spectrum antimicrobial activity => activity | max_score: 0.6879636645317078 | count: 1
+bacteria => bacteria | max_score: 0.8650241494178772 | count: 1
+fungi => fungus | max_score: 0.9871362447738647 | count: 1
+viruses => virus | max_score: 0.9627992510795593 | count: 1
+novel immunomodulatory activities => activity | max_score: 0.6985980868339539 | count: 1
+AMPs => peptide | max_score: 0.577786386013031 | count: 1

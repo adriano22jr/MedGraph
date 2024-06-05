@@ -1,0 +1,15 @@
+AMPs => peptide | max_score: 0.6217941045761108 | count: 2
+NF-κB => protein | max_score: 0.5420082211494446 | count: 2
+Dorsal => protein | max_score: 0.6603312492370605 | count: 1
+Dif => protein | max_score: 0.5595608353614807 | count: 1
+Relish => protein | max_score: 0.6490314602851868 | count: 2
+moricin promoter => gene | max_score: 0.8011228442192078 | count: 4
+tobacco hornworm => species | max_score: 0.5659560561180115 | count: 1
+Manduca sexta => species | max_score: 0.7793123126029968 | count: 1
+lysozyme promoter => gene | max_score: 0.7685734033584595 | count: 1
+moricin => gene | max_score: 0.5522524118423462 | count: 1
+lysozyme => gene | max_score: 0.5378139019012451 | count: 1
+Drosophila S2 cells => cell_line | max_score: 0.9227445721626282 | count: 1
+activity => activity | max_score: 0.5647463798522949 | count: 1
+moricin => peptide | max_score: 0.518034040927887 | count: 1
+non-infectious conditions => environmental_factor | max_score: 0.6342898607254028 | count: 1

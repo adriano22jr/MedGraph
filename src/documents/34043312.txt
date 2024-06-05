@@ -1,0 +1,9 @@
+immune response => biological_process | max_score: 0.7126290798187256 | count: 2
+Amp1L => peptide | max_score: 0.8735334277153015 | count: 1
+MSI-78 => peptide | max_score: 0.7815104126930237 | count: 1
+pexiganan => peptide | max_score: 0.6745977997779846 | count: 1
+Amp1EP => peptide | max_score: 0.8584280014038086 | count: 2
+MSIEP => peptide | max_score: 0.7649592757225037 | count: 2
+RAW 264.7 => cell_line | max_score: 0.8423645496368408 | count: 1
+THP-1 => cell_line | max_score: 0.8268400430679321 | count: 1
+human red blood cells (hRBCs) => cell_line | max_score: 0.7427992820739746 | count: 1

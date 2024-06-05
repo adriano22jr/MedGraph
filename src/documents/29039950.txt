@@ -1,0 +1,5 @@
+Pep-1 => peptide | max_score: 0.9570406675338745 | count: 8
+combi-2 => peptide | max_score: 0.8881018757820129 | count: 8
+Escherichia coli => bacteria | max_score: 0.8736515045166016 | count: 1
+E. coli => bacteria | max_score: 0.9338774085044861 | count: 9
+Combi-2 => peptide | max_score: 0.8295938372612 | count: 1

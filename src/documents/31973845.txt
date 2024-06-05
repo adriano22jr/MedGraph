@@ -1,0 +1,11 @@
+Colletotrichum gloeosporioides => fungus | max_score: 0.8669710159301758 | count: 1
+Lipopeptides => peptide | max_score: 0.8074722290039062 | count: 1
+iturin family => protein_family | max_score: 0.9466367959976196 | count: 1
+Bacillus subtilis => bacteria | max_score: 0.9567421674728394 | count: 1
+Bacillus amyloliquefaciens => bacteria | max_score: 0.9530880451202393 | count: 1
+Bacillus velezensis => bacteria | max_score: 0.9181026816368103 | count: 1
+bacillomycin D => antibiotic | max_score: 0.8737543821334839 | count: 6
+median inhibitory concentration => lab_value | max_score: 0.697039008140564 | count: 1
+Bacillomycin D => antibiotic | max_score: 0.8295580744743347 | count: 1
+prochloraz => antibiotic | max_score: 0.7049471735954285 | count: 1
+mancozeb => antibiotic | max_score: 0.6939858794212341 | count: 1

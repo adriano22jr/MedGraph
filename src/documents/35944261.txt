@@ -1,0 +1,8 @@
+Respiratory syncytial virus => virus | max_score: 0.8340176343917847 | count: 1
+RSV => virus | max_score: 0.9525867104530334 | count: 7
+antimicrobial peptides => peptide | max_score: 0.5909446477890015 | count: 1
+LL-37 => peptide | max_score: 0.9317536354064941 | count: 3
+human beta-defensins (hBDs) => protein | max_score: 0.5120337009429932 | count: 1
+hBD-1 => peptide | max_score: 0.7731931209564209 | count: 2
+hBD-3 => peptide | max_score: 0.7092729806900024 | count: 2
+hBD-4 => peptide | max_score: 0.804401159286499 | count: 2

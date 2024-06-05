@@ -1,0 +1,7 @@
+PmrA => protein | max_score: 0.9365015625953674 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.8735899329185486 | count: 1
+KP => bacteria | max_score: 0.5497509241104126 | count: 2
+E1 => drug | max_score: 0.660258412361145 | count: 2
+IC50 => lab_value | max_score: 0.8912685513496399 | count: 1
+KD => lab_value | max_score: 0.8385897874832153 | count: 1
+polymyxin B => antibiotic | max_score: 0.7408595681190491 | count: 1

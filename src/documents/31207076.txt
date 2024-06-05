@@ -1,0 +1,9 @@
+Streptococcus mutans => bacteria | max_score: 0.8932170867919922 | count: 1
+S. mutans => bacteria | max_score: 0.8694936037063599 | count: 6
+oral cavity => anatomical_system | max_score: 0.8299781084060669 | count: 1
+antimicrobial activity => activity | max_score: 0.6867358684539795 | count: 1
+LR-10 => peptide | max_score: 0.9658763408660889 | count: 7
+physiological conditions => environmental_factor | max_score: 0.8392264246940613 | count: 1
+chlorhexidine => antibiotic | max_score: 0.9417287707328796 | count: 1
+erythromycin => antibiotic | max_score: 0.9424135684967041 | count: 1
+biofilm-encased cells => cell | max_score: 0.6163336634635925 | count: 1

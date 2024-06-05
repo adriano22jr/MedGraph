@@ -1,0 +1,12 @@
+HNPs => peptide | max_score: 0.6241963505744934 | count: 4
+HNP-1 => peptide | max_score: 0.8823384642601013 | count: 9
+wild-type mice => species | max_score: 0.7041017413139343 | count: 1
+histological scores => medical_term | max_score: 0.5186301469802856 | count: 1
+C57BL/6N => species | max_score: 0.5894927978515625 | count: 1
+BALB/c mice => species | max_score: 0.7558097839355469 | count: 1
+IL-1β => peptide | max_score: 0.6604813933372498 | count: 1
+TNF-α => peptide | max_score: 0.6276364922523499 | count: 1
+IL-6 => peptide | max_score: 0.6444296836853027 | count: 1
+IL-10 => peptide | max_score: 0.7135084867477417 | count: 1
+colonic lamina propria mononuclear cells => cell_type | max_score: 0.6887243986129761 | count: 1
+heat-killed Escherichia coli => species | max_score: 0.6774210333824158 | count: 1

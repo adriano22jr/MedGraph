@@ -1,0 +1,6 @@
+antimicrobial host defense peptides => peptide | max_score: 0.621421754360199 | count: 1
+AMPs => peptide | max_score: 0.7713658213615417 | count: 4
+phospholipids => molecule | max_score: 0.7649821043014526 | count: 1
+phospholipid headgroups => molecule | max_score: 0.5206335186958313 | count: 1
+acyl chains => molecule | max_score: 0.5023077130317688 | count: 1
+mammalian cells => cell | max_score: 0.740648627281189 | count: 1

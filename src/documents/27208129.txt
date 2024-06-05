@@ -1,0 +1,8 @@
+HBD3 => peptide | max_score: 0.8640360236167908 | count: 9
+beer-spoiling bacteria => bacteria | max_score: 0.8955663442611694 | count: 1
+antimicrobial activity => activity | max_score: 0.7221880555152893 | count: 4
+plant origin => plant | max_score: 0.7075453400611877 | count: 1
+antimicrobial activities => activity | max_score: 0.6428788304328918 | count: 1
+fabatin-2 => peptide | max_score: 0.9677177667617798 | count: 2
+Cp-thionin-2 => peptide | max_score: 0.9395999908447266 | count: 2
+O3TR => peptide | max_score: 0.8483446836471558 | count: 2

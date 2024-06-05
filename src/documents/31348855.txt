@@ -1,0 +1,8 @@
+NDI => compound | max_score: 0.6574887037277222 | count: 2
+NDI-1 => compound | max_score: 0.8564982414245605 | count: 4
+NDI-2 => compound | max_score: 0.8623950481414795 | count: 5
+NDI-3 => compound | max_score: 0.8476981520652771 | count: 3
+NDI-2a => compound | max_score: 0.8468146920204163 | count: 3
+hydrazide group => compound | max_score: 0.6284298896789551 | count: 3
+pyridine => compound | max_score: 0.5419813394546509 | count: 1
+DPPE liposome => compound | max_score: 0.5647392272949219 | count: 2

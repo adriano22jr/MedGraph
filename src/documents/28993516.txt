@@ -1,0 +1,12 @@
+IDR-1002 => peptide | max_score: 0.6983840465545654 | count: 5
+RAW 264.7 murine monocyte/macrophage cells => cell_line | max_score: 0.8695904016494751 | count: 1
+LPS => peptide | max_score: 0.5157777070999146 | count: 1
+Topical IDR-1002 treatment => treatment | max_score: 0.7487106919288635 | count: 1
+proinflammatory cytokine production => biological_process | max_score: 0.6823222041130066 | count: 1
+reactive oxygen and nitrogen species release => biological_process | max_score: 0.620100200176239 | count: 1
+neutrophil recruitment => biological_process | max_score: 0.6449244022369385 | count: 1
+CD1 mice => species | max_score: 0.9283539056777954 | count: 1
+G protein-coupled receptors => protein | max_score: 0.6070444583892822 | count: 1
+class A/1 rhodopsin-like => protein | max_score: 0.5687109231948853 | count: 1
+chemokines => protein | max_score: 0.5694500207901001 | count: 1
+platelet activating factor => protein | max_score: 0.542153537273407 | count: 1

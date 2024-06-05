@@ -1,0 +1,5 @@
+AMP => peptide | max_score: 0.5664564371109009 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.9365774989128113 | count: 1
+horseradish peroxidase => enzyme | max_score: 0.9789702296257019 | count: 1
+polymeric membrane ion-selective electrode => device | max_score: 0.9002878069877625 | count: 1
+CFU mL-1 => volume | max_score: 0.8265756368637085 | count: 2

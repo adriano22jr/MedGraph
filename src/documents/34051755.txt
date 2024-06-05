@@ -1,0 +1,5 @@
+ACPs => peptide | max_score: 0.7649335861206055 | count: 9
+cancer cells => cell | max_score: 0.5669957995414734 | count: 1
+computational tools => device | max_score: 0.5621944665908813 | count: 1
+AMPs => peptide | max_score: 0.6770268678665161 | count: 4
+whole peptides => peptide | max_score: 0.5131160616874695 | count: 2

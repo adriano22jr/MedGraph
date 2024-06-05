@@ -1,0 +1,14 @@
+humans => species | max_score: 0.8093222379684448 | count: 1
+Candida albicans => fungus | max_score: 0.9681472778320312 | count: 1
+cathelicidin-BF => peptide | max_score: 0.9570686221122742 | count: 4
+Pc-CATH1 => peptide | max_score: 0.9285284280776978 | count: 1
+Cc-CATH2 => peptide | max_score: 0.882818341255188 | count: 1
+Cc-CATH3 => peptide | max_score: 0.8942538499832153 | count: 1
+C. albicans => fungus | max_score: 0.9000498652458191 | count: 4
+amphotericin B => antibiotic | max_score: 0.8286701440811157 | count: 1
+LL-37 => drug | max_score: 0.6857823729515076 | count: 1
+MIC values => lab_value | max_score: 0.912691593170166 | count: 1
+hemolytic activity => activity | max_score: 0.7344691157341003 | count: 1
+HC50 => lab_value | max_score: 0.8333216309547424 | count: 1
+anti-C. albicans activity => activity | max_score: 0.7051801085472107 | count: 2
+antibiofilm activity => activity | max_score: 0.8142960071563721 | count: 1

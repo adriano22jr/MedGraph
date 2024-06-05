@@ -1,0 +1,15 @@
+Naegleria fowleri => parasite | max_score: 0.8985177874565125 | count: 1
+central nervous system => anatomical_system | max_score: 0.8594452738761902 | count: 1
+N. fowleri => parasite | max_score: 0.6605883836746216 | count: 3
+Toll-like receptors => protein | max_score: 0.6559887528419495 | count: 1
+human mucoepithelial cells => cell_type | max_score: 0.8315039873123169 | count: 1
+NCI-H292 cells => cell_line | max_score: 0.9788452386856079 | count: 1
+IL-8 => protein | max_score: 0.7763615250587463 | count: 1
+TNF-α => protein | max_score: 0.7952548265457153 | count: 1
+IL-1β => protein | max_score: 0.7923785448074341 | count: 1
+human beta defensin-2 => protein | max_score: 0.7212226986885071 | count: 1
+IMG-2005 => drug | max_score: 0.7594400644302368 | count: 1
+MyD88 => protein | max_score: 0.7879307866096497 | count: 1
+BAY 11-7085 => drug | max_score: 0.7698983550071716 | count: 1
+nuclear factor NFkB => protein | max_score: 0.6935757994651794 | count: 1
+TLR4 => protein | max_score: 0.5372005105018616 | count: 1

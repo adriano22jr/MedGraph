@@ -1,0 +1,11 @@
+transporters => protein | max_score: 0.627458930015564 | count: 4
+Gram-positive bacteria => bacteria | max_score: 0.7445840835571289 | count: 2
+BceAB-like systems => protein_family | max_score: 0.8294421434402466 | count: 1
+peptide antibiotics => antibiotic | max_score: 0.6310921311378479 | count: 1
+lipid II cycle => biological_process | max_score: 0.8010900616645813 | count: 2
+cell wall synthesis => biological_process | max_score: 0.8240525722503662 | count: 3
+BceAB => protein | max_score: 0.7687321901321411 | count: 1
+Bacillus subtilis => bacteria | max_score: 0.9642284512519836 | count: 1
+bacitracin => antibiotic | max_score: 0.7748796343803406 | count: 1
+transport activity => activity | max_score: 0.5222771763801575 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5817919373512268 | count: 1

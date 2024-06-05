@@ -1,0 +1,5 @@
+NRPSs => protein_family | max_score: 0.5374410152435303 | count: 1
+Xenorhabdus bovienii => bacteria | max_score: 0.9634273052215576 | count: 1
+PaxA/B/C => protein | max_score: 0.8903149366378784 | count: 1
+PaxB => protein | max_score: 0.8828350901603699 | count: 2
+PaxC => protein | max_score: 0.8377777934074402 | count: 2

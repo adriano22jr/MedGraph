@@ -1,0 +1,11 @@
+commercially important mariculture fish species => species | max_score: 0.5445839166641235 | count: 1
+antibiotics => drug | max_score: 0.5152460336685181 | count: 1
+environmentally harmful => environmental_factor | max_score: 0.728013277053833 | count: 1
+Piscidins => drug | max_score: 0.5937365293502808 | count: 1
+C. irritans => parasite | max_score: 0.604734480381012 | count: 1
+piscidins => antibiotic | max_score: 0.6447022557258606 | count: 1
+unigenes => gene | max_score: 0.7969440817832947 | count: 5
+Larimichthys crocea => species | max_score: 0.7633806467056274 | count: 1
+tissue from host => tissue | max_score: 0.7513720989227295 | count: 1
+vesicular transports => biological_process | max_score: 0.6385800242424011 | count: 1
+regulatory transcripts => molecule | max_score: 0.5469518899917603 | count: 1

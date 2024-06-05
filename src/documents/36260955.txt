@@ -1,0 +1,5 @@
+RGD peptides => peptide | max_score: 0.7165541648864746 | count: 1
+integrin αVβ<sub>3</sub> => protein | max_score: 0.7628242373466492 | count: 1
+angiogenic blood vessels => anatomical_system | max_score: 0.650726854801178 | count: 1
+αVβ<sub>3</sub> => protein | max_score: 0.6585668921470642 | count: 1
+HepG2 => cell_line | max_score: 0.97879558801651 | count: 1

@@ -1,0 +1,6 @@
+ergot alkaloids => drug | max_score: 0.5433067679405212 | count: 1
+filamentous fungi => fungus | max_score: 0.9563955068588257 | count: 1
+rye => plant | max_score: 0.9967514276504517 | count: 1
+penicillins => drug | max_score: 0.6945668458938599 | count: 1
+peptidic natural products => compound | max_score: 0.5314733386039734 | count: 1
+antimicrobial activity => activity | max_score: 0.816866397857666 | count: 1

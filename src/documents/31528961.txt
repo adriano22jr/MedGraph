@@ -1,0 +1,6 @@
+AMPs => antibiotic | max_score: 0.7197850346565247 | count: 3
+electrostatic interactions => biological_process | max_score: 0.5942675471305847 | count: 1
+bacteria => bacteria | max_score: 0.8145255446434021 | count: 2
+membrane-peptide systems => chemical_system | max_score: 0.838575005531311 | count: 1
+lipid demixing => biological_process | max_score: 0.7030598521232605 | count: 1
+peptide-peptide interactions => biological_process | max_score: 0.6208492517471313 | count: 1

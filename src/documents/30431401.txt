@@ -1,0 +1,11 @@
+Enterobacteriaceae => bacteria | max_score: 0.8002357482910156 | count: 2
+EDTA => antibiotic | max_score: 0.5381234884262085 | count: 1
+dipicolinic acid => antibiotic | max_score: 0.5152844190597534 | count: 1
+mcr-5 => gene | max_score: 0.5811000466346741 | count: 1
+Escherichia coli => bacteria | max_score: 0.9508888125419617 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9654674530029297 | count: 1
+Salmonella spp. => bacteria | max_score: 0.9558185935020447 | count: 2
+MIC => lab_value | max_score: 0.7997666597366333 | count: 2
+E. coli => bacteria | max_score: 0.6554023027420044 | count: 3
+K. pneumoniae => bacteria | max_score: 0.5374992489814758 | count: 1
+specificity [SP] => lab_value | max_score: 0.5378879904747009 | count: 1

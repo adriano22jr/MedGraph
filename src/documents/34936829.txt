@@ -1,0 +1,7 @@
+LL-37 => peptide | max_score: 0.7290590405464172 | count: 2
+type 2 diabetes => disease_disorder | max_score: 0.5336288213729858 | count: 3
+January 2019 => date | max_score: 0.9816142320632935 | count: 1
+April 2021 => date | max_score: 0.9886580109596252 | count: 1
+total antioxidant capacity => lab_value | max_score: 0.509986162185669 | count: 1
+superoxide dismutase => enzyme | max_score: 0.9058985710144043 | count: 1
+catalase => enzyme | max_score: 0.9112199544906616 | count: 1

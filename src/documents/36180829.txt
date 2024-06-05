@@ -1,0 +1,11 @@
+colistin => antibiotic | max_score: 0.8962618708610535 | count: 7
+Enterobacteriaceae => bacteria | max_score: 0.7313894629478455 | count: 1
+mcr genes => gene | max_score: 0.8790108561515808 | count: 1
+mcr-9 => gene | max_score: 0.9505877494812012 | count: 5
+Enterobacter asburiae => bacteria | max_score: 0.9142366051673889 | count: 1
+blaIMP-60 => gene | max_score: 0.9090920686721802 | count: 1
+pleural fluid => body_part | max_score: 0.8453119397163391 | count: 1
+E-test => diagnostic_procedure | max_score: 0.7646998763084412 | count: 1
+disk diffusion test => diagnostic_procedure | max_score: 0.7634379863739014 | count: 1
+Antibiotic susceptibility testing => diagnostic_procedure | max_score: 0.5081145763397217 | count: 1
+broth microdilution => diagnostic_procedure | max_score: 0.6888161301612854 | count: 1

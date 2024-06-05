@@ -1,0 +1,11 @@
+colistin => antibiotic | max_score: 0.652222752571106 | count: 2
+mcr-1 => gene | max_score: 0.9641293287277222 | count: 2
+Escherichia coli => bacteria | max_score: 0.8761886954307556 | count: 1
+MS8345 => bacteria | max_score: 0.8817188739776611 | count: 5
+serotype O2:K1:H4 => bacteria | max_score: 0.6590977311134338 | count: 1
+blaCTX-M-1 => gene | max_score: 0.9646884799003601 | count: 1
+ColV-like virulence plasmid => molecule | max_score: 0.5846140384674072 | count: 1
+E. coli => bacteria | max_score: 0.6856572031974792 | count: 2
+neonatal meningitis => disease_disorder | max_score: 0.7624965906143188 | count: 2
+ST95 => bacteria | max_score: 0.5014536380767822 | count: 1
+E. coli ST95 => bacteria | max_score: 0.6252052783966064 | count: 1

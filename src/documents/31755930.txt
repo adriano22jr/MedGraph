@@ -1,0 +1,15 @@
+colistin => antibiotic | max_score: 0.7117353081703186 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8134433031082153 | count: 1
+Escherichia coli => bacteria | max_score: 0.90590900182724 | count: 1
+chicken => bacteria | max_score: 0.5281103849411011 | count: 1
+E. coli => bacteria | max_score: 0.7842623591423035 | count: 5
+mcr-1 gene => gene | max_score: 0.9449645280838013 | count: 1
+antibiotic susceptibility testing => diagnostic_procedure | max_score: 0.5015578269958496 | count: 1
+CIP/CN/SXT/TE => gene | max_score: 0.5391088724136353 | count: 1
+tet => gene | max_score: 0.8822921514511108 | count: 1
+qnr => gene | max_score: 0.8804038763046265 | count: 1
+sul => gene | max_score: 0.8981336951255798 | count: 1
+dfr => gene | max_score: 0.8679977655410767 | count: 1
+phylogroup C => bacteria | max_score: 0.7349968552589417 | count: 1
+phylogroup D => bacteria | max_score: 0.7090862989425659 | count: 1
+Inc FIB => gene | max_score: 0.5643012523651123 | count: 1

@@ -1,0 +1,9 @@
+Biomembrane order => biological_process | max_score: 0.7688632011413574 | count: 1
+dynamics => biological_process | max_score: 0.7122778296470642 | count: 1
+cholesterol => molecule | max_score: 0.7497960329055786 | count: 6
+mammalian cell membranes => cell | max_score: 0.6272308230400085 | count: 1
+biomembrane functions => biological_process | max_score: 0.7267647385597229 | count: 1
+lipid-protein interactions => biological_process | max_score: 0.608491837978363 | count: 1
+raft-like mixtures => biological_process | max_score: 0.5144933462142944 | count: 1
+drug delivery applications => biological_process | max_score: 0.5534425973892212 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6501981019973755 | count: 1

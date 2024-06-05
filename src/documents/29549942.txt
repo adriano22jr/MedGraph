@@ -1,0 +1,5 @@
+ciprofloxacin => antibiotic | max_score: 0.8668163418769836 | count: 2
+gram-negative bacterium => bacteria | max_score: 0.7714024186134338 | count: 1
+polymyxin B => antibiotic | max_score: 0.7120445370674133 | count: 3
+drug loading system => chemical_system | max_score: 0.5444929003715515 | count: 1
+gram-positive bacteria => bacteria | max_score: 0.6201186776161194 | count: 1

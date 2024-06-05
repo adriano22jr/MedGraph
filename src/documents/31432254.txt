@@ -1,0 +1,11 @@
+Bacillus => bacteria | max_score: 0.5313211679458618 | count: 1
+antimicrobial compounds => compound | max_score: 0.5032563805580139 | count: 1
+Virgibacillus species => bacteria | max_score: 0.7687838673591614 | count: 1
+lanthipeptide => peptide | max_score: 0.8395534157752991 | count: 2
+salivaricin A => peptide | max_score: 0.6607025265693665 | count: 1
+lacticin A => peptide | max_score: 0.6977598071098328 | count: 1
+virgicin => peptide | max_score: 0.8438551425933838 | count: 2
+Gram-positive bacteria => bacteria | max_score: 0.8197321891784668 | count: 1
+Enterococcus faecalis => bacteria | max_score: 0.9165627956390381 | count: 1
+biofilm formation => biological_process | max_score: 0.5589560866355896 | count: 1
+hydroxyapatite discs => device | max_score: 0.6621132493019104 | count: 1

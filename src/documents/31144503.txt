@@ -1,0 +1,12 @@
+Piscidins => peptide | max_score: 0.78919917345047 | count: 1
+pH => environmental_factor | max_score: 0.5639928579330444 | count: 2
+p1 => peptide | max_score: 0.8853438496589661 | count: 6
+p3 => peptide | max_score: 0.8465089201927185 | count: 4
+piscidins => peptide | max_score: 0.7886569499969482 | count: 1
+H3 => peptide | max_score: 0.7916617393493652 | count: 1
+H4 => peptide | max_score: 0.7634890079498291 | count: 1
+H11 => peptide | max_score: 0.7655985355377197 | count: 1
+H17 => peptide | max_score: 0.806445300579071 | count: 3
+permeabilization ability => activity | max_score: 0.6402364373207092 | count: 1
+histidines => peptide | max_score: 0.505129337310791 | count: 1
+neutral pH => environmental_factor | max_score: 0.6404767036437988 | count: 1

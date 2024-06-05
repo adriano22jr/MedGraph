@@ -1,0 +1,11 @@
+LPS => molecule | max_score: 0.5215989351272583 | count: 3
+skin secretions => body_part | max_score: 0.8180500268936157 | count: 2
+peptide 1 => peptide | max_score: 0.7694419622421265 | count: 3
+KINRKGPRPPG => peptide | max_score: 0.6630569100379944 | count: 1
+peptide 2 => peptide | max_score: 0.5837066173553467 | count: 1
+INRKGPRPPG => peptide | max_score: 0.748662531375885 | count: 1
+Chinese red belly frog => species | max_score: 0.8396491408348083 | count: 1
+Bombina maxima => species | max_score: 0.944330096244812 | count: 1
+LPS-binding activity => activity | max_score: 0.6653279662132263 | count: 1
+immunoregulatory functions => molecular_function | max_score: 0.8344907164573669 | count: 1
+LPS => peptide | max_score: 0.6208993196487427 | count: 1

@@ -1,0 +1,8 @@
+bacteria => bacteria | max_score: 0.5041130185127258 | count: 1
+colicins => protein | max_score: 0.8960710763931274 | count: 2
+bacterial cells => cell | max_score: 0.726744532585144 | count: 1
+α-helix H1 => protein | max_score: 0.8005532026290894 | count: 1
+colicin U => protein | max_score: 0.8879000544548035 | count: 2
+Shigella boydii => bacteria | max_score: 0.9618543982505798 | count: 1
+membrane permeation => biological_process | max_score: 0.5286827683448792 | count: 1
+membrane poration => biological_process | max_score: 0.6462906002998352 | count: 1

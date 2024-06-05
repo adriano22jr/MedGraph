@@ -1,0 +1,8 @@
+horine => peptide | max_score: 0.8910859227180481 | count: 1
+verine-L => peptide | max_score: 0.842924177646637 | count: 1
+S. aureus => bacteria | max_score: 0.9693236351013184 | count: 3
+E. coli => bacteria | max_score: 0.972527265548706 | count: 3
+membrane permeabilization => biological_process | max_score: 0.6294838190078735 | count: 2
+lipid flip-flop => biological_process | max_score: 0.7465065717697144 | count: 1
+molecular packing => biological_process | max_score: 0.5834791660308838 | count: 1
+lateral lipid segregation => biological_process | max_score: 0.6980991959571838 | count: 1

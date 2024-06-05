@@ -1,0 +1,12 @@
+phosphoethanolamine transferases => gene | max_score: 0.9004218578338623 | count: 1
+colistin => antibiotic | max_score: 0.9578053951263428 | count: 2
+Enterobacteriaceae species => species | max_score: 0.5240198969841003 | count: 1
+Avian Pathogenic E. coli => bacteria | max_score: 0.742652416229248 | count: 1
+APEC => bacteria | max_score: 0.5445786714553833 | count: 2
+colibacillosis => disease_disorder | max_score: 0.5925258994102478 | count: 1
+APECA2 => bacteria | max_score: 0.6062396168708801 | count: 2
+2016 => date | max_score: 0.9535717368125916 | count: 1
+post-mortem examination => diagnostic_procedure | max_score: 0.5508983135223389 | count: 1
+mcr-1 gene => gene | max_score: 0.9626316428184509 | count: 1
+mobile genetic element => molecule | max_score: 0.6188340783119202 | count: 1
+IncHI2/ST4 plasmid => molecule | max_score: 0.6182827353477478 | count: 1

@@ -1,0 +1,10 @@
+HDPs => peptide | max_score: 0.6874871253967285 | count: 3
+Dietary modulation => diet | max_score: 0.8787246942520142 | count: 1
+HDP => peptide | max_score: 0.6782035827636719 | count: 9
+Lactobacillus plantarum => bacteria | max_score: 0.7590659856796265 | count: 1
+L. plantarum => bacteria | max_score: 0.6833922266960144 | count: 7
+piglet intestinal tissue => tissue | max_score: 0.9352791905403137 | count: 1
+IPEC-J2 cells => cell_line | max_score: 0.9394654035568237 | count: 3
+3D4/31 cells => cell_line | max_score: 0.9373721480369568 | count: 2
+in vitro => study_design | max_score: 0.5996156334877014 | count: 2
+activity => activity | max_score: 0.5659530162811279 | count: 1

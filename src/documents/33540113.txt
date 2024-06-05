@@ -1,0 +1,6 @@
+nebulized colistin => antibiotic | max_score: 0.8403864502906799 | count: 6
+retrospective => study_design | max_score: 0.6611670255661011 | count: 1
+multi-centre => study_design | max_score: 0.5982416868209839 | count: 1
+cohort study => study_design | max_score: 0.7276126742362976 | count: 1
+nosocomial pneumonia => disease_disorder | max_score: 0.6091076731681824 | count: 1
+colistin-susceptible CR-GNB => bacteria | max_score: 0.7215384244918823 | count: 1

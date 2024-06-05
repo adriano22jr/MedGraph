@@ -1,0 +1,12 @@
+Aedes aegypti => species | max_score: 0.6855964064598083 | count: 1
+chikungunya => virus | max_score: 0.8667943477630615 | count: 2
+dengue => virus | max_score: 0.8307637572288513 | count: 1
+yellow fever => virus | max_score: 0.7981659770011902 | count: 1
+Zika => virus | max_score: 0.8862410187721252 | count: 1
+innate immune system => biological_process | max_score: 0.7611729502677917 | count: 2
+invertebrates => species | max_score: 0.535635232925415 | count: 1
+vertebrates => species | max_score: 0.5764645338058472 | count: 1
+plants => plant | max_score: 0.9051556587219238 | count: 1
+Ae. aegypti => species | max_score: 0.5821061134338379 | count: 3
+chikungunya virus => virus | max_score: 0.8992417454719543 | count: 2
+immune-related enzymes => enzyme | max_score: 0.693512499332428 | count: 1

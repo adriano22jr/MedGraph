@@ -1,0 +1,6 @@
+Ixodes ricinus => species | max_score: 0.8515827059745789 | count: 1
+I. ricinus => species | max_score: 0.7221187949180603 | count: 5
+Ixodes inopinatus => species | max_score: 0.8309179544448853 | count: 1
+mt 16S rDNA => molecule | max_score: 0.6896228194236755 | count: 2
+defensin => gene | max_score: 0.9354547262191772 | count: 3
+I. inopinatus => species | max_score: 0.7464764714241028 | count: 3

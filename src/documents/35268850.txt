@@ -1,0 +1,10 @@
+multidrug resistant bacteria => bacteria | max_score: 0.8013191819190979 | count: 1
+AMPs => peptide | max_score: 0.558803379535675 | count: 1
+physiological environments => environmental_factor | max_score: 0.9656270742416382 | count: 1
+cell-penetrating peptides => peptide | max_score: 0.5202857851982117 | count: 1
+oligourea => peptide | max_score: 0.516631007194519 | count: 1
+activity => activity | max_score: 0.5153183937072754 | count: 1
+Gram-positive => bacteria | max_score: 0.6948273777961731 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9200993180274963 | count: 1
+fungi => fungus | max_score: 0.9828835129737854 | count: 1
+antibacterial activities => activity | max_score: 0.774850606918335 | count: 1

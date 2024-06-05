@@ -1,0 +1,13 @@
+Granulomatous diseases => disease_disorder | max_score: 0.7332573533058167 | count: 1
+Streptococcus spp. => bacteria | max_score: 0.9732818007469177 | count: 1
+Mycobacterium sp. => bacteria | max_score: 0.9776749014854431 | count: 1
+Nocardia sp. => bacteria | max_score: 0.9732592105865479 | count: 1
+Francisella sp. => bacteria | max_score: 0.9826292991638184 | count: 1
+Staphylococcus sp. => bacteria | max_score: 0.9819473028182983 | count: 1
+scientific research => activity | max_score: 0.5019388198852539 | count: 1
+transferrin => peptide | max_score: 0.7040212750434875 | count: 1
+antiproteases => peptide | max_score: 0.6856477856636047 | count: 1
+lysozyme => enzyme | max_score: 0.8405046463012695 | count: 1
+antimicrobial peptides => peptide | max_score: 0.860625147819519 | count: 1
+non-phagocytic host cells => cell_type | max_score: 0.6886493563652039 | count: 1
+granulomatous diseases => disease_disorder | max_score: 0.7154126167297363 | count: 3

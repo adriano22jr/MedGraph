@@ -1,0 +1,10 @@
+Defensins => peptide | max_score: 0.8487898707389832 | count: 1
+host defense peptides => peptide | max_score: 0.5330973267555237 | count: 1
+innate immunity => biological_process | max_score: 0.7916826605796814 | count: 1
+defensins => peptide | max_score: 0.9060679078102112 | count: 13
+non-defensins => peptide | max_score: 0.6378007531166077 | count: 3
+AMPs => peptide | max_score: 0.7650905251502991 | count: 4
+antimicrobial peptides => peptide | max_score: 0.5473257899284363 | count: 1
+Cys => peptide | max_score: 0.7881375551223755 | count: 1
+Arg => peptide | max_score: 0.8291345834732056 | count: 1
+Tyr => peptide | max_score: 0.8078389763832092 | count: 1

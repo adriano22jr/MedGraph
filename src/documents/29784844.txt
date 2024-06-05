@@ -1,0 +1,9 @@
+topical polymyxin => antibiotic | max_score: 0.8202453255653381 | count: 3
+ventilator-associated pneumonia => disease_disorder | max_score: 0.7264018654823303 | count: 2
+VAP => disease_disorder | max_score: 0.5946902632713318 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9747526049613953 | count: 1
+nonconcurrent control => study_design | max_score: 0.5220516920089722 | count: 1
+PsVAP => disease_disorder | max_score: 0.5519180297851562 | count: 1
+nonpolymyxin studies => study_design | max_score: 0.5936436057090759 | count: 1
+observational studies => study_design | max_score: 0.5585049986839294 | count: 1
+polymyxin => antibiotic | max_score: 0.626623272895813 | count: 2

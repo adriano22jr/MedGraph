@@ -1,0 +1,9 @@
+Medicago truncatula => plant | max_score: 0.930957555770874 | count: 1
+MtDefMd genes => gene | max_score: 0.672137975692749 | count: 1
+arbuscular mycorrhiza-dependent defensins => protein_family | max_score: 0.5569196343421936 | count: 1
+N-terminal signal peptide => peptide | max_score: 0.8945215940475464 | count: 1
+MtDefMd1 => gene | max_score: 0.768799901008606 | count: 5
+MtDefMd2 => gene | max_score: 0.7297713756561279 | count: 3
+promoter activities => activity | max_score: 0.9328513741493225 | count: 1
+arbuscule-containing cells => cell_type | max_score: 0.6880889534950256 | count: 2
+MtRam1 => gene | max_score: 0.8329864740371704 | count: 1

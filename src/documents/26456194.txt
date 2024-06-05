@@ -1,0 +1,15 @@
+Defensins => protein_family | max_score: 0.980882465839386 | count: 1
+defensins => protein_family | max_score: 0.9792921543121338 | count: 2
+defensin-TK => peptide | max_score: 0.8367014527320862 | count: 8
+skin secretions => body_part | max_score: 0.6013939380645752 | count: 1
+Theloderma kwangsiensis => species | max_score: 0.8449742794036865 | count: 1
+cDNA => molecule | max_score: 0.6562110185623169 | count: 2
+signal peptide => peptide | max_score: 0.7836444973945618 | count: 1
+spacer peptide => peptide | max_score: 0.7607282400131226 | count: 1
+mature peptide => peptide | max_score: 0.8241242170333862 | count: 2
+Cynops fudingensis => species | max_score: 0.7009146213531494 | count: 1
+fish β-defensins => protein_family | max_score: 0.7667607069015503 | count: 1
+Defensin-TK => peptide | max_score: 0.7959374785423279 | count: 1
+broad-spectrum antimicrobial activity => activity | max_score: 0.7696347832679749 | count: 1
+hemolytic activity => activity | max_score: 0.8776890635490417 | count: 1
+human red cells => cell | max_score: 0.8796326518058777 | count: 1

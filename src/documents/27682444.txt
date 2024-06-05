@@ -1,0 +1,3 @@
+CMC => disease_disorder | max_score: 0.5362005233764648 | count: 1
+Sardinian APECED patients => subject | max_score: 0.5756424069404602 | count: 2
+Candida albicans => fungus | max_score: 0.9761486053466797 | count: 1

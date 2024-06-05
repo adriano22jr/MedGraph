@@ -1,0 +1,12 @@
+SARS-CoV-2 => virus | max_score: 0.9616018533706665 | count: 2
+Coronaviridae => protein_family | max_score: 0.9853912591934204 | count: 1
+Nidovirales => protein_family | max_score: 0.9687008261680603 | count: 1
+Cytotoxic T cell epitopes => immunologic_marker | max_score: 0.8858237266540527 | count: 1
+helper T cell epitopes => immunologic_marker | max_score: 0.8857749700546265 | count: 1
+B cell epitopes => immunologic_marker | max_score: 0.8282950520515442 | count: 1
+Spike => protein | max_score: 0.8975575566291809 | count: 1
+Membrane => protein | max_score: 0.8169057369232178 | count: 1
+Nucleocapsid (SMN) => protein | max_score: 0.7184879779815674 | count: 1
+MHC => protein | max_score: 0.7709663510322571 | count: 1
+TLR-3 => protein | max_score: 0.567779541015625 | count: 1
+E. coli => bacteria | max_score: 0.6163229942321777 | count: 1

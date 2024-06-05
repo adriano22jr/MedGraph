@@ -1,0 +1,12 @@
+RAU => disease_disorder | max_score: 0.5575156807899475 | count: 1
+humans => species | max_score: 0.9209824800491333 | count: 1
+Thalidomide => drug | max_score: 0.9707094430923462 | count: 2
+gut microbiota => organism | max_score: 0.5076625943183899 | count: 2
+antimicrobial peptides => peptide | max_score: 0.7255678772926331 | count: 1
+serum => disease_disorder | max_score: 0.5519658327102661 | count: 1
+thalidomide => drug | max_score: 0.9754233956336975 | count: 2
+gut dysbacteriosis => disease_disorder | max_score: 0.7683703303337097 | count: 3
+microbial dysfunction => disease_disorder | max_score: 0.6366466879844666 | count: 1
+prebiotics => treatment | max_score: 0.5163094401359558 | count: 1
+probiotics => treatment | max_score: 0.5045788288116455 | count: 1
+postbiotics => treatment | max_score: 0.5426828265190125 | count: 1

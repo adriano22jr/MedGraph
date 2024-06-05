@@ -1,0 +1,15 @@
+Norovirus => virus | max_score: 0.7620537281036377 | count: 1
+global diet patterns => diet | max_score: 0.9267580509185791 | count: 1
+fresh agricultural products => diet | max_score: 0.6978078484535217 | count: 1
+norovirus => virus | max_score: 0.7316930294036865 | count: 1
+murine norovirus => virus | max_score: 0.7779037952423096 | count: 1
+MNV1 => virus | max_score: 0.8709213137626648 | count: 8
+Arabidopsis => plant | max_score: 0.9835337996482849 | count: 9
+hydroponic conditions => environmental_factor | max_score: 0.980951189994812 | count: 1
+continuous treatment => treatment | max_score: 0.6893453001976013 | count: 1
+flower development => biological_process | max_score: 0.5725619196891785 | count: 1
+PR1 => immunologic_marker | max_score: 0.8255505561828613 | count: 1
+salicylic acid signaling marker => immunologic_marker | max_score: 0.730745255947113 | count: 1
+PDF1.2 => immunologic_marker | max_score: 0.6705424189567566 | count: 1
+jasmonic acid signaling marker => immunologic_marker | max_score: 0.7201031446456909 | count: 1
+viral titers => lab_value | max_score: 0.5174762606620789 | count: 1

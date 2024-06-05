@@ -1,0 +1,8 @@
+diet => diet | max_score: 0.9265908002853394 | count: 1
+DHVAR4 => peptide | max_score: 0.953321099281311 | count: 2
+AMP => peptide | max_score: 0.6168287992477417 | count: 2
+toxic activity => activity | max_score: 0.6030587553977966 | count: 1
+Gram-positive => bacteria | max_score: 0.6241995692253113 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9287261962890625 | count: 1
+mammalian cells => cell | max_score: 0.9165713787078857 | count: 1
+mixed antibacterial compounds => compound | max_score: 0.508205771446228 | count: 1

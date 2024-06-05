@@ -1,0 +1,14 @@
+Colistin => antibiotic | max_score: 0.9578387141227722 | count: 1
+Gram-negative bacterium => bacteria | max_score: 0.5446797609329224 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9384287595748901 | count: 1
+A. baumannii => bacteria | max_score: 0.7812759876251221 | count: 2
+colistin => antibiotic | max_score: 0.9602904915809631 | count: 8
+PmrC => enzyme | max_score: 0.7995696067810059 | count: 2
+missense mutations => mutation | max_score: 0.9439733624458313 | count: 1
+PmrB => enzyme | max_score: 0.6348801255226135 | count: 1
+MICs => mutation | max_score: 0.7487271428108215 | count: 1
+μg/ml => volume | max_score: 0.5461868047714233 | count: 1
+H-NS family => protein_family | max_score: 0.9434566497802734 | count: 2
+hns => gene | max_score: 0.5095060467720032 | count: 1
+eptA => gene | max_score: 0.7015112638473511 | count: 1
+pmrC => enzyme | max_score: 0.6979387998580933 | count: 1

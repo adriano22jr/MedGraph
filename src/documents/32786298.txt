@@ -1,0 +1,5 @@
+F5W-magainin 2 => peptide | max_score: 0.8340211510658264 | count: 1
+Pro => peptide | max_score: 0.5566038489341736 | count: 3
+antimicrobial activity => activity | max_score: 0.8407754302024841 | count: 1
+membrane permeabilization => biological_process | max_score: 0.5666747093200684 | count: 1
+DNA binding => biological_process | max_score: 0.567679762840271 | count: 1

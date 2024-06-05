@@ -1,0 +1,7 @@
+Escherichia coli => bacteria | max_score: 0.9866238832473755 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9902610182762146 | count: 1
+polymyxin B => antibiotic | max_score: 0.9153714776039124 | count: 1
+Gram-negative pathogens => bacteria | max_score: 0.8401430249214172 | count: 1
+antigenic epitopes => molecule | max_score: 0.6352999210357666 | count: 1
+antibodies => protein | max_score: 0.621540367603302 | count: 1
+hapten display => biological_process | max_score: 0.6624963879585266 | count: 1

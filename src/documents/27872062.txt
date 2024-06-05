@@ -1,0 +1,15 @@
+fludioxonil => drug | max_score: 0.9744987487792969 | count: 4
+phosphatase => enzyme | max_score: 0.711963415145874 | count: 3
+Drk1 => protein | max_score: 0.7513653635978699 | count: 7
+dimorphism-regulating kinase => enzyme | max_score: 0.536227822303772 | count: 1
+Blastomyces dermatitidis => fungus | max_score: 0.9567087292671204 | count: 1
+Saccharomyces cerevisiae => fungus | max_score: 0.9653223752975464 | count: 1
+B. dermatitidis => fungus | max_score: 0.5715710520744324 | count: 1
+S. cerevisiae => fungus | max_score: 0.6138280034065247 | count: 1
+kinase => enzyme | max_score: 0.6481825709342957 | count: 1
+Ypd1 => protein | max_score: 0.7279733419418335 | count: 4
+HOG pathway => biological_process | max_score: 0.6719731092453003 | count: 1
+in vivo phosphatase activity => activity | max_score: 0.6414670348167419 | count: 1
+Hog1 => protein | max_score: 0.688651978969574 | count: 1
+intrinsic kinase activity => activity | max_score: 0.8453425765037537 | count: 1
+intrinsic phosphatase activity => activity | max_score: 0.7780963778495789 | count: 1

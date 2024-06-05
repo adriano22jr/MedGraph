@@ -1,0 +1,13 @@
+Acinetobacter baumannii => bacteria | max_score: 0.9186992645263672 | count: 1
+A. baumannii => bacteria | max_score: 0.8666571974754333 | count: 4
+levofloxacin => antibiotic | max_score: 0.7622073292732239 | count: 1
+LVX => antibiotic | max_score: 0.5009828209877014 | count: 1
+colistin => antibiotic | max_score: 0.7961331605911255 | count: 1
+ATCC19606 => bacteria | max_score: 0.6500326991081238 | count: 1
+AB19606R => bacteria | max_score: 0.7176107168197632 | count: 1
+GN0624 => bacteria | max_score: 0.7796287536621094 | count: 3
+GN1115 => bacteria | max_score: 0.7435258626937866 | count: 1
+Inhibitory activity => activity | max_score: 0.7961318492889404 | count: 1
+Galleria mellonella => fungus | max_score: 0.9591038227081299 | count: 1
+CST => antibiotic | max_score: 0.6631196141242981 | count: 4
+A. baumanni => bacteria | max_score: 0.5431510210037231 | count: 1

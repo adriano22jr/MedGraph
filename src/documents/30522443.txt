@@ -1,0 +1,8 @@
+bacteria => bacteria | max_score: 0.7346782684326172 | count: 1
+viruses => virus | max_score: 0.9236039519309998 | count: 1
+fungi => fungus | max_score: 0.9834112524986267 | count: 1
+innate immune systems => chemical_system | max_score: 0.7695978879928589 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8578442931175232 | count: 2
+active peptides => peptide | max_score: 0.8705577850341797 | count: 2
+inactive peptides => peptide | max_score: 0.7948871850967407 | count: 3
+activity assays => chemical_system | max_score: 0.5658309459686279 | count: 1

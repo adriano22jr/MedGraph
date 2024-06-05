@@ -1,0 +1,12 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.9388883709907532 | count: 1
+K. pneumoniae => bacteria | max_score: 0.8223370909690857 | count: 4
+chlorhexidine => antibiotic | max_score: 0.9637026190757751 | count: 7
+colistin => antibiotic | max_score: 0.9262562990188599 | count: 4
+mutations => mutation | max_score: 0.6005225777626038 | count: 2
+phoPQ => gene | max_score: 0.9692278504371643 | count: 6
+smvR => gene | max_score: 0.9434847831726074 | count: 3
+major facilitator superfamily (MFS) => protein_family | max_score: 0.8055629134178162 | count: 1
+smvA => gene | max_score: 0.9626228213310242 | count: 2
+pmrD => gene | max_score: 0.9481611251831055 | count: 3
+pmrK => gene | max_score: 0.9480746388435364 | count: 3
+phoQ => gene | max_score: 0.7967660427093506 | count: 1

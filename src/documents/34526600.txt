@@ -1,0 +1,12 @@
+LL-37 => peptide | max_score: 0.9164999127388 | count: 2
+human beta-defensin (HBD) => peptide | max_score: 0.6239487528800964 | count: 1
+Minimal inhibitory concentrations (MICs) => lab_value | max_score: 0.6085962653160095 | count: 1
+time-dependent antimicrobial activity => activity | max_score: 0.6902320384979248 | count: 1
+human corneal epithelial cells => cell_line | max_score: 0.8375000357627869 | count: 1
+erythrocytes => cell_type | max_score: 0.7976027131080627 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.7885493636131287 | count: 1
+CaD23 => peptide | max_score: 0.8438482880592346 | count: 3
+S. aureus => bacteria | max_score: 0.7328921556472778 | count: 2
+S. epidermidis => bacteria | max_score: 0.8534531593322754 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9027034044265747 | count: 1
+amikacin => antibiotic | max_score: 0.7903910279273987 | count: 1

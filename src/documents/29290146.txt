@@ -1,0 +1,11 @@
+host defense => biological_process | max_score: 0.6337119340896606 | count: 1
+inflammatory bowel diseases => disease_disorder | max_score: 0.7923879027366638 | count: 1
+Crohn's => disease_disorder | max_score: 0.6633922457695007 | count: 1
+ulcerative colitis => disease_disorder | max_score: 0.7938592433929443 | count: 1
+β-defensin => peptide | max_score: 0.944866955280304 | count: 3
+Salmonella Typhimurium => bacteria | max_score: 0.9757596850395203 | count: 2
+epithelial cells => cell_type | max_score: 0.9097938537597656 | count: 1
+zonula occludens-1 => protein | max_score: 0.7045263648033142 | count: 1
+ZO-1 => protein | max_score: 0.6164365410804749 | count: 1
+murine Citrobacter rodentium => bacteria | max_score: 0.814511775970459 | count: 1
+claudin-2 => protein | max_score: 0.8860910534858704 | count: 1

@@ -1,0 +1,12 @@
+Cathelicidin-2 => peptide | max_score: 0.9367733597755432 | count: 2
+chickens => species | max_score: 0.8802588582038879 | count: 1
+gut-liver axis => anatomical_system | max_score: 0.7887675166130066 | count: 1
+chicken => species | max_score: 0.5732237696647644 | count: 2
+cathelicidin-2 => peptide | max_score: 0.9627994894981384 | count: 6
+redox homeostasis => biological_process | max_score: 0.5343084931373596 | count: 1
+cellular metabolic activity => activity | max_score: 0.9597976207733154 | count: 1
+extracellular lactate dehydrogenase (LDH) => enzyme | max_score: 0.5640316605567932 | count: 1
+CXCLi2 => immunologic_marker | max_score: 0.6207591891288757 | count: 1
+IL-10 => immunologic_marker | max_score: 0.6563928723335266 | count: 1
+lipid peroxidation marker => enzyme | max_score: 0.5436117649078369 | count: 1
+IFN-γ => immunologic_marker | max_score: 0.5363848209381104 | count: 1

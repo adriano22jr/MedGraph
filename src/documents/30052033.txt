@@ -1,0 +1,3 @@
+oligomerization => biological_process | max_score: 0.5334491729736328 | count: 2
+amyloids => compound | max_score: 0.5267006754875183 | count: 1
+His-tagged cationic stretches => molecule | max_score: 0.5185379981994629 | count: 1

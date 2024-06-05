@@ -1,0 +1,9 @@
+antimicrobial molecules => peptide | max_score: 0.525354266166687 | count: 1
+bacteria => bacteria | max_score: 0.9427146911621094 | count: 3
+Antimicrobial peptides => peptide | max_score: 0.5237195491790771 | count: 1
+AMPs => peptide | max_score: 0.6741966605186462 | count: 5
+eukaryotes => organism | max_score: 0.6266182065010071 | count: 1
+immune system => chemical_system | max_score: 0.8296834230422974 | count: 1
+fungi => fungus | max_score: 0.9803240895271301 | count: 1
+chemical synthesis => chemical_system | max_score: 0.6319767832756042 | count: 1
+microorganisms => organism | max_score: 0.5491113066673279 | count: 3

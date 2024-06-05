@@ -1,0 +1,15 @@
+Cathelicidin => peptide | max_score: 0.9486010670661926 | count: 3
+mCRAMP => peptide | max_score: 0.5291330814361572 | count: 1
+obesity => lab_value | max_score: 0.5562350153923035 | count: 1
+cathelicidin => peptide | max_score: 0.981639564037323 | count: 8
+C57BL/6 J mice => species | max_score: 0.6321642398834229 | count: 1
+high-fat diet => diet | max_score: 0.9927186965942383 | count: 1
+Streptozotocin => antibiotic | max_score: 0.6589146256446838 | count: 1
+lentiviruses => virus | max_score: 0.5493226051330566 | count: 1
+Human mesenteric fat adipocytes => cell_type | max_score: 0.6814668774604797 | count: 1
+mouse 3T3-L1 differentiated adipocytes => cell_line | max_score: 0.6856595277786255 | count: 1
+human HepG2 hepatocytes => cell_line | max_score: 0.7559264898300171 | count: 1
+CD36 => protein | max_score: 0.6994410753250122 | count: 4
+lipid accumulation => lab_value | max_score: 0.6272343993186951 | count: 2
+Prediabetic patients => subject | max_score: 0.5200903415679932 | count: 1
+hepatocytes => cell_type | max_score: 0.5124005079269409 | count: 1

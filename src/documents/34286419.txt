@@ -1,0 +1,11 @@
+Halocins => compound | max_score: 0.5558628439903259 | count: 1
+Halocin HA4 => peptide | max_score: 0.684313178062439 | count: 1
+Haloferax larsenii => species | max_score: 0.56641685962677 | count: 1
+complete activity => activity | max_score: 0.873807966709137 | count: 2
+urea => compound | max_score: 0.5844703316688538 | count: 1
+trypsin => enzyme | max_score: 0.9566807150840759 | count: 1
+papain => enzyme | max_score: 0.9526893496513367 | count: 1
+proteinase K => enzyme | max_score: 0.9608187675476074 | count: 1
+halocin HA4 => peptide | max_score: 0.7506561875343323 | count: 2
+indicator strain => cell_line | max_score: 0.504107654094696 | count: 1
+H. larsenii HA10 => cell_line | max_score: 0.5873498320579529 | count: 1

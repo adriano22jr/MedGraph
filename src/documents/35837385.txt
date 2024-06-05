@@ -1,0 +1,14 @@
+MRGPRX2 => protein | max_score: 0.968858540058136 | count: 7
+MAS-related G protein coupled receptors => protein_family | max_score: 0.6139789819717407 | count: 1
+Mrgprs => protein_family | max_score: 0.7860684394836426 | count: 1
+MCs => cell_type | max_score: 0.580765962600708 | count: 1
+neuropeptides => peptide | max_score: 0.7457722425460815 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6768763065338135 | count: 1
+FDA-approved drugs => drug | max_score: 0.6950412392616272 | count: 1
+neurogenic inflammation => biological_process | max_score: 0.5229183435440063 | count: 1
+host defense => biological_process | max_score: 0.6846568584442139 | count: 1
+endocytosis => biological_process | max_score: 0.858316957950592 | count: 2
+macropinocytosis => biological_process | max_score: 0.8775532841682434 | count: 2
+dynamin => protein | max_score: 0.9055069088935852 | count: 1
+LC3 => protein | max_score: 0.9271180629730225 | count: 2
+SP => peptide | max_score: 0.5138450264930725 | count: 1

@@ -1,0 +1,11 @@
+Staphylococcus aureus => bacteria | max_score: 0.771017849445343 | count: 1
+MRSA => bacteria | max_score: 0.8398687839508057 | count: 3
+MSSA => bacteria | max_score: 0.5779621601104736 | count: 3
+clinical diagnosis => diagnostic_procedure | max_score: 0.868147075176239 | count: 1
+anti-microbial treatment => treatment | max_score: 0.7326267957687378 | count: 1
+CHCA-C3 => compound | max_score: 0.7342210412025452 | count: 3
+proteins/peptides => protein | max_score: 0.6696761250495911 | count: 1
+hydrophobic proteins => protein | max_score: 0.7124945521354675 | count: 1
+ATCC 43300 => bacteria | max_score: 0.6980088353157043 | count: 1
+ATCC 25923 => bacteria | max_score: 0.7400223612785339 | count: 1
+growth medium => environmental_factor | max_score: 0.920766294002533 | count: 1

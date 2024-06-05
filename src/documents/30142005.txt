@@ -1,0 +1,11 @@
+ocular rosacea => disease_disorder | max_score: 0.8461340665817261 | count: 3
+Tear function parameters => medical_term | max_score: 0.7193828225135803 | count: 1
+conjunctival impression cytology => diagnostic_procedure | max_score: 0.739412784576416 | count: 2
+tear samples => body_part | max_score: 0.5720762610435486 | count: 1
+Human-neutrophil-peptides (HNP) => peptide | max_score: 0.7034004330635071 | count: 1
+human-beta-defensin-2 (hBD-2) => peptide | max_score: 0.7521093487739563 | count: 1
+ELISA tests => diagnostic_procedure | max_score: 0.5101587176322937 | count: 1
+Cathelicidin leucin-leucin-37 (LL-37) => peptide | max_score: 0.6729378700256348 | count: 1
+hBD-2 => peptide | max_score: 0.6510840058326721 | count: 2
+human-beta-defensin-9 (hBD-9) => peptide | max_score: 0.6629593372344971 | count: 1
+LL-37 => peptide | max_score: 0.5892205238342285 | count: 1

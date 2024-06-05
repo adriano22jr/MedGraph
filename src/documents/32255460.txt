@@ -1,0 +1,7 @@
+Alphitobius diaperinus => species | max_score: 0.6303127408027649 | count: 1
+antihypertensive activities => activity | max_score: 0.8330641984939575 | count: 1
+angiotensin converting enzyme => enzyme | max_score: 0.8005958199501038 | count: 1
+ACE => enzyme | max_score: 0.8124324679374695 | count: 2
+Antioxidant => activity | max_score: 0.5327013731002808 | count: 1
+ABTS => peptide | max_score: 0.5321712493896484 | count: 1
+mL => volume | max_score: 0.6298152208328247 | count: 1

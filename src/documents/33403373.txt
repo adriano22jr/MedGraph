@@ -1,0 +1,8 @@
+bacteria => bacteria | max_score: 0.6651541590690613 | count: 1
+fungi => fungus | max_score: 0.9449359178543091 | count: 1
+aqueous-soluble macromolecules => molecule | max_score: 0.5091997981071472 | count: 1
+peptides => peptide | max_score: 0.7438927292823792 | count: 1
+proteins => protein | max_score: 0.8229660391807556 | count: 1
+synthetic polymers => molecule | max_score: 0.594881534576416 | count: 1
+environmental stimuli => environmental_factor | max_score: 0.9910008311271667 | count: 1
+antibiofilm activity => activity | max_score: 0.8526132702827454 | count: 1

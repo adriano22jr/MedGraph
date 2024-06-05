@@ -1,0 +1,13 @@
+colistin => antibiotic | max_score: 0.9712392687797546 | count: 6
+Gram-negative bacilli => bacteria | max_score: 0.8256103992462158 | count: 1
+carbapenemase producers => bacteria | max_score: 0.5416773557662964 | count: 1
+A. baumannii => bacteria | max_score: 0.8710901141166687 | count: 4
+phosphoethanolamine => compound | max_score: 0.6843146681785583 | count: 2
+lipid A => compound | max_score: 0.5395891070365906 | count: 2
+phosphoethanolamine => enzyme | max_score: 0.8413316011428833 | count: 1
+pmrC gene => gene | max_score: 0.9723605513572693 | count: 1
+PmrA/PmrB => chemical_system | max_score: 0.6263511776924133 | count: 1
+mutations => mutation | max_score: 0.7185800075531006 | count: 1
+pmrB => gene | max_score: 0.5426019430160522 | count: 1
+pmrC => gene | max_score: 0.6569416522979736 | count: 1
+MIC => mutation | max_score: 0.7266412377357483 | count: 1

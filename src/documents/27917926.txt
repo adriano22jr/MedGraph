@@ -1,0 +1,16 @@
+colistin => antibiotic | max_score: 0.9081369638442993 | count: 3
+mcr-1 => gene | max_score: 0.9682620763778687 | count: 6
+Enterobacteriaceae => bacteria | max_score: 0.7809337377548218 | count: 1
+Salmonella enterica => bacteria | max_score: 0.947178840637207 | count: 3
+S. Typhimurium => bacteria | max_score: 0.7070956230163574 | count: 3
+ampicillin => antibiotic | max_score: 0.9535492062568665 | count: 1
+streptomycin => antibiotic | max_score: 0.9474743008613586 | count: 1
+gentamicin => antibiotic | max_score: 0.9318405985832214 | count: 1
+florfenicol => antibiotic | max_score: 0.9018092751502991 | count: 1
+nalidixic acid => antibiotic | max_score: 0.9059493541717529 | count: 1
+tetracycline => antibiotic | max_score: 0.9494128823280334 | count: 1
+trimethoprim-sulfamethox => antibiotic | max_score: 0.8475542664527893 | count: 1
+oqxAB => gene | max_score: 0.873395562171936 | count: 1
+aac(6')-Ib-cr => gene | max_score: 0.6490061283111572 | count: 1
+IncI2 plasmid => molecule | max_score: 0.7560644149780273 | count: 1
+IncHI2 plasmid => molecule | max_score: 0.72528475522995 | count: 1

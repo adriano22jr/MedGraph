@@ -1,0 +1,8 @@
+antibiotics => antibiotic | max_score: 0.5935137271881104 | count: 1
+ABPs => peptide | max_score: 0.7668690085411072 | count: 9
+protein sequences => protein | max_score: 0.6086695194244385 | count: 3
+tail protein sequences => protein | max_score: 0.5012375116348267 | count: 1
+Streptococcus bacteriophages => virus | max_score: 0.8990386724472046 | count: 1
+activity => activity | max_score: 0.5231117010116577 | count: 1
+antibacterial activity => activity | max_score: 0.6424221396446228 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8154067397117615 | count: 1

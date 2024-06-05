@@ -1,0 +1,12 @@
+gill => body_part | max_score: 0.8574504852294922 | count: 5
+grass carp => species | max_score: 0.7418076992034912 | count: 3
+Ctenopharyngodon idella => species | max_score: 0.8790138959884644 | count: 1
+Flavobacterium columnare => bacteria | max_score: 0.9033085107803345 | count: 1
+diet => diet | max_score: 0.8469745516777039 | count: 1
+reactive oxygen species => molecule | max_score: 0.545676589012146 | count: 1
+copper/zinc superoxide dismutase => enzyme | max_score: 0.9181380867958069 | count: 1
+manganese superoxide dismutase => enzyme | max_score: 0.9543468952178955 | count: 1
+catalase => enzyme | max_score: 0.9452913403511047 | count: 1
+glutathione peroxidase => enzyme | max_score: 0.9431114196777344 | count: 1
+glutathione reductase => enzyme | max_score: 0.9522954821586609 | count: 1
+Fas ligand => enzyme | max_score: 0.6859164237976074 | count: 1

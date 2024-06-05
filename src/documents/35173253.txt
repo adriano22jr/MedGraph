@@ -1,0 +1,8 @@
+HDL => molecule | max_score: 0.6405339241027832 | count: 7
+cholesterol => molecule | max_score: 0.6053329706192017 | count: 1
+peripheral tissues => tissue | max_score: 0.9525062441825867 | count: 1
+phospholipids => molecule | max_score: 0.6572167277336121 | count: 1
+phosphatidylcholine => molecule | max_score: 0.6744244694709778 | count: 1
+SMAP29 => peptide | max_score: 0.779558002948761 | count: 1
+bacteria => bacteria | max_score: 0.7517783045768738 | count: 2
+LL37 => peptide | max_score: 0.7142520546913147 | count: 1

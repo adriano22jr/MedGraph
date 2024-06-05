@@ -1,0 +1,4 @@
+peptides => peptide | max_score: 0.6124706268310547 | count: 5
+drug dosage => drug_dosage | max_score: 0.7639395594596863 | count: 1
+photothermal device => device | max_score: 0.8042559027671814 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.8644019961357117 | count: 1

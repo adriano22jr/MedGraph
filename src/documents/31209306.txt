@@ -1,0 +1,6 @@
+Antibiotic-resistant bacteria => bacteria | max_score: 0.7451269626617432 | count: 1
+Antibiotic combination therapy => treatment | max_score: 0.8855206370353699 | count: 1
+carbapenem-resistant Enterobacteriaceae => bacteria | max_score: 0.6552469730377197 | count: 1
+CRE => bacteria | max_score: 0.5421959757804871 | count: 2
+heteroresistance => medical_term | max_score: 0.6738235950469971 | count: 5
+Heteroresistance => medical_term | max_score: 0.6982149481773376 | count: 1

@@ -1,0 +1,9 @@
+Maternal serum concentrations => lab_value | max_score: 0.7861178517341614 | count: 1
+cubilin => protein | max_score: 0.8934767842292786 | count: 3
+megalin => protein | max_score: 0.8716098070144653 | count: 1
+CYP27B1 => protein | max_score: 0.7883031368255615 | count: 4
+24-hydroxylase => protein | max_score: 0.5557568073272705 | count: 1
+CYP24A1 => protein | max_score: 0.7160456776618958 | count: 1
+vitamin D receptor (VDR) => protein | max_score: 0.6512694358825684 | count: 1
+cathelicidin => peptide | max_score: 0.9153936505317688 | count: 4
+hepcidin => peptide | max_score: 0.8895485997200012 | count: 2

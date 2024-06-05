@@ -1,0 +1,12 @@
+autosomal recessive disorder => disease_disorder | max_score: 0.6940447688102722 | count: 1
+AH1N1 virus => virus | max_score: 0.9352632164955139 | count: 1
+classic influenza symptoms => sign_symptom | max_score: 0.6752070784568787 | count: 1
+cystic fibrosis => disease_disorder | max_score: 0.9633296132087708 | count: 4
+severe outcomes => severity | max_score: 0.9120727181434631 | count: 1
+young Caucasian man => sex | max_score: 0.6987547278404236 | count: 1
+respiratory failure => disease_disorder | max_score: 0.5773923397064209 | count: 1
+AH1N1 influenza virus => virus | max_score: 0.8738689422607422 | count: 1
+fever => sign_symptom | max_score: 0.6854416728019714 | count: 1
+cough => sign_symptom | max_score: 0.6429260969161987 | count: 1
+dyspnea => sign_symptom | max_score: 0.6016814708709717 | count: 1
+antibiotics => antibiotic | max_score: 0.773533284664154 | count: 1

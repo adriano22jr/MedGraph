@@ -1,0 +1,12 @@
+urban particulate matter => environmental_factor | max_score: 0.6663874387741089 | count: 1
+PM => environmental_factor | max_score: 0.8021891117095947 | count: 9
+antimicrobial peptides => peptide | max_score: 0.6238043308258057 | count: 2
+bacterial invasion => biological_process | max_score: 0.5124205946922302 | count: 1
+β-defensin-2 => peptide | max_score: 0.5867831110954285 | count: 1
+hBD-2 => peptide | max_score: 0.8544550538063049 | count: 3
+APMs => peptide | max_score: 0.7339897751808167 | count: 1
+ROS production => biological_process | max_score: 0.6543044447898865 | count: 1
+NAC treatment => treatment | max_score: 0.7055504322052002 | count: 1
+IL-8 => peptide | max_score: 0.7817865014076233 | count: 1
+IL-13 => peptide | max_score: 0.8404850959777832 | count: 1
+airway epithelial cells => cell_type | max_score: 0.7079026103019714 | count: 1

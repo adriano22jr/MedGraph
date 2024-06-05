@@ -1,0 +1,10 @@
+colistin => antibiotic | max_score: 0.622890293598175 | count: 1
+CST => antibiotic | max_score: 0.5112214088439941 | count: 2
+CST-r-E => bacteria | max_score: 0.7794218063354492 | count: 3
+cloacal => body_part | max_score: 0.5801863670349121 | count: 1
+March-November 2018 => date | max_score: 0.9364054799079895 | count: 1
+mcr-1 => gene | max_score: 0.8898961544036865 | count: 3
+mcr-10 => gene | max_score: 0.7109937071800232 | count: 1
+Escherichia coli => bacteria | max_score: 0.9015969634056091 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9378905892372131 | count: 1
+new allelic variant => mutation | max_score: 0.6059780716896057 | count: 1

@@ -1,0 +1,8 @@
+microorganisms => organism | max_score: 0.6176605224609375 | count: 2
+DPPG/TMCL mixture => chemical_system | max_score: 0.588361382484436 | count: 1
+cytoplasmic membrane => anatomical_system | max_score: 0.5769796371459961 | count: 2
+Gram-positive bacteria => bacteria | max_score: 0.9392299056053162 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9558382034301758 | count: 1
+Langmuir trough => device | max_score: 0.9801409840583801 | count: 1
+binary lipid systems => chemical_system | max_score: 0.5526813268661499 | count: 1
+G4 => peptide | max_score: 0.5592799186706543 | count: 1

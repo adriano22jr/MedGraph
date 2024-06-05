@@ -1,0 +1,17 @@
+Sigma-2 receptor => protein | max_score: 0.7920966148376465 | count: 1
+S2R => protein | max_score: 0.8277004361152649 | count: 5
+TMEM97 => protein | max_score: 0.9065082669258118 | count: 1
+endoplasmic reticular protein => protein | max_score: 0.7502875328063965 | count: 1
+cancer => disease_disorder | max_score: 0.7029823064804077 | count: 1
+cholesterol processing => biological_process | max_score: 0.819810688495636 | count: 1
+cell migration => biological_process | max_score: 0.8702747821807861 | count: 2
+neurodegenerative diseases => disease_disorder | max_score: 0.7010201215744019 | count: 1
+Niemann-Pick Type C => disease_disorder | max_score: 0.8060115575790405 | count: 1
+2017 => date | max_score: 0.966895341873169 | count: 1
+Histatins => protein_family | max_score: 0.9780243635177612 | count: 1
+cancer pathogenesis => biological_process | max_score: 0.6179202795028687 | count: 1
+immunomodulation => biological_process | max_score: 0.7315911650657654 | count: 1
+wound healing => biological_process | max_score: 0.8349685072898865 | count: 3
+Histatin-1 => peptide | max_score: 0.6424459218978882 | count: 1
+Hst1 => peptide | max_score: 0.7833916544914246 | count: 3
+histatins => protein_family | max_score: 0.8798090219497681 | count: 1

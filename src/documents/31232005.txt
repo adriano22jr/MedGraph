@@ -1,0 +1,16 @@
+antimicrobial activity => activity | max_score: 0.8267435431480408 | count: 3
+β-defensin130 => protein | max_score: 0.7303187251091003 | count: 5
+Escherichia coli BL21 (DE3) => bacteria | max_score: 0.9435506463050842 | count: 1
+Gram-positive strains => bacteria | max_score: 0.7524378895759583 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9225740432739258 | count: 1
+ATCC 25923 => bacteria | max_score: 0.7550209164619446 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.9347050786018372 | count: 1
+ATCC 221633 => bacteria | max_score: 0.788235604763031 | count: 1
+80 μg/mL => volume | max_score: 0.6734194159507751 | count: 1
+Gram-negative strains => bacteria | max_score: 0.7112050652503967 | count: 1
+temperature => environmental_factor | max_score: 0.9772905707359314 | count: 1
+pH => environmental_factor | max_score: 0.9605928063392639 | count: 1
+proteinase digestion => environmental_factor | max_score: 0.8462694883346558 | count: 1
+HEK 293 cells => cell_line | max_score: 0.9674890637397766 | count: 1
+hemolytic activity => activity | max_score: 0.677023708820343 | count: 1
+rabbit erythrocytes => cell | max_score: 0.7453692555427551 | count: 1

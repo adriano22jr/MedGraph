@@ -1,0 +1,13 @@
+P7 => peptide | max_score: 0.8709884285926819 | count: 9
+ppTG20 => peptide | max_score: 0.8071285486221313 | count: 1
+antitumor activities => activity | max_score: 0.5073121786117554 | count: 1
+hemolytic activity => activity | max_score: 0.5624734163284302 | count: 1
+Candida albicans => fungus | max_score: 0.9529146552085876 | count: 1
+C. albicans => fungus | max_score: 0.8861415982246399 | count: 9
+MIC => lab_value | max_score: 0.8984313011169434 | count: 4
+Aspergilla niger => fungus | max_score: 0.9510501027107239 | count: 1
+Aspergillus flavus => fungus | max_score: 0.9762153625488281 | count: 1
+Trichopyton rubrum => fungus | max_score: 0.9173292517662048 | count: 1
+Melittin-treated cells => cell_line | max_score: 0.6986246705055237 | count: 1
+DNA => molecule | max_score: 0.7929179668426514 | count: 3
+genomic DNA => molecule | max_score: 0.7869070172309875 | count: 2

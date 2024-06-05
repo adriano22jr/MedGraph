@@ -1,0 +1,5 @@
+antibiotics => drug | max_score: 0.5544028282165527 | count: 1
+multiple drug-resistant pathogenic bacteria => bacteria | max_score: 0.8053494095802307 | count: 1
+antibiotics => antibiotic | max_score: 0.6465390920639038 | count: 1
+severe bacterial infections => severity | max_score: 0.7588788866996765 | count: 1
+stem cells => cell | max_score: 0.7018738985061646 | count: 1

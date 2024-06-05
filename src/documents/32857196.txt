@@ -1,0 +1,12 @@
+broad-spectrum antibiotics => antibiotic | max_score: 0.6581663489341736 | count: 1
+mcr-1 => gene | max_score: 0.911301851272583 | count: 1
+MCR-1 => gene | max_score: 0.877648651599884 | count: 8
+genistein => drug | max_score: 0.8483031988143921 | count: 4
+polymyxins => antibiotic | max_score: 0.8635959029197693 | count: 4
+bactericidal activity => activity | max_score: 0.8072794079780579 | count: 1
+antibacterial activity => activity | max_score: 0.5641196966171265 | count: 1
+Genistein => drug | max_score: 0.7950494885444641 | count: 1
+amino acids => peptide | max_score: 0.6136941313743591 | count: 1
+mice => species | max_score: 0.6463422179222107 | count: 2
+combination therapy => treatment | max_score: 0.6308611035346985 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.671553373336792 | count: 1

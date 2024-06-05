@@ -1,0 +1,8 @@
+sutures => device | max_score: 0.6993853449821472 | count: 6
+pam3CSK4 peptide => peptide | max_score: 0.9533409476280212 | count: 4
+Pam3CSK4 peptide => peptide | max_score: 0.9332490563392639 | count: 1
+cathelicidin antimicrobial peptide => peptide | max_score: 0.7550233006477356 | count: 1
+U937 => cell_line | max_score: 0.8433043360710144 | count: 2
+keratinocytes => cell_type | max_score: 0.934779167175293 | count: 2
+fibroblasts => cell_type | max_score: 0.9347416162490845 | count: 1
+HL-60 => cell_line | max_score: 0.9521369934082031 | count: 1

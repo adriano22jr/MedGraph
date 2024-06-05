@@ -1,0 +1,9 @@
+amnion => tissue | max_score: 0.825541615486145 | count: 3
+mesenchymal stem cells => cell_type | max_score: 0.5899367928504944 | count: 1
+antibacterial activity => activity | max_score: 0.9007076025009155 | count: 2
+IL-1β => peptide | max_score: 0.7992255091667175 | count: 2
+bacterial genus => bacteria | max_score: 0.5126484632492065 | count: 1
+elafin => peptide | max_score: 0.8966565728187561 | count: 1
+HBD-2 => peptide | max_score: 0.920484185218811 | count: 1
+HBD-3 => peptide | max_score: 0.8961060047149658 | count: 1
+cathelicidic LL-37 => peptide | max_score: 0.9219471216201782 | count: 1

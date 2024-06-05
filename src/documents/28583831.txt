@@ -1,0 +1,8 @@
+SET-M33 => peptide | max_score: 0.9210667610168457 | count: 6
+Gram-negative bacteria => bacteria | max_score: 0.9555524587631226 | count: 2
+concentration-dependent bactericidal activity => activity | max_score: 0.7169632315635681 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9649178385734558 | count: 2
+K. pneumoniae => bacteria | max_score: 0.9705771207809448 | count: 2
+LPS => molecule | max_score: 0.5881869196891785 | count: 1
+cell function => molecular_function | max_score: 0.6679421663284302 | count: 1
+colistin => peptide | max_score: 0.6350786685943604 | count: 1

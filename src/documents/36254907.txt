@@ -1,0 +1,12 @@
+gram negative organisms => bacteria | max_score: 0.6859635710716248 | count: 1
+Aerosolized antibiotics => antibiotic | max_score: 0.5896546244621277 | count: 1
+systemic antibiotics => antibiotic | max_score: 0.7334422469139099 | count: 3
+prospective => study_design | max_score: 0.8410559296607971 | count: 1
+randomized => study_design | max_score: 0.7260564565658569 | count: 1
+double-blinded => study_design | max_score: 0.6569913029670715 | count: 1
+aged less than 12 years => age | max_score: 0.8322094678878784 | count: 1
+gram negative bacteria => bacteria | max_score: 0.8956166505813599 | count: 1
+cardiac surgery => surgical_procedure | max_score: 0.9446247816085815 | count: 1
+Clinical and bacteriological outcomes => condition_outcome | max_score: 0.5085874199867249 | count: 1
+duration of mechanical ventilation => treatment_duration | max_score: 0.5438622236251831 | count: 1
+hospital stay => treatment_duration | max_score: 0.6603162884712219 | count: 1

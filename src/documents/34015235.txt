@@ -1,0 +1,17 @@
+Gram-negative bacteria => bacteria | max_score: 0.9176362156867981 | count: 1
+polymyxins => antibiotic | max_score: 0.7316523194313049 | count: 2
+colistin => antibiotic | max_score: 0.8958057165145874 | count: 2
+Nephrotoxicity => disease_disorder | max_score: 0.6529836058616638 | count: 1
+neurotoxicity => disease_disorder | max_score: 0.6863991618156433 | count: 1
+oxidative stress => biological_process | max_score: 0.5166815519332886 | count: 1
+inflammatory pathways => biological_process | max_score: 0.5821582078933716 | count: 1
+apoptosis => biological_process | max_score: 0.6246698498725891 | count: 1
+kidney damage => disease_disorder | max_score: 0.5922640562057495 | count: 2
+CMS => antibiotic | max_score: 0.5008100867271423 | count: 1
+Colistimethate sodium => antibiotic | max_score: 0.801658034324646 | count: 1
+nephrotoxicity => disease_disorder | max_score: 0.6647008657455444 | count: 1
+kidney injury => disease_disorder | max_score: 0.55338454246521 | count: 1
+renal injury => disease_disorder | max_score: 0.6360538005828857 | count: 1
+renal damage => disease_disorder | max_score: 0.643822431564331 | count: 1
+curcumin => compound | max_score: 0.5268996953964233 | count: 1
+randomized clinical trials => study_design | max_score: 0.7485349178314209 | count: 1

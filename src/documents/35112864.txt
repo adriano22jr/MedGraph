@@ -1,0 +1,5 @@
+membrane-active peptides => peptide | max_score: 0.7007958889007568 | count: 1
+MAPs => peptide | max_score: 0.7164655327796936 | count: 3
+cell penetration activities => activity | max_score: 0.7229085564613342 | count: 1
+short peptides => peptide | max_score: 0.529929518699646 | count: 1
+all-hydrocarbon stapling system => chemical_system | max_score: 0.8619139790534973 | count: 1

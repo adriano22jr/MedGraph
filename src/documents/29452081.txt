@@ -1,0 +1,14 @@
+Nosema ceranae => parasite | max_score: 0.8747599124908447 | count: 1
+Asian honey bee => species | max_score: 0.6538681983947754 | count: 1
+Apis cerana => species | max_score: 0.8432268500328064 | count: 1
+European honey bee => species | max_score: 0.7028840780258179 | count: 1
+Apis mellifera => species | max_score: 0.9234103560447693 | count: 1
+A. mellifera => species | max_score: 0.6334325075149536 | count: 2
+N. ceranae => parasite | max_score: 0.6246281862258911 | count: 2
+gut epithelium => body_part | max_score: 0.7428948283195496 | count: 1
+nutrient and energetic stress => environmental_factor | max_score: 0.7412334084510803 | count: 2
+Toll => protein | max_score: 0.7245081663131714 | count: 1
+Imd => gene | max_score: 0.6556969285011292 | count: 1
+whole-body protein => protein | max_score: 0.5611283779144287 | count: 1
+activity levels => activity | max_score: 0.9055884480476379 | count: 2
+antimicrobial peptides => peptide | max_score: 0.8201115727424622 | count: 1

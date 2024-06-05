@@ -1,0 +1,11 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.8160317540168762 | count: 1
+capsular polysaccharides => molecule | max_score: 0.5303105711936951 | count: 1
+colistin => antibiotic | max_score: 0.9695848822593689 | count: 8
+divalent cations => molecule | max_score: 0.7302956581115723 | count: 3
+lipopolysaccharide => molecule | max_score: 0.5126191973686218 | count: 1
+LPS => molecule | max_score: 0.820370078086853 | count: 4
+MIC/MBC => lab_value | max_score: 0.5379977822303772 | count: 1
+K. pneumoniae AJ218 => bacteria | max_score: 0.6287387013435364 | count: 2
+Q95P => mutation | max_score: 0.8746823668479919 | count: 1
+PmrB sensor kinase => enzyme | max_score: 0.8610369563102722 | count: 1
+K. pneumoniae => bacteria | max_score: 0.628362238407135 | count: 1

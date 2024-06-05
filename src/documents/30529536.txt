@@ -1,0 +1,8 @@
+Escherichia coli => bacteria | max_score: 0.9318054914474487 | count: 1
+bioactivity => activity | max_score: 0.6965076923370361 | count: 1
+fusion proteins => protein | max_score: 0.6206793189048767 | count: 1
+Galleria mellonella => bacteria | max_score: 0.804632306098938 | count: 1
+M4 metalloproteases => enzyme | max_score: 0.8318659067153931 | count: 1
+human pathogens => bacteria | max_score: 0.6370885968208313 | count: 1
+IMPI(I38V) => peptide | max_score: 0.6009644269943237 | count: 2
+gloverin => peptide | max_score: 0.5174204707145691 | count: 1

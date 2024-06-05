@@ -1,0 +1,7 @@
+Cysteine-rich peptides => peptide | max_score: 0.5581698417663574 | count: 1
+CRPs => peptide | max_score: 0.7379667162895203 | count: 3
+high temperatures => environmental_factor | max_score: 0.9124106764793396 | count: 1
+salt concentration => environmental_factor | max_score: 0.9734342098236084 | count: 1
+serum presence => environmental_factor | max_score: 0.9703599810600281 | count: 1
+protease degradation => biological_process | max_score: 0.5316264629364014 | count: 1
+molecular grafting => biological_process | max_score: 0.6242321729660034 | count: 1

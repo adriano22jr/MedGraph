@@ -1,0 +1,13 @@
+cathelicidin => peptide | max_score: 0.8982599377632141 | count: 6
+Camp => peptide | max_score: 0.6098350286483765 | count: 3
+mRNA => molecule | max_score: 0.5570166110992432 | count: 3
+neutrophils => cell_type | max_score: 0.9245316982269287 | count: 1
+monocytes/macrophages => cell_type | max_score: 0.9161840081214905 | count: 1
+CRAMP => peptide | max_score: 0.6120626926422119 | count: 3
+In vivo => study_design | max_score: 0.5438492298126221 | count: 1
+TNF-α => protein | max_score: 0.7924262881278992 | count: 5
+septic cardiomyopathy => disease_disorder | max_score: 0.5206453800201416 | count: 1
+WT mice => species | max_score: 0.5674912929534912 | count: 1
+In vitro => study_design | max_score: 0.5002158284187317 | count: 1
+cardiomyocytes => cell_type | max_score: 0.7137841582298279 | count: 2
+myocardial depression => disease_disorder | max_score: 0.5253797173500061 | count: 1

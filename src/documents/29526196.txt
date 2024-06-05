@@ -1,0 +1,9 @@
+immune system => biological_process | max_score: 0.6055519580841064 | count: 1
+KT43C => peptide | max_score: 0.9306740164756775 | count: 5
+Cp-thionin II => peptide | max_score: 0.7528205513954163 | count: 1
+cowpea => plant | max_score: 0.6888941526412964 | count: 1
+antifungal potential => activity | max_score: 0.5847615003585815 | count: 1
+antifungal activity => activity | max_score: 0.8233137726783752 | count: 1
+Fusarium culmorum => fungus | max_score: 0.9857876300811768 | count: 1
+Penicillium expansum => fungus | max_score: 0.9820245504379272 | count: 1
+Aspergillus niger => fungus | max_score: 0.9915155172348022 | count: 1

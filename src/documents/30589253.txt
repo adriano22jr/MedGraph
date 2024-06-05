@@ -1,0 +1,6 @@
+biological environments => environmental_factor | max_score: 0.518787682056427 | count: 1
+human cathelicidin LL-37 => peptide | max_score: 0.8685892820358276 | count: 1
+Colloidal transformations => biological_process | max_score: 0.5094150304794312 | count: 1
+pH => environmental_factor | max_score: 0.7953437566757202 | count: 7
+Escherichia coli bacteria => bacteria | max_score: 0.7831796407699585 | count: 1
+antimicrobial activity => activity | max_score: 0.9183864593505859 | count: 2

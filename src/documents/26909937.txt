@@ -1,0 +1,8 @@
+β-defensins => protein_family | max_score: 0.8437403440475464 | count: 2
+AA => mutation | max_score: 0.7425888776779175 | count: 2
+AG => mutation | max_score: 0.7106761336326599 | count: 2
+GG => mutation | max_score: 0.7785348296165466 | count: 2
+β-defensin sequences => protein | max_score: 0.5003331303596497 | count: 1
+peptides => peptide | max_score: 0.5450953245162964 | count: 1
+classic defensins => protein_family | max_score: 0.8035122156143188 | count: 1
+Amazonian sheep => species | max_score: 0.724820613861084 | count: 1

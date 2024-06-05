@@ -1,0 +1,10 @@
+chemical antibiotics => antibiotic | max_score: 0.765896737575531 | count: 3
+alternative strategies => treatment | max_score: 0.5351919531822205 | count: 2
+environment => environmental_factor | max_score: 0.8159064054489136 | count: 2
+eukaryotic cells => cell | max_score: 0.7923562526702881 | count: 1
+Lysin therapy => treatment | max_score: 0.836531400680542 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.9471007585525513 | count: 1
+target bacterial cells => cell | max_score: 0.5759984850883484 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5755363702774048 | count: 1
+AMPs => peptide | max_score: 0.5777181386947632 | count: 1
+amphiphilic polypeptides => peptide | max_score: 0.7268439531326294 | count: 1

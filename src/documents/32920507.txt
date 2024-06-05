@@ -1,0 +1,10 @@
+Intestinal organoids => tissue | max_score: 0.6894127726554871 | count: 1
+epithelial cells => cell | max_score: 0.7208621501922607 | count: 1
+barrier function => biological_process | max_score: 0.6239042282104492 | count: 1
+rabbits => species | max_score: 0.8802900910377502 | count: 1
+L-WRN cells => cell_line | max_score: 0.845085859298706 | count: 1
+gene expression => biological_process | max_score: 0.6790221333503723 | count: 2
+cell height => height | max_score: 0.8757030367851257 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6730854511260986 | count: 1
+Epithelial cells => cell | max_score: 0.7312171459197998 | count: 1
+actin => protein | max_score: 0.6263902187347412 | count: 2

@@ -1,0 +1,10 @@
+Host defense peptides => peptide | max_score: 0.6081193685531616 | count: 1
+HDPs => peptide | max_score: 0.7688075304031372 | count: 5
+antimicrobial peptides => peptide | max_score: 0.653211236000061 | count: 1
+anti-biofilm => molecular_function | max_score: 0.5460143089294434 | count: 1
+immune and inflammatory disorders => disease_disorder | max_score: 0.536731481552124 | count: 1
+peptidomimetics => peptide | max_score: 0.6045989394187927 | count: 1
+cell lines => cell_line | max_score: 0.9502434730529785 | count: 2
+animal models => cell_line | max_score: 0.5222727656364441 | count: 1
+primary cells => cell_type | max_score: 0.7504076957702637 | count: 1
+human pluripotent stem cells => cell_line | max_score: 0.7542985677719116 | count: 1

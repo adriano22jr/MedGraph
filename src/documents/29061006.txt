@@ -1,0 +1,16 @@
+extended-infusion => treatment | max_score: 0.6534814238548279 | count: 3
+carbapenem => antibiotic | max_score: 0.8329057097434998 | count: 7
+sulbactam => antibiotic | max_score: 0.8050328493118286 | count: 3
+ventilator-associated pneumonia => disease_disorder | max_score: 0.9081912040710449 | count: 2
+Acinetobacter baumannii => bacteria | max_score: 0.8360149264335632 | count: 1
+XDRAB => bacteria | max_score: 0.689680814743042 | count: 2
+tigecycline-based therapy => treatment | max_score: 0.7907352447509766 | count: 1
+January 2015 => date | max_score: 0.9793317317962646 | count: 1
+December 2016 => date | max_score: 0.9825599789619446 | count: 1
+retrospective study => study_design | max_score: 0.5501928925514221 | count: 1
+tigecycline => antibiotic | max_score: 0.7629119753837585 | count: 4
+microbiological eradication rate => medical_term | max_score: 0.5904763340950012 | count: 1
+clinical cure => medical_term | max_score: 0.6291995644569397 | count: 1
+mortality during treatment => medical_term | max_score: 0.6894924640655518 | count: 2
+Microbiological eradication => medical_term | max_score: 0.5639341473579407 | count: 1
+Clinical cure => medical_term | max_score: 0.5857300162315369 | count: 1

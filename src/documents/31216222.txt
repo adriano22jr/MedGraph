@@ -1,0 +1,11 @@
+sulbactam => antibiotic | max_score: 0.9058181643486023 | count: 5
+meropenem => antibiotic | max_score: 0.9070009589195251 | count: 5
+polymyxin B => antibiotic | max_score: 0.8776979446411133 | count: 5
+Acinetobacter baumannii => bacteria | max_score: 0.9480055570602417 | count: 1
+fractional inhibitory concentration index (FICI) => lab_value | max_score: 0.6230179667472839 | count: 1
+free drug concentration => lab_value | max_score: 0.6774591207504272 | count: 1
+minimum inhibitory concentration => lab_value | max_score: 0.6408748030662537 | count: 1
+MIC => lab_value | max_score: 0.5608383417129517 | count: 2
+FICI => lab_value | max_score: 0.5454308390617371 | count: 1
+q8 hours => drug_frequency | max_score: 0.8788173794746399 | count: 1
+q12 hours => drug_frequency | max_score: 0.8549379110336304 | count: 1

@@ -1,0 +1,7 @@
+Enterobacteriaceae => bacteria | max_score: 0.7013012766838074 | count: 1
+MCBT => diagnostic_procedure | max_score: 0.6226053833961487 | count: 2
+standard peak serum concentration => lab_value | max_score: 0.7404962182044983 | count: 1
+bactericidal activity => activity | max_score: 0.9438318014144897 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.9185346961021423 | count: 1
+time-killing curves => diagnostic_procedure | max_score: 0.5529091954231262 | count: 1
+colistin => antibiotic | max_score: 0.9569491744041443 | count: 2

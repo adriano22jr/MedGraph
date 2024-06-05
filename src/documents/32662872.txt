@@ -1,0 +1,14 @@
+TZP4 => compound | max_score: 0.7407467365264893 | count: 9
+antimicrobial peptides => compound | max_score: 0.5813644528388977 | count: 1
+antimicrobial activity => activity | max_score: 0.6508251428604126 | count: 1
+melittin => antibiotic | max_score: 0.5357950329780579 | count: 1
+antibiotic-resistant bacteria => bacteria | max_score: 0.6667099595069885 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9531093239784241 | count: 1
+multidrug-resistant Pseudomonas aeruginosa => bacteria | max_score: 0.9564008116722107 | count: 1
+proteolytic degradation => biological_process | max_score: 0.5135599970817566 | count: 1
+membrane depolarization => biological_process | max_score: 0.5019654631614685 | count: 1
+inducible nitric oxide synthase => enzyme | max_score: 0.9031205177307129 | count: 1
+tumor necrosis factor-α (TNF-α) => enzyme | max_score: 0.5640988945960999 | count: 1
+LPS => molecule | max_score: 0.6855248808860779 | count: 7
+RAW264.7 cells => cell_line | max_score: 0.9578511118888855 | count: 2
+CD14+ cells => cell | max_score: 0.6965116262435913 | count: 1

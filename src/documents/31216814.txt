@@ -1,0 +1,12 @@
+patients => subject | max_score: 0.6783662438392639 | count: 5
+tracheotomy => surgical_procedure | max_score: 0.6291561126708984 | count: 1
+intubation => surgical_procedure | max_score: 0.5118494629859924 | count: 1
+invasive mechanical ventilator => device | max_score: 0.9137813448905945 | count: 1
+January 2015 => date | max_score: 0.9918506741523743 | count: 1
+January 2017 => date | max_score: 0.9921099543571472 | count: 1
+prospective study => study_design | max_score: 0.8081805109977722 | count: 1
+anti-infective treatment => treatment | max_score: 0.8327265381813049 | count: 1
+healthy volunteers => subject | max_score: 0.7015494704246521 | count: 2
+subjects => subject | max_score: 0.6414726376533508 | count: 2
+APACHE Ⅱ score => medical_term | max_score: 0.5030781626701355 | count: 1
+severity of illness => severity | max_score: 0.9131447672843933 | count: 1

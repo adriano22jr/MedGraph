@@ -1,0 +1,4 @@
+imipenem => antibiotic | max_score: 0.5019147992134094 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.983337938785553 | count: 1
+carbapenemase => enzyme | max_score: 0.6842394471168518 | count: 1
+GES-5 strains => bacteria | max_score: 0.6675923466682434 | count: 1

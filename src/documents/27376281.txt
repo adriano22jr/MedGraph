@@ -1,0 +1,3 @@
+Host defense peptides => peptide | max_score: 0.6254084706306458 | count: 1
+HDPs => peptide | max_score: 0.7296218872070312 | count: 5
+innate immune system => chemical_system | max_score: 0.686638355255127 | count: 1

@@ -1,0 +1,5 @@
+VDR polymorphism => mutation | max_score: 0.5196303129196167 | count: 2
+Fok1 => gene | max_score: 0.7458750605583191 | count: 2
+Vitamin D levels => lab_value | max_score: 0.6218946576118469 | count: 1
+vitamin D levels => lab_value | max_score: 0.6829713582992554 | count: 2
+Cathelicidin levels => lab_value | max_score: 0.7473529577255249 | count: 1

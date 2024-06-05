@@ -1,0 +1,17 @@
+systems => chemical_system | max_score: 0.6307726502418518 | count: 2
+antibiotic resistant bacteria => bacteria | max_score: 0.6290866732597351 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8555508255958557 | count: 1
+Gram-positive => bacteria | max_score: 0.7587944865226746 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9290522933006287 | count: 1
+mammalian cells => cell | max_score: 0.9144835472106934 | count: 1
+pendant quaternary ammoniums => compound | max_score: 0.5726320743560791 | count: 1
+chloride => compound | max_score: 0.665212869644165 | count: 2
+citrate => compound | max_score: 0.5617929697036743 | count: 1
+malonate => compound | max_score: 0.5561197400093079 | count: 1
+benzoate => compound | max_score: 0.6533814668655396 | count: 2
+acetate => compound | max_score: 0.5784858465194702 | count: 1
+lactate => compound | max_score: 0.5784941911697388 | count: 1
+trifluoroacetate => compound | max_score: 0.7358429431915283 | count: 2
+penicillin => antibiotic | max_score: 0.8570848107337952 | count: 1
+antimicrobial activity => activity | max_score: 0.5610977411270142 | count: 1
+harmful side effects => side_effect | max_score: 0.6515068411827087 | count: 1

@@ -1,0 +1,12 @@
+magainin II-cecropin B => peptide | max_score: 0.6063928604125977 | count: 1
+Mag II-CB => peptide | max_score: 0.8366104960441589 | count: 5
+Cordyceps militaris fungus => fungus | max_score: 0.9233806729316711 | count: 1
+broad-spectrum antibacterial activity => activity | max_score: 0.7392553687095642 | count: 1
+BALB/c mice => species | max_score: 0.7324974536895752 | count: 1
+Escherichia coli => bacteria | max_score: 0.9481138586997986 | count: 1
+tight junction proteins => protein | max_score: 0.6862863302230835 | count: 1
+zonula occludens-1 => protein | max_score: 0.9273273944854736 | count: 1
+claudin-1 => protein | max_score: 0.9191531538963318 | count: 1
+occludin => protein | max_score: 0.9263544082641602 | count: 1
+E. coli => bacteria | max_score: 0.5464383363723755 | count: 1
+plasma immunoglobulin => lab_value | max_score: 0.5027064085006714 | count: 1

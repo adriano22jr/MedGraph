@@ -1,0 +1,8 @@
+vancomycin => antibiotic | max_score: 0.9691279530525208 | count: 12
+colon => body_part | max_score: 0.6443527340888977 | count: 1
+Enterococci => bacteria | max_score: 0.930533230304718 | count: 3
+activity => activity | max_score: 0.5354844927787781 | count: 1
+l-Lys-d-Ala-d-Ala => peptide | max_score: 0.7232844233512878 | count: 1
+peptides => peptide | max_score: 0.6153906583786011 | count: 2
+native tripeptide => peptide | max_score: 0.6303719878196716 | count: 1
+single lead compound => compound | max_score: 0.5732756853103638 | count: 1

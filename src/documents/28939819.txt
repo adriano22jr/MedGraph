@@ -1,0 +1,8 @@
+antimicrobial agents => antibiotic | max_score: 0.5368199348449707 | count: 2
+apidaecin => peptide | max_score: 0.9546994566917419 | count: 4
+Gram-negative bacteria => bacteria | max_score: 0.9568597674369812 | count: 1
+Escherichia coli => bacteria | max_score: 0.8508893251419067 | count: 1
+peptide chain release factor 1 => protein | max_score: 0.8228532671928406 | count: 1
+translation => biological_process | max_score: 0.7053573131561279 | count: 2
+inhibitory activity => activity | max_score: 0.884067952632904 | count: 1
+lacZ reporter gene => gene | max_score: 0.8570910692214966 | count: 1

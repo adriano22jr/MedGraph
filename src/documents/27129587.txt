@@ -1,0 +1,12 @@
+nhCAP18/LL-37 => antibiotic | max_score: 0.7995238900184631 | count: 2
+hCAP18/LL-37 => peptide | max_score: 0.8460573554039001 | count: 9
+generalized aggressive periodontitis => disease_disorder | max_score: 0.673478364944458 | count: 1
+G-AgP => disease_disorder | max_score: 0.5939303636550903 | count: 5
+patients => subject | max_score: 0.6611518263816833 | count: 3
+healthy subjects => subject | max_score: 0.7788266539573669 | count: 1
+Periodontal parameters => medical_term | max_score: 0.6680455803871155 | count: 1
+probing depth => medical_term | max_score: 0.8159374594688416 | count: 1
+clinical attachment level => medical_term | max_score: 0.7791854739189148 | count: 1
+plaque index => medical_term | max_score: 0.754476010799408 | count: 1
+papilla bleeding index => medical_term | max_score: 0.7859092950820923 | count: 1
+periodontal parameters => medical_term | max_score: 0.6584076285362244 | count: 2

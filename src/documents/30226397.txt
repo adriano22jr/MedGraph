@@ -1,0 +1,12 @@
+Colistin => antibiotic | max_score: 0.9599398374557495 | count: 1
+humans => species | max_score: 0.6491091847419739 | count: 2
+Gram-negative bacteria => bacteria | max_score: 0.7542144060134888 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9496853947639465 | count: 1
+A. baumannii => bacteria | max_score: 0.9619068503379822 | count: 1
+K. pneumoniae => bacteria | max_score: 0.9538530111312866 | count: 1
+colistin => antibiotic | max_score: 0.9616542458534241 | count: 8
+poultry => species | max_score: 0.6008372902870178 | count: 3
+Escherichia coli => bacteria | max_score: 0.7538374066352844 | count: 1
+Salmonella => bacteria | max_score: 0.9003344774246216 | count: 1
+E. coli => bacteria | max_score: 0.7892653346061707 | count: 1
+extended-spectrum cephalosporins => antibiotic | max_score: 0.6264191269874573 | count: 1

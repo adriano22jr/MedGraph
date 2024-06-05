@@ -1,0 +1,12 @@
+Acinetobacter calcoaceticus-Acinetobacter baumannii => bacteria | max_score: 0.8423469662666321 | count: 1
+XDR-Acb => bacteria | max_score: 0.5481532216072083 | count: 2
+colistimethate sodium => antibiotic | max_score: 0.5013861656188965 | count: 1
+AS-CMS => treatment | max_score: 0.6179408431053162 | count: 3
+thrice a day => drug_frequency | max_score: 0.8985279202461243 | count: 1
+30-day mortality => condition_outcome | max_score: 0.562288224697113 | count: 1
+observational study => study_design | max_score: 0.5912263989448547 | count: 1
+January 2014 => date | max_score: 0.9871935248374939 | count: 1
+December 2016 => date | max_score: 0.9881420731544495 | count: 1
+primary endpoint => condition_outcome | max_score: 0.6641236543655396 | count: 1
+30-day case fatality => condition_outcome | max_score: 0.7164315581321716 | count: 1
+XDR-A. baumannii => bacteria | max_score: 0.6837395429611206 | count: 1

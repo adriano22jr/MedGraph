@@ -1,0 +1,12 @@
+Streptococcus pyogenes => bacteria | max_score: 0.9632609486579895 | count: 1
+human host => species | max_score: 0.5364691615104675 | count: 1
+bacterial factors => environmental_factor | max_score: 0.5582091212272644 | count: 1
+S. pyogenes => bacteria | max_score: 0.8241370916366577 | count: 4
+MGAS8232 => bacteria | max_score: 0.5426282286643982 | count: 1
+in vitro laboratory conditions => environmental_factor | max_score: 0.8611710667610168 | count: 1
+mouse nasopharynx => body_part | max_score: 0.7121927738189697 | count: 1
+SpbM => peptide | max_score: 0.8996334671974182 | count: 1
+SpbN => peptide | max_score: 0.9009004831314087 | count: 1
+antimicrobial activity => activity | max_score: 0.9680105447769165 | count: 1
+Lactococcus lactis => bacteria | max_score: 0.6409449577331543 | count: 1
+spbN => peptide | max_score: 0.8972353935241699 | count: 1

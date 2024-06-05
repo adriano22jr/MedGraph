@@ -1,0 +1,13 @@
+fermented milk consumption => diet | max_score: 0.8701654076576233 | count: 1
+fermented dairy => diet | max_score: 0.5165830254554749 | count: 1
+gut microbial balance => biological_process | max_score: 0.5342668294906616 | count: 1
+host => organism | max_score: 0.5799250602722168 | count: 2
+cardiometabolic diseases => disease_disorder | max_score: 0.8122084736824036 | count: 2
+Lactic acid bacteria => bacteria | max_score: 0.8231436014175415 | count: 1
+exopolysaccharides => peptide | max_score: 0.7161259055137634 | count: 1
+peptides => peptide | max_score: 0.8754097819328308 | count: 4
+fermented dairy products => diet | max_score: 0.6738022565841675 | count: 2
+nonfermented dairy => diet | max_score: 0.6280992031097412 | count: 1
+gene expression => biological_process | max_score: 0.5523878335952759 | count: 1
+glucose regulatory and anti-inflammatory signaling pathways => biological_process | max_score: 0.5298883318901062 | count: 1
+epidemiological studies => study_design | max_score: 0.5141765475273132 | count: 1

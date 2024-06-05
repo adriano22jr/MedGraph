@@ -1,0 +1,11 @@
+E. coli => bacteria | max_score: 0.9579063057899475 | count: 3
+13th May => date | max_score: 0.8270958662033081 | count: 1
+12th June 2018 => date | max_score: 0.9630246162414551 | count: 1
+vancomycin => antibiotic | max_score: 0.8761374950408936 | count: 1
+MALDI-TOF => device | max_score: 0.5499613881111145 | count: 1
+blamcr-1 => molecule | max_score: 0.5859995484352112 | count: 1
+17-year boy => age | max_score: 0.6413260102272034 | count: 1
+trunk and face => body_part | max_score: 0.7321959733963013 | count: 1
+IncH12 plasmid => molecule | max_score: 0.6105233430862427 | count: 1
+ISApaI1 => gene | max_score: 0.7060593962669373 | count: 1
+Klebsiella varricola => bacteria | max_score: 0.8748759627342224 | count: 1

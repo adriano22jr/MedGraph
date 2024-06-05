@@ -1,0 +1,5 @@
+molecular interactions => biological_process | max_score: 0.6017153859138489 | count: 2
+G-protein coupled receptor (GPCR) => protein_family | max_score: 0.7822014093399048 | count: 1
+ligand-induced conformational changes => biological_process | max_score: 0.6465932130813599 | count: 1
+G-proteins => protein_family | max_score: 0.671647310256958 | count: 1
+lipid environment => environmental_factor | max_score: 0.862831711769104 | count: 1

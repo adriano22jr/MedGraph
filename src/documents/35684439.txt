@@ -1,0 +1,6 @@
+Gram-positive bacteria => bacteria | max_score: 0.8715843558311462 | count: 1
+S. aureus => bacteria | max_score: 0.9754852056503296 | count: 2
+Antimicrobial peptides => peptide | max_score: 0.7212470173835754 | count: 1
+AMPs => peptide | max_score: 0.7238060832023621 | count: 2
+CABI-6 => compound | max_score: 0.7102556824684143 | count: 4
+bactericidal activity => activity | max_score: 0.9143856763839722 | count: 1

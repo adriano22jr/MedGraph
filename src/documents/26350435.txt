@@ -1,0 +1,14 @@
+intratracheal transplantation => surgical_procedure | max_score: 0.5052130222320557 | count: 1
+MSCs => cell_line | max_score: 0.7878926992416382 | count: 8
+Escherichia (E) coli => bacteria | max_score: 0.7500585317611694 | count: 1
+inflammation => biological_process | max_score: 0.5499939322471619 | count: 1
+bacterial clearance => biological_process | max_score: 0.6395647525787354 | count: 2
+mice => species | max_score: 0.6265112161636353 | count: 2
+E. coli => bacteria | max_score: 0.9057008028030396 | count: 5
+fibroblasts => cell_line | max_score: 0.8338308930397034 | count: 3
+toll- like receptors (TLR) => protein | max_score: 0.5873002409934998 | count: 1
+TLR- 4 => protein | max_score: 0.8786489963531494 | count: 5
+β- defensin 2 => protein | max_score: 0.5340113043785095 | count: 1
+BD2 => protein | max_score: 0.7794424295425415 | count: 5
+in vitro => environmental_factor | max_score: 0.7100893259048462 | count: 2
+TLR- 2 => protein | max_score: 0.8218280673027039 | count: 1

@@ -1,0 +1,14 @@
+Vibrio vulnificus => bacteria | max_score: 0.9816857576370239 | count: 4
+hemoperfusion => treatment | max_score: 0.5622804760932922 | count: 2
+polymyxin B => antibiotic | max_score: 0.8159539699554443 | count: 3
+63-year-old => age | max_score: 0.7473490238189697 | count: 1
+general weakness => sign_symptom | max_score: 0.7424129843711853 | count: 1
+fever => sign_symptom | max_score: 0.8175562620162964 | count: 2
+abdominal pain => sign_symptom | max_score: 0.8546275496482849 | count: 1
+raw fish => diet | max_score: 0.9643316268920898 | count: 1
+Initial laboratory tests => diagnostic_procedure | max_score: 0.6175501346588135 | count: 1
+peritoneal fluid analysis => diagnostic_procedure | max_score: 0.7170376181602478 | count: 1
+empirical intraperitoneal antibiotic treatment => treatment | max_score: 0.8554372191429138 | count: 1
+multiple vesicles => sign_symptom | max_score: 0.5703907608985901 | count: 1
+extremities => body_part | max_score: 0.9053165316581726 | count: 1
+Hemoperfusion => treatment | max_score: 0.5970528721809387 | count: 1

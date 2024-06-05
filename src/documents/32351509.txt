@@ -1,0 +1,12 @@
+Paneth cells => cell | max_score: 0.8965470790863037 | count: 2
+small intestine => anatomical_system | max_score: 0.9344791173934937 | count: 1
+crypts of Lieberkühn => anatomical_system | max_score: 0.6165104508399963 | count: 1
+stem cells => cell | max_score: 0.8822663426399231 | count: 1
+Wnt-factors => peptide | max_score: 0.5920059680938721 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6802560687065125 | count: 1
+defensins => peptide | max_score: 0.8549001812934875 | count: 1
+lysozyme => peptide | max_score: 0.7668373584747314 | count: 1
+α-defensin 5 and 6 => peptide | max_score: 0.6096878051757812 | count: 1
+Crohn's disease => disease_disorder | max_score: 0.7729607820510864 | count: 3
+life-style risk factors => environmental_factor | max_score: 0.8042274117469788 | count: 1
+tobacco smoking => diet | max_score: 0.8482794165611267 | count: 1

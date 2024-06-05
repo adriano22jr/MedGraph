@@ -1,0 +1,10 @@
+peptides => peptide | max_score: 0.7463284730911255 | count: 8
+receptors => protein | max_score: 0.5695400834083557 | count: 1
+natural resources => environmental_factor | max_score: 0.5976198315620422 | count: 2
+antibacterial => peptide | max_score: 0.65580153465271 | count: 1
+antidiabetic => peptide | max_score: 0.6249080300331116 | count: 1
+anticancer activity => activity | max_score: 0.7700359225273132 | count: 1
+neurotoxin activity => activity | max_score: 0.8298656344413757 | count: 1
+marine resources => environmental_factor | max_score: 0.6767706871032715 | count: 1
+marine sources => environmental_factor | max_score: 0.625331699848175 | count: 2
+clinical trials => clinical_trial | max_score: 0.812543511390686 | count: 1

@@ -1,0 +1,11 @@
+lipopeptides => compound | max_score: 0.6418638825416565 | count: 2
+Gram (+) => bacteria | max_score: 0.659485936164856 | count: 1
+bacteria => bacteria | max_score: 0.6032499670982361 | count: 1
+yeast => fungus | max_score: 0.8992102146148682 | count: 2
+synthetic compounds => compound | max_score: 0.6591526865959167 | count: 1
+mammalian cells => cell | max_score: 0.643563985824585 | count: 1
+inhibitory activity => activity | max_score: 0.5812215805053711 | count: 1
+(KLFK)3 peptide => peptide | max_score: 0.8176265358924866 | count: 1
+(KLFK)2 peptide => peptide | max_score: 0.827056884765625 | count: 1
+yeasts => fungus | max_score: 0.6744938492774963 | count: 1
+antimicrobial activity => activity | max_score: 0.8154368996620178 | count: 2

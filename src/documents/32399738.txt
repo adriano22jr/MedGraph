@@ -1,0 +1,13 @@
+AMP => peptide | max_score: 0.5224751234054565 | count: 1
+innate immune system => chemical_system | max_score: 0.8436522483825684 | count: 1
+Zingiber zerumbet => plant | max_score: 0.9662200212478638 | count: 1
+w/v => volume | max_score: 0.8419487476348877 | count: 1
+v/v => volume | max_score: 0.8407315015792847 | count: 1
+Pythium myriotylum => fungus | max_score: 0.9295621514320374 | count: 1
+proteases => enzyme | max_score: 0.7590761184692383 | count: 1
+methylesterase => enzyme | max_score: 0.7722324132919312 | count: 1
+Arabidopsis thaliana => plant | max_score: 0.8730787634849548 | count: 1
+hypothetical protein => protein | max_score: 0.5567846298217773 | count: 1
+Oryza sativa => plant | max_score: 0.9051322340965271 | count: 1
+Z. zerumbet => plant | max_score: 0.5162906646728516 | count: 1
+IC50 value => lab_value | max_score: 0.7778832912445068 | count: 1

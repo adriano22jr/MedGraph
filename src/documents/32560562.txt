@@ -1,0 +1,15 @@
+defense mechanisms => biological_process | max_score: 0.6658421158790588 | count: 1
+Puntius sophore => plant | max_score: 0.7694193124771118 | count: 1
+biofilm formation => biological_process | max_score: 0.6234154105186462 | count: 1
+antibacterial activity => activity | max_score: 0.9245923161506653 | count: 1
+cytotoxicity => biological_process | max_score: 0.6227266192436218 | count: 1
+gentamicin => antibiotic | max_score: 0.9238943457603455 | count: 1
+Escherichia coli => bacteria | max_score: 0.932451605796814 | count: 1
+E. coli => bacteria | max_score: 0.6119397878646851 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9396870732307434 | count: 1
+P. aeruginosa => bacteria | max_score: 0.543475329875946 | count: 1
+Bacillus subtilis => bacteria | max_score: 0.9453135132789612 | count: 1
+B. subtilis => bacteria | max_score: 0.5114863514900208 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9268203377723694 | count: 1
+S. aureus => bacteria | max_score: 0.5747254490852356 | count: 1
+P. sophore => plant | max_score: 0.5303014516830444 | count: 1

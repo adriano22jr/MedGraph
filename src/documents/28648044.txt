@@ -1,0 +1,9 @@
+Disulfide exchange reaction => biological_process | max_score: 0.5768190026283264 | count: 1
+proteins => protein | max_score: 0.6436910033226013 | count: 2
+novel biodegradable dendritic platforms => device | max_score: 0.6138230562210083 | count: 1
+Bodipy-SH => peptide | max_score: 0.5349693894386292 | count: 1
+glutathione => molecule | max_score: 0.5446664690971375 | count: 1
+KLAK sequence containing peptide => peptide | max_score: 0.5754647254943848 | count: 1
+dithiothreitol => molecule | max_score: 0.5367256999015808 | count: 1
+apoptosis => biological_process | max_score: 0.557725727558136 | count: 1
+MDA-MB-231 => cell_line | max_score: 0.9231374263763428 | count: 1

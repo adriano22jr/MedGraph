@@ -1,0 +1,7 @@
+antimicrobial peptides => peptide | max_score: 0.6296722888946533 | count: 1
+slow-growing bacterium => bacteria | max_score: 0.5469794869422913 | count: 1
+Escherichia coli => bacteria | max_score: 0.9764617085456848 | count: 2
+Bacillus subtilis => bacteria | max_score: 0.9809092283248901 | count: 2
+B. subtilis => bacteria | max_score: 0.6080859303474426 | count: 1
+E. coli => bacteria | max_score: 0.5946738123893738 | count: 1
+bacteria => bacteria | max_score: 0.516962468624115 | count: 1

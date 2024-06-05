@@ -1,0 +1,13 @@
+LL-37 => peptide | max_score: 0.9053729176521301 | count: 7
+anti-inflammatory activity => activity | max_score: 0.8139457702636719 | count: 2
+FK13 => peptide | max_score: 0.7466403245925903 | count: 3
+antimicrobial activity => activity | max_score: 0.7191622853279114 | count: 2
+FK-13-a1 => peptide | max_score: 0.8097905516624451 | count: 5
+FK-13-a7 => peptide | max_score: 0.8160892724990845 | count: 5
+antibiotic-resistant bacteria => bacteria | max_score: 0.578312337398529 | count: 1
+MRSA => bacteria | max_score: 0.9785016775131226 | count: 2
+MDRPA => bacteria | max_score: 0.9651567935943604 | count: 3
+VREF => bacteria | max_score: 0.9589460492134094 | count: 1
+chloramphenicol => antibiotic | max_score: 0.8871874809265137 | count: 1
+FK13-a1 => peptide | max_score: 0.7940143942832947 | count: 2
+FK13-a7 => peptide | max_score: 0.8049374222755432 | count: 2

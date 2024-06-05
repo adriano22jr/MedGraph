@@ -1,0 +1,9 @@
+ApoE => protein | max_score: 0.635871171951294 | count: 3
+intestine => anatomical_system | max_score: 0.5875661373138428 | count: 1
+C57BL/6 => species | max_score: 0.6480522155761719 | count: 1
+broad-spectrum antibiotics => antibiotic | max_score: 0.9512704014778137 | count: 1
+drinking water => environmental_factor | max_score: 0.7653829455375671 | count: 1
+severe colitis => disease_disorder | max_score: 0.532091498374939 | count: 1
+IL-10 => peptide | max_score: 0.5310218930244446 | count: 1
+intestinal antimicrobial peptides => peptide | max_score: 0.6645921468734741 | count: 1
+colitis => disease_disorder | max_score: 0.5342633128166199 | count: 1

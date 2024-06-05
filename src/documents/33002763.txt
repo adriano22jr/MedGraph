@@ -1,0 +1,14 @@
+Medical devices => device | max_score: 0.8446141481399536 | count: 1
+biofilm formation => biological_process | max_score: 0.6201999187469482 | count: 1
+bacteria => bacteria | max_score: 0.6513027548789978 | count: 1
+AMPs => peptide | max_score: 0.5066375136375427 | count: 1
+hydrophobic interactions => biological_process | max_score: 0.5103722810745239 | count: 1
+biomedical devices => device | max_score: 0.8901343941688538 | count: 1
+hemolytic activities => activity | max_score: 0.6929529309272766 | count: 1
+urine => body_part | max_score: 0.5562275052070618 | count: 2
+T9W => peptide | max_score: 0.8124474883079529 | count: 2
+SAAP159 => peptide | max_score: 0.7189778685569763 | count: 1
+RRIKA => peptide | max_score: 0.6612125635147095 | count: 1
+silicone discs => device | max_score: 0.7013950943946838 | count: 1
+silicone tubing => device | max_score: 0.7704315185546875 | count: 2
+mouse bladder => body_part | max_score: 0.7663363814353943 | count: 1

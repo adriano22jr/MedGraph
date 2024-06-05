@@ -1,0 +1,12 @@
+bacteria => bacteria | max_score: 0.8620313405990601 | count: 6
+fungi => fungus | max_score: 0.9119200110435486 | count: 1
+viruses => virus | max_score: 0.5655104517936707 | count: 1
+nutrition => environmental_factor | max_score: 0.7116573452949524 | count: 1
+immune development => biological_process | max_score: 0.6490095257759094 | count: 1
+gut-associated lymphoid tissue => tissue | max_score: 0.9180736541748047 | count: 1
+cascade of immune responses => biological_process | max_score: 0.5514189600944519 | count: 1
+diet => diet | max_score: 0.9029693603515625 | count: 1
+antibiotics => antibiotic | max_score: 0.6297933459281921 | count: 1
+food preservatives => diet | max_score: 0.7617614269256592 | count: 1
+stress => environmental_factor | max_score: 0.8377812504768372 | count: 1
+age => age | max_score: 0.7867512106895447 | count: 1

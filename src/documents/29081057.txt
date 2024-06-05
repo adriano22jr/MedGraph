@@ -1,0 +1,11 @@
+Cell-penetrating peptides => molecule | max_score: 0.7091981172561646 | count: 1
+oligonucleotides => molecule | max_score: 0.7138254642486572 | count: 2
+cell-penetrating peptides => peptide | max_score: 0.7658547759056091 | count: 2
+cell-penetrating peptides => molecule | max_score: 0.7570067048072815 | count: 4
+endocytosis => biological_process | max_score: 0.7741512656211853 | count: 2
+scavenger receptor class A => protein | max_score: 0.8085321187973022 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7636028528213501 | count: 1
+direct translocation => biological_process | max_score: 0.5446791052818298 | count: 1
+Arginine-rich peptides => peptide | max_score: 0.6694991588592529 | count: 1
+membrane destabilization => biological_process | max_score: 0.5507850050926208 | count: 1
+clathrin-mediated endocytosis => biological_process | max_score: 0.7399975657463074 | count: 1

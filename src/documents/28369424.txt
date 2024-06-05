@@ -1,0 +1,9 @@
+colistin => antibiotic | max_score: 0.8259347677230835 | count: 5
+Klebsiella pneumoniae => bacteria | max_score: 0.8494218587875366 | count: 1
+meropenem => antibiotic | max_score: 0.8203469514846802 | count: 11
+tigecycline => antibiotic | max_score: 0.6578304767608643 | count: 3
+rifampicin => antibiotic | max_score: 0.5874239802360535 | count: 1
+gentamicin => antibiotic | max_score: 0.7330018281936646 | count: 2
+ertapenem => antibiotic | max_score: 0.7472590804100037 | count: 6
+Meropenem => antibiotic | max_score: 0.7682828307151794 | count: 1
+MIC => lab_value | max_score: 0.6994094848632812 | count: 7

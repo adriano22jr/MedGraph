@@ -1,0 +1,14 @@
+Dental caries => disease_disorder | max_score: 0.6223282814025879 | count: 1
+Streptococcus mutans => bacteria | max_score: 0.9761112332344055 | count: 1
+traditional antibiotics => antibiotic | max_score: 0.6333426237106323 | count: 1
+S. mutans => bacteria | max_score: 0.8840785622596741 | count: 7
+polyphemusin I => peptide | max_score: 0.805144727230072 | count: 2
+PI => peptide | max_score: 0.796549916267395 | count: 6
+diphosphoserine => peptide | max_score: 0.5711647272109985 | count: 1
+DPS-PI => peptide | max_score: 0.839985728263855 | count: 9
+minimum inhibitory concentration => lab_value | max_score: 0.7361384034156799 | count: 1
+optical density (OD) => lab_value | max_score: 0.6647863388061523 | count: 1
+BMSCs => cell_line | max_score: 0.7992321252822876 | count: 1
+MIC => lab_value | max_score: 0.6878873705863953 | count: 1
+incisor surfaces => body_part | max_score: 0.5049708485603333 | count: 1
+rabbits => species | max_score: 0.537483274936676 | count: 1

@@ -1,0 +1,14 @@
+polymyxin B => antibiotic | max_score: 0.9309905767440796 | count: 5
+Patients => subject | max_score: 0.5576737523078918 | count: 1
+Gram-negative bacterial infections => bacteria | max_score: 0.5053895115852356 | count: 1
+patients => subject | max_score: 0.56010901927948 | count: 3
+AUCss => lab_value | max_score: 0.5181300640106201 | count: 1
+mg‧h/L => volume | max_score: 0.7020875215530396 | count: 2
+CVVH => treatment | max_score: 0.5319940447807312 | count: 2
+loading dose => drug_dosage | max_score: 0.6785826683044434 | count: 1
+200 mg => drug_dosage | max_score: 0.5079169273376465 | count: 1
+fixed maintenance dose => drug_dosage | max_score: 0.6302987337112427 | count: 1
+150 mg => drug_dosage | max_score: 0.5992528796195984 | count: 1
+every 12 h => drug_frequency | max_score: 0.6994437575340271 | count: 1
+minimum inhibitory concentration => lab_value | max_score: 0.640080451965332 | count: 1
+mg/L => volume | max_score: 0.6490962505340576 | count: 1

@@ -1,0 +1,15 @@
+apolipoproteins => protein | max_score: 0.6736067533493042 | count: 4
+ApoA => protein | max_score: 0.584446132183075 | count: 1
+hepatitis C virus => virus | max_score: 0.6262948513031006 | count: 1
+HCV => virus | max_score: 0.8388476371765137 | count: 6
+assembly process => biological_process | max_score: 0.5985811352729797 | count: 1
+ApoE => protein | max_score: 0.6190787553787231 | count: 1
+Huh7 (BE-KO) => cell_line | max_score: 0.6652615666389465 | count: 1
+human => virus | max_score: 0.5283241271972656 | count: 1
+CAMP => peptide | max_score: 0.7576326131820679 | count: 6
+cathelicidin family of antimicrobial peptides (AMPs) => protein_family | max_score: 0.6499091982841492 | count: 1
+bone marrow => body_part | max_score: 0.8363146185874939 | count: 1
+leukocytes => cell_type | max_score: 0.8661945462226868 | count: 1
+BE-KO cells => cell_line | max_score: 0.8023868799209595 | count: 2
+293T cells => cell_line | max_score: 0.7775192856788635 | count: 1
+claudin 1 => protein | max_score: 0.7955614924430847 | count: 1

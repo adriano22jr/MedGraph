@@ -1,0 +1,7 @@
+prokaryotic cells => cell | max_score: 0.7349025011062622 | count: 1
+cells => cell | max_score: 0.557117760181427 | count: 2
+Laurdan => device | max_score: 0.6694042086601257 | count: 1
+polarity changes => biological_process | max_score: 0.5833203196525574 | count: 1
+environment => environmental_factor | max_score: 0.9656696319580078 | count: 1
+melittin => peptide | max_score: 0.9664043188095093 | count: 4
+Melittin => peptide | max_score: 0.9543774127960205 | count: 1

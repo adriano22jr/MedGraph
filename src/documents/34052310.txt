@@ -1,0 +1,11 @@
+RQ18 => peptide | max_score: 0.9317188858985901 | count: 5
+antimicrobial activity => activity | max_score: 0.5887494683265686 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9643765091896057 | count: 2
+yeasts => fungus | max_score: 0.8814519643783569 | count: 2
+Candida genus => fungus | max_score: 0.9797423481941223 | count: 1
+mammalian cells => cell_line | max_score: 0.8101722002029419 | count: 2
+human lung fibroblasts => cell_line | max_score: 0.8366783261299133 | count: 1
+peripheral blood mononuclear cells => cell_line | max_score: 0.7946824431419373 | count: 1
+red blood cells => cell_line | max_score: 0.7304819822311401 | count: 1
+Vero cells => cell_line | max_score: 0.9635174870491028 | count: 1
+MIC values => lab_value | max_score: 0.904320478439331 | count: 1

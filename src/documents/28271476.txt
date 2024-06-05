@@ -1,0 +1,12 @@
+α2-macroglobulins => protein | max_score: 0.6916659474372864 | count: 3
+metazoans => organism | max_score: 0.5222994089126587 | count: 1
+invertebrates => bacteria | max_score: 0.5152578353881836 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9333515167236328 | count: 1
+peptidases => enzyme | max_score: 0.939164936542511 | count: 5
+α2-macroglobulin => protein | max_score: 0.7320120930671692 | count: 2
+proteolysis => biological_process | max_score: 0.5132356286048889 | count: 1
+nutrition => biological_process | max_score: 0.7999484539031982 | count: 1
+signalling => biological_process | max_score: 0.7824767231941223 | count: 1
+tissue remodelling => biological_process | max_score: 0.7661993503570557 | count: 1
+hormones => protein | max_score: 0.5017101764678955 | count: 1
+antimicrobial peptides => protein | max_score: 0.6725360155105591 | count: 1

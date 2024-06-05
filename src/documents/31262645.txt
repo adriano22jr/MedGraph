@@ -1,0 +1,5 @@
+cystic fibrosis => disease_disorder | max_score: 0.5809460878372192 | count: 1
+BPI => protein | max_score: 0.7160404920578003 | count: 7
+P. aeruginosa => bacteria | max_score: 0.8953210711479187 | count: 3
+IgG => immunologic_marker | max_score: 0.565085232257843 | count: 2
+IgA => immunologic_marker | max_score: 0.5510880947113037 | count: 3

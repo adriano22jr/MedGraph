@@ -1,0 +1,17 @@
+bactericidal activity => activity | max_score: 0.7411086559295654 | count: 1
+CTP => peptide | max_score: 0.6699950098991394 | count: 1
+cathelicidin 2 (1-13)-thymopentin => peptide | max_score: 0.5421515107154846 | count: 1
+TP5 => peptide | max_score: 0.5697957873344421 | count: 1
+CTP-NH2 => peptide | max_score: 0.7147846221923828 | count: 1
+cathelicidin 2 (1-13)-TP5 => peptide | max_score: 0.7007957100868225 | count: 2
+CTPQ => peptide | max_score: 0.7222864031791687 | count: 1
+minimal inhibitory concentrations (MICs) => lab_value | max_score: 0.6227884292602539 | count: 1
+minimal bactericidal concentrations (MBCs) => lab_value | max_score: 0.7425633668899536 | count: 1
+CTPs => peptide | max_score: 0.5694044828414917 | count: 5
+antibacterial activity => activity | max_score: 0.6002932190895081 | count: 1
+gram-negative bacteria => bacteria | max_score: 0.5170977115631104 | count: 1
+MICs => lab_value | max_score: 0.6379537582397461 | count: 1
+ATCC 43300 => bacteria | max_score: 0.5781629085540771 | count: 1
+intestinal porcine epithelial cell line => cell_line | max_score: 0.5067927837371826 | count: 1
+IPEC-J2 => cell_line | max_score: 0.9423649907112122 | count: 2
+S. aureus ATCC 43300 => bacteria | max_score: 0.656828761100769 | count: 1

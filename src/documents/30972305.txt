@@ -1,0 +1,12 @@
+Lutzomyia longipalpis => parasite | max_score: 0.8535968065261841 | count: 1
+Leishmania infantum chagasi => parasite | max_score: 0.8642321228981018 | count: 1
+IMD pathways => biological_process | max_score: 0.5947842001914978 | count: 1
+L. i. chagasi => parasite | max_score: 0.7322376370429993 | count: 5
+L. longipalpis => parasite | max_score: 0.6192349791526794 | count: 3
+LlTGF-β => protein_family | max_score: 0.7874999642372131 | count: 4
+activin/inhibin subfamily => protein_family | max_score: 0.9579205513000488 | count: 1
+insect development => biological_process | max_score: 0.5494950413703918 | count: 1
+blood digestion => biological_process | max_score: 0.7122270464897156 | count: 1
+insect gut => body_part | max_score: 0.8348951935768127 | count: 2
+SB431542 => drug | max_score: 0.5591295957565308 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6548300981521606 | count: 1

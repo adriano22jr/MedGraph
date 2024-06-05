@@ -1,0 +1,8 @@
+Aurein 1.2 => peptide | max_score: 0.9155519008636475 | count: 1
+skin => body_part | max_score: 0.5822829604148865 | count: 1
+Australian frog => bacteria | max_score: 0.9173644185066223 | count: 1
+aurein 1.2 => peptide | max_score: 0.9241593480110168 | count: 3
+Lactobacillus delbrueckii subsp. bulgaricus => bacteria | max_score: 0.9146378040313721 | count: 1
+CIDCA 331 => cell_line | max_score: 0.899000883102417 | count: 4
+Lactobacillus delbrueckii subsp. lactis => bacteria | max_score: 0.9094809293746948 | count: 1
+CIDCA 133 => cell_line | max_score: 0.9133498668670654 | count: 4

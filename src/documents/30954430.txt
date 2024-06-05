@@ -1,0 +1,7 @@
+Carbapenemase-producing Enterobacteriaceae => bacteria | max_score: 0.8803941011428833 | count: 1
+CPE => bacteria | max_score: 0.7315406203269958 | count: 1
+colistin => antibiotic | max_score: 0.944725513458252 | count: 3
+niclosamide => drug | max_score: 0.8686069250106812 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.7321895956993103 | count: 1
+compound 10 (HJC0431) => compound | max_score: 0.5347812175750732 | count: 1
+broad antibacterial activities => activity | max_score: 0.6369823217391968 | count: 1

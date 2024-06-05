@@ -1,0 +1,10 @@
+VAP => disease_disorder | max_score: 0.6080563068389893 | count: 6
+Acinetobacter baumannii => bacteria | max_score: 0.9183478355407715 | count: 1
+COS-AB => bacteria | max_score: 0.8179085850715637 | count: 6
+Colistin => antibiotic | max_score: 0.9480852484703064 | count: 2
+Gram-negative organisms => bacteria | max_score: 0.6839911341667175 | count: 1
+retrospective study => study_design | max_score: 0.8874564170837402 | count: 1
+colistin => antibiotic | max_score: 0.9626940488815308 | count: 4
+30-day mortality => condition_outcome | max_score: 0.7685385942459106 | count: 3
+men => sex | max_score: 0.9496126770973206 | count: 1
+women => sex | max_score: 0.975665271282196 | count: 1

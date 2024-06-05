@@ -1,0 +1,6 @@
+Respiratory diseases => disease_disorder | max_score: 0.8390986919403076 | count: 1
+respiratory diseases => disease_disorder | max_score: 0.8705394864082336 | count: 2
+frequent dosing => drug_frequency | max_score: 0.9477440714836121 | count: 1
+sterility requirement => medical_term | max_score: 0.5028403401374817 | count: 1
+dry powder inhaler (DPI) => device | max_score: 0.7804890275001526 | count: 1
+DPI devices => device | max_score: 0.5357412695884705 | count: 1

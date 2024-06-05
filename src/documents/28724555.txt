@@ -1,0 +1,11 @@
+polymyxins => antibiotic | max_score: 0.5151731967926025 | count: 2
+Gram-negative bacilli => bacteria | max_score: 0.80344158411026 | count: 1
+2017 => date | max_score: 0.6485176086425781 | count: 1
+Etest => device | max_score: 0.629054605960846 | count: 1
+polymyxin B => antibiotic | max_score: 0.8028609752655029 | count: 1
+colistin => antibiotic | max_score: 0.7176952958106995 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.7898524403572083 | count: 1
+mcr-1 => immunologic_marker | max_score: 0.6594946384429932 | count: 1
+Sensititre panel => device | max_score: 0.5430834889411926 | count: 1
+CLSI and EUCAST guidance => clinical_guideline | max_score: 0.5135178565979004 | count: 1
+mg/liter => volume | max_score: 0.749976634979248 | count: 3

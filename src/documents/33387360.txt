@@ -1,0 +1,17 @@
+Dienogest => drug | max_score: 0.7243439555168152 | count: 1
+progestin => drug | max_score: 0.5418307781219482 | count: 1
+endometriosis => disease_disorder | max_score: 0.8954485654830933 | count: 1
+DNG => drug | max_score: 0.6614917516708374 | count: 4
+cytokines => protein | max_score: 0.6743593811988831 | count: 1
+growth factor production => biological_process | max_score: 0.7522640824317932 | count: 1
+protein expression => biological_process | max_score: 0.5527060031890869 | count: 1
+neutrophil granulocyte => disease_disorder | max_score: 0.506482720375061 | count: 1
+myeloperoxidase => enzyme | max_score: 0.9412705898284912 | count: 1
+lactotransferrin => enzyme | max_score: 0.8010908365249634 | count: 1
+inflammation => biological_process | max_score: 0.6346710920333862 | count: 1
+azurocidin => protein | max_score: 0.8955296277999878 | count: 3
+neutrophil gelatinase-associated lipocalin => enzyme | max_score: 0.7861180305480957 | count: 1
+clinical environment => environmental_factor | max_score: 0.9763404726982117 | count: 1
+insulin-like growth factor-1 => protein | max_score: 0.5319473743438721 | count: 1
+IGFBP-1 => protein | max_score: 0.7182850241661072 | count: 1
+ovary => disease_disorder | max_score: 0.5014879703521729 | count: 1

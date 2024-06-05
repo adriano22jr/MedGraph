@@ -1,0 +1,16 @@
+Sulbactam => antibiotic | max_score: 0.9171434044837952 | count: 2
+Acinetobacter baumannii => bacteria | max_score: 0.9378763437271118 | count: 1
+severe sepsis => severity | max_score: 0.8146954774856567 | count: 2
+sulbactam => antibiotic | max_score: 0.9350935220718384 | count: 4
+A. baumannii => bacteria | max_score: 0.7806848883628845 | count: 2
+every 12 h => drug_frequency | max_score: 0.8865614533424377 | count: 2
+plasma drug concentration => lab_value | max_score: 0.7139713764190674 | count: 1
+MIC => lab_value | max_score: 0.7853904962539673 | count: 6
+central and peripheral volumes of distribution => volume | max_score: 0.5883660912513733 | count: 1
+9.55 liters => volume | max_score: 0.800723135471344 | count: 1
+2.26 liters/h => volume | max_score: 0.6636210680007935 | count: 1
+7.64 liters/h => volume | max_score: 0.7519704103469849 | count: 1
+aged >65 years => age | max_score: 0.5484975576400757 | count: 1
+≤65 years => age | max_score: 0.8899651765823364 | count: 1
+every 8 h => drug_frequency | max_score: 0.646239161491394 | count: 1
+colistin => antibiotic | max_score: 0.6469156742095947 | count: 1

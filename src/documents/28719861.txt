@@ -1,0 +1,10 @@
+cationic peptides => peptide | max_score: 0.5486909747123718 | count: 1
+AgNPs => compound | max_score: 0.5208785533905029 | count: 2
+antimicrobial activity => activity | max_score: 0.8110122084617615 | count: 2
+l-His-l-Arg-OMe => peptide | max_score: 0.8348026275634766 | count: 2
+MIC => lab_value | max_score: 0.9188249111175537 | count: 2
+E.coli => bacteria | max_score: 0.9782527089118958 | count: 1
+S. aureus => bacteria | max_score: 0.9863729476928711 | count: 1
+S. typhimurium => bacteria | max_score: 0.9766110181808472 | count: 1
+C. albicans => fungus | max_score: 0.984874427318573 | count: 1
+C. glabrata => fungus | max_score: 0.9503844380378723 | count: 1

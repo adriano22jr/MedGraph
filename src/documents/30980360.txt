@@ -1,0 +1,11 @@
+innate immune system => biological_process | max_score: 0.7354933619499207 | count: 1
+humans => species | max_score: 0.5192170143127441 | count: 1
+adaptive immune system => biological_process | max_score: 0.689210832118988 | count: 1
+Antimicrobial peptides => peptide | max_score: 0.5621780157089233 | count: 1
+human tissues => tissue | max_score: 0.7599905729293823 | count: 1
+LL-37 => peptide | max_score: 0.7767848372459412 | count: 8
+protease digestion => biological_process | max_score: 0.5860083699226379 | count: 1
+17BIPHE2 => peptide | max_score: 0.8142254948616028 | count: 2
+SAAP-148 => peptide | max_score: 0.674728274345398 | count: 1
+vitamin D => environmental_factor | max_score: 0.8780767321586609 | count: 1
+sunlight => environmental_factor | max_score: 0.9791481494903564 | count: 1

@@ -1,0 +1,1 @@
+AMPs => peptide | max_score: 0.655853271484375 | count: 1

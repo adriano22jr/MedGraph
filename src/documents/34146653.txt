@@ -1,0 +1,6 @@
+GA-KR12 => peptide | max_score: 0.9237101078033447 | count: 8
+KR12 => peptide | max_score: 0.7101600766181946 | count: 1
+mitochondrial dehydrogenase activity => lab_value | max_score: 0.7042369246482849 | count: 1
+cariogenic species => species | max_score: 0.6758757829666138 | count: 2
+enamel => tissue | max_score: 0.7733128666877747 | count: 5
+tested species => species | max_score: 0.6183653473854065 | count: 2

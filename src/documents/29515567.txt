@@ -1,0 +1,8 @@
+Mosquitoes => species | max_score: 0.5950135588645935 | count: 1
+AMPs => peptide | max_score: 0.8814451694488525 | count: 6
+hemocytes (HCs) => cell_type | max_score: 0.6819783449172974 | count: 1
+midgut => tissue | max_score: 0.9011451601982117 | count: 1
+fat body (FB) => tissue | max_score: 0.826492190361023 | count: 1
+HCs => cell_type | max_score: 0.666118323802948 | count: 2
+relish (REL) => gene | max_score: 0.5809650421142578 | count: 1
+nitric oxide synthase => enzyme | max_score: 0.7869006991386414 | count: 1

@@ -1,0 +1,13 @@
+cecropin A2 => peptide | max_score: 0.9554008841514587 | count: 4
+Aedes aegypti => species | max_score: 0.6748872995376587 | count: 1
+cecropin A => peptide | max_score: 0.8709779381752014 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9886246919631958 | count: 1
+hemolytic activity => activity | max_score: 0.8479190468788147 | count: 1
+mammalian cells => cell | max_score: 0.9138444662094116 | count: 1
+MICs => lab_value | max_score: 0.8473082184791565 | count: 3
+P. aeruginosa => bacteria | max_score: 0.8553800582885742 | count: 5
+μg/ml => lab_value | max_score: 0.5795925855636597 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8830603361129761 | count: 1
+μg/ml => volume | max_score: 0.727556049823761 | count: 1
+synergistic activity => activity | max_score: 0.5070248246192932 | count: 1
+tetracycline => antibiotic | max_score: 0.9531291723251343 | count: 3

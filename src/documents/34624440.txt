@@ -1,0 +1,12 @@
+innate immunity => biological_process | max_score: 0.6772444248199463 | count: 1
+commercial antimicrobial agents => antibiotic | max_score: 0.5212205648422241 | count: 2
+LyeTx I-b => peptide | max_score: 0.9468556642532349 | count: 5
+LyeTx I => peptide | max_score: 0.8019182682037354 | count: 1
+Lycosa erythrognatha => species | max_score: 0.691468358039856 | count: 1
+multidrug-resistant bacteria => bacteria | max_score: 0.6981322765350342 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.967140793800354 | count: 1
+LyeTx I-bPEG => peptide | max_score: 0.8147518038749695 | count: 3
+MIC value => lab_value | max_score: 0.9246224761009216 | count: 1
+anti-biofilm activity => activity | max_score: 0.9215428233146667 | count: 1
+HEK-293 cells => cell_line | max_score: 0.989042341709137 | count: 1
+mice => species | max_score: 0.555152416229248 | count: 1

@@ -1,0 +1,4 @@
+super-antibiotics => protein_family | max_score: 0.7570046782493591 | count: 1
+BPI gene => gene | max_score: 0.8919410109519958 | count: 4
+Sus_scrofa => species | max_score: 0.9714738726615906 | count: 1
+Bos_taurus => species | max_score: 0.962492823600769 | count: 1

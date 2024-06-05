@@ -1,0 +1,5 @@
+AMPs => peptide | max_score: 0.5381222367286682 | count: 1
+CQDs => compound | max_score: 0.6644402742385864 | count: 3
+Lys/Trp-CQDs => compound | max_score: 0.6211718916893005 | count: 1
+Arg/Trp-CQDs => compound | max_score: 0.6693170070648193 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9726738929748535 | count: 1

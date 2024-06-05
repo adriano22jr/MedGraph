@@ -1,0 +1,7 @@
+medical devices => device | max_score: 0.945799708366394 | count: 4
+antibacterial activity => activity | max_score: 0.6289505362510681 | count: 2
+S. aureus => bacteria | max_score: 0.9722806215286255 | count: 2
+E. coli => bacteria | max_score: 0.9776712656021118 | count: 2
+P. aeruginosa => bacteria | max_score: 0.977106511592865 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8367531895637512 | count: 1
+red blood cells => cell | max_score: 0.6839133501052856 | count: 1

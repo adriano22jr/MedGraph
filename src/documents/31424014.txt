@@ -1,0 +1,7 @@
+colistin => antibiotic | max_score: 0.8759816884994507 | count: 1
+fosfomycin => antibiotic | max_score: 0.9049927592277527 | count: 1
+tigecycline => antibiotic | max_score: 0.8886249661445618 | count: 1
+minocycline => antibiotic | max_score: 0.8910737037658691 | count: 1
+carbapenemases => enzyme | max_score: 0.5311676859855652 | count: 1
+Gram-negative pathogens => organism | max_score: 0.654509425163269 | count: 1
+clinical outcome => condition_outcome | max_score: 0.8538910150527954 | count: 1

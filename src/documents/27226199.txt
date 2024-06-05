@@ -1,0 +1,12 @@
+Depsipeptides => peptide | max_score: 0.834079921245575 | count: 2
+peptides => peptide | max_score: 0.6456644535064697 | count: 2
+ester bond => chemical_system | max_score: 0.5135334134101868 | count: 1
+anticancer => activity | max_score: 0.5699920058250427 | count: 1
+antiproliferative => activity | max_score: 0.5149480104446411 | count: 1
+antiplasmodial => activity | max_score: 0.5006938576698303 | count: 1
+marine organisms => organism | max_score: 0.7017892599105835 | count: 1
+bacteria => bacteria | max_score: 0.7626358866691589 | count: 1
+tunicates => bacteria | max_score: 0.7180811166763306 | count: 1
+mollusks => bacteria | max_score: 0.7225828766822815 | count: 1
+sponges => organism | max_score: 0.7569300532341003 | count: 1
+depsipeptides => peptide | max_score: 0.8132326006889343 | count: 1

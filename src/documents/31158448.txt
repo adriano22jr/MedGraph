@@ -1,0 +1,13 @@
+innate system => anatomical_system | max_score: 0.6645190715789795 | count: 1
+beta-defensins => protein_family | max_score: 0.799884021282196 | count: 3
+male reproductive tract tissues => tissue | max_score: 0.7235003709793091 | count: 2
+Sperm Associated Antigen 11 (SPAG11) => protein_family | max_score: 0.8408445119857788 | count: 1
+Trichostatin A => drug | max_score: 0.706549882888794 | count: 2
+Azacytidine => drug | max_score: 0.725224494934082 | count: 2
+caput => body_part | max_score: 0.7611774206161499 | count: 1
+cauda => body_part | max_score: 0.579423725605011 | count: 1
+testis => tissue | max_score: 0.6740939021110535 | count: 1
+prostate => tissue | max_score: 0.7381381392478943 | count: 1
+seminal vesicle => tissue | max_score: 0.8002138137817383 | count: 1
+rats => species | max_score: 0.8836544752120972 | count: 1
+20 day to 730 day old => age | max_score: 0.6699352860450745 | count: 1

@@ -1,0 +1,9 @@
+MDR-TB => disease_disorder | max_score: 0.5106068849563599 | count: 1
+XDR-TB => disease_disorder | max_score: 0.546150267124176 | count: 1
+new and effective TB therapy => treatment | max_score: 0.5595434904098511 | count: 1
+Cationic antimicrobial peptides => peptide | max_score: 0.5802696347236633 | count: 1
+CAMPs => peptide | max_score: 0.655136227607727 | count: 3
+Mycobacterium tuberculosis => bacteria | max_score: 0.811133861541748 | count: 1
+M. tuberculosis => bacteria | max_score: 0.7858564257621765 | count: 4
+antimicrobial activity => activity | max_score: 0.7855943441390991 | count: 1
+mycobacteria => bacteria | max_score: 0.6345074772834778 | count: 2

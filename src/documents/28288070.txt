@@ -1,0 +1,15 @@
+LL-37 => peptide | max_score: 0.9015213847160339 | count: 3
+Pep19-4LF => peptide | max_score: 0.8990641236305237 | count: 5
+Male => sex | max_score: 0.925136148929596 | count: 1
+Wistar rats => species | max_score: 0.6542713642120361 | count: 1
+90 min => treatment_duration | max_score: 0.7557873725891113 | count: 1
+mean arterial pressure => lab_value | max_score: 0.6871727108955383 | count: 2
+vehicle => treatment | max_score: 0.7877897024154663 | count: 2
+4 hours => treatment_duration | max_score: 0.5434327721595764 | count: 1
+rats => subject | max_score: 0.5969758033752441 | count: 2
+54 ± 5 mm Hg => lab_value | max_score: 0.5370317101478577 | count: 1
+phosphorylation => biological_process | max_score: 0.662885844707489 | count: 2
+protein kinase B => enzyme | max_score: 0.8326008319854736 | count: 1
+endothelial nitric oxide synthase => enzyme | max_score: 0.8219814300537109 | count: 1
+p65 => enzyme | max_score: 0.6578978300094604 | count: 1
+IκB kinase => enzyme | max_score: 0.6851564645767212 | count: 1

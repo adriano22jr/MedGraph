@@ -1,0 +1,11 @@
+Candida albicans => fungus | max_score: 0.9840468764305115 | count: 1
+C. albicans => fungus | max_score: 0.9423542022705078 | count: 4
+PAF26 => peptide | max_score: 0.9399192333221436 | count: 3
+antifungal activity => activity | max_score: 0.5782077312469482 | count: 2
+P255 => peptide | max_score: 0.9360044002532959 | count: 3
+P256 => peptide | max_score: 0.9245352745056152 | count: 4
+amphotericin B => antibiotic | max_score: 0.6272579431533813 | count: 1
+cell wall synthesis => biological_process | max_score: 0.552192211151123 | count: 1
+cellular reactive oxygen species production => biological_process | max_score: 0.5378099679946899 | count: 1
+Antibiofilm activities => activity | max_score: 0.8191061019897461 | count: 1
+Galleria mellonella => plant | max_score: 0.6944192051887512 | count: 1

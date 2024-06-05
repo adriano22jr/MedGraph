@@ -1,0 +1,14 @@
+SRC-3 => protein | max_score: 0.6459587812423706 | count: 9
+nuclear receptors => protein | max_score: 0.545750081539154 | count: 1
+bacterial clearance => biological_process | max_score: 0.566303014755249 | count: 1
+colonic epithelial cells => cell | max_score: 0.7392982244491577 | count: 2
+Citrobacter rodentium => bacteria | max_score: 0.9505167603492737 | count: 1
+wild-type mice => species | max_score: 0.7277593016624451 | count: 2
+C. rodentium => bacteria | max_score: 0.8030070662498474 | count: 3
+mice => species | max_score: 0.5165489912033081 | count: 3
+tissue pathology => severity | max_score: 0.5313525199890137 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6523597836494446 | count: 1
+neutrophils => cell | max_score: 0.8941406011581421 | count: 2
+colonic mucosa => tissue | max_score: 0.7550429105758667 | count: 1
+CXCL2 => peptide | max_score: 0.8703646063804626 | count: 3
+CXCL5 => peptide | max_score: 0.7483264207839966 | count: 1

@@ -1,0 +1,16 @@
+host defense peptides => peptide | max_score: 0.7186411023139954 | count: 1
+HDPs => peptide | max_score: 0.7534061670303345 | count: 5
+pathogens => bacteria | max_score: 0.6461344361305237 | count: 1
+commensals => bacteria | max_score: 0.6461560130119324 | count: 1
+mucus layer => anatomical_system | max_score: 0.5959861874580383 | count: 1
+gut bacteria => bacteria | max_score: 0.5909629464149475 | count: 1
+mucosal barrier => anatomical_system | max_score: 0.518512487411499 | count: 1
+metabolic diseases => disease_disorder | max_score: 0.7120423316955566 | count: 1
+obesity => disease_disorder | max_score: 0.752991795539856 | count: 1
+type 2 diabetes => disease_disorder | max_score: 0.7888282537460327 | count: 1
+inflammatory intestinal disorders => disease_disorder | max_score: 0.7805883288383484 | count: 1
+ulcerative colitis => disease_disorder | max_score: 0.842880129814148 | count: 1
+Crohn's disease => disease_disorder | max_score: 0.7875921726226807 | count: 1
+inflammatory bowel disease => disease_disorder | max_score: 0.6236178278923035 | count: 1
+Western-style diet => diet | max_score: 0.7990614771842957 | count: 1
+WSD => diet | max_score: 0.7028247117996216 | count: 2

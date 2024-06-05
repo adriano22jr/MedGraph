@@ -1,0 +1,14 @@
+terrestrial environments => environmental_factor | max_score: 0.9168140292167664 | count: 1
+innate immune response => biological_process | max_score: 0.687354326248169 | count: 2
+microhabitats => environmental_factor | max_score: 0.754677414894104 | count: 1
+hemolymph => body_part | max_score: 0.7812983393669128 | count: 2
+Rhinocricus sp. => species | max_score: 0.902406632900238 | count: 2
+antimicrobial activity => biological_process | max_score: 0.6743893623352051 | count: 1
+Vero cells => cell_line | max_score: 0.9880935549736023 | count: 1
+human erythrocytes => cell | max_score: 0.8211931586265564 | count: 1
+RP40-16 => peptide | max_score: 0.9015809893608093 | count: 1
+RP40-19 => peptide | max_score: 0.9049763083457947 | count: 1
+RP40-20/1 => peptide | max_score: 0.8847322463989258 | count: 1
+RP40-20/2 => peptide | max_score: 0.8797086477279663 | count: 1
+Hemocyanin => protein | max_score: 0.9223413467407227 | count: 1
+thioester-containing protein => protein | max_score: 0.9674422144889832 | count: 1

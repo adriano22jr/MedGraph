@@ -1,0 +1,9 @@
+Antimicrobial peptides => compound | max_score: 0.7121601700782776 | count: 1
+innate immune response => biological_process | max_score: 0.8819185495376587 | count: 1
+antimicrobial resistance => biological_process | max_score: 0.5060648918151855 | count: 1
+AMPs => compound | max_score: 0.6248571276664734 | count: 4
+antimicrobial activities => biological_process | max_score: 0.5131844878196716 | count: 1
+2015 => date | max_score: 0.6873553991317749 | count: 1
+antimicrobial peptides => compound | max_score: 0.6727750301361084 | count: 1
+polimixin b => antibiotic | max_score: 0.597368597984314 | count: 1
+colistin => antibiotic | max_score: 0.7554880380630493 | count: 1

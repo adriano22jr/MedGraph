@@ -1,0 +1,12 @@
+AMPs => compound | max_score: 0.5428813695907593 | count: 1
+Cecropin B => protein | max_score: 0.9509152173995972 | count: 1
+six-histidine => peptide | max_score: 0.7101461887359619 | count: 1
+SUMO => protein | max_score: 0.7468178868293762 | count: 5
+Escherichia coli => bacteria | max_score: 0.975548267364502 | count: 2
+Six-histidine => peptide | max_score: 0.7111095190048218 | count: 1
+SUMO => peptide | max_score: 0.6773788332939148 | count: 1
+cecropin B => protein | max_score: 0.9576122760772705 | count: 4
+chloroplast => plant | max_score: 0.5880890488624573 | count: 1
+SUMOase => enzyme | max_score: 0.7528501152992249 | count: 1
+bacteriolytic activity => activity | max_score: 0.9591482281684875 | count: 1
+Bacillus subtilis => bacteria | max_score: 0.9411832094192505 | count: 1

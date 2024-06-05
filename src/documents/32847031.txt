@@ -1,0 +1,16 @@
+rs2248374-G => mutation | max_score: 0.7198373675346375 | count: 1
+ERAP2 => gene | max_score: 0.5991191267967224 | count: 5
+ERAP2 => enzyme | max_score: 0.670188307762146 | count: 1
+PBMCs => cell_type | max_score: 0.9083349704742432 | count: 3
+MDMs => cell_type | max_score: 0.8492257595062256 | count: 1
+healthy subjects => subject | max_score: 0.8919244408607483 | count: 1
+CMV => virus | max_score: 0.8748069405555725 | count: 1
+HIV-AT-2 => virus | max_score: 0.7905510067939758 | count: 1
+SARS-CoV-2 => virus | max_score: 0.9478722810745239 | count: 3
+mRNA => molecule | max_score: 0.5824500918388367 | count: 4
+Calu3 cell lines => cell_line | max_score: 0.9085242748260498 | count: 1
+HIV-1BAL => virus | max_score: 0.8291289210319519 | count: 1
+HIV-1Bal => virus | max_score: 0.8835924863815308 | count: 1
+activation/inhibition markers => immunologic_marker | max_score: 0.9346106052398682 | count: 1
+antigen-presentation elements => immunologic_marker | max_score: 0.7950371503829956 | count: 1
+HIV-1 => virus | max_score: 0.6801624298095703 | count: 1

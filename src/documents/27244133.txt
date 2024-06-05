@@ -1,0 +1,8 @@
+Lactobacillus casei => bacteria | max_score: 0.8735730051994324 | count: 1
+gut microbiota => anatomical_system | max_score: 0.5110436677932739 | count: 1
+L. casei => bacteria | max_score: 0.5773584842681885 | count: 5
+C57BL/6 mice => species | max_score: 0.737348198890686 | count: 1
+cecal content => body_part | max_score: 0.7799443006515503 | count: 1
+ileum tissue => tissue | max_score: 0.9825767874717712 | count: 1
+pattern recognition receptors (PRRs) => protein | max_score: 0.5706979632377625 | count: 1
+intestinal antimicrobial peptides (AMPs) => peptide | max_score: 0.6298314332962036 | count: 1

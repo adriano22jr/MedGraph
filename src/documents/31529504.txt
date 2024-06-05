@@ -1,0 +1,4 @@
+Andrias davidianus => species | max_score: 0.7810243964195251 | count: 1
+andricin B => peptide | max_score: 0.9713364243507385 | count: 6
+aqueous solution => environmental_factor | max_score: 0.7960041165351868 | count: 2
+bacteria => bacteria | max_score: 0.7799549102783203 | count: 6

@@ -1,0 +1,14 @@
+Melimine => peptide | max_score: 0.9009616374969482 | count: 1
+Mel4 => peptide | max_score: 0.8632599711418152 | count: 3
+broad-spectrum antimicrobial activity => activity | max_score: 0.606084406375885 | count: 1
+animal models => study_design | max_score: 0.5030990242958069 | count: 1
+human clinical trials => clinical_trial | max_score: 0.9329826831817627 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9724670648574829 | count: 2
+endotoxin => molecule | max_score: 0.5106058120727539 | count: 1
+ATP => molecule | max_score: 0.9105620980262756 | count: 3
+DNA/RNA => molecule | max_score: 0.8456116318702698 | count: 2
+OD260 nm => lab_value | max_score: 0.9011055827140808 | count: 1
+OD620 nm => lab_value | max_score: 0.9075477123260498 | count: 1
+LPS => molecule | max_score: 0.728385865688324 | count: 1
+lipid A => molecule | max_score: 0.7613857388496399 | count: 1
+melimine => peptide | max_score: 0.9208563566207886 | count: 2

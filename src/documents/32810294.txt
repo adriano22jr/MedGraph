@@ -1,0 +1,9 @@
+Bacterial membrane proteins => protein | max_score: 0.522209644317627 | count: 1
+SbmA/BacA family => protein_family | max_score: 0.9817853569984436 | count: 2
+hydrophilic molecules => molecule | max_score: 0.6773640513420105 | count: 1
+aminoglycoside antibiotics => antibiotic | max_score: 0.8678123354911804 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7457230687141418 | count: 1
+ATP-independent transport => biological_process | max_score: 0.7048264145851135 | count: 1
+Rv1819c => protein | max_score: 0.799574077129364 | count: 1
+Mycobacterium tuberculosis => bacteria | max_score: 0.9733083844184875 | count: 1
+multi-solute transport => biological_process | max_score: 0.5962597727775574 | count: 2

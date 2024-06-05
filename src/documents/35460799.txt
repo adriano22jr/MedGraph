@@ -1,0 +1,14 @@
+July => date | max_score: 0.8045409917831421 | count: 2
+September 2016 => date | max_score: 0.9786102771759033 | count: 2
+Enterobacter spp. => bacteria | max_score: 0.9427288770675659 | count: 3
+exacerbated sepsis => disease_disorder | max_score: 0.6112905144691467 | count: 1
+May 2016 => date | max_score: 0.9064265489578247 | count: 1
+December 2017 => date | max_score: 0.9309688210487366 | count: 1
+environmental sampling => environmental_factor | max_score: 0.7158283591270447 | count: 2
+E. kobei => bacteria | max_score: 0.5390828251838684 | count: 2
+AMR genes => gene | max_score: 0.5046558380126953 | count: 1
+blaAmpC => gene | max_score: 0.9630299210548401 | count: 1
+mcr-10 => gene | max_score: 0.9734289646148682 | count: 2
+carbapenem => antibiotic | max_score: 0.9031553268432617 | count: 2
+colistin => antibiotic | max_score: 0.871498167514801 | count: 2
+environmental decontamination => environmental_factor | max_score: 0.5036388039588928 | count: 1

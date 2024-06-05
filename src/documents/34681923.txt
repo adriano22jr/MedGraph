@@ -1,0 +1,15 @@
+Lactoferrins => protein | max_score: 0.6413761377334595 | count: 1
+iron-binding glycoprotein => protein | max_score: 0.5185562968254089 | count: 1
+antimicrobial => activity | max_score: 0.8130144476890564 | count: 5
+antitumor => activity | max_score: 0.65538489818573 | count: 1
+anti-inflammatory => activity | max_score: 0.7114272713661194 | count: 1
+immunomodulatory => activity | max_score: 0.5601113438606262 | count: 1
+antioxidant => activity | max_score: 0.7464329600334167 | count: 1
+antimicrobial activity => activity | max_score: 0.7587085366249084 | count: 2
+lactoferrins => peptide | max_score: 0.7696470618247986 | count: 2
+lactoferricins => peptide | max_score: 0.7276123762130737 | count: 2
+lactoferrin-derived peptides => peptide | max_score: 0.6710823178291321 | count: 2
+bacteria => bacteria | max_score: 0.8723591566085815 | count: 1
+viruses => virus | max_score: 0.9497977495193481 | count: 1
+fungi => fungus | max_score: 0.99257493019104 | count: 1
+parasites => parasite | max_score: 0.8358133435249329 | count: 1

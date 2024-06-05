@@ -1,0 +1,12 @@
+LL37 => peptide | max_score: 0.9192588925361633 | count: 4
+human => bacteria | max_score: 0.5594155192375183 | count: 1
+antimicrobial activity => activity | max_score: 0.6537080407142639 | count: 1
+wound healing => biological_process | max_score: 0.7066222429275513 | count: 2
+angiogenesis => biological_process | max_score: 0.9063888788223267 | count: 1
+epithelial cell migration and proliferation => biological_process | max_score: 0.7056961059570312 | count: 1
+immune response => biological_process | max_score: 0.9279923439025879 | count: 1
+NLC-LL37 => compound | max_score: 0.5803207755088806 | count: 5
+Human Foreskin Fibroblasts => cell_line | max_score: 0.9136420488357544 | count: 1
+macrophages => cell_type | max_score: 0.8322903513908386 | count: 1
+Escherichia coli => bacteria | max_score: 0.9701266884803772 | count: 1
+wound closure => biological_process | max_score: 0.5381093621253967 | count: 1

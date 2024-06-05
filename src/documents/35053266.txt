@@ -1,0 +1,11 @@
+Melittin => peptide | max_score: 0.8891736268997192 | count: 1
+MEL => peptide | max_score: 0.6748935580253601 | count: 3
+surface activity => activity | max_score: 0.6809731721878052 | count: 1
+hemolytic activity => activity | max_score: 0.9543164968490601 | count: 2
+melittin => peptide | max_score: 0.9026899933815002 | count: 1
+nanocarrier systems => chemical_system | max_score: 0.7115250825881958 | count: 1
+side effects => side_effect | max_score: 0.5524078011512756 | count: 1
+liposomes => device | max_score: 0.6856033802032471 | count: 1
+cationic polymers => chemical_system | max_score: 0.7119134664535522 | count: 1
+lipodisks => device | max_score: 0.7143635153770447 | count: 1
+cancer therapy => treatment | max_score: 0.5942667722702026 | count: 1

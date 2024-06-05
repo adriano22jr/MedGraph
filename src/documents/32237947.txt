@@ -1,0 +1,8 @@
+cathelicidin => peptide | max_score: 0.5782965421676636 | count: 1
+verruca vulgaris => fungus | max_score: 0.6722850799560547 | count: 2
+every 2 weeks => drug_frequency | max_score: 0.7983513474464417 | count: 1
+maximum of 4 sessions => treatment_duration | max_score: 0.6899949908256531 | count: 1
+Skin biopsies => tissue | max_score: 0.5759720802307129 | count: 1
+skin samples => tissue | max_score: 0.6374208331108093 | count: 1
+inflammatory cells => body_part | max_score: 0.6205155849456787 | count: 1
+dermis => body_part | max_score: 0.6900373697280884 | count: 1

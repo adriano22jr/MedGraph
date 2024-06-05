@@ -1,0 +1,3 @@
+lipopeptides => peptide | max_score: 0.6629118323326111 | count: 7
+antimicrobial activity => activity | max_score: 0.9129678606987 | count: 4
+Gram-positives => bacteria | max_score: 0.9090712070465088 | count: 1

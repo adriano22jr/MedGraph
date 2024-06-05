@@ -1,0 +1,16 @@
+test kit => device | max_score: 0.7777582406997681 | count: 6
+2016 => date | max_score: 0.8932952880859375 | count: 1
+monocentric prospective study => study_design | max_score: 0.8968493938446045 | count: 1
+2014 => date | max_score: 0.5936132073402405 | count: 1
+Infectious Diseases Society of America (IDSA) criteria => clinical_guideline | max_score: 0.6007004976272583 | count: 1
+ICM criteria 2018 => clinical_guideline | max_score: 0.5446110367774963 | count: 1
+leukocyte count => lab_value | max_score: 0.8700025677680969 | count: 1
+C‑reactive protein => lab_value | max_score: 0.8733592629432678 | count: 1
+CRP => lab_value | max_score: 0.882391631603241 | count: 1
+white blood cell count => lab_value | max_score: 0.8437281847000122 | count: 1
+PMN cell differentiation => lab_value | max_score: 0.7427383065223694 | count: 1
+microbiological culture => diagnostic_procedure | max_score: 0.5162382125854492 | count: 1
+alpha-defensin enzyme-linked immunosorbent assay => diagnostic_procedure | max_score: 0.5564132332801819 | count: 1
+ELISA => diagnostic_procedure | max_score: 0.5832877159118652 | count: 1
+April 2016 => date | max_score: 0.9508280158042908 | count: 1
+February 2020 => date | max_score: 0.9121330976486206 | count: 1

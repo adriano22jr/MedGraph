@@ -1,0 +1,14 @@
+Gram-negative bacteria => bacteria | max_score: 0.8582704067230225 | count: 1
+external milieu => environmental_factor | max_score: 0.9283963441848755 | count: 1
+effector molecules => molecule | max_score: 0.7425444722175598 | count: 1
+phospholipid => molecule | max_score: 0.8246408700942993 | count: 2
+VacJ/Yrb => protein | max_score: 0.9231624007225037 | count: 2
+Vibrio cholerae => bacteria | max_score: 0.974738597869873 | count: 1
+vesiculation => biological_process | max_score: 0.6998712420463562 | count: 2
+bacterial surface exchange => biological_process | max_score: 0.5808852314949036 | count: 1
+adaptation => biological_process | max_score: 0.541418194770813 | count: 1
+host environment => environmental_factor | max_score: 0.7487072944641113 | count: 1
+glycine-modified lipopolysaccharide (LPS) => molecule | max_score: 0.5838935971260071 | count: 1
+OmpT => protein | max_score: 0.8796872496604919 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7782178521156311 | count: 2
+hypervesiculation => biological_process | max_score: 0.5077260732650757 | count: 1

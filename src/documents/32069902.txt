@@ -1,0 +1,8 @@
+conventional antibiotics => antibiotic | max_score: 0.720641553401947 | count: 1
+plant-threatening pathogens => organism | max_score: 0.5116784572601318 | count: 1
+lipopeptides => peptide | max_score: 0.5773416757583618 | count: 2
+membrane activity => activity | max_score: 0.9381528496742249 | count: 1
+lipidic isocyanide => compound | max_score: 0.5681440830230713 | count: 1
+micellar media => environmental_factor | max_score: 0.5933865904808044 | count: 1
+model phytopathogens => organism | max_score: 0.5556096434593201 | count: 1
+antimicrobial activity => activity | max_score: 0.7525478005409241 | count: 1

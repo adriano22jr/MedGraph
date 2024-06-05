@@ -1,0 +1,13 @@
+obesity => disease_disorder | max_score: 0.8548962473869324 | count: 2
+diabetes => disease_disorder | max_score: 0.7839561104774475 | count: 1
+cardiovascular disease => disease_disorder | max_score: 0.7921834588050842 | count: 1
+peptides => peptide | max_score: 0.5858367681503296 | count: 5
+immunomodulating => molecular_function | max_score: 0.5895642638206482 | count: 1
+antibacterial action => molecular_function | max_score: 0.6125433444976807 | count: 1
+antioxidation => molecular_function | max_score: 0.6097895503044128 | count: 1
+antihypertensive activity => molecular_function | max_score: 0.7179522514343262 | count: 1
+β-Casein 24-38 AA => peptide | max_score: 0.5908872485160828 | count: 1
+E. coli => bacteria | max_score: 0.9552433490753174 | count: 1
+Y. enterocolitica => bacteria | max_score: 0.9576602578163147 | count: 1
+S. aureus => bacteria | max_score: 0.9753128290176392 | count: 1
+κ-Casein 89-109 AA-derived peptide => peptide | max_score: 0.7418365478515625 | count: 1

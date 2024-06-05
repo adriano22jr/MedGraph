@@ -1,0 +1,17 @@
+Acinetobacter baumanni => bacteria | max_score: 0.9157117009162903 | count: 1
+A. baumannii => bacteria | max_score: 0.85572350025177 | count: 5
+Colistin => antibiotic | max_score: 0.9550051689147949 | count: 7
+pmrA => gene | max_score: 0.8934007883071899 | count: 4
+pmrB genes => gene | max_score: 0.8231064081192017 | count: 1
+ulcer => body_part | max_score: 0.9543807506561279 | count: 1
+urinary => body_part | max_score: 0.9531329870223999 | count: 1
+respiratory => body_part | max_score: 0.9538562893867493 | count: 1
+blood => body_part | max_score: 0.9440761804580688 | count: 1
+diagnosis => diagnostic_procedure | max_score: 0.5102881193161011 | count: 1
+biochemical testing => diagnostic_procedure | max_score: 0.5731987357139587 | count: 1
+Diffusion Disc => device | max_score: 0.9143026471138 | count: 1
+E-test => device | max_score: 0.8305143117904663 | count: 2
+pmrB => gene | max_score: 0.9091715812683105 | count: 3
+PCR => diagnostic_procedure | max_score: 0.7185729742050171 | count: 2
+diffusion disk => device | max_score: 0.7632302641868591 | count: 1
+MIC => lab_value | max_score: 0.9108490347862244 | count: 1

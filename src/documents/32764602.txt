@@ -1,0 +1,17 @@
+peptides => peptide | max_score: 0.575371265411377 | count: 2
+in vitro => study_design | max_score: 0.6467873454093933 | count: 2
+in vivo => study_design | max_score: 0.6945285797119141 | count: 3
+narrow spectrum activity => activity | max_score: 0.5740610957145691 | count: 1
+veterinary pathogens => species | max_score: 0.646957516670227 | count: 1
+haemolytic activity => activity | max_score: 0.9385109543800354 | count: 1
+compounds => compound | max_score: 0.5132436156272888 | count: 1
+canine erythrocytes => cell_line | max_score: 0.7393646240234375 | count: 1
+rat => species | max_score: 0.600511372089386 | count: 1
+human cells => cell_line | max_score: 0.7525347471237183 | count: 1
+bovine cells => cell_line | max_score: 0.7525470852851868 | count: 1
+HeLa => cell_line | max_score: 0.9336009621620178 | count: 1
+HaCaT => cell_line | max_score: 0.9419775605201721 | count: 1
+HepG2 => cell_line | max_score: 0.9167160391807556 | count: 1
+rats => species | max_score: 0.7160062789916992 | count: 1
+intravenous acute dose toxicity studies => study_design | max_score: 0.7158467769622803 | count: 1
+MIC => lab_value | max_score: 0.747060239315033 | count: 1

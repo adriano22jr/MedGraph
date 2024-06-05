@@ -1,0 +1,14 @@
+psoriasis => disease_disorder | max_score: 0.6614022254943848 | count: 4
+interleukin-17 => peptide | max_score: 0.6737291216850281 | count: 1
+antimicrobial peptides => peptide | max_score: 0.664329469203949 | count: 1
+psoriatic skin => body_part | max_score: 0.8289753794670105 | count: 1
+Fumaderm® => drug | max_score: 0.506502091884613 | count: 1
+fumaric acid ester (FAE) => compound | max_score: 0.5642775893211365 | count: 1
+FAE treatment => treatment | max_score: 0.8156934976577759 | count: 2
+NET formation => biological_process | max_score: 0.623029887676239 | count: 6
+dimethyl fumarate (DMF) => compound | max_score: 0.6562212109565735 | count: 1
+phorbol 12-myristate 13-acetate => compound | max_score: 0.6893467307090759 | count: 1
+ionomycin => compound | max_score: 0.5948203802108765 | count: 1
+G-protein-coupled signalling => biological_process | max_score: 0.835938036441803 | count: 1
+protein synthesis => biological_process | max_score: 0.7608441710472107 | count: 1
+Monomethyl fumarate (MMF) => compound | max_score: 0.6550410985946655 | count: 1

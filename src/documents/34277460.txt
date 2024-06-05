@@ -1,0 +1,17 @@
+hBDs => peptide | max_score: 0.7352719902992249 | count: 2
+epithelial cells => cell_type | max_score: 0.6314986348152161 | count: 1
+skin and mucosae => body_part | max_score: 0.846356987953186 | count: 1
+astrocytes => cell_type | max_score: 0.8142906427383423 | count: 1
+HIV-1 => virus | max_score: 0.9427623748779297 | count: 1
+primary CD4+ T cells => cell | max_score: 0.6683545112609863 | count: 1
+CD4+ T cells => cell_type | max_score: 0.6812036037445068 | count: 1
+macrophages => cell_type | max_score: 0.8486452698707581 | count: 2
+HIV => virus | max_score: 0.8904983997344971 | count: 7
+macrophages => cell | max_score: 0.6661658883094788 | count: 1
+MDM => cell_line | max_score: 0.5599322319030762 | count: 3
+hBD2 => peptide | max_score: 0.8437618613243103 | count: 6
+hBD3 => peptide | max_score: 0.7806715965270996 | count: 1
+GPCR => protein | max_score: 0.6229268908500671 | count: 1
+CCR2 => protein | max_score: 0.7309938669204712 | count: 1
+CCR6 => protein | max_score: 0.6446530222892761 | count: 1
+APOBEC3A => protein | max_score: 0.6440597772598267 | count: 1

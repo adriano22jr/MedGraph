@@ -1,0 +1,14 @@
+Enterobacteriaceae => bacteria | max_score: 0.8509142398834229 | count: 5
+colistin => antibiotic | max_score: 0.8987392783164978 | count: 1
+carbapenem => antibiotic | max_score: 0.8324900269508362 | count: 2
+retrospective study => study_design | max_score: 0.7964769005775452 | count: 1
+2013 => date | max_score: 0.9011971354484558 | count: 1
+2017 => date | max_score: 0.9506552815437317 | count: 2
+Colistin => antibiotic | max_score: 0.8901127576828003 | count: 1
+2014 => date | max_score: 0.8110266923904419 | count: 1
+inhospital mortality => condition_outcome | max_score: 0.520782470703125 | count: 1
+polyantibiotic therapy => treatment | max_score: 0.9240579009056091 | count: 1
+Gram negative bacteria => bacteria | max_score: 0.8484559059143066 | count: 1
+median length of hospital stay => treatment_duration | max_score: 0.6946724057197571 | count: 1
+CRE => bacteria | max_score: 0.5803543925285339 | count: 1
+short-bowel syndrome => disease_disorder | max_score: 0.5391095876693726 | count: 1

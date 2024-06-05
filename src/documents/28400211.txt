@@ -1,0 +1,7 @@
+colistin => antibiotic | max_score: 0.8979508280754089 | count: 5
+mcr-1 gene => gene | max_score: 0.9089027643203735 | count: 1
+volunteers => subject | max_score: 0.7072790861129761 | count: 2
+Enterobacteriaceae => bacteria | max_score: 0.8493203520774841 | count: 1
+mcr-1 => gene | max_score: 0.7434484362602234 | count: 2
+DNA => molecule | max_score: 0.8517046570777893 | count: 2
+Escherichia coli => bacteria | max_score: 0.8481966257095337 | count: 1

@@ -1,0 +1,8 @@
+Acinetobacter baumannii => bacteria | max_score: 0.9652236104011536 | count: 1
+WAM-1 => peptide | max_score: 0.945948600769043 | count: 5
+LL-37 => peptide | max_score: 0.9385445713996887 | count: 4
+A. baumannii => bacteria | max_score: 0.7511002421379089 | count: 2
+synergistic activity => activity | max_score: 0.7529395818710327 | count: 1
+commonly prescribed antibiotics => antibiotic | max_score: 0.6126823425292969 | count: 2
+rapid bactericidal activity => activity | max_score: 0.63543301820755 | count: 1
+synergistic bactericidal activity => activity | max_score: 0.7526963949203491 | count: 1

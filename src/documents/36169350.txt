@@ -1,0 +1,12 @@
+Sepsis => disease_disorder | max_score: 0.7308521270751953 | count: 1
+sepsis => disease_disorder | max_score: 0.7554458975791931 | count: 3
+antibiotic therapy => treatment | max_score: 0.9075185656547546 | count: 1
+macrophages => cell | max_score: 0.9155003428459167 | count: 2
+drug-resistant bacteria => bacteria | max_score: 0.8315517902374268 | count: 1
+membrane-camouflaged metal-organic framework (MOF) => treatment | max_score: 0.5425608158111572 | count: 1
+plasmid DNA => molecule | max_score: 0.7914391756057739 | count: 1
+<i>p</i>DNA => molecule | max_score: 0.6265960335731506 | count: 2
+LL37 => gene | max_score: 0.873060941696167 | count: 2
+antimicrobial peptides => peptide | max_score: 0.8210083842277527 | count: 1
+primary bone marrow => tissue | max_score: 0.5530185699462891 | count: 1
+immunodeficient septic mice => species | max_score: 0.6388673186302185 | count: 1

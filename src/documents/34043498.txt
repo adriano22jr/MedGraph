@@ -1,0 +1,8 @@
+colistin => antibiotic | max_score: 0.9133266806602478 | count: 3
+bacitracin A => antibiotic | max_score: 0.8839596509933472 | count: 1
+virginiamycin M1 => antibiotic | max_score: 0.8930660486221313 | count: 1
+pigs => species | max_score: 0.9393559098243713 | count: 1
+poultry => species | max_score: 0.9411106109619141 | count: 1
+rabbits => species | max_score: 0.9551318883895874 | count: 1
+bacitracin => antibiotic | max_score: 0.7657170295715332 | count: 1
+virginiamycin => antibiotic | max_score: 0.6099768280982971 | count: 1

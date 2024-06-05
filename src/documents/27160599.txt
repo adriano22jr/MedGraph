@@ -1,0 +1,10 @@
+Antimicrobial peptides => peptide | max_score: 0.7371112108230591 | count: 1
+AMPs => peptide | max_score: 0.8208121061325073 | count: 7
+innate immune defence => biological_process | max_score: 0.6984009146690369 | count: 1
+multicellular organisms => organism | max_score: 0.5915470719337463 | count: 1
+microbes => organism | max_score: 0.5411302447319031 | count: 2
+antimicrobial peptides => peptide | max_score: 0.789453387260437 | count: 1
+AMP genes => gene | max_score: 0.5718396306037903 | count: 1
+insects => organism | max_score: 0.6132339835166931 | count: 2
+environments => environmental_factor | max_score: 0.7248491048812866 | count: 1
+extreme environments => environmental_factor | max_score: 0.8680073618888855 | count: 1

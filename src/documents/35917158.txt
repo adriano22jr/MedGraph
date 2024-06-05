@@ -1,0 +1,5 @@
+acyl-peptide A => peptide | max_score: 0.9604373574256897 | count: 3
+benzyl alcohol => antibiotic | max_score: 0.8525826930999756 | count: 2
+m-cresol => antibiotic | max_score: 0.6761155128479004 | count: 3
+molecular weight => weight | max_score: 0.5400916337966919 | count: 1
+m-cresol => drug | max_score: 0.5331782102584839 | count: 1

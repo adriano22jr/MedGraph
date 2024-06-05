@@ -1,0 +1,9 @@
+Lactophoricin => peptide | max_score: 0.7150466442108154 | count: 1
+LPcin => peptide | max_score: 0.7052868008613586 | count: 6
+mutated analogs => mutation | max_score: 0.6032084226608276 | count: 1
+LPcin-YK3 => peptide | max_score: 0.5155433416366577 | count: 1
+antimicrobial activities => activity | max_score: 0.6054785847663879 | count: 1
+E. coli => bacteria | max_score: 0.9576525092124939 | count: 1
+membrane environments => environmental_factor | max_score: 0.9677881002426147 | count: 1
+strip-shield coil => device | max_score: 0.6994041800498962 | count: 1
+enhanced activities => activity | max_score: 0.7200886607170105 | count: 1

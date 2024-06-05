@@ -1,0 +1,9 @@
+Bacteriocins => peptide | max_score: 0.8836570978164673 | count: 1
+killing activity => activity | max_score: 0.6682637333869934 | count: 1
+bacteriocins => peptide | max_score: 0.9030579924583435 | count: 5
+lactic acid bacteria => bacteria | max_score: 0.8191849589347839 | count: 1
+LAB => bacteria | max_score: 0.5690060257911682 | count: 2
+Gram-negative multidrug resistant bacteria => bacteria | max_score: 0.8888629078865051 | count: 1
+viruses => virus | max_score: 0.9666560292243958 | count: 1
+yeasts => fungus | max_score: 0.995222270488739 | count: 1
+Mycobacterium spp. => bacteria | max_score: 0.8199920654296875 | count: 1

@@ -1,0 +1,13 @@
+chickweed => plant | max_score: 0.9132859110832214 | count: 2
+pro-SmAMP2 gene => gene | max_score: 0.947748601436615 | count: 3
+β-actin gene => gene | max_score: 0.8826742768287659 | count: 1
+transgenic plants => plant | max_score: 0.65313321352005 | count: 4
+Stellaria media => plant | max_score: 0.7735572457313538 | count: 1
+antifungal peptides => peptide | max_score: 0.8929440975189209 | count: 1
+deletion variants => mutation | max_score: 0.5510472059249878 | count: 2
+Nicotiana tabacum => plant | max_score: 0.9143944382667542 | count: 1
+GUS protein activity => activity | max_score: 0.6368793249130249 | count: 1
+gusA gene => gene | max_score: 0.7619562745094299 | count: 2
+GUS activity => activity | max_score: 0.7357367277145386 | count: 2
+CaMV 35S => virus | max_score: 0.7952795028686523 | count: 1
+T3 homozygous plants => plant | max_score: 0.5922032594680786 | count: 1

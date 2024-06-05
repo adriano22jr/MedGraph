@@ -1,0 +1,8 @@
+Primary Sjögren's syndrome => disease_disorder | max_score: 0.6012638211250305 | count: 1
+immune-innate response => biological_process | max_score: 0.7840957045555115 | count: 1
+S100 protein family => protein_family | max_score: 0.9846891164779663 | count: 1
+annexin A2 => protein | max_score: 0.7960683107376099 | count: 1
+resistin => protein | max_score: 0.8013090491294861 | count: 1
+serpin peptidase inhibitors => protein | max_score: 0.8263913989067078 | count: 1
+azurocidin => protein | max_score: 0.8486023545265198 | count: 1
+CD14 monocyte differentiation antigen => protein | max_score: 0.8116016387939453 | count: 1

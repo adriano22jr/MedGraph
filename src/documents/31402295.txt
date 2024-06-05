@@ -1,0 +1,13 @@
+colistin => antibiotic | max_score: 0.7132185697555542 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.9241610765457153 | count: 1
+Kp-BSI => disease_disorder | max_score: 0.5220900774002075 | count: 1
+amikacin => antibiotic | max_score: 0.8972928524017334 | count: 1
+tigecycline => antibiotic | max_score: 0.8140028119087219 | count: 1
+retrospective study => study_design | max_score: 0.8688037991523743 | count: 1
+>16 years of age => age | max_score: 0.5206006765365601 | count: 1
+K. pneumoniae => bacteria | max_score: 0.8609967827796936 | count: 2
+carbapenem => antibiotic | max_score: 0.716826319694519 | count: 3
+MIC => lab_value | max_score: 0.5965290665626526 | count: 1
+Amikacin => antibiotic | max_score: 0.8808422684669495 | count: 1
+Tigecycline => antibiotic | max_score: 0.8408547043800354 | count: 1
+treatment => treatment | max_score: 0.5027872920036316 | count: 1

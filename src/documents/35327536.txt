@@ -1,0 +1,16 @@
+Molluscs => species | max_score: 0.6021103262901306 | count: 1
+invertebrates => species | max_score: 0.5553664565086365 | count: 2
+molluscs => species | max_score: 0.6250026226043701 | count: 1
+immune systems => biological_process | max_score: 0.5159268975257874 | count: 1
+innate immunity => biological_process | max_score: 0.5658807754516602 | count: 1
+antimicrobial defence => biological_process | max_score: 0.5274738073348999 | count: 2
+hemocytes => cell_type | max_score: 0.8873805403709412 | count: 1
+effector molecules => molecule | max_score: 0.858444333076477 | count: 4
+immune regulatory functions => molecular_function | max_score: 0.8442270159721375 | count: 1
+fungal pathogens => fungus | max_score: 0.6378484964370728 | count: 1
+viruses => virus | max_score: 0.8712111115455627 | count: 1
+dicer-2 => molecule | max_score: 0.5733023285865784 | count: 1
+hemocyanin => peptide | max_score: 0.8010765910148621 | count: 1
+myticin-C => peptide | max_score: 0.7410547137260437 | count: 1
+antiviral activity => biological_process | max_score: 0.5698702335357666 | count: 1
+novel antimicrobial treatments => treatment | max_score: 0.5009496212005615 | count: 1

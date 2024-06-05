@@ -1,0 +1,12 @@
+medical implant => device | max_score: 0.5333690047264099 | count: 1
+Native Ti substrates => device | max_score: 0.5780744552612305 | count: 1
+antibacterial activity => activity | max_score: 0.8658427000045776 | count: 2
+multilayer => compound | max_score: 0.6034039258956909 | count: 2
+polydopamine => compound | max_score: 0.5905507206916809 | count: 1
+LL-37 => peptide | max_score: 0.735996663570404 | count: 2
+S. aureus => bacteria | max_score: 0.9154272079467773 | count: 1
+Gram-negative => bacteria | max_score: 0.6842909455299377 | count: 1
+E. coli => bacteria | max_score: 0.9457045197486877 | count: 1
+mesenchymal stem cells => cell_type | max_score: 0.5636861324310303 | count: 1
+MSCs => cell_type | max_score: 0.679649829864502 | count: 1
+osteoblasts => cell_type | max_score: 0.8636947274208069 | count: 1

@@ -1,0 +1,13 @@
+l-arginine => peptide | max_score: 0.6880793571472168 | count: 6
+in vitro => study_design | max_score: 0.5804162621498108 | count: 1
+porcine intestinal epithelial cells => cell_line | max_score: 0.7264324426651001 | count: 1
+IPEC-J2 => cell_line | max_score: 0.9447450637817383 | count: 2
+IL-6 => protein | max_score: 0.8627969622612 | count: 1
+IL-8 => protein | max_score: 0.8591409921646118 | count: 1
+IL-1β => protein | max_score: 0.8832104802131653 | count: 1
+TNF-α => protein | max_score: 0.8652263283729553 | count: 2
+TLR4 => protein | max_score: 0.5990293622016907 | count: 2
+NF-κB => protein | max_score: 0.6507602334022522 | count: 2
+mitogen-activated protein kinase (MAPK) => protein | max_score: 0.5922620892524719 | count: 1
+mammalian target of the rapamycin (mTOR) => protein | max_score: 0.5760031342506409 | count: 1
+pBD-1 gene => protein | max_score: 0.622223973274231 | count: 1

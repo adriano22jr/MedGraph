@@ -1,0 +1,9 @@
+male => sex | max_score: 0.744046151638031 | count: 2
+female => sex | max_score: 0.7689114212989807 | count: 2
+genito-urinary tract => anatomical_system | max_score: 0.5761952996253967 | count: 1
+β-defensins => peptide | max_score: 0.6495267152786255 | count: 1
+hBD-1 => peptide | max_score: 0.8709151148796082 | count: 9
+IVF outcomes => condition_outcome | max_score: 0.5706331133842468 | count: 1
+women => sex | max_score: 0.8731213808059692 | count: 1
+oligo-asthenozoospermic subjects => subject | max_score: 0.5874391794204712 | count: 1
+men => sex | max_score: 0.7968529462814331 | count: 1

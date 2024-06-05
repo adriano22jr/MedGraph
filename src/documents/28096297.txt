@@ -1,0 +1,10 @@
+exocytosis => biological_process | max_score: 0.7214770317077637 | count: 8
+TNF-α => protein | max_score: 0.6454406380653381 | count: 5
+fMLF => protein | max_score: 0.5473462343215942 | count: 1
+p38 MAPK activity => biological_process | max_score: 0.7505028247833252 | count: 1
+actin cytoskeleton regulation => biological_process | max_score: 0.6944043636322021 | count: 1
+p38 MAPK => protein | max_score: 0.6844771504402161 | count: 2
+MARCKS => protein | max_score: 0.6320136785507202 | count: 1
+Abelson murine leukemia interactor 1 (ABI1) => protein | max_score: 0.6026182174682617 | count: 1
+myosin VI-were => protein | max_score: 0.7091343402862549 | count: 1
+Raf1 => protein | max_score: 0.8001946806907654 | count: 1

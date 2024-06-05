@@ -1,0 +1,9 @@
+plasma levels => lab_value | max_score: 0.547484278678894 | count: 1
+international multicenter => study_design | max_score: 0.7533037662506104 | count: 1
+convenience sample study => study_design | max_score: 0.6025022268295288 | count: 1
+respiratory rate => lab_value | max_score: 0.5273497700691223 | count: 1
+altered mental status => lab_value | max_score: 0.7465314865112305 | count: 1
+systolic blood pressure => lab_value | max_score: 0.6267720460891724 | count: 1
+oxygen saturation => lab_value | max_score: 0.8643171787261963 | count: 3
+primary outcome => condition_outcome | max_score: 0.7720047235488892 | count: 1
+area under the receiver operating curve (AUC) => lab_value | max_score: 0.5593881607055664 | count: 1

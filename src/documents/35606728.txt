@@ -1,0 +1,15 @@
+secondary metabolite synthesis => biological_process | max_score: 0.6453197598457336 | count: 1
+abiotic stresses => environmental_factor | max_score: 0.730596125125885 | count: 1
+Lilium regale => plant | max_score: 0.7042328715324402 | count: 1
+WRKY TFs => protein_family | max_score: 0.811561107635498 | count: 1
+exogenous methyl jasmonate treatment => treatment | max_score: 0.700860857963562 | count: 1
+Fusarium oxysporum => fungus | max_score: 0.9065501093864441 | count: 1
+LrWRKY3 => gene | max_score: 0.7055976986885071 | count: 5
+F. oxysporum => fungus | max_score: 0.837553858757019 | count: 5
+LrWRKY3 => protein | max_score: 0.7587291598320007 | count: 1
+tobacco lines => cell_line | max_score: 0.5219718217849731 | count: 1
+Def1 => gene | max_score: 0.6150296330451965 | count: 1
+LrDef1 => gene | max_score: 0.6688464283943176 | count: 3
+Escherichia coli => bacteria | max_score: 0.9359179139137268 | count: 1
+antifungal activity => activity | max_score: 0.9026807546615601 | count: 1
+LrDef1 => protein | max_score: 0.6922340393066406 | count: 1

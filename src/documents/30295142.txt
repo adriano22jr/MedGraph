@@ -1,0 +1,14 @@
+aquatic environment => environmental_factor | max_score: 0.9309795498847961 | count: 1
+grass carp => species | max_score: 0.7522704601287842 | count: 2
+Ctenopharyngodon idella => species | max_score: 0.8761507272720337 | count: 1
+β-defensin 1 => peptide | max_score: 0.6338825225830078 | count: 2
+gcdefb1 => peptide | max_score: 0.8044167757034302 | count: 2
+brain => body_part | max_score: 0.7754018902778625 | count: 1
+liver => body_part | max_score: 0.7876609563827515 | count: 1
+mucous tissues => tissue | max_score: 0.7349092960357666 | count: 1
+gcDefb1 => peptide | max_score: 0.8400605916976929 | count: 2
+Trx-Defb1 => peptide | max_score: 0.7296620011329651 | count: 4
+Escherichia coli Rosetta-gami2(DE3) => bacteria | max_score: 0.5345962047576904 | count: 1
+antibacterial activity => activity | max_score: 0.8983249664306641 | count: 1
+Aeromonas hydrophila => bacteria | max_score: 0.8035476207733154 | count: 1
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.7063347697257996 | count: 1

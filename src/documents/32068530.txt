@@ -1,0 +1,14 @@
+Galleria mellonella => parasite | max_score: 0.6427277326583862 | count: 1
+Candida albicans => fungus | max_score: 0.9887480735778809 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9292837381362915 | count: 1
+C. albicans => fungus | max_score: 0.9063910841941833 | count: 2
+S. aureus => bacteria | max_score: 0.8216627240180969 | count: 7
+larvae => parasite | max_score: 0.5233369469642639 | count: 3
+circulating haemocytes => cell_type | max_score: 0.5070803165435791 | count: 1
+cecropin-A => protein | max_score: 0.9112265110015869 | count: 1
+recognition proteins => protein | max_score: 0.7181302905082703 | count: 1
+peptidoglycan-recognition protein LB => protein | max_score: 0.774890661239624 | count: 1
+Hdd11 => protein | max_score: 0.8475033640861511 | count: 1
+apolipophorin => protein | max_score: 0.8839206695556641 | count: 1
+alpha-esterase 45 => enzyme | max_score: 0.816615879535675 | count: 1
+serine proteinase => enzyme | max_score: 0.8767544031143188 | count: 1

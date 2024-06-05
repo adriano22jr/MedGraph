@@ -1,0 +1,10 @@
+innate immune responses => biological_process | max_score: 0.763627827167511 | count: 3
+intestinal homeostasis => biological_process | max_score: 0.5510052442550659 | count: 1
+Galleria mellonella => species | max_score: 0.6575143337249756 | count: 1
+Bacteroides vulgatus => bacteria | max_score: 0.8641774654388428 | count: 1
+Escherichia coli => bacteria | max_score: 0.9162458181381226 | count: 1
+mice => species | max_score: 0.5577665567398071 | count: 1
+pattern recognition receptors => gene | max_score: 0.5886857509613037 | count: 1
+reactive oxygen and nitrogen species related genes => gene | max_score: 0.5673899054527283 | count: 1
+antimicrobial peptide gene => gene | max_score: 0.7488788366317749 | count: 1
+inflammatory bowel diseases => disease_disorder | max_score: 0.6618165969848633 | count: 1

@@ -1,0 +1,17 @@
+P. aeruginosa => bacteria | max_score: 0.9675977230072021 | count: 3
+CAMPs => peptide | max_score: 0.6475459337234497 | count: 2
+CAMP-A => peptide | max_score: 0.829908549785614 | count: 5
+CAMP-B => peptide | max_score: 0.8399325609207153 | count: 4
+first trial => clinical_trial | max_score: 0.7935070991516113 | count: 1
+topical application => treatment | max_score: 0.6027931571006775 | count: 1
+wounds => body_part | max_score: 0.632724404335022 | count: 3
+7 consecutive days => treatment_duration | max_score: 0.7588188648223877 | count: 1
+physical activities => activity | max_score: 0.9899916648864746 | count: 1
+hematologic and plasma biochemical parameters => lab_value | max_score: 0.549174964427948 | count: 1
+systemic organs => body_part | max_score: 0.609865665435791 | count: 1
+mice => species | max_score: 0.6286265850067139 | count: 3
+Daily treatment => drug_frequency | max_score: 0.6997418999671936 | count: 1
+5 days => treatment_duration | max_score: 0.6125216484069824 | count: 1
+Topical application => treatment | max_score: 0.6410529613494873 | count: 1
+second trial => clinical_trial | max_score: 0.7982796430587769 | count: 1
+daily application => drug_frequency | max_score: 0.5997626781463623 | count: 1

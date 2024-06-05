@@ -1,0 +1,11 @@
+case-control study => study_design | max_score: 0.6526786684989929 | count: 1
+colistin => antibiotic | max_score: 0.9576754570007324 | count: 6
+Klebsiella pneumoniae => bacteria | max_score: 0.8828334212303162 | count: 1
+MIC => lab_value | max_score: 0.8751694560050964 | count: 1
+tigecycline => antibiotic | max_score: 0.949235737323761 | count: 5
+PCR => diagnostic_procedure | max_score: 0.7965246438980103 | count: 2
+blaKPC gene => gene | max_score: 0.9672001600265503 | count: 1
+mcr-1 gene => gene | max_score: 0.9747642874717712 | count: 1
+ColR-Kp => bacteria | max_score: 0.5003207921981812 | count: 1
+tracheostomy => surgical_procedure | max_score: 0.8740228414535522 | count: 1
+Gram-negative pathogen => bacteria | max_score: 0.5309358239173889 | count: 1

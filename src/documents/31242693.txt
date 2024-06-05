@@ -1,0 +1,17 @@
+skin secretion => body_part | max_score: 0.8026824593544006 | count: 1
+Rana pipiens => species | max_score: 0.9468247890472412 | count: 1
+brevinins => peptide | max_score: 0.8418014645576477 | count: 1
+ranatuerins => peptide | max_score: 0.9000342488288879 | count: 1
+temporins => peptide | max_score: 0.8204013705253601 | count: 1
+esculentins => peptide | max_score: 0.831386148929596 | count: 1
+ranatuerin-2Pb => peptide | max_score: 0.9372487664222717 | count: 3
+RPa => peptide | max_score: 0.7999006509780884 | count: 3
+RPb => peptide | max_score: 0.7626873254776001 | count: 6
+antimicrobial activity => activity | max_score: 0.7927032709121704 | count: 2
+Candida albicans => fungus | max_score: 0.9895204305648804 | count: 1
+MRSA => bacteria | max_score: 0.9472764134407043 | count: 1
+Enterococcus faecalis => bacteria | max_score: 0.9593333005905151 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.973381757736206 | count: 1
+Staphylococcusaureus => bacteria | max_score: 0.6675193905830383 | count: 1
+erythrocytes => cell | max_score: 0.8398542404174805 | count: 1
+S. aureus => bacteria | max_score: 0.6043039560317993 | count: 1

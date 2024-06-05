@@ -1,0 +1,9 @@
+nanogel => device | max_score: 0.5396497249603271 | count: 2
+broad spectrum antibacterial/antibiofilm activity => activity | max_score: 0.7250527739524841 | count: 1
+MIC values => lab_value | max_score: 0.88905268907547 | count: 1
+Escherichia coli => bacteria | max_score: 0.9847946763038635 | count: 1
+Methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9684297442436218 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9780347347259521 | count: 1
+MRSA => bacteria | max_score: 0.7423409223556519 | count: 2
+P. aeruginosa => bacteria | max_score: 0.6701598763465881 | count: 2
+catheters => device | max_score: 0.8598408102989197 | count: 1

@@ -1,0 +1,12 @@
+Echinoderms => species | max_score: 0.5081373453140259 | count: 1
+Echinus esculentus => species | max_score: 0.798367440700531 | count: 1
+haemocytes => cell_type | max_score: 0.8966984748840332 | count: 1
+heterodimeric peptides => peptide | max_score: 0.5580083131790161 | count: 1
+cysteine-rich peptide => peptide | max_score: 0.6625691056251526 | count: 1
+EeCentrocin 1 and 2 => peptide | max_score: 0.7891789674758911 | count: 2
+EeStrongylocin 2 => peptide | max_score: 0.8774683475494385 | count: 3
+Strongylocentrotus droebachiensis => species | max_score: 0.8373302221298218 | count: 1
+EeCentrocin 2 => peptide | max_score: 0.78849196434021 | count: 1
+EeCentrocins 1 and 2 => peptide | max_score: 0.5426109433174133 | count: 2
+antimicrobial activity => activity | max_score: 0.9587841629981995 | count: 1
+Ee4635 => peptide | max_score: 0.7731212973594666 | count: 2

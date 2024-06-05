@@ -1,0 +1,9 @@
+climate change => environmental_factor | max_score: 0.6706462502479553 | count: 1
+Batrachochytrium dendrobatidis => fungus | max_score: 0.9262815713882446 | count: 2
+temperature => environmental_factor | max_score: 0.767318606376648 | count: 1
+humidity => environmental_factor | max_score: 0.8797153234481812 | count: 1
+Southern leopard frogs => species | max_score: 0.6135349869728088 | count: 1
+Rana [Lithobates] sphenocephala => species | max_score: 0.6523215174674988 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6055619716644287 | count: 1
+AMPs => peptide | max_score: 0.6703402996063232 | count: 3
+anti-Bd function => biological_process | max_score: 0.5594995617866516 | count: 1

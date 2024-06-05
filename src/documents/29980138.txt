@@ -1,0 +1,15 @@
+skin secretions => body_part | max_score: 0.6322243213653564 | count: 1
+Trinidadian leaf frog => species | max_score: 0.5064939260482788 | count: 1
+Phyllomedusa trinitatis => species | max_score: 0.8783568143844604 | count: 1
+Mertens 1926 => date | max_score: 0.5878775715827942 | count: 1
+dermaseptins => protein_family | max_score: 0.8687129020690918 | count: 3
+GLWSKIK => peptide | max_score: 0.7899920344352722 | count: 1
+ALWKXXLK => peptide | max_score: 0.7072413563728333 | count: 1
+GLFKTLIKGAGKMLGHVAK => peptide | max_score: 0.7532294392585754 | count: 1
+phylloseptins => protein_family | max_score: 0.7683557868003845 | count: 2
+phyllocaerulein => peptide | max_score: 0.5961337685585022 | count: 1
+GLVSGLLNSVTGLLGNLAGGGL => peptide | max_score: 0.8122507929801941 | count: 1
+LTWKIPTRFCGVT => peptide | max_score: 0.8676429390907288 | count: 1
+Phyllomedusa tarsius => species | max_score: 0.7481706738471985 | count: 1
+FLSLIPKIAGGIASLVKNL.NH2 => peptide | max_score: 0.6376971006393433 | count: 1
+antimicrobial activity => activity | max_score: 0.9498170018196106 | count: 1

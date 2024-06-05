@@ -1,0 +1,8 @@
+ABP-CM4 => peptide | max_score: 0.8025460243225098 | count: 5
+Bombyx mori => species | max_score: 0.9177285432815552 | count: 1
+broad-spectrum activities => activity | max_score: 0.8437755107879639 | count: 1
+proteases => enzyme | max_score: 0.9479749798774719 | count: 1
+air => environmental_factor | max_score: 0.9595890045166016 | count: 1
+antibacterial activity => activity | max_score: 0.7647964358329773 | count: 1
+AMPs => chemical_system | max_score: 0.611436665058136 | count: 1
+antimicrobial system => chemical_system | max_score: 0.7986952662467957 | count: 1

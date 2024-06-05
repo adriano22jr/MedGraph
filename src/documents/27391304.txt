@@ -1,0 +1,5 @@
+BMAP27 => peptide | max_score: 0.9349388480186462 | count: 6
+microbicidal activity => activity | max_score: 0.8450726866722107 | count: 1
+erythrocytes => cell | max_score: 0.8550904393196106 | count: 1
+zwitterionic => chemical_system | max_score: 0.8943899869918823 | count: 4
+anionic => chemical_system | max_score: 0.90664142370224 | count: 6

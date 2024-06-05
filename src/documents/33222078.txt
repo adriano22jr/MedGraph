@@ -1,0 +1,12 @@
+Pseudomonas aeruginosa => bacteria | max_score: 0.9554097056388855 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9292173385620117 | count: 4
+aztreonam => antibiotic | max_score: 0.690844714641571 | count: 1
+ceftazidime => antibiotic | max_score: 0.8075265288352966 | count: 1
+colistin => antibiotic | max_score: 0.7808312773704529 | count: 1
+imipenem => antibiotic | max_score: 0.7857135534286499 | count: 1
+levofloxacin => antibiotic | max_score: 0.7776326537132263 | count: 1
+meropenem => antibiotic | max_score: 0.821225643157959 | count: 1
+carbapenems => antibiotic | max_score: 0.6153082251548767 | count: 1
+penicillin => antibiotic | max_score: 0.7518196105957031 | count: 1
+quinolones => antibiotic | max_score: 0.6358676552772522 | count: 1
+aminoglycosides => antibiotic | max_score: 0.6554880738258362 | count: 1

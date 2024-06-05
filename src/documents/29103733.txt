@@ -1,0 +1,12 @@
+Siderophores => compound | max_score: 0.6167264580726624 | count: 1
+microorganisms => organism | max_score: 0.6213302612304688 | count: 1
+iron stressed condition => environmental_factor | max_score: 0.9697881937026978 | count: 1
+catecholate => peptide | max_score: 0.7783018946647644 | count: 1
+hydroxamate => peptide | max_score: 0.7745968103408813 | count: 1
+carboxylate => peptide | max_score: 0.742199182510376 | count: 1
+mixed types => peptide | max_score: 0.6013433337211609 | count: 1
+siderophores => compound | max_score: 0.6159735918045044 | count: 3
+biosynthesis pathway => biological_process | max_score: 0.7829198241233826 | count: 1
+pathogens => organism | max_score: 0.5119408369064331 | count: 1
+bioremediation => biological_process | max_score: 0.5227268934249878 | count: 1
+malignant cancerous cells => cell_type | max_score: 0.8256955742835999 | count: 1

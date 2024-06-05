@@ -1,0 +1,8 @@
+tobramycin => antibiotic | max_score: 0.8946523070335388 | count: 7
+colistimethate sodium => antibiotic | max_score: 0.8983133435249329 | count: 6
+single-centre, retrospective cohort study => study_design | max_score: 0.8047217726707458 | count: 1
+primary outcome => condition_outcome | max_score: 0.7746223211288452 | count: 1
+RIFLE criteria => clinical_guideline | max_score: 0.9802416563034058 | count: 1
+IV => drug_dosage | max_score: 0.5948799252510071 | count: 3
+vancomycin => antibiotic | max_score: 0.6435129642486572 | count: 1
+piperacillin/tazobactam => antibiotic | max_score: 0.589432418346405 | count: 1

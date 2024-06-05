@@ -1,0 +1,5 @@
+damaged bone tissues => tissue | max_score: 0.6911713480949402 | count: 1
+scaffold => device | max_score: 0.5345839262008667 | count: 1
+Bombyx mori => species | max_score: 0.824458658695221 | count: 1
+SH-CM-RGD => peptide | max_score: 0.7489537000656128 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9000266194343567 | count: 1

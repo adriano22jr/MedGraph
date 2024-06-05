@@ -1,0 +1,13 @@
+conventional antibiotics => antibiotic | max_score: 0.5088842511177063 | count: 1
+Scylla serrata => species | max_score: 0.9565355181694031 | count: 1
+Ss-arasin => peptide | max_score: 0.7870573997497559 | count: 2
+isoelectric point => weight | max_score: 0.5803800821304321 | count: 1
+41-residue mature peptide => peptide | max_score: 0.5395129323005676 | count: 1
+haemocytes => cell_type | max_score: 0.8585830330848694 | count: 1
+antimicrobial activity => activity | max_score: 0.8974214196205139 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.97474604845047 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9805087447166443 | count: 1
+Escherichia coli => bacteria | max_score: 0.9818611145019531 | count: 1
+40 mM => weight | max_score: 0.5631223917007446 | count: 1
+HeLa => cell_line | max_score: 0.8706468343734741 | count: 1
+HT-29 => cell_line | max_score: 0.8810543417930603 | count: 1

@@ -1,0 +1,10 @@
+kanihua => plant | max_score: 0.8423535227775574 | count: 2
+Chenopodium pallidicaule Aellen => plant | max_score: 0.8352420330047607 | count: 1
+AMPs => peptide | max_score: 0.6338177919387817 | count: 3
+Alcalase => enzyme | max_score: 0.949398934841156 | count: 2
+Pepsin-pancreatin sequential system => chemical_system | max_score: 0.8640742897987366 | count: 1
+E. coli => bacteria | max_score: 0.9763343334197998 | count: 2
+S. aureus => bacteria | max_score: 0.9805404543876648 | count: 2
+C. albicans => fungus | max_score: 0.9681986570358276 | count: 2
+w/v => volume | max_score: 0.9399288892745972 | count: 1
+glutelins => peptide | max_score: 0.7518934607505798 | count: 1

@@ -1,0 +1,6 @@
+Bacteriocins => peptide | max_score: 0.878219723701477 | count: 2
+bacteria => bacteria | max_score: 0.6917415261268616 | count: 2
+prokaryotes => bacteria | max_score: 0.67784184217453 | count: 1
+pathogens => parasite | max_score: 0.5671509504318237 | count: 1
+bacteriocins => peptide | max_score: 0.9071440696716309 | count: 6
+traditional broad-spectrum antibiotics => antibiotic | max_score: 0.5220260620117188 | count: 1

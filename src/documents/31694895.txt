@@ -1,0 +1,10 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.7960634827613831 | count: 1
+colR-KPC3-KP isolate => bacteria | max_score: 0.5052719116210938 | count: 1
+pmrB => gene | max_score: 0.9211032390594482 | count: 6
+colR-KPC3-KP => bacteria | max_score: 0.6157161593437195 | count: 2
+mcr-1.2 => gene | max_score: 0.8781695365905762 | count: 3
+colistin => antibiotic | max_score: 0.8993679285049438 | count: 3
+September 2014 => date | max_score: 0.991413950920105 | count: 1
+17-nucleotide deletion => mutation | max_score: 0.6343976259231567 | count: 1
+pIncX4-AOUP => molecule | max_score: 0.604578971862793 | count: 1
+pIncQ-AOUP => molecule | max_score: 0.5379306674003601 | count: 1

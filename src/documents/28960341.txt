@@ -1,0 +1,15 @@
+Amb a 4 => protein | max_score: 0.8485327959060669 | count: 3
+Par h 1 => protein | max_score: 0.8444187045097351 | count: 2
+defensin-polyproline-linked proteins => protein | max_score: 0.6348339319229126 | count: 2
+mugwort => plant | max_score: 0.9818607568740845 | count: 1
+ragweed => plant | max_score: 0.9887079000473022 | count: 1
+feverfew => plant | max_score: 0.9839085936546326 | count: 1
+E. coli => bacteria | max_score: 0.9601556062698364 | count: 1
+Allergenic activity => activity | max_score: 0.7824450731277466 | count: 1
+serum IgE reactivity => immunologic_marker | max_score: 0.7674558758735657 | count: 1
+Endolysosomal protein degradation => biological_process | max_score: 0.5928483009338379 | count: 1
+T-cell cross-reactivity => immunologic_marker | max_score: 0.609685480594635 | count: 2
+Art v 1 => protein | max_score: 0.8878475427627563 | count: 2
+IgE reactivity => immunologic_marker | max_score: 0.591780424118042 | count: 1
+Art v 125-36 => protein | max_score: 0.6056877970695496 | count: 1
+molecule-based allergy diagnosis => diagnostic_procedure | max_score: 0.75861656665802 | count: 1

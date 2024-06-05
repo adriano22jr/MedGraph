@@ -1,0 +1,15 @@
+ESBL => enzyme | max_score: 0.7401888966560364 | count: 3
+carbapenemase => enzyme | max_score: 0.9294267296791077 | count: 3
+Enterobacteriaceae => bacteria | max_score: 0.8657147288322449 | count: 1
+MALDI-TOF => device | max_score: 0.6248065233230591 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.8565633893013 | count: 1
+E. coli => bacteria | max_score: 0.8330104947090149 | count: 1
+K. pneumoniae => bacteria | max_score: 0.8213818073272705 | count: 3
+aminoglycosides => antibiotic | max_score: 0.765290379524231 | count: 1
+fluoroquinolones => antibiotic | max_score: 0.8385908603668213 | count: 1
+extended-spectrum cephalosporins => antibiotic | max_score: 0.7879212498664856 | count: 1
+imipenem => antibiotic | max_score: 0.8196825385093689 | count: 1
+blaCTX-M-15 => gene | max_score: 0.9137656688690186 | count: 1
+blaTEM-1 => gene | max_score: 0.920432984828949 | count: 1
+blaSHV => gene | max_score: 0.8639689683914185 | count: 1
+blaOXA-48 => gene | max_score: 0.8916326761245728 | count: 1

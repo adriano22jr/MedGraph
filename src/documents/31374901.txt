@@ -1,0 +1,11 @@
+Antimicrobial peptides => peptide | max_score: 0.7004485130310059 | count: 1
+AMPs => peptide | max_score: 0.7790660262107849 | count: 7
+humans => species | max_score: 0.7524760961532593 | count: 1
+defensins => peptide | max_score: 0.7853924036026001 | count: 1
+human cathelicidin LL-37 => peptide | max_score: 0.6158115267753601 | count: 1
+inflammation => biological_process | max_score: 0.6038557887077332 | count: 1
+chemoattraction => biological_process | max_score: 0.588925838470459 | count: 1
+dengue virus => virus | max_score: 0.8524158596992493 | count: 1
+DENV => virus | max_score: 0.605013370513916 | count: 1
+Zika virus => virus | max_score: 0.9326927661895752 | count: 1
+ZIKV => virus | max_score: 0.7892358303070068 | count: 1

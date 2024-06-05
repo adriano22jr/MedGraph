@@ -1,0 +1,10 @@
+preclinical systems => chemical_system | max_score: 0.731558084487915 | count: 1
+melittin => peptide | max_score: 0.7879608273506165 | count: 1
+MEL => peptide | max_score: 0.7150558829307556 | count: 7
+hemolytic activity => activity | max_score: 0.8559383153915405 | count: 1
+clinical translation system => chemical_system | max_score: 0.5245236158370972 | count: 1
+early-stage trials => clinical_trial | max_score: 0.9325789213180542 | count: 1
+pacMEL => compound | max_score: 0.771148681640625 | count: 5
+protein access => activity | max_score: 0.5427727103233337 | count: 1
+hemolytic activities => activity | max_score: 0.5724503993988037 | count: 1
+tumor-suppressive activity => activity | max_score: 0.762458086013794 | count: 1

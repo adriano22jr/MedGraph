@@ -1,0 +1,6 @@
+multi-drug resistant bacteria => bacteria | max_score: 0.8210782408714294 | count: 1
+severe infections => severity | max_score: 0.5692862272262573 | count: 1
+drug-resistant microorganisms => organism | max_score: 0.5139932632446289 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6075080037117004 | count: 1
+AMPs => peptide | max_score: 0.6947042346000671 | count: 6
+multi-cellular organisms => bacteria | max_score: 0.7276831865310669 | count: 1

@@ -1,0 +1,15 @@
+enzymes => protein_family | max_score: 0.6218023896217346 | count: 1
+cupiennins => peptide | max_score: 0.7484963536262512 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5503185391426086 | count: 1
+venom gland => body_part | max_score: 0.5110626220703125 | count: 1
+Cupiennius salei => species | max_score: 0.9164755344390869 | count: 1
+Illumina 3000 => device | max_score: 0.576123058795929 | count: 1
+transcript families => protein_family | max_score: 0.5634191632270813 | count: 1
+linear peptides => peptide | max_score: 0.5915696620941162 | count: 2
+anionic propeptide => peptide | max_score: 0.6254500150680542 | count: 1
+cationic linear peptides => peptide | max_score: 0.6219649314880371 | count: 1
+anionic linkers => peptide | max_score: 0.6396685242652893 | count: 1
+unknown function => molecular_function | max_score: 0.7634589076042175 | count: 1
+posttranslational processing mechanism => biological_process | max_score: 0.5277149677276611 | count: 1
+CsTx-16 family => protein_family | max_score: 0.8472728729248047 | count: 1
+Cupiennius getazi => species | max_score: 0.8283637762069702 | count: 1

@@ -1,0 +1,17 @@
+skin => body_part | max_score: 0.8401230573654175 | count: 2
+Keratinocytes => cell_type | max_score: 0.8843904733657837 | count: 1
+S. aureus => bacteria | max_score: 0.9405601024627686 | count: 7
+antimicrobial peptides => peptide | max_score: 0.7953000664710999 | count: 1
+IL-1alpha => peptide | max_score: 0.7586163282394409 | count: 7
+IL-1beta => peptide | max_score: 0.7520852088928223 | count: 7
+keratinocytes => cell_type | max_score: 0.8871945142745972 | count: 5
+gene expression => biological_process | max_score: 0.5492687225341797 | count: 1
+caspase-1 => protein | max_score: 0.8551415801048279 | count: 2
+ASC => protein | max_score: 0.757276713848114 | count: 2
+CARD => protein | max_score: 0.6052942276000977 | count: 1
+IL-1alpha => protein | max_score: 0.6169676780700684 | count: 1
+IL-beta => protein | max_score: 0.5586569905281067 | count: 1
+anti-cancer therapy => treatment | max_score: 0.8450915813446045 | count: 1
+EGFR => protein | max_score: 0.7665773034095764 | count: 4
+ADAM17 => protein | max_score: 0.7034794688224792 | count: 1
+metalloproteinase => protein | max_score: 0.5117735266685486 | count: 1

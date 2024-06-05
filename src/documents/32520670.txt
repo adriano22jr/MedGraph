@@ -1,0 +1,12 @@
+Fusion proteins => protein | max_score: 0.5295220017433167 | count: 1
+CusF3H+ => protein | max_score: 0.8892956972122192 | count: 4
+SmbP => protein | max_score: 0.8831993341445923 | count: 4
+VpDef => peptide | max_score: 0.8569803833961487 | count: 2
+Escherichia coli => bacteria | max_score: 0.9774388670921326 | count: 2
+rVpDef => peptide | max_score: 0.7890233397483826 | count: 4
+SHuffle => cell_line | max_score: 0.5488886833190918 | count: 1
+1-liter cultures => volume | max_score: 0.8298911452293396 | count: 1
+recombinant protein => protein | max_score: 0.6433418989181519 | count: 3
+enterokinase => enzyme | max_score: 0.9526489973068237 | count: 2
+fusion protein => protein | max_score: 0.7192612886428833 | count: 2
+Gram-negative bacteria => bacteria | max_score: 0.527991771697998 | count: 1

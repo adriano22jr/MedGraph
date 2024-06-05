@@ -1,0 +1,9 @@
+Avocado => plant | max_score: 0.8469275236129761 | count: 3
+Persea americana => plant | max_score: 0.7131975889205933 | count: 1
+P. americana var. guatemalensis => plant | max_score: 0.5400834083557129 | count: 1
+bioactive molecules => compound | max_score: 0.5818197727203369 | count: 1
+avocado => plant | max_score: 0.892268717288971 | count: 4
+carotenoids => compound | max_score: 0.5788480639457703 | count: 1
+phenolic compounds => compound | max_score: 0.6247621178627014 | count: 1
+antioxidant activities => activity | max_score: 0.5555350184440613 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6898291707038879 | count: 1

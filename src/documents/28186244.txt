@@ -1,0 +1,9 @@
+pathogen pressure => environmental_factor | max_score: 0.9310457706451416 | count: 1
+β-defensin genes => protein_family | max_score: 0.9312783479690552 | count: 3
+β-defensin family => protein_family | max_score: 0.9570620656013489 | count: 1
+tree swallows => species | max_score: 0.8439161777496338 | count: 2
+Tachycineta bicolor => species | max_score: 0.9566654562950134 | count: 1
+single nucleotide polymorphisms => mutation | max_score: 0.6559513807296753 | count: 1
+SNPs => mutation | max_score: 0.8424717783927917 | count: 1
+mature peptide => peptide | max_score: 0.8785897493362427 | count: 1
+agricultural intensification => environmental_factor | max_score: 0.7848629951477051 | count: 1

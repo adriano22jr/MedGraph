@@ -1,0 +1,10 @@
+ASP-1 => peptide | max_score: 0.8605737686157227 | count: 6
+Bacillus subtilis => bacteria | max_score: 0.8331359624862671 | count: 1
+cefoxitin => antibiotic | max_score: 0.5303187370300293 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.8017611503601074 | count: 1
+acPhe-Leu-Phe-Thr-Val-Ala-Dhb => peptide | max_score: 0.6721835136413574 | count: 1
+TL-119 => peptide | max_score: 0.7393389344215393 | count: 1
+S. aureus => bacteria | max_score: 0.678453803062439 | count: 1
+methicillin-resistant S. aureus => bacteria | max_score: 0.5800154805183411 | count: 1
+haemolytic activity => activity | max_score: 0.9689490795135498 | count: 1
+breast carcinoma cell lines => cell_line | max_score: 0.8320125937461853 | count: 1

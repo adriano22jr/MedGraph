@@ -1,0 +1,9 @@
+Dextrin-colistin conjugates => compound | max_score: 0.8378235697746277 | count: 1
+colistin => antibiotic | max_score: 0.87801593542099 | count: 3
+polymyxin E => antibiotic | max_score: 0.6752852201461792 | count: 1
+dextrin-colistin conjugates => compound | max_score: 0.8491625785827637 | count: 3
+LPS => molecule | max_score: 0.8769525289535522 | count: 3
+biological activity => activity | max_score: 0.799898624420166 | count: 1
+dextrin-colistin conjugate => compound | max_score: 0.5517786741256714 | count: 3
+hemolysis => biological_process | max_score: 0.737714409828186 | count: 1
+tumor necrosis factor α (TNFα) => molecule | max_score: 0.7134265899658203 | count: 1

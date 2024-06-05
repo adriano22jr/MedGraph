@@ -1,0 +1,11 @@
+mononuclear phagocytes => cell_type | max_score: 0.858110785484314 | count: 1
+monocytes/macrophages => cell_type | max_score: 0.938398540019989 | count: 2
+innate immune memory => biological_process | max_score: 0.6806895136833191 | count: 1
+Lactiplantibacillus plantarum => bacteria | max_score: 0.9473550319671631 | count: 1
+environment => environmental_factor | max_score: 0.7822076082229614 | count: 1
+TNF => protein | max_score: 0.5705733895301819 | count: 1
+IL-10 => protein | max_score: 0.5628936886787415 | count: 1
+transcriptomic landscape => biological_process | max_score: 0.5181254744529724 | count: 1
+chemokines => protein | max_score: 0.5091215968132019 | count: 1
+antimicrobial peptides => protein | max_score: 0.7435390949249268 | count: 1
+metabolic pathways => biological_process | max_score: 0.5153030753135681 | count: 1

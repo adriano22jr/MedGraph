@@ -1,0 +1,10 @@
+COVID-19 => disease_disorder | max_score: 0.6457233428955078 | count: 3
+SARS-CoV-2 => virus | max_score: 0.9858314990997314 | count: 3
+Severe Acute Respiratory Syndrome Coronavirus 2 => virus | max_score: 0.8075212836265564 | count: 1
+naturally occurring compounds => compound | max_score: 0.6135241389274597 | count: 1
+Antimicrobial peptides => peptide | max_score: 0.7051906585693359 | count: 1
+AMPs => peptide | max_score: 0.6379044651985168 | count: 1
+AMPs => compound | max_score: 0.5094329118728638 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7641342282295227 | count: 1
+antiviral peptides => peptide | max_score: 0.560208261013031 | count: 2
+SARS-CoV => virus | max_score: 0.6049336791038513 | count: 1

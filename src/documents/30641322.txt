@@ -1,0 +1,11 @@
+Gram negative bacteria => bacteria | max_score: 0.8982837200164795 | count: 1
+phosphoethanolamine transferase enzyme => enzyme | max_score: 0.8737693428993225 | count: 1
+Compound 24 => compound | max_score: 0.8699513673782349 | count: 1
+MIC => lab_value | max_score: 0.8776119351387024 | count: 1
+K4 => compound | max_score: 0.5981915593147278 | count: 2
+MBC => lab_value | max_score: 0.8427727222442627 | count: 1
+Thr280 => molecule | max_score: 0.6612256169319153 | count: 1
+DNA macromolecule => molecule | max_score: 0.9061800241470337 | count: 1
+DNA => molecule | max_score: 0.7883034348487854 | count: 2
+doxurubucin => antibiotic | max_score: 0.5878414511680603 | count: 1
+IC50 => lab_value | max_score: 0.8491925001144409 | count: 1

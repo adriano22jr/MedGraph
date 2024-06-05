@@ -1,0 +1,4 @@
+alternative therapies => treatment | max_score: 0.5309174060821533 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6587041616439819 | count: 1
+AMPs => peptide | max_score: 0.703425943851471 | count: 3
+Neisseria => bacteria | max_score: 0.8311828970909119 | count: 1

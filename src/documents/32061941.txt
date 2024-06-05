@@ -1,0 +1,10 @@
+Dictyostelium discoideum => species | max_score: 0.5693244934082031 | count: 1
+bacteria => bacteria | max_score: 0.852549135684967 | count: 2
+molecular mechanisms => biological_process | max_score: 0.5210667848587036 | count: 1
+professional phagocytic cells => cell_type | max_score: 0.857871949672699 | count: 1
+multicellular organisms => bacteria | max_score: 0.6311854720115662 | count: 1
+D. discoideum => bacteria | max_score: 0.5395293831825256 | count: 2
+antimicrobial peptides => peptide | max_score: 0.7933456301689148 | count: 1
+amoebapore-like peptides => peptide | max_score: 0.7729630470275879 | count: 1
+lysozymes => enzyme | max_score: 0.9096795320510864 | count: 1
+lysozymes => protein_family | max_score: 0.873728334903717 | count: 2

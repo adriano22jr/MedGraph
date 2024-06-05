@@ -1,0 +1,17 @@
+ATF2 => protein | max_score: 0.5910833477973938 | count: 2
+bZIP transcription factor family => protein_family | max_score: 0.9733028411865234 | count: 1
+innate immunity => biological_process | max_score: 0.7489950060844421 | count: 2
+MnATF2a => protein | max_score: 0.6851465106010437 | count: 7
+MnATF2b => protein | max_score: 0.7033177018165588 | count: 6
+ATF2 => gene | max_score: 0.6392918825149536 | count: 1
+Macrobrachium nipponense => bacteria | max_score: 0.8671861290931702 | count: 1
+immune tissues => tissue | max_score: 0.5652936697006226 | count: 1
+Vibrio parahaemolyticus => bacteria | max_score: 0.8271095752716064 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.8394822478294373 | count: 1
+gills => body_part | max_score: 0.8554704189300537 | count: 1
+stomach => body_part | max_score: 0.8535070419311523 | count: 1
+MnATF2 gene => gene | max_score: 0.5573956966400146 | count: 1
+TNF => protein | max_score: 0.6770527958869934 | count: 2
+Cru3 => protein | max_score: 0.6799866557121277 | count: 2
+Cru4 => protein | max_score: 0.6657159328460693 | count: 2
+Cru7 => protein | max_score: 0.7902674674987793 | count: 2

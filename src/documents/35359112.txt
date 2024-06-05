@@ -1,0 +1,10 @@
+antibiotics => antibiotic | max_score: 0.5699906349182129 | count: 1
+denitrification => biological_process | max_score: 0.5974905490875244 | count: 2
+Polymyxin B => antibiotic | max_score: 0.6398270130157471 | count: 1
+multidrug-resistance bacteria => bacteria | max_score: 0.8854357600212097 | count: 1
+wastewater => environmental_factor | max_score: 0.6962298154830933 | count: 1
+aerobic denitrification => biological_process | max_score: 0.8101584911346436 | count: 2
+denitrifiers => bacteria | max_score: 0.7867527604103088 | count: 4
+key enzymes => enzyme | max_score: 0.9264411926269531 | count: 1
+aerobic respiratory chains => biological_process | max_score: 0.6187829375267029 | count: 1
+central carbon metabolism => biological_process | max_score: 0.8308643698692322 | count: 1

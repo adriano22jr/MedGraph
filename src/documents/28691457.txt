@@ -1,0 +1,4 @@
+histopathologic diagnosis => diagnostic_procedure | max_score: 0.7411075234413147 | count: 1
+Burning Mouth Syndrome => disease_disorder | max_score: 0.5127317905426025 | count: 1
+3500 pg/ml => lab_value | max_score: 0.5434510111808777 | count: 1
+dental visit => clinical_event | max_score: 0.5265392065048218 | count: 1

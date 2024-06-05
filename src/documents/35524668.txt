@@ -1,0 +1,15 @@
+neoplasms => disease_disorder | max_score: 0.5569775700569153 | count: 1
+snake venom- derived peptides => peptide | max_score: 0.5478041172027588 | count: 1
+bacterial strains => bacteria | max_score: 0.579232394695282 | count: 1
+tumor cells => cell | max_score: 0.6863918900489807 | count: 2
+parasites => parasite | max_score: 0.848622739315033 | count: 2
+antiparasitic activity => activity | max_score: 0.6653507351875305 | count: 2
+antimicrobial peptides => peptide | max_score: 0.6333202719688416 | count: 1
+in vitro => study_design | max_score: 0.6329765915870667 | count: 1
+in vivo => study_design | max_score: 0.6371839046478271 | count: 1
+in silico => study_design | max_score: 0.5897980332374573 | count: 1
+peptide name => peptide | max_score: 0.6473998427391052 | count: 1
+peptide sequence => peptide | max_score: 0.6618261337280273 | count: 1
+semi-maximal inhibitory concentration => disease_disorder | max_score: 0.6357567310333252 | count: 1
+snake species => species | max_score: 0.754749059677124 | count: 1
+cytotoxicity => activity | max_score: 0.5449623465538025 | count: 1

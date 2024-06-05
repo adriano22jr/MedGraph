@@ -1,0 +1,14 @@
+Campylobacter => bacteria | max_score: 0.5032011866569519 | count: 1
+C. jejuni => bacteria | max_score: 0.7898315787315369 | count: 5
+line 61 => cell_line | max_score: 0.8190199732780457 | count: 3
+caecal contents => body_part | max_score: 0.9054642915725708 | count: 1
+tonsils => body_part | max_score: 0.8970486521720886 | count: 2
+line N => cell_line | max_score: 0.6675007939338684 | count: 2
+immune regulation => biological_process | max_score: 0.550243616104126 | count: 1
+MHCIA1 => gene | max_score: 0.8665204644203186 | count: 1
+MHCBL2 => gene | max_score: 0.7741206884384155 | count: 1
+MHCIY => gene | max_score: 0.8211415410041809 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5071043372154236 | count: 1
+MUC2 => gene | max_score: 0.9071927070617676 | count: 1
+AvBD10 => gene | max_score: 0.8758676052093506 | count: 1
+GZMA => gene | max_score: 0.8797500729560852 | count: 1

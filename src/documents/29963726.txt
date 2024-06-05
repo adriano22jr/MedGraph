@@ -1,0 +1,12 @@
+AMPs => peptide | max_score: 0.6441794633865356 | count: 4
+cutaneous innate immunity => lab_value | max_score: 0.5683985948562622 | count: 1
+cBD3-like/cBD122 => peptide | max_score: 0.6687451601028442 | count: 1
+cCath => peptide | max_score: 0.783867597579956 | count: 3
+S100A8/9/12 => peptide | max_score: 0.813433825969696 | count: 2
+clinical signs => sign_symptom | max_score: 0.8479931950569153 | count: 2
+nonlesional abdominal skin => body_part | max_score: 0.7784939408302307 | count: 1
+2.7 mL => volume | max_score: 0.8934682607650757 | count: 1
+sterile tube => device | max_score: 0.8475652933120728 | count: 1
+cBD3-like => peptide | max_score: 0.6755971908569336 | count: 2
+Staphylococcus pseudintermedius => bacteria | max_score: 0.9561005234718323 | count: 1
+bacterial density => lab_value | max_score: 0.5864636301994324 | count: 1

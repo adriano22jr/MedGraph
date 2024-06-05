@@ -1,0 +1,11 @@
+serum concentration => lab_value | max_score: 0.6586464643478394 | count: 1
+LL-37 gene => gene | max_score: 0.9054402709007263 | count: 4
+peripheral blood leucocytes => cell_type | max_score: 0.852780282497406 | count: 5
+Patients => subject | max_score: 0.6131541728973389 | count: 3
+human glyceraldehyde-3-phosphate dehydrogenase => enzyme | max_score: 0.7476798892021179 | count: 1
+Serum LL-37 concentration => lab_value | max_score: 0.6721009016036987 | count: 1
+Serum lipid levels => lab_value | max_score: 0.7635236382484436 | count: 1
+serum LL-37 concentration => lab_value | max_score: 0.8297773003578186 | count: 2
+atorvastatin calcium => drug | max_score: 0.7957529425621033 | count: 1
+patients => subject | max_score: 0.55362868309021 | count: 1
+high-density lipoprotein cholesterol levels => lab_value | max_score: 0.556946337223053 | count: 2

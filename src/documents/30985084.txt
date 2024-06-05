@@ -1,0 +1,14 @@
+Periodontitis => disease_disorder | max_score: 0.5228662490844727 | count: 1
+oral cavity => cell_line | max_score: 0.5775842070579529 | count: 1
+self-assembling peptides => peptide | max_score: 0.550387442111969 | count: 1
+SAP => peptide | max_score: 0.603520393371582 | count: 4
+periodontal therapy => treatment | max_score: 0.6543628573417664 | count: 2
+P11-28/29 => peptide | max_score: 0.5108232498168945 | count: 1
+Porphyromonas gingivalis => bacteria | max_score: 0.9384518265724182 | count: 1
+P11-4 => peptide | max_score: 0.5447602868080139 | count: 1
+metabolic activity rates => activity | max_score: 0.9133511781692505 | count: 1
+human dental follicle stem cells => cell_line | max_score: 0.5625535845756531 | count: 1
+DFSCs => cell_line | max_score: 0.8268977999687195 | count: 2
+tetracycline => antibiotic | max_score: 0.9285542368888855 | count: 1
+ciprofloxacin => antibiotic | max_score: 0.9172167778015137 | count: 1
+doxycycline => antibiotic | max_score: 0.9228034019470215 | count: 1

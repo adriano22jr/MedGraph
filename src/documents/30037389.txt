@@ -1,0 +1,8 @@
+LEAP-2 => peptide | max_score: 0.8499390482902527 | count: 3
+growth hormone secretagogue receptor 1a => protein | max_score: 0.566325306892395 | count: 1
+GHSR1a => protein | max_score: 0.9098491668701172 | count: 2
+systemic energy metabolism => biological_process | max_score: 0.7053839564323425 | count: 1
+ghrelin => peptide | max_score: 0.8401563167572021 | count: 2
+Ca2+ release => biological_process | max_score: 0.5238063335418701 | count: 1
+obesity => disease_disorder | max_score: 0.8920444846153259 | count: 2
+metabolic diseases => disease_disorder | max_score: 0.6167516112327576 | count: 1

@@ -1,0 +1,11 @@
+Acute lung injury => disease_disorder | max_score: 0.5138231515884399 | count: 1
+acute respiratory failure => disease_disorder | max_score: 0.5053697824478149 | count: 1
+immunomodulatory activity => biological_process | max_score: 0.6116576194763184 | count: 1
+RTD-1 => peptide | max_score: 0.7419102191925049 | count: 7
+human peripheral neutrophils => cell_type | max_score: 0.6665555238723755 | count: 1
+LPS-stimulated murine alveolar macrophage (denoted MH-S) => cell_line | max_score: 0.5200955867767334 | count: 1
+Treatment => treatment | max_score: 0.7721042633056641 | count: 3
+histopathology => tissue | max_score: 0.7045875787734985 | count: 1
+murine alveolar immortalized macrophages (MH-S) => cell_line | max_score: 0.5449623465538025 | count: 1
+pulmonary edema => disease_disorder | max_score: 0.5731240510940552 | count: 1
+peroxidase activity => biological_process | max_score: 0.8425547480583191 | count: 1

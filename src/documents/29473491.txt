@@ -1,0 +1,10 @@
+LT => treatment | max_score: 0.6218910813331604 | count: 5
+Oral Mucositis => tissue | max_score: 0.6587569117546082 | count: 1
+DEFB1 => gene | max_score: 0.918385922908783 | count: 1
+DEFB4 => gene | max_score: 0.9169924855232239 | count: 1
+DEFB103 => gene | max_score: 0.9380804300308228 | count: 1
+β-defensins => protein | max_score: 0.7440995573997498 | count: 2
+epithelial cell line => cell_line | max_score: 0.8485298752784729 | count: 1
+oral mucosa => tissue | max_score: 0.881687343120575 | count: 1
+TaqMan probes => device | max_score: 0.535590648651123 | count: 1
+Real- Time PCR platform => device | max_score: 0.7541614770889282 | count: 1

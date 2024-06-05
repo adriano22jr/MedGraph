@@ -1,0 +1,15 @@
+Staphylococci => bacteria | max_score: 0.8503555655479431 | count: 3
+Staphylococcus aureus => bacteria | max_score: 0.9517698287963867 | count: 2
+Plantaricin EF => peptide | max_score: 0.6366317868232727 | count: 1
+PlnEF => peptide | max_score: 0.7271174192428589 | count: 2
+Lactobacillus plantarum => plant | max_score: 0.6610938906669617 | count: 1
+Escherichia coli => bacteria | max_score: 0.9135717153549194 | count: 1
+His6-tag => protein | max_score: 0.5001773834228516 | count: 1
+enterokinase => enzyme | max_score: 0.9866183400154114 | count: 1
+PlnE => peptide | max_score: 0.7098987698554993 | count: 2
+PlnF => peptide | max_score: 0.7956198453903198 | count: 2
+ultrafiltration centrifuge => device | max_score: 0.7682119011878967 | count: 1
+reverse-phase HPLC => device | max_score: 0.5972504615783691 | count: 1
+antimicrobial activities => activity | max_score: 0.6348655223846436 | count: 1
+Staphylococcus citreus => bacteria | max_score: 0.8346254825592041 | count: 1
+bactericidal activity => activity | max_score: 0.7510247826576233 | count: 1

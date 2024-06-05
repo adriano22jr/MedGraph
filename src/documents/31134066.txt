@@ -1,0 +1,12 @@
+pathogens => bacteria | max_score: 0.8392600417137146 | count: 4
+DNA => molecule | max_score: 0.8879878520965576 | count: 2
+plants => plant | max_score: 0.9863421320915222 | count: 1
+bacteria => bacteria | max_score: 0.85374915599823 | count: 2
+mammals => organism | max_score: 0.5011894702911377 | count: 1
+neutrophils => cell_type | max_score: 0.9534432291984558 | count: 1
+antimicrobial molecules => molecule | max_score: 0.5611001253128052 | count: 1
+histones => molecule | max_score: 0.6257476806640625 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7588547468185425 | count: 1
+lactoferrin => enzyme | max_score: 0.7418121099472046 | count: 1
+neutrophil elastase => enzyme | max_score: 0.8722564578056335 | count: 1
+endogenous cells => cell | max_score: 0.6224543452262878 | count: 2

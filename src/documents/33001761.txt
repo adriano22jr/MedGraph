@@ -1,0 +1,9 @@
+colistin-resistant bacteria => bacteria | max_score: 0.6173722147941589 | count: 1
+mcr genes => gene | max_score: 0.7252529859542847 | count: 1
+food-producing animals => species | max_score: 0.5537514090538025 | count: 1
+humans => species | max_score: 0.5730681419372559 | count: 1
+Escherichia fergusonii => bacteria | max_score: 0.9667370915412903 | count: 1
+cloacal swabs => body_part | max_score: 0.6244258284568787 | count: 1
+IncHI2 plasmid => molecule | max_score: 0.8058443665504456 | count: 1
+mcr-1 => gene | max_score: 0.9503422975540161 | count: 2
+E. fergusonii => bacteria | max_score: 0.6145033240318298 | count: 1

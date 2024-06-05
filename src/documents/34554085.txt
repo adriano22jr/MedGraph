@@ -1,0 +1,8 @@
+Current antiviral drugs => drug | max_score: 0.7448607683181763 | count: 1
+adverse side effects => side_effect | max_score: 0.8186314105987549 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8078361749649048 | count: 1
+antiviral activity => activity | max_score: 0.8986186981201172 | count: 2
+antiviral peptides => peptide | max_score: 0.5573330521583557 | count: 1
+AVPs => peptide | max_score: 0.537474513053894 | count: 1
+AVP families => protein_family | max_score: 0.9339998960494995 | count: 1
+newly emerging viruses => virus | max_score: 0.6655324101448059 | count: 1

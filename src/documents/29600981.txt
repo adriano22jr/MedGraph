@@ -1,0 +1,14 @@
+cytostatic agents => drug | max_score: 0.5314611792564392 | count: 2
+hBD-1-4 => protein | max_score: 0.5781566500663757 | count: 2
+human cancer cell lines => cell_line | max_score: 0.6558476090431213 | count: 1
+hBD-1-4 => gene | max_score: 0.6320842504501343 | count: 1
+A431 cells => cell_line | max_score: 0.9266201853752136 | count: 2
+MCF7 cells => cell_line | max_score: 0.9160284996032715 | count: 1
+cisplatin => drug | max_score: 0.9377217292785645 | count: 1
+methotrexate => drug | max_score: 0.9326627254486084 | count: 1
+doxorubicin => drug | max_score: 0.932353138923645 | count: 2
+vincristine => drug | max_score: 0.9045616388320923 | count: 2
+IC20 concentrations => lab_value | max_score: 0.6278185844421387 | count: 1
+hBD-4 => gene | max_score: 0.5376887321472168 | count: 2
+MCF7 => cell_line | max_score: 0.5500671863555908 | count: 1
+hBD-3 => protein | max_score: 0.5226528644561768 | count: 1

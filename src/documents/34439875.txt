@@ -1,0 +1,14 @@
+Candida&nbsp;albicans => fungus | max_score: 0.9093748331069946 | count: 1
+buccal candidiasis => disease_disorder | max_score: 0.7208728194236755 | count: 1
+morphological transition => biological_process | max_score: 0.6680620312690735 | count: 1
+hyphal cells => cell_type | max_score: 0.8811561465263367 | count: 1
+bloodstream => body_part | max_score: 0.7524619102478027 | count: 1
+systemic infection => disease_disorder | max_score: 0.5146389603614807 | count: 1
+C. albicans => fungus | max_score: 0.9376683235168457 | count: 3
+antifungals => drug | max_score: 0.7092249989509583 | count: 1
+Histatin 5 => peptide | max_score: 0.8389207124710083 | count: 2
+Hst5 => peptide | max_score: 0.7732828855514526 | count: 3
+Histatin family => protein_family | max_score: 0.9474896192550659 | count: 1
+antifungal activity => activity | max_score: 0.7718915939331055 | count: 1
+enzymes => enzyme | max_score: 0.8763267397880554 | count: 1
+oral cavity => body_part | max_score: 0.8446665406227112 | count: 1

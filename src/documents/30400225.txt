@@ -1,0 +1,8 @@
+EcAMP1 => peptide | max_score: 0.8299641013145447 | count: 1
+barnyard grass => plant | max_score: 0.9239706993103027 | count: 1
+E. crusgalli => plant | max_score: 0.9611285328865051 | count: 1
+Pro19Hyp => peptide | max_score: 0.7022923827171326 | count: 1
+antifungal activity => activity | max_score: 0.9731736779212952 | count: 1
+Fusarium solani => fungus | max_score: 0.9887412190437317 | count: 1
+fungistatic action => activity | max_score: 0.5887734293937683 | count: 1
+hyphal growth inhibition => activity | max_score: 0.5087606310844421 | count: 1

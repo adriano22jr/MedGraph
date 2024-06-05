@@ -1,0 +1,14 @@
+antimicrobial peptides => peptide | max_score: 0.5440720915794373 | count: 1
+AMPs => peptide | max_score: 0.7462550401687622 | count: 9
+Escherichia coli => bacteria | max_score: 0.9628612399101257 | count: 1
+E. coli => bacteria | max_score: 0.8337440490722656 | count: 1
+spheroplasts => cell | max_score: 0.637403666973114 | count: 3
+giant unilamellar vesicles (GUVs) => cell | max_score: 0.5608276724815369 | count: 1
+fluorescent molecules => molecule | max_score: 0.6107181310653687 | count: 1
+melittin => antibiotic | max_score: 0.7245326042175293 | count: 1
+LL37 => antibiotic | max_score: 0.6393921375274658 | count: 1
+alamethicin => antibiotic | max_score: 0.793056070804596 | count: 1
+CCCP => antibiotic | max_score: 0.7149990797042847 | count: 1
+daptomycin => antibiotic | max_score: 0.781919002532959 | count: 1
+ion leakage => biological_process | max_score: 0.5735520720481873 | count: 1
+GUVs => cell | max_score: 0.6107770800590515 | count: 4

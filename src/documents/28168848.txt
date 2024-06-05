@@ -1,0 +1,9 @@
+Hormonal crosstalk => biological_process | max_score: 0.7911180257797241 | count: 1
+JA signaling pathway => biological_process | max_score: 0.6531280279159546 | count: 1
+plant stress responses => biological_process | max_score: 0.5857186317443848 | count: 1
+EIN3 => protein | max_score: 0.6163852214813232 | count: 4
+EIN3-Like1 => protein | max_score: 0.5143791437149048 | count: 1
+EIL1 => protein | max_score: 0.5912377834320068 | count: 3
+PDF1.2 => protein | max_score: 0.5802496075630188 | count: 2
+ORA59 => protein | max_score: 0.7567166090011597 | count: 7
+split-luciferase => enzyme | max_score: 0.7839450836181641 | count: 1

@@ -1,0 +1,17 @@
+M. tuberculosis => bacteria | max_score: 0.9614264369010925 | count: 5
+macrophages => cell_type | max_score: 0.9207461476325989 | count: 2
+phagosomal trafficking => biological_process | max_score: 0.7086971998214722 | count: 1
+lysosomal degradation => biological_process | max_score: 0.6857562065124512 | count: 1
+LC3-associated phagocytosis (LAP) => biological_process | max_score: 0.6623569130897522 | count: 1
+NADPH oxidase => enzyme | max_score: 0.9610602855682373 | count: 2
+RUBCN/RUBICON => enzyme | max_score: 0.6387789249420166 | count: 1
+LAP => biological_process | max_score: 0.5280977487564087 | count: 1
+CpsA => protein | max_score: 0.5037065744400024 | count: 1
+CYBB/NOX2 => protein | max_score: 0.5382683277130127 | count: 1
+cytochrome b-245 => protein | max_score: 0.507939875125885 | count: 1
+beta polypeptide => protein | max_score: 0.6100528836250305 | count: 1
+mice => species | max_score: 0.5946627855300903 | count: 1
+LytR-CpsA-Psr family => protein_family | max_score: 0.95709627866745 | count: 1
+Gram-positive bacilli => bacteria | max_score: 0.8447042107582092 | count: 1
+cell wall assembly => biological_process | max_score: 0.743759036064148 | count: 1
+CYBB oxidase => enzyme | max_score: 0.6929931640625 | count: 1

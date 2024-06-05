@@ -1,0 +1,11 @@
+current antifungal therapeutics => treatment | max_score: 0.745433509349823 | count: 1
+severe keratomycosis => severity | max_score: 0.6571776270866394 | count: 1
+α-helical peptides => peptide | max_score: 0.906957745552063 | count: 3
+amino acids => peptide | max_score: 0.501166820526123 | count: 1
+broad-spectrum antimicrobial activity => activity | max_score: 0.8419705629348755 | count: 1
+in vitro => environmental_factor | max_score: 0.7894785404205322 | count: 3
+in vivo => environmental_factor | max_score: 0.8147864937782288 | count: 2
+antifungal activity => activity | max_score: 0.727988600730896 | count: 1
+Candida albicans => fungus | max_score: 0.9787225127220154 | count: 1
+C. albicans => fungus | max_score: 0.913083553314209 | count: 2
+mice => species | max_score: 0.6131508946418762 | count: 2

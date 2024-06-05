@@ -1,0 +1,15 @@
+hematophagy => biological_process | max_score: 0.5724958777427673 | count: 1
+blood-sucking parasites => parasite | max_score: 0.5642166137695312 | count: 1
+Ixodes ticks => parasite | max_score: 0.9684382081031799 | count: 2
+IFNγ => molecule | max_score: 0.8924481868743896 | count: 4
+mice => species | max_score: 0.5682547092437744 | count: 3
+Lyme disease-causing bacteria => bacteria | max_score: 0.5506519675254822 | count: 1
+Borrelia burgdorferi => bacteria | max_score: 0.9738547801971436 | count: 1
+antimicrobial responses => biological_process | max_score: 0.6263736486434937 | count: 1
+IGTPase => enzyme | max_score: 0.8279924988746643 | count: 7
+B. burgdorferi => bacteria | max_score: 0.7088239192962646 | count: 2
+post-fed ticks => parasite | max_score: 0.5954226851463318 | count: 1
+ticks => parasite | max_score: 0.579434335231781 | count: 3
+STAT => protein | max_score: 0.5000168085098267 | count: 1
+antimicrobial peptides => molecule | max_score: 0.694336473941803 | count: 1
+Dae2 => peptide | max_score: 0.7604846358299255 | count: 1

@@ -1,0 +1,7 @@
+heterologous expression system => chemical_system | max_score: 0.6707884669303894 | count: 1
+nisin expression and modification system => chemical_system | max_score: 0.5887433886528015 | count: 1
+antimicrobial activity => activity | max_score: 0.9249034523963928 | count: 2
+Corynebacterium lipophiloflavum DSM 44291 => bacteria | max_score: 0.9286695718765259 | count: 1
+Streptococcus agalactiae ATCC 13813 => bacteria | max_score: 0.9069810509681702 | count: 1
+flavucin => peptide | max_score: 0.886274516582489 | count: 1
+agalacticin => peptide | max_score: 0.9007235765457153 | count: 1

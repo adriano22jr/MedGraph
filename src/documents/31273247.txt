@@ -1,0 +1,10 @@
+Mutations => mutation | max_score: 0.6293845772743225 | count: 1
+rfa operon => protein | max_score: 0.5812094807624817 | count: 1
+lipopolysaccharide => molecule | max_score: 0.6059006452560425 | count: 1
+LPS => molecule | max_score: 0.5830938220024109 | count: 2
+bacterial cells => cell | max_score: 0.7175969481468201 | count: 1
+bacteriophages => virus | max_score: 0.9721593260765076 | count: 2
+Escherichia coli => bacteria | max_score: 0.8912239670753479 | count: 1
+outer membrane proteins => protein | max_score: 0.7557016611099243 | count: 1
+antimicrobial peptides => antibiotic | max_score: 0.6785492300987244 | count: 1
+hydrophobic antibiotics => antibiotic | max_score: 0.7797815799713135 | count: 1

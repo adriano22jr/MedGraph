@@ -1,0 +1,11 @@
+Melittin => compound | max_score: 0.6768419146537781 | count: 1
+European honeybee => species | max_score: 0.9043114185333252 | count: 1
+melittin => compound | max_score: 0.6659038662910461 | count: 2
+lipid bilayer => chemical_system | max_score: 0.6874806880950928 | count: 2
+ion leakage => biological_process | max_score: 0.6127331256866455 | count: 1
+osmotic shock => biological_process | max_score: 0.5632066130638123 | count: 1
+pneumolysin => protein | max_score: 0.6231173872947693 | count: 1
+cholesterol-dependent cytolysin family => protein_family | max_score: 0.9170271754264832 | count: 1
+pretreatment => treatment | max_score: 0.5757960081100464 | count: 1
+methyl-β-cyclodextrin => drug | max_score: 0.7785623669624329 | count: 1
+lipophilic simvastatin => drug | max_score: 0.6359444260597229 | count: 1

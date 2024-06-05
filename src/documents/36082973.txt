@@ -1,0 +1,8 @@
+LLKKK18 => peptide | max_score: 0.8542210459709167 | count: 1
+LL18 => peptide | max_score: 0.83732670545578 | count: 6
+vancomycin hydrochloride => antibiotic | max_score: 0.8702011704444885 | count: 1
+MC3T3-E1 pre-osteoblasts => cell_line | max_score: 0.8575448393821716 | count: 1
+erythrocytes => cell_type | max_score: 0.9163944721221924 | count: 1
+Antimicrobial activity => activity | max_score: 0.867663562297821 | count: 1
+Methicillin-Resistant Staphylococcus aureus => bacteria | max_score: 0.6522994637489319 | count: 1
+tibia defect => body_part | max_score: 0.6212942600250244 | count: 1

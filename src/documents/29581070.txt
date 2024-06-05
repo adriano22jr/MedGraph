@@ -1,0 +1,13 @@
+Zimmer => device | max_score: 0.6194623708724976 | count: 1
+mycobacteria => bacteria | max_score: 0.9130390286445618 | count: 1
+yeasts => fungus | max_score: 0.9858796000480652 | count: 1
+concomitant antibiotic therapy => treatment | max_score: 0.9543201923370361 | count: 2
+Synovasure™ => device | max_score: 0.5643186569213867 | count: 2
+prospective study => study_design | max_score: 0.5484082102775574 | count: 1
+positive predictive value (PPV) => lab_value | max_score: 0.6295941472053528 | count: 1
+negative predictive value (NPV) => lab_value | max_score: 0.6842144131660461 | count: 1
+October 2015 => date | max_score: 0.9927819967269897 | count: 1
+October 2017 => date | max_score: 0.9905649423599243 | count: 1
+joint aspiration => diagnostic_procedure | max_score: 0.7811400294303894 | count: 1
+total knee prostheses => device | max_score: 0.6130862832069397 | count: 1
+total hip prostheses => surgical_procedure | max_score: 0.558570384979248 | count: 1

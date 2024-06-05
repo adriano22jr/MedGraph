@@ -1,0 +1,17 @@
+Host defense peptides => peptide | max_score: 0.5922170877456665 | count: 1
+HDPs => peptide | max_score: 0.6060013175010681 | count: 1
+innate immunity => biological_process | max_score: 0.8491935133934021 | count: 2
+endogenous HDP synthesis => biological_process | max_score: 0.500728964805603 | count: 1
+dietary compounds => diet | max_score: 0.588837206363678 | count: 1
+1,25D3 => compound | max_score: 0.6596328616142273 | count: 7
+humans => species | max_score: 0.7839160561561584 | count: 1
+poultry => species | max_score: 0.7168012857437134 | count: 1
+avian β-defensin (AvBD) => peptide | max_score: 0.6528269052505493 | count: 1
+chickens => species | max_score: 0.8986873030662537 | count: 2
+chicken => species | max_score: 0.5653533339500427 | count: 1
+CEIEPCs => cell_line | max_score: 0.9140387773513794 | count: 4
+PBMCs => cell_line | max_score: 0.8758049607276917 | count: 2
+AvBDs => peptide | max_score: 0.6241785287857056 | count: 3
+CYP24A1 => enzyme | max_score: 0.8325718641281128 | count: 1
+VDR => enzyme | max_score: 0.6415750980377197 | count: 1
+cycloheximide => compound | max_score: 0.6805277466773987 | count: 1

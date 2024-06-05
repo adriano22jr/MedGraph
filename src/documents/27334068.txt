@@ -1,0 +1,8 @@
+CAP18 => peptide | max_score: 0.9547379016876221 | count: 5
+Yersinia ruckeri => bacteria | max_score: 0.7729938626289368 | count: 1
+rainbow trout => species | max_score: 0.6817151308059692 | count: 2
+Oncorhynchus mykiss => species | max_score: 0.8136457800865173 | count: 1
+enteric red mouth disease => disease_disorder | max_score: 0.828621506690979 | count: 1
+feed => diet | max_score: 0.9210367202758789 | count: 1
+oxolinic acid => antibiotic | max_score: 0.9071240425109863 | count: 1
+gastrointestinal tract => body_part | max_score: 0.5213853716850281 | count: 1

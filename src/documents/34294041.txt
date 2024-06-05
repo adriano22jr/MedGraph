@@ -1,0 +1,12 @@
+colistin => antibiotic | max_score: 0.9260901808738708 | count: 2
+mcr genes => gene | max_score: 0.8208386301994324 | count: 4
+antibiotic resistance genes => gene | max_score: 0.5255980491638184 | count: 2
+ARGs => gene | max_score: 0.6000137329101562 | count: 3
+mcr-like genes => gene | max_score: 0.6556259393692017 | count: 3
+Suterella => bacteria | max_score: 0.9337937235832214 | count: 1
+Parasuterella => parasite | max_score: 0.9026208519935608 | count: 1
+Vibrio => bacteria | max_score: 0.9732646346092224 | count: 1
+Escherichia => bacteria | max_score: 0.9849219918251038 | count: 1
+Campylobacter => bacteria | max_score: 0.9812873005867004 | count: 1
+Extended-spectrum Beta-Lactamases (ESBL) => gene | max_score: 0.663390040397644 | count: 1
+PAP2-like domain => gene | max_score: 0.5523681640625 | count: 1

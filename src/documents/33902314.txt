@@ -1,0 +1,10 @@
+microbiota => environmental_factor | max_score: 0.6630372405052185 | count: 2
+microbes => organism | max_score: 0.5434848070144653 | count: 1
+habitat => environmental_factor | max_score: 0.7577728033065796 | count: 5
+host => organism | max_score: 0.699626088142395 | count: 4
+microbial growth => biological_process | max_score: 0.5318237543106079 | count: 1
+body surfaces => body_part | max_score: 0.8557388782501221 | count: 1
+Host => organism | max_score: 0.6249943375587463 | count: 1
+microbiota => organism | max_score: 0.6079473495483398 | count: 2
+microbiota-nourishing immunity => biological_process | max_score: 0.6320507526397705 | count: 2
+pathogens => organism | max_score: 0.6315947771072388 | count: 1

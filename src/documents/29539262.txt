@@ -1,0 +1,4 @@
+Antimicrobial peptides => peptide | max_score: 0.5259848237037659 | count: 1
+bacteria => bacteria | max_score: 0.7077956795692444 | count: 2
+stimuli-responsive antibacterial activities => activity | max_score: 0.5382245182991028 | count: 1
+MDR ones => bacteria | max_score: 0.5513750314712524 | count: 1

@@ -1,0 +1,14 @@
+β-Defensin-1 => peptide | max_score: 0.8142287731170654 | count: 1
+antimicrobial peptide => peptide | max_score: 0.5487974286079407 | count: 1
+DEFB1 gene => gene | max_score: 0.9845185279846191 | count: 1
+lung mucosal immunity => mutation | max_score: 0.7780514359474182 | count: 1
+association study => study_design | max_score: 0.7327918410301208 | count: 1
+DEFB1 => gene | max_score: 0.6505734920501709 | count: 2
+52G>A => mutation | max_score: 0.6402857899665833 | count: 1
+rs1799946 => mutation | max_score: 0.9331316351890564 | count: 1
+-44C>G => mutation | max_score: 0.6322293877601624 | count: 1
+rs1800972 => mutation | max_score: 0.9357425570487976 | count: 1
+-20G>A => mutation | max_score: 0.6673340201377869 | count: 1
+rs11362 => mutation | max_score: 0.9396049380302429 | count: 1
+tuberculosis patients => subject | max_score: 0.8174888491630554 | count: 1
+healthy controls => subject | max_score: 0.7382413744926453 | count: 1

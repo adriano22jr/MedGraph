@@ -1,0 +1,12 @@
+Cryptococcus neoformans => fungus | max_score: 0.9583922624588013 | count: 2
+caspofungin => drug | max_score: 0.9259375333786011 | count: 6
+flippase => enzyme | max_score: 0.7041576504707336 | count: 4
+Mutants => mutation | max_score: 0.565052330493927 | count: 1
+Cdc50 => protein | max_score: 0.7394501566886902 | count: 2
+P4-ATPase => enzyme | max_score: 0.7942161560058594 | count: 3
+AW9-Ma => peptide | max_score: 0.7543217539787292 | count: 2
+MIC => lab_value | max_score: 0.8704047799110413 | count: 2
+fractional inhibitory concentration (FIC) => lab_value | max_score: 0.5965754985809326 | count: 1
+cdc50Δ mutant => mutation | max_score: 0.6999925971031189 | count: 1
+Apt1 => protein | max_score: 0.6572094559669495 | count: 1
+C. neoformans => fungus | max_score: 0.5251595973968506 | count: 1

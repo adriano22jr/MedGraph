@@ -1,0 +1,15 @@
+Neutrophils => cell | max_score: 0.9053745865821838 | count: 1
+innate immune system => environmental_factor | max_score: 0.6490784287452698 | count: 1
+pathogens => bacteria | max_score: 0.5636841058731079 | count: 3
+physical barriers => environmental_factor | max_score: 0.7223114371299744 | count: 1
+pathogens => organism | max_score: 0.5125737190246582 | count: 1
+deoxyribonucleic acid => molecule | max_score: 0.8520278930664062 | count: 2
+antimicrobial proteins => protein | max_score: 0.7239376902580261 | count: 1
+neutrophil elastase => enzyme | max_score: 0.9211845993995667 | count: 1
+myeloperoxidase => enzyme | max_score: 0.9343916773796082 | count: 1
+antimicrobial peptides => protein | max_score: 0.9028355479240417 | count: 1
+proteins => protein | max_score: 0.5076038837432861 | count: 1
+pathogenic bacteria => bacteria | max_score: 0.7872645854949951 | count: 1
+fungi => fungus | max_score: 0.9822295904159546 | count: 1
+parasites => parasite | max_score: 0.9485671520233154 | count: 1
+viruses => virus | max_score: 0.8722428679466248 | count: 1

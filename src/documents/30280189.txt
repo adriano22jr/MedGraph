@@ -1,0 +1,17 @@
+LL‑37 => peptide | max_score: 0.9505378007888794 | count: 11
+epithelial cells => cell_type | max_score: 0.9142639636993408 | count: 1
+neutrophils => cell_type | max_score: 0.8977187275886536 | count: 1
+mast cells => cell_type | max_score: 0.9065144062042236 | count: 1
+Mas‑related gene X2 => gene | max_score: 0.5874729752540588 | count: 1
+MrgX2 => gene | max_score: 0.8442500829696655 | count: 4
+degranulation => biological_process | max_score: 0.8231217861175537 | count: 6
+human mast cell line => cell_line | max_score: 0.5457656979560852 | count: 1
+LAD2 => cell_line | max_score: 0.9541391134262085 | count: 6
+β‑hexosaminidase => enzyme | max_score: 0.9611155390739441 | count: 1
+Pertussis toxin => drug | max_score: 0.691789984703064 | count: 1
+internalization => biological_process | max_score: 0.5265384316444397 | count: 2
+HMC‑1 => cell_line | max_score: 0.6491599678993225 | count: 1
+293 cells => cell_line | max_score: 0.6371229290962219 | count: 1
+neuraminidase => enzyme | max_score: 0.6936790347099304 | count: 1
+dynasore => drug | max_score: 0.6440994143486023 | count: 1
+chlorpromazine => drug | max_score: 0.6481004357337952 | count: 1

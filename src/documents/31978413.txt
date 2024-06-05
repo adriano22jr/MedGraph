@@ -1,0 +1,17 @@
+RNase 7 => peptide | max_score: 0.8371129631996155 | count: 5
+keratinocytes => cell | max_score: 0.8023654222488403 | count: 6
+human beta defensin 2 => peptide | max_score: 0.6623724699020386 | count: 2
+LL-37 => peptide | max_score: 0.865509033203125 | count: 2
+pDCs => cell_type | max_score: 0.5569314956665039 | count: 1
+human self-DNA => molecule | max_score: 0.8337340950965881 | count: 1
+Keratinocytes => cell | max_score: 0.820410430431366 | count: 1
+cytosolic DNA => molecule | max_score: 0.6978844404220581 | count: 1
+human DNA => molecule | max_score: 0.8853150606155396 | count: 2
+IP-10 => peptide | max_score: 0.924156904220581 | count: 3
+IFN-β => protein | max_score: 0.5959756970405579 | count: 1
+interferon-α/β receptor => protein | max_score: 0.5088014602661133 | count: 1
+DNA => molecule | max_score: 0.5513597726821899 | count: 1
+herpes simplex virus-1 => virus | max_score: 0.9358201026916504 | count: 1
+keratinocytes => cell_type | max_score: 0.7635311484336853 | count: 2
+self-DNA => molecule | max_score: 0.5078797936439514 | count: 1
+plasmacytoid dendritic cells => cell | max_score: 0.5235278606414795 | count: 1

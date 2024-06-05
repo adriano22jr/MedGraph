@@ -1,0 +1,12 @@
+lysosomal degradation => biological_process | max_score: 0.7243335843086243 | count: 1
+serum inhibition => biological_process | max_score: 0.7081836462020874 | count: 1
+transient gene expression => biological_process | max_score: 0.6744900941848755 | count: 1
+LAH4-L1 => peptide | max_score: 0.9534013867378235 | count: 2
+SB transposon system => chemical_system | max_score: 0.5978714823722839 | count: 2
+HeLa cells => cell_line | max_score: 0.9895929098129272 | count: 3
+MDCK cells => cell_line | max_score: 0.9892705678939819 | count: 1
+difficult-to-transfect cell line => cell_line | max_score: 0.5251198410987854 | count: 1
+long-term gene expression => biological_process | max_score: 0.5627440810203552 | count: 1
+endocytosis => biological_process | max_score: 0.5565774440765381 | count: 1
+endosomal escape => biological_process | max_score: 0.7098578810691833 | count: 1
+PAMAM dendrimers => chemical_system | max_score: 0.6289337277412415 | count: 1

@@ -1,0 +1,16 @@
+colistin => antibiotic | max_score: 0.9105800986289978 | count: 5
+Enterobacteriaceae strains => bacteria | max_score: 0.7773829698562622 | count: 1
+September 2017 => date | max_score: 0.9951133131980896 | count: 1
+mcr genes => gene | max_score: 0.519423246383667 | count: 1
+mcr-1 => gene | max_score: 0.8768520951271057 | count: 5
+LBJMR => bacteria | max_score: 0.5764687657356262 | count: 1
+MacConkey => bacteria | max_score: 0.6652513742446899 | count: 1
+minimum inhibitory concentration => lab_value | max_score: 0.8648593425750732 | count: 1
+Escherichia coli strains => bacteria | max_score: 0.8491066098213196 | count: 1
+MIC => lab_value | max_score: 0.7076411843299866 | count: 1
+β-lactam antibiotics => antibiotic | max_score: 0.6231085658073425 | count: 1
+blaTEM-206 => gene | max_score: 0.9312213659286499 | count: 1
+blaTEM-98 => gene | max_score: 0.939810574054718 | count: 1
+ST1196 => gene | max_score: 0.8891298770904541 | count: 1
+ST140 => gene | max_score: 0.8662405610084534 | count: 1
+ST10 => gene | max_score: 0.8553087115287781 | count: 1

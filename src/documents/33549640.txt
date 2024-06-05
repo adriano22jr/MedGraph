@@ -1,0 +1,17 @@
+Scavenger receptors => protein_family | max_score: 0.7578202486038208 | count: 1
+SRs => protein_family | max_score: 0.7617133855819702 | count: 2
+PRRs => protein_family | max_score: 0.6596711277961731 | count: 1
+immune system => biological_process | max_score: 0.5649306178092957 | count: 1
+phagocytosis => biological_process | max_score: 0.9007725119590759 | count: 3
+Toll-like receptors => protein_family | max_score: 0.9286469221115112 | count: 1
+immune signaling pathways => biological_process | max_score: 0.64131098985672 | count: 1
+Micropilits mediator => parasite | max_score: 0.9328323602676392 | count: 1
+MmSR-B1 => protein | max_score: 0.5899430513381958 | count: 5
+Escherichia coli cells => cell_line | max_score: 0.9111542105674744 | count: 1
+peptidoglycans => peptide | max_score: 0.6268338561058044 | count: 1
+bacterial cells => cell | max_score: 0.6088317632675171 | count: 1
+agglutination => biological_process | max_score: 0.5706508159637451 | count: 1
+hemocyte => cell_type | max_score: 0.5591773986816406 | count: 1
+antimicrobial peptide (AMP) => peptide | max_score: 0.5587365031242371 | count: 1
+defensins => protein | max_score: 0.5506284832954407 | count: 1
+hymenoptaecins => protein | max_score: 0.6327294707298279 | count: 1

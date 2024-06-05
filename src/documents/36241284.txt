@@ -1,0 +1,5 @@
+Antimicrobial peptides => peptide | max_score: 0.5623869895935059 | count: 1
+antibiotics => antibiotic | max_score: 0.5768753886222839 | count: 1
+antibiotic-resistant bacteria => bacteria | max_score: 0.7645201086997986 | count: 1
+Chitosan nanocrystals => compound | max_score: 0.5171412229537964 | count: 1
+ChsNCs => compound | max_score: 0.6810542345046997 | count: 2

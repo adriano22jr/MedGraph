@@ -1,0 +1,13 @@
+Acinetobacter baumannii => bacteria | max_score: 0.9761812090873718 | count: 1
+respiratory tract => anatomical_system | max_score: 0.9765903353691101 | count: 2
+bloodstream => anatomical_system | max_score: 0.9684352874755859 | count: 3
+A. baumannii => bacteria | max_score: 0.9215182065963745 | count: 2
+MltB => enzyme | max_score: 0.8616715669631958 | count: 3
+MurNAc-GlcNAc bond => biological_process | max_score: 0.6431074738502502 | count: 1
+cell wall remodeling => biological_process | max_score: 0.7576277852058411 | count: 1
+stresses => environmental_factor | max_score: 0.671284556388855 | count: 1
+membrane homeostasis => biological_process | max_score: 0.6667582392692566 | count: 1
+in vivo fitness => biological_process | max_score: 0.5019705891609192 | count: 1
+mltB => enzyme | max_score: 0.7641695141792297 | count: 1
+cationic antimicrobial peptides => peptide | max_score: 0.711553692817688 | count: 1
+oxygen species => environmental_factor | max_score: 0.5978351831436157 | count: 1

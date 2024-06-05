@@ -1,0 +1,13 @@
+Aphids => parasite | max_score: 0.7759056091308594 | count: 2
+crops => plant | max_score: 0.9097843170166016 | count: 2
+plant pathogens => parasite | max_score: 0.7624971866607666 | count: 1
+environmental contamination => environmental_factor | max_score: 0.9326865673065186 | count: 1
+bacterial symbionts => bacteria | max_score: 0.8671000599861145 | count: 4
+parasites => parasite | max_score: 0.5992602705955505 | count: 1
+aphids => parasite | max_score: 0.7591661214828491 | count: 3
+antibacterial peptides => peptide | max_score: 0.8721663951873779 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5583623647689819 | count: 1
+AMPs => peptide | max_score: 0.6733153462409973 | count: 5
+Acyrthosiphon pisum => species | max_score: 0.8409808278083801 | count: 1
+scorpions => parasite | max_score: 0.7287707924842834 | count: 1
+in vitro activity => activity | max_score: 0.8862994313240051 | count: 1

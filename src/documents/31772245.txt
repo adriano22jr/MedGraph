@@ -1,0 +1,11 @@
+female mice => sex | max_score: 0.8460650444030762 | count: 1
+control => diet | max_score: 0.6016231775283813 | count: 1
+17% kcal fat => diet | max_score: 0.8502052426338196 | count: 1
+high-fat diet => diet | max_score: 0.9413001537322998 | count: 1
+HFD 60% kcal fat => diet | max_score: 0.8784635066986084 | count: 1
+ad libitum => diet | max_score: 0.5058773159980774 | count: 1
+Lachnospiraceae => bacteria | max_score: 0.8907840847969055 | count: 1
+Ffar3 => gene | max_score: 0.709096372127533 | count: 1
+Ffar2 => gene | max_score: 0.6610943078994751 | count: 1
+Hcar2 => gene | max_score: 0.6656891703605652 | count: 1
+NFκB activity => activity | max_score: 0.6347453594207764 | count: 1

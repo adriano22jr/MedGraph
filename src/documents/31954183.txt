@@ -1,0 +1,2 @@
+Nanofibers => device | max_score: 0.6315799355506897 | count: 2
+nanofibers => device | max_score: 0.6881320476531982 | count: 3

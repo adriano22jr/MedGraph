@@ -1,0 +1,6 @@
+Fungi => fungus | max_score: 0.9315386414527893 | count: 1
+antibiotics => antibiotic | max_score: 0.6729185581207275 | count: 1
+fungi => fungus | max_score: 0.9677557945251465 | count: 2
+antimicrobial peptides => peptide | max_score: 0.6327158212661743 | count: 1
+antifungal peptides => peptide | max_score: 0.6902908682823181 | count: 1
+AFPs => peptide | max_score: 0.819998562335968 | count: 3

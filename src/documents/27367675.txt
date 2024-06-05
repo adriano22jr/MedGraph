@@ -1,0 +1,15 @@
+antimicrobial activity => activity | max_score: 0.5780678391456604 | count: 1
+cecropin A (1-8) => peptide | max_score: 0.6169689893722534 | count: 1
+LL37 (17-30) => peptide | max_score: 0.6573108434677124 | count: 1
+C-L => peptide | max_score: 0.6421895027160645 | count: 4
+cecropin A (C) => peptide | max_score: 0.7479978203773499 | count: 1
+LL37 (L) => peptide | max_score: 0.7114261984825134 | count: 1
+antibacterial activity => activity | max_score: 0.8276099562644958 | count: 1
+hemolytic activity => activity | max_score: 0.8388376235961914 | count: 1
+sheep erythrocytes => cell | max_score: 0.8773396015167236 | count: 1
+bacterial cells => cell | max_score: 0.6497454643249512 | count: 1
+chloramphenicol => antibiotic | max_score: 0.9442919492721558 | count: 1
+thiamphenicol => antibiotic | max_score: 0.9175171852111816 | count: 1
+neomycin sulfate => antibiotic | max_score: 0.9391616582870483 | count: 1
+Escherichia coli => bacteria | max_score: 0.9854460954666138 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9884828925132751 | count: 1

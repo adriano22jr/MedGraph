@@ -1,0 +1,12 @@
+Mycobacterium tuberculosis => bacteria | max_score: 0.972435712814331 | count: 1
+antimicrobial activity => activity | max_score: 0.8133342862129211 | count: 2
+healthy volunteers => subject | max_score: 0.6229874491691589 | count: 1
+plasma => volume | max_score: 0.8300091028213501 | count: 3
+monocytes => cell_type | max_score: 0.7714426517486572 | count: 1
+Mycobacterium gordonae => bacteria | max_score: 0.8953778743743896 | count: 1
+leukocytes => cell_type | max_score: 0.799839437007904 | count: 1
+erythrocytes => cell_type | max_score: 0.8977478742599487 | count: 3
+platelets => cell_type | max_score: 0.8361701965332031 | count: 2
+factorial design => study_design | max_score: 0.9255555272102356 | count: 1
+mycobacteria => bacteria | max_score: 0.5263734459877014 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8570009469985962 | count: 1

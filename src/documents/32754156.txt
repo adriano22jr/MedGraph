@@ -1,0 +1,10 @@
+adaptive immune responses => biological_process | max_score: 0.5155540108680725 | count: 1
+observational studies => study_design | max_score: 0.7185584306716919 | count: 1
+chronic airway diseases => disease_disorder | max_score: 0.6766369938850403 | count: 1
+respiratory infections => disease_disorder | max_score: 0.6140720844268799 | count: 1
+intervention studies => study_design | max_score: 0.5077247619628906 | count: 1
+vitamin D supplementation => treatment | max_score: 0.6970818042755127 | count: 1
+asthma => disease_disorder | max_score: 0.5992624759674072 | count: 3
+antimicrobial peptides => peptide | max_score: 0.8070946335792542 | count: 1
+COPD => disease_disorder | max_score: 0.5001291632652283 | count: 1
+epithelial cells => cell_type | max_score: 0.8518781065940857 | count: 1

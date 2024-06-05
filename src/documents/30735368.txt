@@ -1,0 +1,9 @@
+antibiotics => antibiotic | max_score: 0.5018075108528137 | count: 1
+WMR peptide => peptide | max_score: 0.8265846371650696 | count: 2
+myxinidin => peptide | max_score: 0.8111054301261902 | count: 1
+hagfish => species | max_score: 0.7630449533462524 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9548053741455078 | count: 2
+Pseudomonas aeruginosa => bacteria | max_score: 0.9752219915390015 | count: 1
+Candida albicans => fungus | max_score: 0.9917582869529724 | count: 1
+pathogenic fungus => fungus | max_score: 0.832239031791687 | count: 1
+antibacterial activity => activity | max_score: 0.5208258628845215 | count: 1

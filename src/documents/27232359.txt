@@ -1,0 +1,13 @@
+children => subject | max_score: 0.6313837766647339 | count: 4
+caries severity => severity | max_score: 0.5134680867195129 | count: 1
+mutans streptococci => bacteria | max_score: 0.8388979434967041 | count: 2
+Children => subject | max_score: 0.6810212135314941 | count: 1
+Salivary concentrations => lab_value | max_score: 0.6039423942565918 | count: 1
+cathelicidin LL-37 => peptide | max_score: 0.9135118722915649 | count: 1
+human β-defensin 2 (hBD-2) => peptide | max_score: 0.8593138456344604 | count: 1
+human β-defensin 3 (hBD-3) => peptide | max_score: 0.831081211566925 | count: 1
+histatin-5 (HTN-5) => peptide | max_score: 0.7398288249969482 | count: 1
+hBD-2 => peptide | max_score: 0.563734233379364 | count: 2
+HTN-5 => peptide | max_score: 0.5989470481872559 | count: 2
+hBD-3 => peptide | max_score: 0.6327735781669617 | count: 1
+LL-37 => peptide | max_score: 0.5533657670021057 | count: 2

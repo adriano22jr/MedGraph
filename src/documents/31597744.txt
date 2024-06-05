@@ -1,0 +1,10 @@
+Polymyxin antibiotics => antibiotic | max_score: 0.801873505115509 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9032118320465088 | count: 1
+mobile mcr genes => gene | max_score: 0.8238013982772827 | count: 1
+MALDIxin test => diagnostic_procedure | max_score: 0.8664413690567017 | count: 3
+mass spectrometers => device | max_score: 0.6037432551383972 | count: 1
+MALDI Biotyper Sirius MALDI-TOF MS system => device | max_score: 0.690987765789032 | count: 1
+Escherichia coli => bacteria | max_score: 0.7886679768562317 | count: 1
+E. coli => bacteria | max_score: 0.6020058989524841 | count: 3
+mcr genes => gene | max_score: 0.5817051529884338 | count: 1
+MALDI Biotyper Sirius => device | max_score: 0.6285094022750854 | count: 1

@@ -1,0 +1,11 @@
+Leucine-rich repeat (LRR) => protein_family | max_score: 0.550203263759613 | count: 1
+innate immune responses => biological_process | max_score: 0.5532816052436829 | count: 1
+CfLRRop-7 => protein | max_score: 0.8923624753952026 | count: 9
+Chlamys farreri => species | max_score: 0.6782932281494141 | count: 1
+hemocytes => cell_type | max_score: 0.9254273176193237 | count: 2
+oocytes => cell_type | max_score: 0.80865478515625 | count: 1
+embryos => cell_type | max_score: 0.6685539484024048 | count: 1
+Vibrio splendidus => bacteria | max_score: 0.9467301964759827 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9640392661094666 | count: 1
+Pichia pastoris => fungus | max_score: 0.8886010646820068 | count: 1
+lysozyme activity => activity | max_score: 0.9214420914649963 | count: 1

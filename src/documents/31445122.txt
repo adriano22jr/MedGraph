@@ -1,0 +1,9 @@
+Listeria monocytogenes => bacteria | max_score: 0.9858424067497253 | count: 1
+host cells => cell | max_score: 0.8747335076332092 | count: 1
+Internalin proteins => protein | max_score: 0.9547802805900574 | count: 1
+cell penetrating peptides => peptide | max_score: 0.5498882532119751 | count: 1
+CPP => peptide | max_score: 0.519107460975647 | count: 1
+CPP-PNA => compound | max_score: 0.748764157295227 | count: 3
+internalins => protein | max_score: 0.7953169345855713 | count: 2
+L. monocytogenes => bacteria | max_score: 0.796897292137146 | count: 1
+cell lines => cell_line | max_score: 0.6528550982475281 | count: 1

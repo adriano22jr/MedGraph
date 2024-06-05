@@ -1,0 +1,15 @@
+chronic liver disease => disease_disorder | max_score: 0.7291476726531982 | count: 2
+MAIT cells => cell | max_score: 0.7467543482780457 | count: 4
+memory cells => cell | max_score: 0.69452965259552 | count: 1
+chronic viral hepatitis => disease_disorder | max_score: 0.720538854598999 | count: 1
+alcoholic hepatitis => disease_disorder | max_score: 0.8073837161064148 | count: 1
+non-alcoholic fatty liver disease => disease_disorder | max_score: 0.7930106520652771 | count: 1
+primary sclerosing cholangitis => disease_disorder | max_score: 0.8339918851852417 | count: 1
+decompensated cirrhosis => disease_disorder | max_score: 0.8397421836853027 | count: 1
+autoimmune hepatitis => disease_disorder | max_score: 0.7607867121696472 | count: 1
+primary biliary cholangitis => disease_disorder | max_score: 0.7383773922920227 | count: 1
+hepatic microenvironment => environmental_factor | max_score: 0.8820582628250122 | count: 1
+gut-derived bacterial antigens => environmental_factor | max_score: 0.6632201671600342 | count: 1
+metabolic by-products => environmental_factor | max_score: 0.8414782285690308 | count: 1
+disease severity => severity | max_score: 0.6420506834983826 | count: 1
+outcome => condition_outcome | max_score: 0.5375903248786926 | count: 2

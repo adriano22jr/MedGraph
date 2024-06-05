@@ -1,0 +1,14 @@
+Acinetobacter baumannii => bacteria | max_score: 0.9745112061500549 | count: 1
+stress tolerance strategies => biological_process | max_score: 0.5245435237884521 | count: 1
+host innate immunity => biological_process | max_score: 0.6401062607765198 | count: 1
+antibiotic killing => biological_process | max_score: 0.724359393119812 | count: 1
+proteomic changes => biological_process | max_score: 0.5752503871917725 | count: 1
+A. baumannii => bacteria | max_score: 0.8746973872184753 | count: 2
+macrophages => cell_type | max_score: 0.9202030897140503 | count: 2
+polymyxins => antibiotic | max_score: 0.9221653342247009 | count: 2
+oxidative stress resistance => biological_process | max_score: 0.6626273393630981 | count: 1
+copper tolerance => biological_process | max_score: 0.6691664457321167 | count: 1
+bacterial iron acquisition => biological_process | max_score: 0.611361026763916 | count: 1
+stringent response regulation systems => biological_process | max_score: 0.6584420204162598 | count: 1
+spoT mutant strains => cell_line | max_score: 0.5429880619049072 | count: 1
+wild-type strain => cell_line | max_score: 0.5215427875518799 | count: 1

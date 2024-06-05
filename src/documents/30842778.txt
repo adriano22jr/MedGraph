@@ -1,0 +1,7 @@
+Aspergillus fumigatus => fungus | max_score: 0.9720255732536316 | count: 1
+antifungal drugs => drug | max_score: 0.5495132803916931 | count: 1
+LL37 => peptide | max_score: 0.9464653134346008 | count: 13
+A. fumigatus => fungus | max_score: 0.9092792272567749 | count: 9
+epithelial cells => cell | max_score: 0.8236818313598633 | count: 1
+macrophages => cell | max_score: 0.5162431597709656 | count: 1
+M1 type markers => immunologic_marker | max_score: 0.9654579162597656 | count: 1

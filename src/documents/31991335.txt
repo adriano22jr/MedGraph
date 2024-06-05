@@ -1,0 +1,9 @@
+antimicrobial peptides => peptide | max_score: 0.5090125799179077 | count: 1
+mono-charged amphiphilic α-hydrazido acid derivatives => compound | max_score: 0.5777963995933533 | count: 1
+MICs => lab_value | max_score: 0.8799463510513306 | count: 1
+in vitro activity => activity | max_score: 0.7426052093505859 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8735207319259644 | count: 1
+multidrug-resistant strains => bacteria | max_score: 0.7755393981933594 | count: 1
+bacterial cell membranes => cell | max_score: 0.5403432846069336 | count: 1
+mammalian cell membranes => cell | max_score: 0.7303001880645752 | count: 1
+hemolytic activity => activity | max_score: 0.8167865872383118 | count: 1

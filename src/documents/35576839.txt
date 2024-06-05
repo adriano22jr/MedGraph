@@ -1,0 +1,4 @@
+E. coli => bacteria | max_score: 0.8397878408432007 | count: 2
+E.coli => bacteria | max_score: 0.8342493772506714 | count: 1
+bacterial cell => cell | max_score: 0.5398849248886108 | count: 1
+E. coli strains => bacteria | max_score: 0.812782883644104 | count: 1

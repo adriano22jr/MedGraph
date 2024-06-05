@@ -1,0 +1,10 @@
+colistin => antibiotic | max_score: 0.8933143019676208 | count: 2
+polymyxin B => antibiotic | max_score: 0.9042069315910339 | count: 3
+Gram-negative bacteria => bacteria | max_score: 0.9709459543228149 | count: 2
+nephrotoxicity => disease_disorder | max_score: 0.570995569229126 | count: 1
+Compounds => compound | max_score: 0.5890378355979919 | count: 1
+compounds => compound | max_score: 0.6273407340049744 | count: 2
+primary kidney cells => cell | max_score: 0.7607917189598083 | count: 1
+human kidneys => cell_line | max_score: 0.747827410697937 | count: 1
+mammalian HepG2 cells => cell_line | max_score: 0.8984478116035461 | count: 1
+human primary kidney cells => cell_line | max_score: 0.859642505645752 | count: 1

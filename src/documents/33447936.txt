@@ -1,0 +1,12 @@
+bacteria => bacteria | max_score: 0.9085217118263245 | count: 2
+filamentous fungi => fungus | max_score: 0.6502102613449097 | count: 1
+Aspergillus flavus => fungus | max_score: 0.9882362484931946 | count: 1
+secondary metabolism => biological_process | max_score: 0.70554119348526 | count: 1
+antimicrobial agents => antibiotic | max_score: 0.6477097272872925 | count: 4
+aflatoxin production => biological_process | max_score: 0.7525554895401001 | count: 2
+conidiation => biological_process | max_score: 0.7495902180671692 | count: 1
+sclerotia formation => biological_process | max_score: 0.7067463397979736 | count: 1
+A. flavus => fungus | max_score: 0.7148422598838806 | count: 1
+aflatoxin structural genes => gene | max_score: 0.6738614439964294 | count: 1
+mammalian cells => cell_line | max_score: 0.9153845906257629 | count: 1
+aflatoxin => peptide | max_score: 0.5182302594184875 | count: 1

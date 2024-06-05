@@ -1,0 +1,6 @@
+metal nanoparticles => compound | max_score: 0.784058690071106 | count: 4
+microbes => organism | max_score: 0.6306450366973877 | count: 1
+immune system => anatomical_system | max_score: 0.5401278138160706 | count: 1
+In vitro => study_design | max_score: 0.6248534917831421 | count: 1
+endogenous antimicrobial peptides => peptide | max_score: 0.8224322199821472 | count: 1
+Metal nanoparticles => compound | max_score: 0.7691072821617126 | count: 3

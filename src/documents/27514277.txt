@@ -1,0 +1,9 @@
+antimicrobial treatment => treatment | max_score: 0.5985729694366455 | count: 1
+Palm => peptide | max_score: 0.8642317056655884 | count: 5
+DNase I => enzyme | max_score: 0.9846678376197815 | count: 3
+dopamine chemistry => chemical_system | max_score: 0.6331952214241028 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.956680953502655 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9703525900840759 | count: 1
+P. aeruginosa => bacteria | max_score: 0.8556326627731323 | count: 2
+S. aureus => bacteria | max_score: 0.7578117847442627 | count: 1
+catheters => device | max_score: 0.8496634364128113 | count: 1

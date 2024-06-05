@@ -1,0 +1,17 @@
+Alarmins => molecule | max_score: 0.7270810008049011 | count: 2
+immune system => anatomical_system | max_score: 0.8159192204475403 | count: 1
+immune cells => cell | max_score: 0.6981702446937561 | count: 1
+immune responses => biological_process | max_score: 0.5533918738365173 | count: 1
+mucosal diseases => disease_disorder | max_score: 0.7413768768310547 | count: 5
+stomach => body_part | max_score: 0.5980879664421082 | count: 1
+antibacterial defense => biological_process | max_score: 0.7163009643554688 | count: 1
+adaptive immunity => biological_process | max_score: 0.7190351486206055 | count: 1
+wound healing => biological_process | max_score: 0.7421843409538269 | count: 1
+gastritis => disease_disorder | max_score: 0.7375338077545166 | count: 1
+ulcers => disease_disorder | max_score: 0.8053985834121704 | count: 1
+gastric cancer => disease_disorder | max_score: 0.7048969864845276 | count: 1
+alarmins => molecule | max_score: 0.7620667219161987 | count: 2
+IL33 => molecule | max_score: 0.8014207482337952 | count: 1
+HMGB1 => molecule | max_score: 0.7804523706436157 | count: 1
+defensins => molecule | max_score: 0.739780604839325 | count: 1
+cathelicidins => molecule | max_score: 0.7831912040710449 | count: 1

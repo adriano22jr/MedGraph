@@ -1,0 +1,14 @@
+Antimicrobial peptides => compound | max_score: 0.5215276479721069 | count: 1
+innate immune system => chemical_system | max_score: 0.6803514361381531 | count: 1
+pathogens => bacteria | max_score: 0.5790873169898987 | count: 1
+ovispirin-3 => peptide | max_score: 0.6405213475227356 | count: 1
+OV-3 => peptide | max_score: 0.8716516494750977 | count: 5
+α-helical peptide => peptide | max_score: 0.5912582874298096 | count: 1
+cathelicidin family => protein_family | max_score: 0.9806179404258728 | count: 1
+antimicrobial activity => activity | max_score: 0.8092554807662964 | count: 1
+bacteria => bacteria | max_score: 0.7368861436843872 | count: 2
+MICs => lab_value | max_score: 0.8801947236061096 | count: 1
+DNA => molecule | max_score: 0.905720055103302 | count: 1
+RNA => molecule | max_score: 0.8838648200035095 | count: 1
+nuclease activity => activity | max_score: 0.8759877681732178 | count: 1
+Cu-GGH => peptide | max_score: 0.6127209663391113 | count: 1

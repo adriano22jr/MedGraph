@@ -1,0 +1,10 @@
+food processing industries => chemical_system | max_score: 0.6330008506774902 | count: 1
+food-borne pathogens => parasite | max_score: 0.5329030156135559 | count: 2
+Bacillus spp. => bacteria | max_score: 0.8539894819259644 | count: 1
+cerein => peptide | max_score: 0.9511911273002625 | count: 5
+Bacillus cereus NS02 => bacteria | max_score: 0.8720006346702576 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.7308911085128784 | count: 1
+biopreservative activity => activity | max_score: 0.9376397132873535 | count: 1
+colony forming unit (CFU) => lab_value | max_score: 0.5882100462913513 | count: 1
+CFU => lab_value | max_score: 0.5079643726348877 | count: 1
+antilisterial activity => activity | max_score: 0.6335904002189636 | count: 1

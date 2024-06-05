@@ -1,0 +1,13 @@
+Bioactive peptides => peptide | max_score: 0.5368528962135315 | count: 1
+Salvia hispanica => plant | max_score: 0.9430727958679199 | count: 1
+chia seed => plant | max_score: 0.7559649348258972 | count: 3
+alcalase => enzyme | max_score: 0.7705961465835571 | count: 1
+flavourzyme => enzyme | max_score: 0.7757524251937866 | count: 1
+antimicrobial activity => activity | max_score: 0.7612614035606384 | count: 2
+Escherichia coli => bacteria | max_score: 0.9823924899101257 | count: 1
+Salmonella enterica => bacteria | max_score: 0.9821993112564087 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.9816608428955078 | count: 1
+E. coli => bacteria | max_score: 0.6661062836647034 | count: 1
+L. monocytogenes => bacteria | max_score: 0.6168068647384644 | count: 1
+GDVIAIR => peptide | max_score: 0.8037239909172058 | count: 1
+peptides => peptide | max_score: 0.5138605237007141 | count: 1

@@ -1,0 +1,9 @@
+age-related diseases => disease_disorder | max_score: 0.5217828154563904 | count: 1
+Alzheimer's disease => disease_disorder | max_score: 0.8688065409660339 | count: 1
+type 2 diabetes => disease_disorder | max_score: 0.8711883425712585 | count: 1
+uperin 3.5 => peptide | max_score: 0.9424421787261963 | count: 4
+Uperin 3.5 => peptide | max_score: 0.9064193367958069 | count: 1
+physiological conditions => environmental_factor | max_score: 0.911757230758667 | count: 1
+peptides => peptide | max_score: 0.5028653144836426 | count: 1
+physiological environment => environmental_factor | max_score: 0.9279500246047974 | count: 1
+cellular environment => environmental_factor | max_score: 0.5525140166282654 | count: 1

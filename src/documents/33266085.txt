@@ -1,0 +1,6 @@
+multidrug-resistant bacteria => bacteria | max_score: 0.8261237740516663 | count: 1
+G3KL => peptide | max_score: 0.9598485827445984 | count: 5
+Gram-negative bacteria => bacteria | max_score: 0.8882976770401001 | count: 1
+multidrug-resistant strains => bacteria | max_score: 0.6961901187896729 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9697451591491699 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9112704396247864 | count: 1

@@ -1,0 +1,13 @@
+standard antibiotics => antibiotic | max_score: 0.5392262935638428 | count: 1
+metazoans => species | max_score: 0.7426528930664062 | count: 1
+innate immune system => drug_dosage | max_score: 0.7972992062568665 | count: 1
+vertebrates => species | max_score: 0.6068621873855591 | count: 1
+invertebrates => species | max_score: 0.6076328158378601 | count: 1
+DAN2 => peptide | max_score: 0.9284759759902954 | count: 4
+HOLO1 => peptide | max_score: 0.8789638876914978 | count: 1
+LOUDEF1-derived => peptide | max_score: 0.8521888852119446 | count: 1
+mice => species | max_score: 0.752533495426178 | count: 2
+lethal dose => drug_dosage | max_score: 0.6800015568733215 | count: 1
+E. coli => bacteria | max_score: 0.9720373153686523 | count: 2
+intraperitoneally => body_part | max_score: 0.5341121554374695 | count: 1
+peritoneal fluid => body_part | max_score: 0.6902108192443848 | count: 1

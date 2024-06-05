@@ -1,0 +1,10 @@
+Melimine => peptide | max_score: 0.8935343623161316 | count: 4
+broad spectrum activity => activity | max_score: 0.6238058805465698 | count: 1
+bacteria => bacteria | max_score: 0.5077479481697083 | count: 1
+fungi => fungus | max_score: 0.7670556902885437 | count: 1
+protozoa => parasite | max_score: 0.6633802652359009 | count: 1
+biomedical devices => device | max_score: 0.7964704036712646 | count: 1
+antimicrobial activity => activity | max_score: 0.5069888830184937 | count: 1
+cysteine => protein | max_score: 0.5350472331047058 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9855356216430664 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9807830452919006 | count: 1

@@ -1,0 +1,11 @@
+α-defensin peptides => peptide | max_score: 0.8305880427360535 | count: 1
+Paneth cells => cell_type | max_score: 0.8918806314468384 | count: 1
+host-microbe interactions => biological_process | max_score: 0.7485581636428833 | count: 1
+small intestine => anatomical_system | max_score: 0.9621880054473877 | count: 2
+host defense => biological_process | max_score: 0.6477065682411194 | count: 1
+homeostasis => biological_process | max_score: 0.6043522953987122 | count: 1
+α-defensins => peptide | max_score: 0.8045011758804321 | count: 1
+mammals => species | max_score: 0.5934039950370789 | count: 1
+humans => species | max_score: 0.8965471386909485 | count: 1
+mice => species | max_score: 0.8686985969543457 | count: 3
+α-defensin => peptide | max_score: 0.5316829085350037 | count: 1

@@ -1,0 +1,16 @@
+plaques => anatomical_system | max_score: 0.5129733681678772 | count: 1
+brains => anatomical_system | max_score: 0.5244924426078796 | count: 1
+Aβ peptides => peptide | max_score: 0.8079432845115662 | count: 4
+secretory compartments => body_part | max_score: 0.7617464661598206 | count: 1
+peripheral blood => body_part | max_score: 0.9050880670547485 | count: 1
+bacterial strains => bacteria | max_score: 0.7516981363296509 | count: 2
+Candida albicans => fungus | max_score: 0.9942207336425781 | count: 2
+Aβ1-42 => peptide | max_score: 0.9081410765647888 | count: 2
+Aβ2-42 => peptide | max_score: 0.8698008060455322 | count: 1
+Aβ3p-42 => peptide | max_score: 0.8076221942901611 | count: 1
+Aβ1-40 => peptide | max_score: 0.9115849733352661 | count: 2
+Aβ2-40 => peptide | max_score: 0.8899081349372864 | count: 1
+Aβx-42 => peptide | max_score: 0.8689855933189392 | count: 3
+Aβx-40 => peptide | max_score: 0.8019424080848694 | count: 1
+antimicrobial activity => activity | max_score: 0.9376620650291443 | count: 3
+C. albicans => fungus | max_score: 0.6979853510856628 | count: 1

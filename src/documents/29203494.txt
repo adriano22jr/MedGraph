@@ -1,0 +1,11 @@
+fosfomycin => antibiotic | max_score: 0.8568853735923767 | count: 8
+polymyxin B => antibiotic | max_score: 0.9368565678596497 | count: 4
+KPC-producing Klebsiella pneumoniae => bacteria | max_score: 0.8468334078788757 | count: 1
+MICPMB => lab_value | max_score: 0.579565167427063 | count: 2
+MIC => lab_value | max_score: 0.5227600336074829 | count: 1
+MICFOF => lab_value | max_score: 0.6753830313682556 | count: 2
+32 mg/liter => volume | max_score: 0.5247932076454163 | count: 1
+q12h => drug_frequency | max_score: 0.8188790678977966 | count: 1
+q6h => drug_frequency | max_score: 0.8237351179122925 | count: 1
+Polymyxin B => antibiotic | max_score: 0.8949548602104187 | count: 3
+bactericidal activity => activity | max_score: 0.7993109226226807 | count: 2

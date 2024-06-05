@@ -1,0 +1,16 @@
+Cathelicidins => protein_family | max_score: 0.8333495855331421 | count: 1
+innate immunity => biological_process | max_score: 0.704052746295929 | count: 1
+vertebrates => species | max_score: 0.5146625638008118 | count: 1
+CATH-1 => gene | max_score: 0.914730966091156 | count: 1
+CATH-2 => gene | max_score: 0.86626797914505 | count: 1
+teleosts => species | max_score: 0.5924891233444214 | count: 1
+ray-finned fish => species | max_score: 0.6217437982559204 | count: 1
+rainbow trout => species | max_score: 0.7575342059135437 | count: 1
+cath-1 => gene | max_score: 0.8949767351150513 | count: 1
+cath-2 => gene | max_score: 0.8598271012306213 | count: 2
+Lactococcus garvieae => bacteria | max_score: 0.943300187587738 | count: 1
+Yersinia ruckeri => bacteria | max_score: 0.9510038495063782 | count: 1
+Aeromonas salmonicida => bacteria | max_score: 0.9385858178138733 | count: 1
+Flavobacterium psychrophilum => bacteria | max_score: 0.874887228012085 | count: 1
+spleen => body_part | max_score: 0.8680191040039062 | count: 1
+cathelicidins => protein_family | max_score: 0.8291574716567993 | count: 1

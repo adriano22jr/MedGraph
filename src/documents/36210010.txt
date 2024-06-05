@@ -1,0 +1,8 @@
+stresses => environmental_factor | max_score: 0.6550487279891968 | count: 1
+SEPs => peptide | max_score: 0.5747376084327698 | count: 3
+Deinococcus radiodurans R1 => bacteria | max_score: 0.8315670490264893 | count: 1
+SEP068184 => peptide | max_score: 0.8705050349235535 | count: 3
+oxidative treatment => treatment | max_score: 0.8088886737823486 | count: 1
+gamma irradiation => treatment | max_score: 0.594653308391571 | count: 1
+metabolic pathways => biological_process | max_score: 0.6323778033256531 | count: 1
+cytoplasmic proteins => protein | max_score: 0.83918297290802 | count: 1

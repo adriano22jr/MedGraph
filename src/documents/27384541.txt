@@ -1,0 +1,16 @@
+globalization => environmental_factor | max_score: 0.7644057273864746 | count: 1
+Trypanosoma cruzi => parasite | max_score: 0.9301854968070984 | count: 1
+innate immune response => biological_process | max_score: 0.6947838068008423 | count: 1
+temporins => protein_family | max_score: 0.9756076335906982 | count: 1
+antimicrobial peptides => peptide | max_score: 0.539333164691925 | count: 1
+trypanocide activity => biological_process | max_score: 0.7027316093444824 | count: 1
+temporizin => peptide | max_score: 0.9474169611930847 | count: 5
+temporizin-1 => peptide | max_score: 0.9300454258918762 | count: 4
+Temporizin => peptide | max_score: 0.9584070444107056 | count: 1
+gramicidin => peptide | max_score: 0.8166308999061584 | count: 1
+Temporizin-1 => peptide | max_score: 0.9257676005363464 | count: 1
+J774 cells => cell_line | max_score: 0.9765636920928955 | count: 1
+macrophage lineage cell line => cell_line | max_score: 0.635574460029602 | count: 1
+mouse primary peritoneal macrophages => cell_line | max_score: 0.7735729217529297 | count: 1
+rat adenoma GH3 cells => cell_line | max_score: 0.9233404397964478 | count: 1
+Jurkat human lymphoma cells => cell_line | max_score: 0.9435798525810242 | count: 1

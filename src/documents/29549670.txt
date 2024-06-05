@@ -1,0 +1,8 @@
+urinary tract => anatomical_system | max_score: 0.7681654691696167 | count: 2
+environmental microflora => environmental_factor | max_score: 0.895763099193573 | count: 1
+Uropathogenic Escherichia coli => bacteria | max_score: 0.7769573330879211 | count: 1
+UPEC => bacteria | max_score: 0.8288441300392151 | count: 4
+HMGN2 => protein | max_score: 0.8833371996879578 | count: 5
+innate immune response => biological_process | max_score: 0.5640738606452942 | count: 1
+urothelium => tissue | max_score: 0.5394486784934998 | count: 1
+BECs 5637 => cell_line | max_score: 0.9055742025375366 | count: 2

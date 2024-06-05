@@ -1,0 +1,7 @@
+polymyxin B => antibiotic | max_score: 0.5765950679779053 | count: 1
+bacteria => bacteria | max_score: 0.6466964483261108 | count: 1
+mcr-1 => protein | max_score: 0.8586114645004272 | count: 2
+membrane charge => biological_process | max_score: 0.5633198618888855 | count: 2
+membrane packing => biological_process | max_score: 0.6566327214241028 | count: 2
+membrane damage => biological_process | max_score: 0.5831530094146729 | count: 1
+gram-negative bacterial strains => bacteria | max_score: 0.6053270697593689 | count: 1

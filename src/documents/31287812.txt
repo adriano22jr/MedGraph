@@ -1,0 +1,13 @@
+Antibiotics => antibiotic | max_score: 0.7872490882873535 | count: 1
+antibiotics => antibiotic | max_score: 0.8154191374778748 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.667875349521637 | count: 1
+MRSA => bacteria | max_score: 0.7342970967292786 | count: 3
+human erythrocytes => cell_type | max_score: 0.6110438704490662 | count: 1
+kidney cells => cell_type | max_score: 0.8278859853744507 | count: 1
+mice => species | max_score: 0.6018632650375366 | count: 2
+active doses => drug_dosage | max_score: 0.5508764386177063 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9647598266601562 | count: 1
+bactericidal activity => activity | max_score: 0.7046186923980713 | count: 1
+Pep 16 => peptide | max_score: 0.8938519358634949 | count: 1
+Pep19 => peptide | max_score: 0.8659439086914062 | count: 1
+severe sepsis => severity | max_score: 0.6305010914802551 | count: 1

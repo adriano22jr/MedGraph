@@ -1,0 +1,10 @@
+melittin => peptide | max_score: 0.9380576610565186 | count: 6
+Acinetobacter baumannii => bacteria | max_score: 0.9279419183731079 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9816737174987793 | count: 1
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.5648276805877686 | count: 1
+minimum bactericidal concentration => lab_value | max_score: 0.6601349711418152 | count: 1
+colistin => antibiotic | max_score: 0.8369884490966797 | count: 1
+doripenem => antibiotic | max_score: 0.832587480545044 | count: 2
+doxycycline => antibiotic | max_score: 0.8707606196403503 | count: 1
+ceftazidime => antibiotic | max_score: 0.8532900810241699 | count: 1
+normal human cell line => cell_line | max_score: 0.9063279628753662 | count: 1

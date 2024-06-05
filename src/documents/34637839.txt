@@ -1,0 +1,15 @@
+Mesenchymal Stem Cells => cell_line | max_score: 0.5983490943908691 | count: 1
+MSCs => cell_line | max_score: 0.7318951487541199 | count: 7
+immune response => biological_process | max_score: 0.6679704785346985 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5705136060714722 | count: 1
+AMPs => peptide | max_score: 0.6587834358215332 | count: 5
+bacteria => bacteria | max_score: 0.8572961688041687 | count: 1
+fungi => fungus | max_score: 0.9886459112167358 | count: 1
+yeasts => fungus | max_score: 0.991346538066864 | count: 1
+viruses => virus | max_score: 0.9533399343490601 | count: 1
+hepcidin => peptide | max_score: 0.953000009059906 | count: 1
+cathelicidin LL-37 => peptide | max_score: 0.9346463680267334 | count: 1
+β-defensin-2 => peptide | max_score: 0.9432381391525269 | count: 1
+migration => biological_process | max_score: 0.6763361096382141 | count: 1
+regeneration => biological_process | max_score: 0.7025231122970581 | count: 1
+therapy => treatment | max_score: 0.5302690863609314 | count: 1

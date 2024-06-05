@@ -1,0 +1,12 @@
+colistin => antibiotic | max_score: 0.8332507610321045 | count: 6
+Escherichia coli => bacteria | max_score: 0.8123840689659119 | count: 1
+LC711/14 => bacteria | max_score: 0.7207428812980652 | count: 3
+2014 => date | max_score: 0.9476573467254639 | count: 1
+mcr-1 => protein | max_score: 0.5095359683036804 | count: 1
+novel mutation => mutation | max_score: 0.537938117980957 | count: 1
+pmrB gene => gene | max_score: 0.9191134572029114 | count: 1
+PmrB sensor kinase => protein | max_score: 0.7379788756370544 | count: 2
+PmrAB signal transduction system => mutation | max_score: 0.559620201587677 | count: 1
+E. coli => bacteria | max_score: 0.6904789209365845 | count: 2
+MG1655 => cell_line | max_score: 0.5326168537139893 | count: 1
+pmrHFIJKLM => protein | max_score: 0.5263062715530396 | count: 1

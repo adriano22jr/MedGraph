@@ -1,0 +1,13 @@
+Scavenger receptors => protein | max_score: 0.5268808007240295 | count: 1
+PRRs => protein | max_score: 0.5029752254486084 | count: 1
+innate immunity => biological_process | max_score: 0.6871618032455444 | count: 1
+immune recognition => biological_process | max_score: 0.615531861782074 | count: 1
+phagocytosis => biological_process | max_score: 0.7185820937156677 | count: 3
+Eriocheir sinensis => species | max_score: 0.7201905250549316 | count: 1
+EsSR-B2 => gene | max_score: 0.8446686863899231 | count: 6
+tested tissues => tissue | max_score: 0.6965728998184204 | count: 1
+microbial stimulation => biological_process | max_score: 0.5564501881599426 | count: 1
+pathogen-associated molecular patterns => molecule | max_score: 0.5405097603797913 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9766579866409302 | count: 1
+Vibrio parahaemolyticus => bacteria | max_score: 0.9791415333747864 | count: 1
+hemocytes => cell_type | max_score: 0.8837440609931946 | count: 1

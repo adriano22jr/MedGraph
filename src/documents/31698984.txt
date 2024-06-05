@@ -1,0 +1,14 @@
+urinary source => body_part | max_score: 0.6506980657577515 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.877866804599762 | count: 1
+novel combination => treatment | max_score: 0.5383768677711487 | count: 1
+aztreonam => antibiotic | max_score: 0.8792182207107544 | count: 3
+ceftazidime/avibactam => antibiotic | max_score: 0.785746693611145 | count: 2
+colistin => antibiotic | max_score: 0.9055256843566895 | count: 5
+80-year-old => age | max_score: 0.8857092261314392 | count: 1
+South Asian male => sex | max_score: 0.8463818430900574 | count: 1
+K pneumoniae => bacteria | max_score: 0.7939534187316895 | count: 2
+tigecycline => antibiotic | max_score: 0.8230935335159302 | count: 2
+meropenem/vaborbactam => antibiotic | max_score: 0.6091575622558594 | count: 1
+avibactam => antibiotic | max_score: 0.8074092864990234 | count: 3
+Metallo-beta-lactamase (MBL) => enzyme | max_score: 0.7052268981933594 | count: 1
+fever curve => lab_value | max_score: 0.6423543095588684 | count: 1

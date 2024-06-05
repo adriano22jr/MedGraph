@@ -1,0 +1,16 @@
+Nephrotoxicity => disease_disorder | max_score: 0.6032797694206238 | count: 1
+polymyxins => antibiotic | max_score: 0.6836491823196411 | count: 1
+polymyxins => drug | max_score: 0.7166043519973755 | count: 2
+renal tubular cells => cell_type | max_score: 0.8862041234970093 | count: 2
+PEPT2 => protein | max_score: 0.7416965961456299 | count: 3
+solute carrier transporter (SLC) => protein | max_score: 0.534878671169281 | count: 1
+renal proximal tubular cells => cell_type | max_score: 0.8797877430915833 | count: 1
+drug reabsorption => biological_process | max_score: 0.5500680208206177 | count: 1
+colistin => antibiotic | max_score: 0.8378658294677734 | count: 1
+polymyxin B => drug | max_score: 0.8387501835823059 | count: 2
+substrate uptake => biological_process | max_score: 0.6198956966400146 | count: 2
+HEK293 cells => cell_line | max_score: 0.9713584780693054 | count: 1
+polymyxin B1 => peptide | max_score: 0.5739367008209229 | count: 2
+glycyl-sarcosine => peptide | max_score: 0.6403676271438599 | count: 2
+IC50 => lab_value | max_score: 0.7023512721061707 | count: 2
+transport activity => lab_value | max_score: 0.7270025014877319 | count: 1

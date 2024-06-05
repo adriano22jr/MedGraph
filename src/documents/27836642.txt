@@ -1,0 +1,9 @@
+CyLoP-1 => peptide | max_score: 0.928794264793396 | count: 2
+crotamine => peptide | max_score: 0.747443437576294 | count: 1
+cytoplasmic uptake => activity | max_score: 0.6040770411491394 | count: 1
+mammalian cells => cell_line | max_score: 0.8897850513458252 | count: 3
+antimicrobial activity => activity | max_score: 0.8687887191772461 | count: 4
+plant cells => cell_line | max_score: 0.6524430513381958 | count: 2
+fungal pathogens => fungus | max_score: 0.533066987991333 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9194255471229553 | count: 1
+plant => plant | max_score: 0.8106966018676758 | count: 1

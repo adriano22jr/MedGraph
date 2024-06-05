@@ -1,0 +1,9 @@
+intestinal mucosa => anatomical_system | max_score: 0.7735303044319153 | count: 1
+epithelial cells => cell_type | max_score: 0.9102272391319275 | count: 1
+Candida albicans => fungus | max_score: 0.9728642106056213 | count: 1
+immunocompromised subjects => subject | max_score: 0.9544051885604858 | count: 1
+line of intestinal epithelial cells => cell_line | max_score: 0.744083821773529 | count: 1
+C. albicans => fungus | max_score: 0.8075306415557861 | count: 1
+antimicrobial peptides => peptide | max_score: 0.725947380065918 | count: 3
+innate immune response => biological_process | max_score: 0.6106441617012024 | count: 1
+C. albicans => fungus | max_score: 0.7547591924667358 | count: 1

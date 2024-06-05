@@ -1,0 +1,12 @@
+vertebrate neuroimmune system => anatomical_system | max_score: 0.6276957392692566 | count: 1
+mammals => species | max_score: 0.6823598146438599 | count: 1
+central nervous system => anatomical_system | max_score: 0.5596363544464111 | count: 1
+CNS => anatomical_system | max_score: 0.5975066423416138 | count: 3
+adaptive immune responses => biological_process | max_score: 0.6135377287864685 | count: 1
+medicinal leech => organism | max_score: 0.5456423163414001 | count: 1
+nerve cord => anatomical_system | max_score: 0.6108531355857849 | count: 3
+axons => anatomical_system | max_score: 0.522083044052124 | count: 1
+sterile conditions => environmental_factor | max_score: 0.9217766523361206 | count: 1
+nerve cord => tissue | max_score: 0.5429196357727051 | count: 1
+microglia => cell_type | max_score: 0.7440844774246216 | count: 1
+infiltrated blood cells => cell_type | max_score: 0.6224958896636963 | count: 1

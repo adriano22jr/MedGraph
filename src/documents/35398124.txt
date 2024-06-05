@@ -1,0 +1,5 @@
+immune system => biological_process | max_score: 0.5790882110595703 | count: 1
+animals => organism | max_score: 0.5344188213348389 | count: 1
+peptides => peptide | max_score: 0.80381840467453 | count: 1
+appropriate diet => diet | max_score: 0.9911585450172424 | count: 1
+phage therapy => treatment | max_score: 0.7915402054786682 | count: 1

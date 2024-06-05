@@ -1,0 +1,12 @@
+Acinetobacter spp. => bacteria | max_score: 0.932267963886261 | count: 2
+food => environmental_factor | max_score: 0.9298650026321411 | count: 1
+soil => environmental_factor | max_score: 0.8752416372299194 | count: 1
+surface waters => environmental_factor | max_score: 0.8615260720252991 | count: 1
+Acinetobacter => bacteria | max_score: 0.8392928838729858 | count: 5
+Susceptibility testing => diagnostic_procedure | max_score: 0.6234177947044373 | count: 1
+carbapenem => antibiotic | max_score: 0.7321459650993347 | count: 3
+Acinetobacter baumannii => bacteria | max_score: 0.902239978313446 | count: 1
+Carbapenem => antibiotic | max_score: 0.5081074833869934 | count: 1
+colistin => antibiotic | max_score: 0.843714714050293 | count: 1
+OXA enzymes => enzyme | max_score: 0.902133584022522 | count: 1
+VIM-2 => enzyme | max_score: 0.9211546182632446 | count: 1

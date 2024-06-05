@@ -1,0 +1,14 @@
+Pseudomonas aeruginosa => bacteria | max_score: 0.9797122478485107 | count: 1
+respiratory epithelium => tissue | max_score: 0.8456916809082031 | count: 1
+antibiotics => antibiotic | max_score: 0.6478927135467529 | count: 2
+Esc(1-21) => peptide | max_score: 0.8676184415817261 | count: 1
+Esc(1-21)-1c => peptide | max_score: 0.8271378874778748 | count: 4
+P. aeruginosa => bacteria | max_score: 0.7024412155151367 | count: 1
+airway epithelial cells => cell | max_score: 0.8360833525657654 | count: 1
+bronchial cells => cell | max_score: 0.8665326833724976 | count: 1
+ΔF508 mutant => mutation | max_score: 0.8972232937812805 | count: 1
+CF transmembrane conductance regulator => enzyme | max_score: 0.6063067317008972 | count: 1
+Pseudomonas => bacteria | max_score: 0.6629620790481567 | count: 1
+injured infected tissue => tissue | max_score: 0.7999400496482849 | count: 1
+all-l peptide => peptide | max_score: 0.6228817701339722 | count: 1
+human elastase => enzyme | max_score: 0.5864415168762207 | count: 1

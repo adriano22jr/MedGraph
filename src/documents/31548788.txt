@@ -1,0 +1,16 @@
+pediatric patients => subject | max_score: 0.5558928847312927 | count: 2
+≤18 years old => age | max_score: 0.9034040570259094 | count: 1
+augmentation cystoplasty => surgical_procedure | max_score: 0.6706055998802185 | count: 1
+β defense 1 (BD-1) => peptide | max_score: 0.6590678691864014 | count: 1
+neutrophil gelatinase-associated lipocalin (NGAL) => peptide | max_score: 0.8320462703704834 | count: 1
+cathelicidin (LL-37) => peptide | max_score: 0.7249125242233276 | count: 1
+hepatocarcinoma-intestine-pancreas/pancreatitis-associated protein => peptide | max_score: 0.715328574180603 | count: 1
+HIP/PAP => peptide | max_score: 0.6074279546737671 | count: 2
+human α defensin 5 (HD-5) => peptide | max_score: 0.7339286804199219 | count: 1
+patients => subject | max_score: 0.5159885287284851 | count: 1
+age => age | max_score: 0.6736127734184265 | count: 1
+gender => sex | max_score: 0.9205849766731262 | count: 1
+NGAL => peptide | max_score: 0.754425585269928 | count: 2
+BD-1 => peptide | max_score: 0.5972126722335815 | count: 1
+HD-5 => peptide | max_score: 0.6331571340560913 | count: 1
+LL-37 => peptide | max_score: 0.6909278035163879 | count: 1

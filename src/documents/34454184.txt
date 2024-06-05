@@ -1,0 +1,17 @@
+lncRNAs => molecule | max_score: 0.5737010836601257 | count: 1
+Mycobacterium tuberculosis => bacteria | max_score: 0.8204843997955322 | count: 1
+macrophage => cell_type | max_score: 0.8750486373901367 | count: 5
+MIAT => gene | max_score: 0.518139660358429 | count: 1
+autophagy => biological_process | max_score: 0.8916456699371338 | count: 5
+apoptosis => biological_process | max_score: 0.8675944805145264 | count: 3
+miR-665 => molecule | max_score: 0.9196221828460693 | count: 5
+THP-1 cells => cell_line | max_score: 0.9809608459472656 | count: 3
+Bacillus Calmette-Guerin => bacteria | max_score: 0.8010871410369873 | count: 1
+Bax => protein | max_score: 0.8161779046058655 | count: 1
+cleaved caspase-3 => protein | max_score: 0.7438421249389648 | count: 1
+Bcl-2 => protein | max_score: 0.8251346945762634 | count: 1
+MIAT => molecule | max_score: 0.6702632904052734 | count: 3
+LC3-II => protein | max_score: 0.7643791437149048 | count: 1
+Beclin-1 => protein | max_score: 0.7922081351280212 | count: 1
+p62 => protein | max_score: 0.7751633524894714 | count: 1
+ULK1 => protein | max_score: 0.7832679152488708 | count: 3

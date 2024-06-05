@@ -1,0 +1,9 @@
+Candida glabrata => fungus | max_score: 0.9569671750068665 | count: 1
+Human beta-defensin-3 => peptide | max_score: 0.72640460729599 | count: 1
+hBD-3 => peptide | max_score: 0.8695490956306458 | count: 8
+Candida spp. => fungus | max_score: 0.8840910792350769 | count: 2
+antifungal activity => activity | max_score: 0.7328342199325562 | count: 2
+C. glabrata => fungus | max_score: 0.8365949392318726 | count: 6
+fluconazole => drug | max_score: 0.8741732239723206 | count: 5
+synergistic activity => activity | max_score: 0.6801832914352417 | count: 2
+μg/ml => volume | max_score: 0.5019202828407288 | count: 1

@@ -1,0 +1,10 @@
+Antimicrobial peptides => peptide | max_score: 0.566843569278717 | count: 1
+AMPs => peptide | max_score: 0.6802481412887573 | count: 3
+innate host defense => biological_process | max_score: 0.7656600475311279 | count: 1
+bacteria => bacteria | max_score: 0.6501159071922302 | count: 2
+humans => species | max_score: 0.6438640356063843 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9525102376937866 | count: 1
+Pmt ABC transporter => protein | max_score: 0.8125642538070679 | count: 1
+human => bacteria | max_score: 0.5520610213279724 | count: 1
+neutrophils => cell | max_score: 0.8014229536056519 | count: 1
+Pmt => peptide | max_score: 0.5497210025787354 | count: 1

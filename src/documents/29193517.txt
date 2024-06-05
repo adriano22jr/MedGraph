@@ -1,0 +1,7 @@
+activity => activity | max_score: 0.7640275955200195 | count: 8
+backbone-cyclized peptide => peptide | max_score: 0.8117456436157227 | count: 1
+gram-negative => bacteria | max_score: 0.7541304230690002 | count: 3
+Escherichia coli => bacteria | max_score: 0.9641197323799133 | count: 1
+gram-positive => bacteria | max_score: 0.6262252330780029 | count: 3
+Corynebacterium glutamicum => bacteria | max_score: 0.9752264022827148 | count: 1
+second peptide system => chemical_system | max_score: 0.7864272594451904 | count: 1

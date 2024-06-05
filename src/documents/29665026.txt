@@ -1,0 +1,4 @@
+HHC36 => peptide | max_score: 0.5985532999038696 | count: 1
+physiological conditions => environmental_factor | max_score: 0.7305862307548523 | count: 1
+silicone urinary catheters => device | max_score: 0.9226493835449219 | count: 1
+commercial silver-based Dover cather => device | max_score: 0.6803444623947144 | count: 1

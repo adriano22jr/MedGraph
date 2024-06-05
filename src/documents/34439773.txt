@@ -1,0 +1,12 @@
+lung => body_part | max_score: 0.7020729184150696 | count: 3
+Antimicrobial peptides => peptide | max_score: 0.6298027634620667 | count: 1
+AMPs => peptide | max_score: 0.542526364326477 | count: 1
+systemic side effects => side_effect | max_score: 0.7501224875450134 | count: 1
+required dose => side_effect | max_score: 0.575912594795227 | count: 1
+snake-derived AMPs => peptide | max_score: 0.7562638521194458 | count: 2
+anti-inflammatory activities => activity | max_score: 0.7185315489768982 | count: 1
+neutrophil elastase => enzyme | max_score: 0.8365840315818787 | count: 1
+NE => enzyme | max_score: 0.6376336812973022 | count: 4
+Snake-derived AMPs => peptide | max_score: 0.6144934296607971 | count: 1
+environments => environmental_factor | max_score: 0.7787271738052368 | count: 1
+CF airways => body_part | max_score: 0.5409226417541504 | count: 1

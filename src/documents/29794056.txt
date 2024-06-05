@@ -1,0 +1,14 @@
+plants => plant | max_score: 0.8285001516342163 | count: 1
+fungi => fungus | max_score: 0.5013571381568909 | count: 1
+host defense peptides => peptide | max_score: 0.7334140539169312 | count: 1
+HDPs => peptide | max_score: 0.8559243083000183 | count: 2
+nylon-3 family => protein_family | max_score: 0.7277931571006775 | count: 1
+Aspergillus species => fungus | max_score: 0.8747982978820801 | count: 1
+yeasts => fungus | max_score: 0.628507137298584 | count: 1
+dermatophytes => fungus | max_score: 0.6659305095672607 | count: 1
+dimorphic fungi => fungus | max_score: 0.7611172199249268 | count: 1
+molds => fungus | max_score: 0.5956705808639526 | count: 1
+Rhizopus spp. => fungus | max_score: 0.8507151007652283 | count: 1
+Pseudogymnoascus destructans => fungus | max_score: 0.9085531830787659 | count: 1
+Candida auris => fungus | max_score: 0.9201057553291321 | count: 1
+mammalian cells => cell | max_score: 0.8264972567558289 | count: 1

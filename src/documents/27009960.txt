@@ -1,0 +1,9 @@
+Defensins => peptide | max_score: 0.8032324314117432 | count: 1
+innate immune effector peptides => peptide | max_score: 0.5627130270004272 | count: 1
+mucosal surfaces => body_part | max_score: 0.8115432858467102 | count: 1
+human body => body_part | max_score: 0.7246668934822083 | count: 1
+in vitro => environmental_factor | max_score: 0.8505045771598816 | count: 2
+defensins => peptide | max_score: 0.7936979532241821 | count: 1
+viral pathogenesis => biological_process | max_score: 0.555314838886261 | count: 1
+in vivo => environmental_factor | max_score: 0.8582760095596313 | count: 3
+viruses => virus | max_score: 0.6398269534111023 | count: 1

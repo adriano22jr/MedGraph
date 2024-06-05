@@ -1,0 +1,11 @@
+Pseudomonas aeruginosa => bacteria | max_score: 0.9147588014602661 | count: 1
+MDR-Pa => bacteria | max_score: 0.6660847067832947 | count: 5
+Ceftolozane/tazobactam => antibiotic | max_score: 0.6201159954071045 | count: 1
+β-lactamase => enzyme | max_score: 0.5208435654640198 | count: 1
+May 2016 => date | max_score: 0.9899641871452332 | count: 1
+May 2017 => date | max_score: 0.9920193552970886 | count: 1
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.788162350654602 | count: 1
+first-line therapy => treatment | max_score: 0.6489179730415344 | count: 1
+mean±standard deviation treatment duration => treatment_duration | max_score: 0.9079184532165527 | count: 1
+9.3±4 days => treatment_duration | max_score: 0.7781690359115601 | count: 1
+q8h => drug_frequency | max_score: 0.8229784965515137 | count: 2

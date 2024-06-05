@@ -1,0 +1,6 @@
+recommended hemoperfusion period => treatment_duration | max_score: 0.706538200378418 | count: 1
+2 h => treatment_duration | max_score: 0.6867561340332031 | count: 3
+PMX-DHP => treatment | max_score: 0.5622206926345825 | count: 3
+heart rate => medical_term | max_score: 0.5543158650398254 | count: 1
+vasoactive-inotropic score (VIS) => medical_term | max_score: 0.5077139139175415 | count: 1
+PaO2/FiO2 => lab_value | max_score: 0.6664423942565918 | count: 3

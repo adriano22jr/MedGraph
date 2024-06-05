@@ -1,0 +1,14 @@
+cLF36 => peptide | max_score: 0.9068288207054138 | count: 3
+360 day old => age | max_score: 0.7513888478279114 | count: 1
+male chicks => sex | max_score: 0.6922775506973267 | count: 1
+T1 => treatment | max_score: 0.5399434566497803 | count: 1
+negative control diet => diet | max_score: 0.8539769649505615 | count: 1
+corn-soybean meal => diet | max_score: 0.9486310482025146 | count: 2
+E. coli => bacteria | max_score: 0.9314528107643127 | count: 4
+positive control diet => diet | max_score: 0.8975800275802612 | count: 3
+bacitracin methylene disalicylate => antibiotic | max_score: 0.7277440428733826 | count: 1
+T3 => treatment | max_score: 0.5361340641975403 | count: 1
+ileal bacteria => bacteria | max_score: 0.5144595503807068 | count: 1
+Lactobacillus spp. => bacteria | max_score: 0.5724964141845703 | count: 1
+immune cells => cell | max_score: 0.878741443157196 | count: 2
+tight junction proteins => protein | max_score: 0.9372231960296631 | count: 1

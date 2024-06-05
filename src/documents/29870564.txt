@@ -1,0 +1,12 @@
+cathelicidins => peptide | max_score: 0.6818158030509949 | count: 1
+Chicken cathelicidin-2 => peptide | max_score: 0.5015789866447449 | count: 1
+CATH-2 => peptide | max_score: 0.8110283613204956 | count: 3
+D-CATH-2 => peptide | max_score: 0.7229662537574768 | count: 2
+gene expression => molecular_function | max_score: 0.609029233455658 | count: 1
+Peripheral Blood Mononuclear Cells (PBMCs) => cell_type | max_score: 0.6194377541542053 | count: 1
+environmental factors => environmental_factor | max_score: 0.9933257102966309 | count: 1
+Ruminococcaceae => fungus | max_score: 0.8651944398880005 | count: 1
+Butyricicoccus => fungus | max_score: 0.7606874704360962 | count: 1
+cecum => body_part | max_score: 0.718508780002594 | count: 2
+Escherichia/Shigella => bacteria | max_score: 0.9432448148727417 | count: 1
+ileum => body_part | max_score: 0.5416582822799683 | count: 1

@@ -1,0 +1,17 @@
+MSI-78 => peptide | max_score: 0.889430820941925 | count: 2
+MSI => peptide | max_score: 0.733356237411499 | count: 2
+MSI-1 => peptide | max_score: 0.8645910024642944 | count: 6
+MSI-2 => peptide | max_score: 0.8492834568023682 | count: 1
+MSI-3 => peptide | max_score: 0.8612937927246094 | count: 3
+MSI-4 => peptide | max_score: 0.7600566148757935 | count: 1
+antibacterial activity => activity | max_score: 0.8351075649261475 | count: 2
+mammalian cells => cell | max_score: 0.5688316226005554 | count: 1
+violent pH => environmental_factor | max_score: 0.9442813992500305 | count: 2
+temperature variations => environmental_factor | max_score: 0.9653149247169495 | count: 2
+high NaCl concentrations => environmental_factor | max_score: 0.8904945254325867 | count: 2
+MICs => lab_value | max_score: 0.8489880561828613 | count: 1
+MBCs => lab_value | max_score: 0.8484563231468201 | count: 1
+drug-resistant bacteria => bacteria | max_score: 0.683470606803894 | count: 1
+bactericidal activity => activity | max_score: 0.7425918579101562 | count: 1
+mice => species | max_score: 0.5666836500167847 | count: 1
+subeschar => body_part | max_score: 0.5159369707107544 | count: 1

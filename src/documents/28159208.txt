@@ -1,0 +1,8 @@
+immune system => anatomical_system | max_score: 0.7527904510498047 | count: 2
+antimicrobial proteins => protein | max_score: 0.7328144907951355 | count: 1
+maternal leukocytes => cell_type | max_score: 0.7931031584739685 | count: 1
+immunoglobulins => protein | max_score: 0.605299711227417 | count: 1
+oligosaccharides => compound | max_score: 0.6855223178863525 | count: 1
+gangliosides => compound | max_score: 0.6431035995483398 | count: 1
+nucleotides => compound | max_score: 0.6420412063598633 | count: 1
+long-chain polyunsaturated fatty acids => compound | max_score: 0.5980722308158875 | count: 1

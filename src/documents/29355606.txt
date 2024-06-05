@@ -1,0 +1,10 @@
+gut => anatomical_system | max_score: 0.6662812829017639 | count: 2
+microbiota => organism | max_score: 0.5498624444007874 | count: 5
+food digestion => biological_process | max_score: 0.756894588470459 | count: 1
+Paneth cells => cell | max_score: 0.8651530742645264 | count: 3
+host-microbiota interphase => biological_process | max_score: 0.6800529956817627 | count: 1
+local mucosal immune system => anatomical_system | max_score: 0.646712601184845 | count: 1
+central tolerance => biological_process | max_score: 0.6287566423416138 | count: 1
+thymus => anatomical_system | max_score: 0.6526338458061218 | count: 1
+peripheral tolerance => biological_process | max_score: 0.6653210520744324 | count: 1
+secondary lymphoid organs => anatomical_system | max_score: 0.7265128493309021 | count: 1

@@ -1,0 +1,7 @@
+Synthetic polymers => chemical_system | max_score: 0.5193531513214111 | count: 1
+drug-resistant bacteria => bacteria | max_score: 0.9266595840454102 | count: 2
+synthetic polymers => chemical_system | max_score: 0.5947047472000122 | count: 2
+chemical functionalities => molecular_function | max_score: 0.590327799320221 | count: 1
+cationic charge => molecular_function | max_score: 0.623611569404602 | count: 1
+hydrophobicity => molecular_function | max_score: 0.6347535252571106 | count: 1
+side chain functionalities => molecular_function | max_score: 0.7309646010398865 | count: 1

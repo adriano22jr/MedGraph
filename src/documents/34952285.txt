@@ -1,0 +1,11 @@
+conventional drugs => drug | max_score: 0.5981475710868835 | count: 1
+multidrug-resistance => disease_disorder | max_score: 0.7857157588005066 | count: 2
+coronavirus 2 => virus | max_score: 0.850192666053772 | count: 1
+COVID-19 => virus | max_score: 0.8386209607124329 | count: 2
+antimicrobial drugs => drug | max_score: 0.693809986114502 | count: 1
+anti-microbial peptides => peptide | max_score: 0.8497605323791504 | count: 1
+multidrug resistance => disease_disorder | max_score: 0.6199071407318115 | count: 1
+Antimicrobial peptides => peptide | max_score: 0.7864758372306824 | count: 1
+antibiofilm activity => activity | max_score: 0.9087416529655457 | count: 1
+conventional antibiotics => drug | max_score: 0.5231723189353943 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8323773145675659 | count: 1

@@ -1,0 +1,11 @@
+growth dynamics => biological_process | max_score: 0.5690212249755859 | count: 1
+P. aeruginosa => bacteria | max_score: 0.958283007144928 | count: 3
+β-lactam antibiotic => antibiotic | max_score: 0.5657382607460022 | count: 1
+meropenem => antibiotic | max_score: 0.9613263607025146 | count: 2
+carrying capacity => biological_process | max_score: 0.5436806678771973 | count: 1
+nutrient availability => environmental_factor | max_score: 0.7391728162765503 | count: 1
+logistic growth => biological_process | max_score: 0.7231533527374268 | count: 1
+shape transition => biological_process | max_score: 0.6402473449707031 | count: 3
+antimicrobial peptides => peptide | max_score: 0.6492357850074768 | count: 1
+AMPs => peptide | max_score: 0.7096237540245056 | count: 2
+spherical cells => cell | max_score: 0.7466999292373657 | count: 1

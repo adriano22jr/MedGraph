@@ -1,0 +1,11 @@
+LBPs => protein_family | max_score: 0.7319338917732239 | count: 1
+lipopolysaccharide binding proteins => protein | max_score: 0.5894680023193359 | count: 1
+BPIs => protein_family | max_score: 0.8014280200004578 | count: 1
+bactericidal permeability increasing proteins => protein | max_score: 0.5688962936401367 | count: 1
+biocidal activity => activity | max_score: 0.8261524438858032 | count: 1
+Biomphalaria glabrata => species | max_score: 0.9170838594436646 | count: 1
+LBP/BPIs => protein_family | max_score: 0.774570643901825 | count: 2
+B. glabrata => species | max_score: 0.5047130584716797 | count: 1
+Gram-negative bacterium => bacteria | max_score: 0.9778714776039124 | count: 1
+Gram-positive bacterium => bacteria | max_score: 0.9760621190071106 | count: 1
+yeast => fungus | max_score: 0.9821672439575195 | count: 1

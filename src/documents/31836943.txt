@@ -1,0 +1,15 @@
+AD => medical_abbreviation | max_score: 0.5083594918251038 | count: 1
+herpes simplex virus => virus | max_score: 0.9121249318122864 | count: 1
+virological diagnosis => diagnostic_procedure | max_score: 0.5766869187355042 | count: 1
+current treatments => treatment | max_score: 0.525113046169281 | count: 1
+cathelicidin LL-37 => peptide | max_score: 0.9022293090820312 | count: 1
+human β-defensins => peptide | max_score: 0.7503436207771301 | count: 1
+IL-13 => peptide | max_score: 0.6335439085960388 | count: 1
+IL-25 => peptide | max_score: 0.6247245073318481 | count: 1
+IL-33 => peptide | max_score: 0.630378782749176 | count: 1
+natural killer => cell_type | max_score: 0.5674739480018616 | count: 1
+regulatory T cells => cell_type | max_score: 0.8810946345329285 | count: 1
+genetic polymorphisms => mutation | max_score: 0.9419671893119812 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9535415172576904 | count: 1
+α-toxin => peptide | max_score: 0.7270073294639587 | count: 1
+HSV => virus | max_score: 0.7235485315322876 | count: 1

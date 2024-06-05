@@ -1,0 +1,5 @@
+lanthionine => peptide | max_score: 0.7224276661872864 | count: 1
+nanoFleming => device | max_score: 0.8751426339149475 | count: 1
+improved activity => activity | max_score: 0.5102422833442688 | count: 1
+pathogenic bacteria => bacteria | max_score: 0.7541228532791138 | count: 1
+shifted activity profiles => activity | max_score: 0.5307808518409729 | count: 1

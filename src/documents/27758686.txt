@@ -1,0 +1,5 @@
+Host-defense peptides => peptide | max_score: 0.7520768642425537 | count: 1
+HDPs => peptide | max_score: 0.801957905292511 | count: 2
+moderate activity => activity | max_score: 0.9318103790283203 | count: 1
+AApeptides => peptide | max_score: 0.7285606861114502 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.905421793460846 | count: 1

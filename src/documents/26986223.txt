@@ -1,0 +1,11 @@
+antimicrobial peptide => peptide | max_score: 0.5583871603012085 | count: 1
+AMP => peptide | max_score: 0.6252785325050354 | count: 3
+Minimum Membrane Disruptive Concentration => lab_value | max_score: 0.529164731502533 | count: 1
+MDC => lab_value | max_score: 0.6172124147415161 | count: 2
+MBC => lab_value | max_score: 0.5972939133644104 | count: 2
+activity => activity | max_score: 0.5059911012649536 | count: 1
+Gram positive and negative bacteria => bacteria | max_score: 0.6526801586151123 | count: 1
+ESKAPE pathogens => bacteria | max_score: 0.6953976154327393 | count: 1
+E. coli => bacteria | max_score: 0.9480221271514893 | count: 1
+MRSA => bacteria | max_score: 0.9429839849472046 | count: 1
+multi-drug resistant bacteria => bacteria | max_score: 0.5570316910743713 | count: 1

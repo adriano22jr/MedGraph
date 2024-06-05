@@ -1,0 +1,7 @@
+polymyxin B => antibiotic | max_score: 0.8415592312812805 | count: 4
+colistin => antibiotic | max_score: 0.8638337254524231 | count: 4
+cystic fibrosis => disease_disorder | max_score: 0.711372971534729 | count: 1
+retrospective cohort study => study_design | max_score: 0.9116730093955994 | count: 1
+adults => age | max_score: 0.503086507320404 | count: 1
+RIFLE => clinical_guideline | max_score: 0.6040096879005432 | count: 1
+CF => medical_abbreviation | max_score: 0.5700861811637878 | count: 2

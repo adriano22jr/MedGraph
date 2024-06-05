@@ -1,0 +1,9 @@
+SAPs => peptide | max_score: 0.682357668876648 | count: 2
+mel-d1 => peptide | max_score: 0.740913987159729 | count: 2
+melittin => peptide | max_score: 0.790518581867218 | count: 1
+antimicrobial activity => activity | max_score: 0.514136016368866 | count: 1
+ciprofloxacin => antibiotic | max_score: 0.7686052918434143 | count: 1
+Escherichia coli => bacteria | max_score: 0.9777759909629822 | count: 1
+skin tissue => tissue | max_score: 0.6446348428726196 | count: 1
+Mel-d1 => peptide | max_score: 0.6275575757026672 | count: 1
+O-CMCS => compound | max_score: 0.5467172265052795 | count: 1

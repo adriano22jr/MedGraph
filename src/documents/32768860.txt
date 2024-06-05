@@ -1,0 +1,14 @@
+gut => body_part | max_score: 0.5861105918884277 | count: 2
+reactive oxygen and nitrogen species => molecule | max_score: 0.5759924054145813 | count: 1
+anti-microbial peptides => peptide | max_score: 0.6401562094688416 | count: 1
+Nitric oxide => molecule | max_score: 0.8374882340431213 | count: 1
+NO => molecule | max_score: 0.8188621997833252 | count: 6
+NO synthase => enzyme | max_score: 0.7259464263916016 | count: 1
+NOS => enzyme | max_score: 0.814948558807373 | count: 3
+Nosema pernyi => fungus | max_score: 0.7530219554901123 | count: 1
+Antheraea pernyi => fungus | max_score: 0.6803908944129944 | count: 1
+NOS activity => activity | max_score: 0.749140739440918 | count: 1
+ApNOS2 => gene | max_score: 0.736707329750061 | count: 1
+midgut => body_part | max_score: 0.6846810579299927 | count: 2
+Anti-microbial peptides => peptide | max_score: 0.5000328421592712 | count: 1
+nitric oxide => molecule | max_score: 0.865083634853363 | count: 1

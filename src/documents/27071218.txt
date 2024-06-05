@@ -1,0 +1,4 @@
+peptides => peptide | max_score: 0.6924906969070435 | count: 7
+LTQ Orbitrap Velos instrument => device | max_score: 0.9390944838523865 | count: 1
+skin secretion => body_part | max_score: 0.8770309686660767 | count: 3
+Rana latastei => species | max_score: 0.9403225183486938 | count: 3

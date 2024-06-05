@@ -1,0 +1,12 @@
+gastro-intestinal tract => anatomical_system | max_score: 0.6052969098091125 | count: 1
+poor sanitation => environmental_factor | max_score: 0.9704734086990356 | count: 2
+Disease outcome => condition_outcome | max_score: 0.8265823125839233 | count: 1
+Giardia duodenalis => parasite | max_score: 0.8067381978034973 | count: 1
+Escherichia coli => bacteria | max_score: 0.9207368493080139 | count: 1
+Citrobacter rodentium => bacteria | max_score: 0.9115480780601501 | count: 1
+A/E E. coli => bacteria | max_score: 0.5749697685241699 | count: 1
+fecal softening => disease_disorder | max_score: 0.6047729849815369 | count: 1
+weight loss => severity | max_score: 0.673712968826294 | count: 1
+Murine β defensin 3 => peptide | max_score: 0.8856251835823059 | count: 1
+Trefoil Factor 3 => peptide | max_score: 0.8624961972236633 | count: 1
+human enterocytes => cell_type | max_score: 0.7543458342552185 | count: 1

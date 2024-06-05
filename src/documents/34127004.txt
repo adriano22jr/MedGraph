@@ -1,0 +1,13 @@
+intestinal tract => anatomical_system | max_score: 0.6387246251106262 | count: 1
+broad-spectrum antibiotics => antibiotic | max_score: 0.890458881855011 | count: 1
+antimicrobial activity => activity | max_score: 0.7551379799842834 | count: 2
+entrapping function => molecular_function | max_score: 0.6003682613372803 | count: 1
+SAP => peptide | max_score: 0.7538330554962158 | count: 4
+pH conditions => environmental_factor | max_score: 0.8494176268577576 | count: 1
+Escherichia coli => bacteria | max_score: 0.9892303347587585 | count: 1
+Salmonella typhimurium => bacteria | max_score: 0.9808177947998047 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.9859591126441956 | count: 1
+Bacillus cereus => bacteria | max_score: 0.9846479892730713 | count: 1
+μg/mL => volume | max_score: 0.6626070141792297 | count: 3
+acidic conditions => environmental_factor | max_score: 0.7796273827552795 | count: 1
+physical environment => environmental_factor | max_score: 0.7311220765113831 | count: 1

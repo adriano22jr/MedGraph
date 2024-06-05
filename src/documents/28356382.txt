@@ -1,0 +1,16 @@
+IL-22 => peptide | max_score: 0.7657617926597595 | count: 10
+keratinocytes => cell_type | max_score: 0.8849501609802246 | count: 2
+antimicrobial peptides => peptide | max_score: 0.7319411635398865 | count: 2
+activity => biological_process | max_score: 0.5283258557319641 | count: 1
+IL-22BP => protein | max_score: 0.8168332576751709 | count: 9
+psoriatic skin => body_part | max_score: 0.6455603241920471 | count: 2
+nonaffected skin => body_part | max_score: 0.5073597431182861 | count: 1
+rodents => species | max_score: 0.801520824432373 | count: 1
+rats => species | max_score: 0.6724321246147156 | count: 1
+mice => species | max_score: 0.759623646736145 | count: 1
+IL-20 => peptide | max_score: 0.7514876127243042 | count: 1
+IL-24 => peptide | max_score: 0.7441155910491943 | count: 1
+IL-36γ => peptide | max_score: 0.732815682888031 | count: 1
+CXCL1 => peptide | max_score: 0.6577987670898438 | count: 1
+BD2 => peptide | max_score: 0.7111600637435913 | count: 1
+psoriasis severity => severity | max_score: 0.9176452159881592 | count: 1

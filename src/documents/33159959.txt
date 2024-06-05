@@ -1,0 +1,16 @@
+Scavenger receptor class B => protein_family | max_score: 0.5370655059814453 | count: 1
+innate immunity => biological_process | max_score: 0.8177924156188965 | count: 2
+SR-Bs => protein_family | max_score: 0.6428606510162354 | count: 1
+vertebrates => species | max_score: 0.5725923776626587 | count: 1
+scavenger receptor class B => protein_family | max_score: 0.5801514387130737 | count: 1
+silkworm => species | max_score: 0.6768391728401184 | count: 3
+Bombyx mori => species | max_score: 0.8626987338066101 | count: 1
+BmSCRB8 => protein | max_score: 0.7750913500785828 | count: 6
+fat body => body_part | max_score: 0.9518458843231201 | count: 1
+gut => body_part | max_score: 0.924048662185669 | count: 1
+hemocyte => body_part | max_score: 0.9035951495170593 | count: 1
+PAMPs => molecule | max_score: 0.6173808574676514 | count: 1
+bacterial clearance => biological_process | max_score: 0.7385859489440918 | count: 2
+pathogenic bacterial clearance => biological_process | max_score: 0.7107329964637756 | count: 1
+E. coli => bacteria | max_score: 0.7398673892021179 | count: 1
+AMPs => molecule | max_score: 0.5355107188224792 | count: 1

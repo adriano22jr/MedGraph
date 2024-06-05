@@ -1,0 +1,9 @@
+antimicrobial peptides => peptide | max_score: 0.6351115703582764 | count: 1
+AMPs => peptide | max_score: 0.7453749775886536 | count: 10
+cancers => disease_disorder | max_score: 0.6531879305839539 | count: 1
+diabetes => disease_disorder | max_score: 0.6865187287330627 | count: 1
+biological activities => activity | max_score: 0.5879359841346741 | count: 1
+anticancer => disease_disorder | max_score: 0.5364331603050232 | count: 1
+clinical trial => clinical_trial | max_score: 0.8967841863632202 | count: 1
+clinical trials => clinical_trial | max_score: 0.5831212401390076 | count: 1
+surgery => surgical_procedure | max_score: 0.6775525808334351 | count: 1

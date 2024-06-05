@@ -1,0 +1,13 @@
+Picornavirus => virus | max_score: 0.9827978610992432 | count: 1
+cloven hoofed animals => species | max_score: 0.608425498008728 | count: 1
+FMDV => virus | max_score: 0.8060416579246521 | count: 5
+Antimicrobial peptides => drug | max_score: 0.5992443561553955 | count: 1
+immunomodulatory effects => activity | max_score: 0.528825044631958 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6572394967079163 | count: 1
+Epinephelus coioides => species | max_score: 0.8125946521759033 | count: 1
+epinecidin-1 => peptide | max_score: 0.8216975927352905 | count: 1
+Epi-1 => peptide | max_score: 0.8057131767272949 | count: 6
+antimicrobial activity => activity | max_score: 0.6039700508117676 | count: 1
+normal eukaryotic cells => cell_type | max_score: 0.6501352787017822 | count: 1
+BHK-21 cells => cell_line | max_score: 0.9887131452560425 | count: 1
+μg/ml => volume | max_score: 0.7331339120864868 | count: 2

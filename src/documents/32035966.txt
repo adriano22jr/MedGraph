@@ -1,0 +1,15 @@
+eumenitin => peptide | max_score: 0.929876446723938 | count: 2
+lasiocepsin => peptide | max_score: 0.9594464302062988 | count: 2
+lycosin1 => peptide | max_score: 0.9486678838729858 | count: 2
+mastoparanB => peptide | max_score: 0.9465287327766418 | count: 2
+panurgine1 => peptide | max_score: 0.9364476203918457 | count: 2
+protonectin => peptide | max_score: 0.9558069109916687 | count: 2
+ATP synthase => enzyme | max_score: 0.9619556069374084 | count: 5
+peptide-binding site => biological_process | max_score: 0.5190821290016174 | count: 1
+IVPs => compound | max_score: 0.5474758744239807 | count: 7
+Escherichia coli => bacteria | max_score: 0.8496599793434143 | count: 1
+wild type => bacteria | max_score: 0.7125993371009827 | count: 2
+mutant => mutation | max_score: 0.8690674901008606 | count: 2
+null => mutation | max_score: 0.7434829473495483 | count: 2
+E. coli => bacteria | max_score: 0.8739611506462097 | count: 6
+growth => biological_process | max_score: 0.5986758470535278 | count: 1

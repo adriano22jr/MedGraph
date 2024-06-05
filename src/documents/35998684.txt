@@ -1,0 +1,13 @@
+Candida albicans => fungus | max_score: 0.9777951240539551 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9471509456634521 | count: 1
+tachplesin I => peptide | max_score: 0.8011425137519836 | count: 2
+TP11A => peptide | max_score: 0.805155336856842 | count: 9
+C. albicans => fungus | max_score: 0.7864826321601868 | count: 2
+S. aureus => bacteria | max_score: 0.6910497546195984 | count: 2
+hwp 1 => gene | max_score: 0.9555238485336304 | count: 1
+ica A => gene | max_score: 0.9482963681221008 | count: 1
+fnb B => gene | max_score: 0.9158464670181274 | count: 1
+agr A => gene | max_score: 0.9324697852134705 | count: 1
+hla => gene | max_score: 0.8684277534484863 | count: 1
+nor A => gene | max_score: 0.9323372840881348 | count: 1
+sig B => gene | max_score: 0.9285027384757996 | count: 1

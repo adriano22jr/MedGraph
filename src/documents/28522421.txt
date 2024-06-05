@@ -1,0 +1,16 @@
+clip-SPs => protein_family | max_score: 0.5888864994049072 | count: 1
+hemolymph coagulation => biological_process | max_score: 0.7031387090682983 | count: 1
+antimicrobial peptide (AMP) => peptide | max_score: 0.6363856196403503 | count: 1
+cell adhesion => activity | max_score: 0.5480830669403076 | count: 1
+melanization => biological_process | max_score: 0.6287346482276917 | count: 1
+PtcSP2 => protein | max_score: 0.7165946960449219 | count: 9
+Portunus trituberculatus => species | max_score: 0.9323329329490662 | count: 1
+Escherichia coli => bacteria | max_score: 0.7216839790344238 | count: 1
+chymotrypsin family => protein_family | max_score: 0.9804086685180664 | count: 1
+protease activity => activity | max_score: 0.5068228840827942 | count: 1
+antibacterial activity => activity | max_score: 0.9521411061286926 | count: 2
+microbial-binding activity => activity | max_score: 0.9405302405357361 | count: 1
+proPO system => chemical_system | max_score: 0.7769185304641724 | count: 1
+AMP => peptide | max_score: 0.70140141248703 | count: 2
+PtALFs => protein | max_score: 0.5177213549613953 | count: 1
+PtCrustin => protein | max_score: 0.521365225315094 | count: 1

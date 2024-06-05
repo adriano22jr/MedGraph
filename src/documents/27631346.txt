@@ -1,0 +1,9 @@
+mcr-1 gene => gene | max_score: 0.9867536425590515 | count: 4
+polymyxins => antibiotic | max_score: 0.7234744429588318 | count: 1
+colistin => antibiotic | max_score: 0.963334858417511 | count: 2
+2015 => date | max_score: 0.9285256266593933 | count: 1
+Plasmids => molecule | max_score: 0.71583491563797 | count: 1
+Escherichia coli => bacteria | max_score: 0.952989399433136 | count: 1
+pigs => bacteria | max_score: 0.6017584204673767 | count: 1
+July 2016 => date | max_score: 0.9709104299545288 | count: 1
+E. coli => bacteria | max_score: 0.5847315788269043 | count: 1

@@ -1,0 +1,3 @@
+Aurein 1.2 => peptide | max_score: 0.9456318020820618 | count: 4
+Litoria aurea => species | max_score: 0.860243022441864 | count: 1
+DMPC/DMPG => molecule | max_score: 0.5686887502670288 | count: 1

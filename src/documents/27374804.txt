@@ -1,0 +1,12 @@
+seaweed species => plant | max_score: 0.8520116806030273 | count: 2
+antimicrobial activity => activity | max_score: 0.8740816712379456 | count: 4
+Firmicutes => bacteria | max_score: 0.9288250207901001 | count: 1
+Proteobacteria => bacteria | max_score: 0.9278908967971802 | count: 1
+Antimicrobial activity => activity | max_score: 0.8741901516914368 | count: 1
+polyketide synthetase => enzyme | max_score: 0.9001892805099487 | count: 1
+nonribosomal peptide synthetase => enzyme | max_score: 0.9112396836280823 | count: 1
+seaweed-associated bacteria => bacteria | max_score: 0.8193330764770508 | count: 1
+seaweeds => plant | max_score: 0.5841794610023499 | count: 1
+ketosynthase (KS) => enzyme | max_score: 0.5467578768730164 | count: 1
+plasmid => molecule | max_score: 0.5735034942626953 | count: 1
+Seaweed-associated bacteria => bacteria | max_score: 0.8253969550132751 | count: 1

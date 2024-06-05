@@ -1,0 +1,13 @@
+Colistin => antibiotic | max_score: 0.9708150625228882 | count: 1
+carbapenemase => gene | max_score: 0.8062755465507507 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.9576612710952759 | count: 1
+mgrB gene => gene | max_score: 0.9809803366661072 | count: 2
+colistin => antibiotic | max_score: 0.9657951593399048 | count: 2
+Plasmids => molecule | max_score: 0.8102989196777344 | count: 3
+K. pneumoniae => bacteria | max_score: 0.7360842823982239 | count: 2
+IS903B => molecule | max_score: 0.5761258006095886 | count: 5
+plasmids => molecule | max_score: 0.7801216840744019 | count: 7
+ISKpn25 => molecule | max_score: 0.5298325419425964 | count: 1
+IncFIB(pQil) => molecule | max_score: 0.5085490942001343 | count: 1
+ISKpn14 => molecule | max_score: 0.5003957152366638 | count: 1
+Carbapenemase => gene | max_score: 0.7714216113090515 | count: 1

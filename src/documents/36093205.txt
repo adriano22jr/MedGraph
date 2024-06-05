@@ -1,0 +1,14 @@
+Klebsiella michiganensis => bacteria | max_score: 0.9013199210166931 | count: 1
+K. michiganensis => bacteria | max_score: 0.8267824053764343 | count: 4
+bla SIM-1 => gene | max_score: 0.8898305892944336 | count: 4
+mcr-9.2 => gene | max_score: 0.8541921973228455 | count: 3
+sputum specimen => body_part | max_score: 0.6020314693450928 | count: 1
+IncHI2 => gene | max_score: 0.7842037081718445 | count: 1
+IncHI5 => gene | max_score: 0.7707218527793884 | count: 1
+IncFIIpKPHS2 => gene | max_score: 0.5095739960670471 | count: 1
+IncFIB-4.1 => gene | max_score: 0.5037670731544495 | count: 1
+p12084-HI2 => gene | max_score: 0.7347611784934998 | count: 4
+p12084-HI5 => gene | max_score: 0.8265002965927124 | count: 4
+p12084-FII => gene | max_score: 0.6198578476905823 | count: 1
+In630 => gene | max_score: 0.7935576438903809 | count: 1
+Tn6733 => gene | max_score: 0.6633396744728088 | count: 1

@@ -1,0 +1,9 @@
+Pseudomonas => bacteria | max_score: 0.9719897508621216 | count: 2
+sodium colistimethate (SCM) => antibiotic | max_score: 0.7054443955421448 | count: 1
+amikacin => antibiotic | max_score: 0.7025658488273621 | count: 1
+Caspase 7 => enzyme | max_score: 0.7511655688285828 | count: 1
+cell viability => biological_process | max_score: 0.5430549383163452 | count: 1
+cell proliferation => biological_process | max_score: 0.6059324741363525 | count: 1
+PCNA => molecule | max_score: 0.5129466652870178 | count: 1
+side effects => side_effect | max_score: 0.5597265362739563 | count: 1
+functionalized tissues => tissue | max_score: 0.5357009768486023 | count: 1

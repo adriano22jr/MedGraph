@@ -1,0 +1,11 @@
+trypsin => enzyme | max_score: 0.8614179491996765 | count: 3
+Enterolobium timbouva => plant | max_score: 0.9239249229431152 | count: 1
+EtTI => drug | max_score: 0.7660714387893677 | count: 5
+Candida strains => fungus | max_score: 0.8535001873970032 | count: 1
+Kunitz family => protein_family | max_score: 0.9941253662109375 | count: 1
+inhibitory activity => activity | max_score: 0.5884938836097717 | count: 1
+pepsin => enzyme | max_score: 0.7088796496391296 | count: 1
+C. albicans => fungus | max_score: 0.9319642186164856 | count: 1
+C. buinensis => fungus | max_score: 0.86019366979599 | count: 1
+C. tropicalis => fungus | max_score: 0.8498514294624329 | count: 1
+apoptosis => biological_process | max_score: 0.7370127439498901 | count: 1

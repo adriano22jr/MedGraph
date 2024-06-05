@@ -1,0 +1,9 @@
+nisin => antibiotic | max_score: 0.7954850196838379 | count: 7
+Nisin => antibiotic | max_score: 0.7046577334403992 | count: 1
+lipid II => molecule | max_score: 0.9488813281059265 | count: 7
+pyrophosphate group => molecule | max_score: 0.5047922730445862 | count: 1
+PPi => molecule | max_score: 0.7526392340660095 | count: 4
+water-lipid milieu => environmental_factor | max_score: 0.9520396590232849 | count: 1
+phospholipids => molecule | max_score: 0.5224719643592834 | count: 1
+pyrophosphate pharmacophore => molecule | max_score: 0.5831600427627563 | count: 1
+recognition module => molecule | max_score: 0.5658630728721619 | count: 1

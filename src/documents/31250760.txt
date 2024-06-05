@@ -1,0 +1,4 @@
+bacterial pathogens => bacteria | max_score: 0.5015677213668823 | count: 1
+antibiotics => antibiotic | max_score: 0.515988290309906 | count: 1
+AMPs => peptide | max_score: 0.6272618174552917 | count: 1
+host innate immunity => biological_process | max_score: 0.5356177687644958 | count: 1

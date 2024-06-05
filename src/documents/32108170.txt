@@ -1,0 +1,6 @@
+Caenorhabditis elegans => species | max_score: 0.7948070168495178 | count: 1
+pyramidal features => device | max_score: 0.546619176864624 | count: 1
+pins => device | max_score: 0.816669225692749 | count: 3
+monocrystalline silicon wafers => device | max_score: 0.7497650384902954 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8118952512741089 | count: 1
+traditional needles => device | max_score: 0.6163942813873291 | count: 1

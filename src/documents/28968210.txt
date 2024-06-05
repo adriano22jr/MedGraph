@@ -1,0 +1,9 @@
+ETA => protein | max_score: 0.6453346014022827 | count: 1
+ETB => protein | max_score: 0.5519981980323792 | count: 1
+PVL => protein | max_score: 0.5232404470443726 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9833042621612549 | count: 2
+Ib-AMP1 => peptide | max_score: 0.9212300777435303 | count: 3
+JCPep7 => peptide | max_score: 0.9083971381187439 | count: 1
+Snakin2 => peptide | max_score: 0.8598978519439697 | count: 1
+Sesquin => peptide | max_score: 0.880675196647644 | count: 1
+plants => plant | max_score: 0.9559603929519653 | count: 1

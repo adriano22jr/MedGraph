@@ -1,0 +1,11 @@
+Bovine => species | max_score: 0.5715821981430054 | count: 1
+beta-defensin 126 => protein | max_score: 0.7494615912437439 | count: 2
+BBD126 => protein | max_score: 0.7863842248916626 | count: 7
+cauda epididymis => anatomical_system | max_score: 0.8528748154640198 | count: 1
+males => sex | max_score: 0.9926199316978455 | count: 1
+tail => anatomical_system | max_score: 0.5587949752807617 | count: 1
+postacrosomal region => anatomical_system | max_score: 0.6436534523963928 | count: 1
+sperm => cell | max_score: 0.6420750617980957 | count: 12
+phosphatidylinositol-specific phospholipase C => enzyme | max_score: 0.669104278087616 | count: 1
+bovine => species | max_score: 0.5829216241836548 | count: 1
+motility => biological_process | max_score: 0.6681581139564514 | count: 3

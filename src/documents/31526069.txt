@@ -1,0 +1,11 @@
+LEAP-2 => peptide | max_score: 0.9198164343833923 | count: 10
+glucose metabolism => biological_process | max_score: 0.733893871307373 | count: 1
+ghrelin => peptide | max_score: 0.7459237575531006 | count: 4
+Polycystic ovary syndrome => disease_disorder | max_score: 0.6999516487121582 | count: 1
+subjects => subject | max_score: 0.7439656257629395 | count: 5
+controls => subject | max_score: 0.7469022274017334 | count: 3
+women => sex | max_score: 0.9578573107719421 | count: 2
+cross-sectional study => study_design | max_score: 0.7834396362304688 | count: 1
+BMI => lab_value | max_score: 0.6708852648735046 | count: 1
+free-androgen index (FAI) => lab_value | max_score: 0.7082663774490356 | count: 1
+PCOS => disease_disorder | max_score: 0.5259870290756226 | count: 1

@@ -1,0 +1,11 @@
+Paracoccidioides brasiliensis => fungus | max_score: 0.877017080783844 | count: 1
+Paracoccidioides lutzii => fungus | max_score: 0.8670240044593811 | count: 1
+in vivo studies => study_design | max_score: 0.7415599226951599 | count: 1
+Caenorhabditis elegans => organism | max_score: 0.5653291344642639 | count: 1
+innate immune response => biological_process | max_score: 0.6119573712348938 | count: 2
+Paracoccidioides spp. => fungus | max_score: 0.775627613067627 | count: 2
+Candida albicans => fungus | max_score: 0.8751634359359741 | count: 1
+antimicrobial peptide genes => peptide | max_score: 0.6439694762229919 | count: 1
+cnc-4 => gene | max_score: 0.6791188716888428 | count: 1
+nlpl-27 => gene | max_score: 0.7089137434959412 | count: 1
+nlp-31 => gene | max_score: 0.6469718813896179 | count: 1

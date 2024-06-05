@@ -1,0 +1,16 @@
+Gram-positive bacteria => bacteria | max_score: 0.8826613426208496 | count: 1
+fungi => fungus | max_score: 0.8841841816902161 | count: 1
+AMP-jsa9 => peptide | max_score: 0.8277457356452942 | count: 7
+LI-F03a => peptide | max_score: 0.8989584445953369 | count: 1
+LI-F03b => peptide | max_score: 0.9191427826881409 | count: 1
+LI-F04a => peptide | max_score: 0.9088646173477173 | count: 1
+LI-F04b => peptide | max_score: 0.9189130067825317 | count: 1
+LI-F05b => peptide | max_score: 0.9200007319450378 | count: 1
+Paenibacillus polymyxa => bacteria | max_score: 0.6357620358467102 | count: 1
+Bacillus cereus => bacteria | max_score: 0.938882052898407 | count: 1
+cell wall-associated protein => protein | max_score: 0.5879480838775635 | count: 1
+antimicrobial activity => activity | max_score: 0.535017192363739 | count: 1
+B. cereus => bacteria | max_score: 0.5870229005813599 | count: 3
+nucleic acid => molecule | max_score: 0.500521719455719 | count: 1
+DNA => molecule | max_score: 0.5412390828132629 | count: 1
+LI-Fs => antibiotic | max_score: 0.5975937247276306 | count: 1

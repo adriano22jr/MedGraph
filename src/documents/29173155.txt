@@ -1,0 +1,6 @@
+antibiotics => antibiotic | max_score: 0.6746420860290527 | count: 1
+immunosuppressive therapy => treatment | max_score: 0.8460784554481506 | count: 1
+implanted medical devices => device | max_score: 0.9000133872032166 | count: 1
+radiolabeled probes => device | max_score: 0.8650615215301514 | count: 1
+leukocytes => cell | max_score: 0.8732868432998657 | count: 2
+bacteria => bacteria | max_score: 0.8486286997795105 | count: 3

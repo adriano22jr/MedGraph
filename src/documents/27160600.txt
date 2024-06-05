@@ -1,0 +1,7 @@
+intracellular symbiotic bacteria => bacteria | max_score: 0.6269835829734802 | count: 1
+free-living bacteria => bacteria | max_score: 0.7034007906913757 | count: 1
+bacteriocytes => cell | max_score: 0.8917286992073059 | count: 3
+Sitophilus spp. => species | max_score: 0.8514491319656372 | count: 1
+bacteriome organs => anatomical_system | max_score: 0.7828060984611511 | count: 1
+apoptosis => biological_process | max_score: 0.7474943995475769 | count: 1
+autophagy => biological_process | max_score: 0.7330543994903564 | count: 1

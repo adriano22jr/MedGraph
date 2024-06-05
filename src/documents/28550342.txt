@@ -1,0 +1,11 @@
+avocado => plant | max_score: 0.9737052321434021 | count: 6
+rats => species | max_score: 0.8162163496017456 | count: 6
+body weights => weight | max_score: 0.9572454690933228 | count: 1
+ileum => body_part | max_score: 0.8530941009521484 | count: 1
+cecum => body_part | max_score: 0.7648414969444275 | count: 1
+colon => body_part | max_score: 0.8457071185112 | count: 3
+control diet => diet | max_score: 0.5897672176361084 | count: 1
+Ileum => body_part | max_score: 0.8113572597503662 | count: 1
+β-defensin 1 => gene | max_score: 0.8773263692855835 | count: 1
+mucin 3 => gene | max_score: 0.8518453240394592 | count: 1
+mucin 4 => gene | max_score: 0.8465360999107361 | count: 1

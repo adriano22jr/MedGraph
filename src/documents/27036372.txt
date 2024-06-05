@@ -1,0 +1,6 @@
+joints => body_part | max_score: 0.5319725275039673 | count: 2
+Infiltrating cells => cell | max_score: 0.5205920934677124 | count: 1
+NC-B27 => molecule | max_score: 0.5670825839042664 | count: 4
+CD11b/c(+) => cell | max_score: 0.6895819902420044 | count: 1
+CD8α(+) => cell | max_score: 0.6912416815757751 | count: 1
+animal age => age | max_score: 0.9274948835372925 | count: 1

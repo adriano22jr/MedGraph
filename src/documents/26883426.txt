@@ -1,0 +1,12 @@
+Ciliata Paramecium caudatum => fungus | max_score: 0.780142605304718 | count: 1
+Pcamp1 => gene | max_score: 0.8082376718521118 | count: 1
+AMPs => peptide | max_score: 0.535049557685852 | count: 1
+cPcAMP1 => peptide | max_score: 0.8362547159194946 | count: 11
+Escherichia coli => bacteria | max_score: 0.9750648736953735 | count: 1
+DPC => peptide | max_score: 0.5686934590339661 | count: 1
+Aeromonas hydrophila => bacteria | max_score: 0.9666352868080139 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9777076840400696 | count: 1
+LPS => molecule | max_score: 0.6089051365852356 | count: 1
+LTA => molecule | max_score: 0.5309678316116333 | count: 1
+mammalian cells => cell | max_score: 0.8764529824256897 | count: 1
+PcAMP1 => peptide | max_score: 0.6688039898872375 | count: 1

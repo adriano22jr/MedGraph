@@ -1,0 +1,8 @@
+Crustins => protein_family | max_score: 0.9131720066070557 | count: 1
+PcCru => peptide | max_score: 0.6425191164016724 | count: 7
+Procambarus clarkii => species | max_score: 0.8889147043228149 | count: 1
+signal peptide => peptide | max_score: 0.6753605604171753 | count: 1
+type-I crustin family => protein_family | max_score: 0.8747356534004211 | count: 1
+hemocytes => cell_type | max_score: 0.9249169230461121 | count: 1
+broad-spectrum antimicrobial activity => activity | max_score: 0.9638477563858032 | count: 1
+Aeromonas hydrophila => bacteria | max_score: 0.882067859172821 | count: 1

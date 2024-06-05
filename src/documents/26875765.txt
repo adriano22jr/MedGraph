@@ -1,0 +1,8 @@
+human immunodeficiency virus type 1 (HIV-1) => virus | max_score: 0.8205161094665527 | count: 1
+envelope protein => protein | max_score: 0.8174567818641663 | count: 1
+AP16-A => peptide | max_score: 0.9323247671127319 | count: 5
+antimicrobial activities => activity | max_score: 0.5114620923995972 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.9803962111473083 | count: 2
+μg/ml => volume | max_score: 0.6419760584831238 | count: 1
+tissue cultures => tissue | max_score: 0.6500838994979858 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9810793399810791 | count: 1

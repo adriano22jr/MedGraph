@@ -1,0 +1,10 @@
+MDR bacteria => bacteria | max_score: 0.7859920859336853 | count: 1
+carbapenemase-producing strains => bacteria | max_score: 0.7686964869499207 | count: 1
+mcr-1 => gene | max_score: 0.8020092844963074 | count: 6
+colistin => antibiotic | max_score: 0.8914617896080017 | count: 6
+MCR-1 => gene | max_score: 0.829590380191803 | count: 4
+Escherichia coli => bacteria | max_score: 0.9314367771148682 | count: 1
+β-galactosidase => enzyme | max_score: 0.5915431976318359 | count: 1
+promoter activity => activity | max_score: 0.8083942532539368 | count: 2
+WT strains => bacteria | max_score: 0.7083097100257874 | count: 1
+E. coli => bacteria | max_score: 0.5749257206916809 | count: 1

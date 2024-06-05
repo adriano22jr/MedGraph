@@ -1,0 +1,7 @@
+Escherichia coli => bacteria | max_score: 0.9199197888374329 | count: 1
+feral swine => species | max_score: 0.9069932103157043 | count: 2
+colistin => antibiotic | max_score: 0.904464602470398 | count: 1
+vancomycin => antibiotic | max_score: 0.9342701435089111 | count: 1
+mcr-1 => protein | max_score: 0.5904130935668945 | count: 2
+E. coli => bacteria | max_score: 0.7492380142211914 | count: 2
+CFU/g => volume | max_score: 0.7495908141136169 | count: 6

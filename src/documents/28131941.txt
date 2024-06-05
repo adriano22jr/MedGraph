@@ -1,0 +1,10 @@
+biomedical devices/implants => device | max_score: 0.5846747159957886 | count: 1
+methacrylate-PEGn-tosyl => compound | max_score: 0.5215460062026978 | count: 1
+hemolytic activity => activity | max_score: 0.9438279867172241 | count: 1
+broad-spectrum antimicrobial activity => activity | max_score: 0.9185154438018799 | count: 1
+Escherichia coli => bacteria | max_score: 0.9911935925483704 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9918435215950012 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9921127557754517 | count: 1
+mammalian cells => cell_line | max_score: 0.8636387586593628 | count: 1
+environmental pollution => environmental_factor | max_score: 0.9840339422225952 | count: 1
+short-time antimicrobial activity => activity | max_score: 0.5154604911804199 | count: 1

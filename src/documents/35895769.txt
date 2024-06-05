@@ -1,0 +1,9 @@
+equine => species | max_score: 0.6421312689781189 | count: 3
+diagnosis => diagnostic_procedure | max_score: 0.6769992709159851 | count: 2
+Defensins => immunologic_marker | max_score: 0.595716655254364 | count: 1
+defensins => immunologic_marker | max_score: 0.658240795135498 | count: 1
+neutrophils => cell | max_score: 0.6767425537109375 | count: 4
+unstimulated neutrophils => cell_type | max_score: 0.7247157096862793 | count: 2
+horses => species | max_score: 0.7530086040496826 | count: 3
+equine joints => body_part | max_score: 0.5313476920127869 | count: 1
+commercial ELISA => device | max_score: 0.6202303767204285 | count: 1

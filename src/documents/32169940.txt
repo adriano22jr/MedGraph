@@ -1,0 +1,15 @@
+Gram-negative bacteria => bacteria | max_score: 0.8506157398223877 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5928173065185547 | count: 1
+acidocin 4356 => peptide | max_score: 0.655929446220398 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9804627895355225 | count: 1
+virulence factors => protein | max_score: 0.7672001719474792 | count: 1
+bacterial killing => biological_process | max_score: 0.6251564621925354 | count: 1
+biofilm degradation => biological_process | max_score: 0.7172617316246033 | count: 1
+tough physiological conditions => environmental_factor | max_score: 0.9035966992378235 | count: 1
+hemolytic activity => activity | max_score: 0.7683898210525513 | count: 1
+ACD activity => activity | max_score: 0.5461724400520325 | count: 1
+ACD => peptide | max_score: 0.5365869998931885 | count: 1
+structure-function relationship => biological_process | max_score: 0.5890779495239258 | count: 1
+Multidrug-resistant bacteria => bacteria | max_score: 0.5177196860313416 | count: 1
+Pseudomonas bacterium => bacteria | max_score: 0.5152652263641357 | count: 1
+Antimicrobial peptides => peptide | max_score: 0.5808149576187134 | count: 1

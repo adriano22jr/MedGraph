@@ -1,0 +1,8 @@
+Nanotechnology-based delivery strategies => chemical_system | max_score: 0.5541309118270874 | count: 1
+LNCs => chemical_system | max_score: 0.5362246632575989 | count: 2
+antimicrobial activity => activity | max_score: 0.9196790456771851 | count: 2
+Gram-negative bacterial strains => bacteria | max_score: 0.5802127718925476 | count: 1
+AP138 => peptide | max_score: 0.8878968358039856 | count: 2
+trypsin => enzyme | max_score: 0.9688020348548889 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9316171407699585 | count: 2
+AMPs => peptide | max_score: 0.5292380452156067 | count: 1

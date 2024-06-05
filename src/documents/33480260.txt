@@ -1,0 +1,6 @@
+Plant compounds => compound | max_score: 0.6467719078063965 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6220061779022217 | count: 1
+AMPs => peptide | max_score: 0.6604114174842834 | count: 2
+AMPs => compound | max_score: 0.5369951725006104 | count: 2
+plant => plant | max_score: 0.637039840221405 | count: 2
+plant compounds => compound | max_score: 0.5445807576179504 | count: 1

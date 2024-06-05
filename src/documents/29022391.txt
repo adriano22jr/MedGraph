@@ -1,0 +1,14 @@
+L-929 fibroblasts => cell_line | max_score: 0.9246646761894226 | count: 1
+LL-37 => antibiotic | max_score: 0.7703740000724792 | count: 1
+KR-12-a5 => peptide | max_score: 0.9583938717842102 | count: 4
+hBD-3-1CV => peptide | max_score: 0.7355232834815979 | count: 1
+chlorhexidine => antibiotic | max_score: 0.7791633605957031 | count: 1
+CHX => antibiotic | max_score: 0.5343478918075562 | count: 3
+minimal inhibitory concentration (MIC) => lab_value | max_score: 0.7350910902023315 | count: 1
+minimal bactericidal/fungicidal concentration (MBC/MFC) => lab_value | max_score: 0.7286898493766785 | count: 1
+Enterococcus faecalis => bacteria | max_score: 0.9482648968696594 | count: 1
+Streptococcus mutans => bacteria | max_score: 0.9475119113922119 | count: 1
+bovine dentin blocks => tissue | max_score: 0.966708242893219 | count: 1
+confocal laser scanning microscopy => device | max_score: 0.5186296105384827 | count: 1
+MIC => lab_value | max_score: 0.6758959293365479 | count: 1
+MFC => lab_value | max_score: 0.531800389289856 | count: 1

@@ -1,0 +1,9 @@
+antimicrobial peptides => peptide | max_score: 0.6243849396705627 | count: 1
+AMPs => peptide | max_score: 0.8520810008049011 | count: 6
+potent activity => activity | max_score: 0.6139496564865112 | count: 1
+multi-resistant pathogenic bacteria => bacteria | max_score: 0.79213947057724 | count: 1
+viruses => virus | max_score: 0.9709634780883789 | count: 1
+fungi => fungus | max_score: 0.9934927821159363 | count: 1
+families => protein_family | max_score: 0.5090033411979675 | count: 1
+function => molecular_function | max_score: 0.700515866279602 | count: 1
+macroalgae => plant | max_score: 0.7283872961997986 | count: 2

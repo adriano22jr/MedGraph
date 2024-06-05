@@ -1,0 +1,12 @@
+colistin => antibiotic | max_score: 0.8178644776344299 | count: 1
+CST => antibiotic | max_score: 0.7572790384292603 | count: 12
+tigecycline => antibiotic | max_score: 0.8428674340248108 | count: 1
+TGC => antibiotic | max_score: 0.5480806231498718 | count: 8
+Acinetobacter baumannii => bacteria | max_score: 0.6128911375999451 | count: 1
+MDRAB => bacteria | max_score: 0.86390620470047 | count: 6
+bacterial growth => biological_process | max_score: 0.6569563746452332 | count: 1
+bactericidal effects => biological_process | max_score: 0.5538738369941711 | count: 2
+biofilm formation => biological_process | max_score: 0.5542096495628357 | count: 1
+μg/mL => volume | max_score: 0.5820766687393188 | count: 2
+R1 => bacteria | max_score: 0.54256272315979 | count: 1
+R2 => bacteria | max_score: 0.5408567190170288 | count: 1

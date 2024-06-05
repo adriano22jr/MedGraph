@@ -1,0 +1,8 @@
+colistin => antibiotic | max_score: 0.9515453577041626 | count: 4
+Enterobacter spp. => bacteria | max_score: 0.9057687520980835 | count: 2
+Antibiotic susceptibility testing => diagnostic_procedure | max_score: 0.7153491973876953 | count: 1
+broth microdilution => diagnostic_procedure | max_score: 0.7329534292221069 | count: 1
+Enterobacter cloacae => bacteria | max_score: 0.9284217357635498 | count: 1
+E. aerogenes => bacteria | max_score: 0.7811720371246338 | count: 4
+E. cloacae => bacteria | max_score: 0.8166180849075317 | count: 4
+Multilocus sequence typing => diagnostic_procedure | max_score: 0.6023737192153931 | count: 1

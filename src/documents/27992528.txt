@@ -1,0 +1,14 @@
+mortality => condition_outcome | max_score: 0.5509791970252991 | count: 2
+A. baumannii => bacteria | max_score: 0.9645239114761353 | count: 5
+VAP => disease_disorder | max_score: 0.655023455619812 | count: 4
+prospective cohort study => study_design | max_score: 0.874835729598999 | count: 1
+February 2010-June 2011 => date | max_score: 0.9638895988464355 | count: 1
+lower respiratory airways => anatomical_system | max_score: 0.5296303033828735 | count: 1
+CPIS criteria => clinical_guideline | max_score: 0.9576695561408997 | count: 1
+LOS => medical_term | max_score: 0.5076645016670227 | count: 1
+antibiotic therapy => treatment | max_score: 0.7995135188102722 | count: 1
+carbapenems => antibiotic | max_score: 0.7184597849845886 | count: 1
+MIC90 => lab_value | max_score: 0.859944224357605 | count: 1
+colistin => antibiotic | max_score: 0.9206010699272156 | count: 3
+Mortality => condition_outcome | max_score: 0.5414057374000549 | count: 1
+LOS => treatment_duration | max_score: 0.6713146567344666 | count: 1

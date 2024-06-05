@@ -1,0 +1,14 @@
+Antibiotic growth promoters => antibiotic | max_score: 0.5513182282447815 | count: 1
+AGPs => antibiotic | max_score: 0.6975733637809753 | count: 4
+livestock => species | max_score: 0.5597308278083801 | count: 2
+microbial pathogens => bacteria | max_score: 0.6321887969970703 | count: 1
+genetic modifications => biological_process | max_score: 0.5971594452857971 | count: 1
+bacteria => bacteria | max_score: 0.7755696773529053 | count: 2
+antimicrobial peptides => peptide | max_score: 0.6001134514808655 | count: 1
+AMPs => peptide | max_score: 0.700783371925354 | count: 1
+electrostatic interactions => biological_process | max_score: 0.5897952914237976 | count: 1
+nutrient digestibility => biological_process | max_score: 0.6214100122451782 | count: 1
+immune function activities => activity | max_score: 0.9342156052589417 | count: 1
+antibiotic growth promoters => antibiotic | max_score: 0.5578230619430542 | count: 1
+animal food => diet | max_score: 0.6519947052001953 | count: 2
+Animal food => diet | max_score: 0.6887970566749573 | count: 1

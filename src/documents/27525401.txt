@@ -1,0 +1,17 @@
+Acinetobacter baumannii => bacteria | max_score: 0.8946640491485596 | count: 1
+colistin => antibiotic | max_score: 0.9221909046173096 | count: 3
+sulbactam => antibiotic | max_score: 0.9031774997711182 | count: 3
+A.baumannii => bacteria | max_score: 0.8046251535415649 | count: 3
+in vitro activity => activity | max_score: 0.9059969186782837 | count: 1
+tracheal aspirates => body_part | max_score: 0.7707163691520691 | count: 1
+blood => body_part | max_score: 0.715520441532135 | count: 1
+urine => body_part | max_score: 0.6223456859588623 | count: 1
+wound samples => body_part | max_score: 0.6457474231719971 | count: 1
+Vitek-2 => device | max_score: 0.7490834593772888 | count: 1
+Vitek-2 automated system => device | max_score: 0.8036073446273804 | count: 1
+CLSI standards => clinical_guideline | max_score: 0.8772077560424805 | count: 1
+oxacillinase => enzyme | max_score: 0.8370519876480103 | count: 1
+metallo-beta-lactamase (MBL) => enzyme | max_score: 0.677980899810791 | count: 1
+carbapenem => antibiotic | max_score: 0.7668866515159607 | count: 2
+trimethoprim/sulphamethoxazole => antibiotic | max_score: 0.7426983118057251 | count: 1
+tigecyclin => antibiotic | max_score: 0.7747371792793274 | count: 1

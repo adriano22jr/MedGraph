@@ -1,0 +1,15 @@
+mammals => species | max_score: 0.6774848699569702 | count: 1
+visceral adipose => tissue | max_score: 0.8979156613349915 | count: 3
+immune function => biological_process | max_score: 0.7338889241218567 | count: 1
+adipocytes => cell_type | max_score: 0.7754374742507935 | count: 1
+Adipose => tissue | max_score: 0.7411174774169922 | count: 1
+peritoneal immune responses => biological_process | max_score: 0.6222150921821594 | count: 1
+fish => species | max_score: 0.6995895504951477 | count: 3
+A. salmonicida => bacteria | max_score: 0.9285119771957397 | count: 1
+Y. ruckeri => bacteria | max_score: 0.8695545196533203 | count: 1
+flagellin => protein | max_score: 0.6099589467048645 | count: 1
+IL-1β => protein | max_score: 0.7261067628860474 | count: 2
+TNF-α3 => protein | max_score: 0.5649160742759705 | count: 1
+IFN-γ => protein | max_score: 0.6498256921768188 | count: 3
+TNF-α => protein | max_score: 0.5506335496902466 | count: 1
+adipose => tissue | max_score: 0.7321611046791077 | count: 2

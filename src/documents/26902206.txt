@@ -1,0 +1,17 @@
+Escherichia coli => bacteria | max_score: 0.9697176218032837 | count: 2
+bactenecin 7 => peptide | max_score: 0.5681670308113098 | count: 1
+Bac7 => peptide | max_score: 0.7031906843185425 | count: 4
+pleurocidin => peptide | max_score: 0.6241185665130615 | count: 1
+dermaseptin => peptide | max_score: 0.6410224437713623 | count: 1
+P-Der => peptide | max_score: 0.674498438835144 | count: 2
+proline-arginine-rich peptide => peptide | max_score: 0.6146766543388367 | count: 1
+PR-39 => peptide | max_score: 0.8373814821243286 | count: 4
+LfcinB => peptide | max_score: 0.6779389977455139 | count: 6
+purine metabolism => biological_process | max_score: 0.891832172870636 | count: 2
+histidine kinase => enzyme | max_score: 0.9544984698295593 | count: 1
+transcription-related activities => biological_process | max_score: 0.7885339856147766 | count: 1
+cellular carbohydrate biosynthetic processes => biological_process | max_score: 0.7774366140365601 | count: 1
+lipopolysaccharide biosynthesis => biological_process | max_score: 0.8336271047592163 | count: 1
+antimicrobial activity => activity | max_score: 0.8094893097877502 | count: 1
+arginine decarboxylase => enzyme | max_score: 0.9516823887825012 | count: 1
+extremely acidic environments => environmental_factor | max_score: 0.9754480123519897 | count: 2

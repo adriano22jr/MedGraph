@@ -1,0 +1,16 @@
+combination therapy => treatment | max_score: 0.6703870296478271 | count: 3
+polymyxin-B => drug | max_score: 0.7220534682273865 | count: 1
+PMX-DHP => treatment | max_score: 0.7149308323860168 | count: 7
+septic shock => disease_disorder | max_score: 0.6388789415359497 | count: 3
+DIC => disease_disorder | max_score: 0.5162346363067627 | count: 1
+retrospective study => study_design | max_score: 0.6348263621330261 | count: 1
+August 2011 => date | max_score: 0.9739107489585876 | count: 1
+August 2016 => date | max_score: 0.9852643013000488 | count: 1
+28-day survival rate => condition_outcome | max_score: 0.7784623503684998 | count: 2
+age => age | max_score: 0.7624900937080383 | count: 2
+men => sex | max_score: 0.832191526889801 | count: 1
+APACHE II score => lab_value | max_score: 0.5555198192596436 | count: 3
+lactate => lab_value | max_score: 0.9512107968330383 | count: 3
+Lactate => lab_value | max_score: 0.9428281784057617 | count: 1
+28-day mortality => condition_outcome | max_score: 0.5124342441558838 | count: 1
+sex => sex | max_score: 0.6761330962181091 | count: 1

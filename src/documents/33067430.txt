@@ -1,0 +1,13 @@
+Gram-negative bacteria => bacteria | max_score: 0.8889217376708984 | count: 1
+blaMBL => gene | max_score: 0.8055779337882996 | count: 1
+mcr => gene | max_score: 0.7723041772842407 | count: 1
+carbapenem => antibiotic | max_score: 0.9349523186683655 | count: 2
+colistin => antibiotic | max_score: 0.7754073739051819 | count: 2
+auranofin => drug | max_score: 0.713996171951294 | count: 1
+MBLs => enzyme | max_score: 0.5542371869087219 | count: 2
+MCRs => enzyme | max_score: 0.7728679776191711 | count: 2
+enzyme activity => activity | max_score: 0.6663195490837097 | count: 1
+COL => antibiotic | max_score: 0.5811347365379333 | count: 2
+Escherichia coli => bacteria | max_score: 0.939262330532074 | count: 1
+MCR-1 => enzyme | max_score: 0.8370535373687744 | count: 1
+New Delhi metallo-β-lactamase 5 (NDM-5) => enzyme | max_score: 0.7251973152160645 | count: 1

@@ -1,0 +1,6 @@
+ulcerative colitis => disease_disorder | max_score: 0.7453877329826355 | count: 1
+Sulfasalazine => drug | max_score: 0.7505298852920532 | count: 1
+sulfasalazine => drug | max_score: 0.8490532636642456 | count: 1
+iodine-131 => compound | max_score: 0.5184757709503174 | count: 1
+ambient temperature => environmental_factor | max_score: 0.8948004841804504 | count: 1
+ulcerative colon => body_part | max_score: 0.5093629360198975 | count: 1

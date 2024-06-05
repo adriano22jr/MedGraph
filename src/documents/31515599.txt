@@ -1,0 +1,10 @@
+1968 => date | max_score: 0.9598186612129211 | count: 1
+heptapeptide => peptide | max_score: 0.5497503876686096 | count: 1
+surfactin => peptide | max_score: 0.8593359589576721 | count: 2
+lipopeptides => protein_family | max_score: 0.8065488338470459 | count: 1
+biological activities => activity | max_score: 0.6558989882469177 | count: 1
+antimicrobial => activity | max_score: 0.505906879901886 | count: 1
+antiviral => activity | max_score: 0.5449458956718445 | count: 1
+1991 => date | max_score: 0.943577229976654 | count: 1
+Lipopeptides => protein_family | max_score: 0.5810798406600952 | count: 1
+petrochemical industry => chemical_system | max_score: 0.7416821718215942 | count: 1

@@ -1,0 +1,6 @@
+FF8 => peptide | max_score: 0.7709508538246155 | count: 4
+phenylalanine => peptide | max_score: 0.5783483386039734 | count: 1
+antibacterial activity => activity | max_score: 0.8023735284805298 | count: 2
+Escherichia coli => bacteria | max_score: 0.8883019089698792 | count: 1
+E. coli => bacteria | max_score: 0.7979032397270203 | count: 1
+cells => cell | max_score: 0.5353754758834839 | count: 1

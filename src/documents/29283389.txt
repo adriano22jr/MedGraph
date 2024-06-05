@@ -1,0 +1,10 @@
+Staphylococcus aureus => bacteria | max_score: 0.959089994430542 | count: 1
+subclinical mastitis => disease_disorder | max_score: 0.5749197006225586 | count: 3
+S. aureus => bacteria | max_score: 0.7950699329376221 | count: 2
+bacteriological culture => diagnostic_procedure | max_score: 0.7098442316055298 | count: 1
+somatic cell counts => diagnostic_procedure | max_score: 0.7997027039527893 | count: 1
+milk proteins => protein | max_score: 0.594685435295105 | count: 1
+host defense => biological_process | max_score: 0.6743106842041016 | count: 2
+pathogen-recognition => biological_process | max_score: 0.7390632033348083 | count: 1
+direct antimicrobial function => molecular_function | max_score: 0.7691317200660706 | count: 1
+acute-phase response => biological_process | max_score: 0.7708237171173096 | count: 1

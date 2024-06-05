@@ -1,0 +1,17 @@
+peptides => compound | max_score: 0.5253010988235474 | count: 2
+Dinoponera quadriceps => species | max_score: 0.8723955154418945 | count: 1
+Ponerinae => protein_family | max_score: 0.6063326001167297 | count: 1
+neuroactive biogenic amines => compound | max_score: 0.5655497908592224 | count: 1
+histamine => peptide | max_score: 0.7043850421905518 | count: 1
+tyramine => peptide | max_score: 0.6334461569786072 | count: 1
+dopamine => peptide | max_score: 0.6474214196205139 | count: 1
+monoamine alkaloid => compound | max_score: 0.5088986754417419 | count: 1
+phenethylamine => compound | max_score: 0.6401181817054749 | count: 1
+free amino acids => compound | max_score: 0.5262423753738403 | count: 1
+glutamic acid => peptide | max_score: 0.5846741795539856 | count: 1
+proline => peptide | max_score: 0.7520635724067688 | count: 1
+free thymidine => compound | max_score: 0.5506876111030579 | count: 1
+cytosine => compound | max_score: 0.6523838043212891 | count: 1
+pilosulin => peptide | max_score: 0.6454054117202759 | count: 1
+ponericin-like peptides => peptide | max_score: 0.7355939745903015 | count: 1
+venom activity => activity | max_score: 0.6141554117202759 | count: 1

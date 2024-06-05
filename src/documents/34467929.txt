@@ -1,0 +1,15 @@
+ZnO nanoparticles => compound | max_score: 0.6906147599220276 | count: 2
+nZnO => compound | max_score: 0.7461104393005371 | count: 7
+temperature => environmental_factor | max_score: 0.93031907081604 | count: 2
+hemocytes => cell_type | max_score: 0.8219335079193115 | count: 3
+blue mussels => species | max_score: 0.5096994638442993 | count: 1
+Mytilus edulis => species | max_score: 0.8883302211761475 | count: 1
+dissolved zinc => compound | max_score: 0.5049764513969421 | count: 1
+ambient => environmental_factor | max_score: 0.821141242980957 | count: 2
+warming => environmental_factor | max_score: 0.919308602809906 | count: 5
+winter => date | max_score: 0.5960638523101807 | count: 1
+transcriptomic response => biological_process | max_score: 0.6687662601470947 | count: 1
+phagocytosis => biological_process | max_score: 0.8183382153511047 | count: 1
+adhesion capacity => biological_process | max_score: 0.6643591523170471 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8440737128257751 | count: 1
+Toll-like receptors => gene | max_score: 0.7233108878135681 | count: 1

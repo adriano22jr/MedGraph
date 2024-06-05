@@ -1,0 +1,4 @@
+collagenolytic protease => enzyme | max_score: 0.966101348400116 | count: 4
+Bacillus cereus strain SUK => bacteria | max_score: 0.8443063497543335 | count: 1
+g l-1 => volume | max_score: 0.891167402267456 | count: 2
+collagen peptides => peptide | max_score: 0.8609021306037903 | count: 1

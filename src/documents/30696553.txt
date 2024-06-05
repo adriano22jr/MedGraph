@@ -1,0 +1,12 @@
+oral bacteria => organism | max_score: 0.5233368873596191 | count: 1
+oral hard and soft tissues => tissue | max_score: 0.7786068320274353 | count: 1
+microorganisms => organism | max_score: 0.6077064871788025 | count: 3
+dietary carbohydrates => diet | max_score: 0.8831677436828613 | count: 1
+salivary glycoproteins => protein | max_score: 0.5249055027961731 | count: 1
+mucins => protein | max_score: 0.7467465400695801 | count: 2
+lactoferrin => protein | max_score: 0.8123722076416016 | count: 1
+lysozyme => protein | max_score: 0.8198334574699402 | count: 1
+lactoperoxidase => protein | max_score: 0.8083799481391907 | count: 1
+statherin => protein | max_score: 0.8275364637374878 | count: 1
+histatins => protein | max_score: 0.8130910992622375 | count: 1
+secretory immunoglobulin A => protein | max_score: 0.8054453134536743 | count: 1

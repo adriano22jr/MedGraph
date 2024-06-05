@@ -1,0 +1,12 @@
+Defensins => protein | max_score: 0.6136964559555054 | count: 1
+defensins => protein | max_score: 0.5566442608833313 | count: 1
+pBD2 => peptide | max_score: 0.605316698551178 | count: 4
+IPEC-J2 cells => cell_line | max_score: 0.9854216575622559 | count: 2
+E. coli => bacteria | max_score: 0.984699547290802 | count: 6
+signaling pathways => biological_process | max_score: 0.5502884984016418 | count: 1
+immunity => biological_process | max_score: 0.6163977980613708 | count: 1
+oxidative phosphorylation => biological_process | max_score: 0.9344688057899475 | count: 2
+disease pathways => biological_process | max_score: 0.6112715601921082 | count: 1
+PTEN => gene | max_score: 0.8824442028999329 | count: 1
+CDC6 => gene | max_score: 0.9044079184532166 | count: 1
+cell cycle => biological_process | max_score: 0.6215651035308838 | count: 1

@@ -1,0 +1,10 @@
+biomedical catheters => device | max_score: 0.9025413393974304 | count: 2
+amino acids => compound | max_score: 0.6348270177841187 | count: 2
+leucine => compound | max_score: 0.5671901702880859 | count: 1
+taurine => compound | max_score: 0.5249635577201843 | count: 1
+aspartic acid => compound | max_score: 0.6263555288314819 | count: 2
+peptides => peptide | max_score: 0.6355252861976624 | count: 1
+Escherichia coli => bacteria | max_score: 0.9825881719589233 | count: 1
+Staphylococcus epidermidis => bacteria | max_score: 0.9871772527694702 | count: 1
+albumin => protein | max_score: 0.9404208064079285 | count: 1
+fibrinogen => protein | max_score: 0.9063714146614075 | count: 1

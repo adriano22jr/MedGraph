@@ -1,0 +1,8 @@
+mcr-1 => gene | max_score: 0.8773314952850342 | count: 4
+2015 => date | max_score: 0.8483532667160034 | count: 1
+Escherichia coli => bacteria | max_score: 0.8965440988540649 | count: 2
+farm environments => environmental_factor | max_score: 0.5767407417297363 | count: 1
+flies => environmental_factor | max_score: 0.5089967846870422 | count: 1
+wastewater => environmental_factor | max_score: 0.973215639591217 | count: 2
+pigs => species | max_score: 0.5055707693099976 | count: 1
+Farmers' age => age | max_score: 0.6218927502632141 | count: 1

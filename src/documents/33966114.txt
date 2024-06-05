@@ -1,0 +1,10 @@
+LEAP2 => peptide | max_score: 0.8730401396751404 | count: 8
+ghrelin => peptide | max_score: 0.9263215065002441 | count: 5
+GHSR1a => protein | max_score: 0.862370491027832 | count: 7
+mammals => species | max_score: 0.551706075668335 | count: 1
+antimicrobial activity => activity | max_score: 0.7001380324363708 | count: 1
+Latimeria chalumnae => species | max_score: 0.9294157028198242 | count: 1
+coelacanth => species | max_score: 0.7076162099838257 | count: 10
+IC50 values => lab_value | max_score: 0.86808180809021 | count: 1
+nanomolar range => lab_value | max_score: 0.6780074834823608 | count: 2
+EC50 value => lab_value | max_score: 0.7902790904045105 | count: 1

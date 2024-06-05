@@ -1,0 +1,13 @@
+colistin => antibiotic | max_score: 0.7219132781028748 | count: 2
+respiratory tract infections => disease_disorder | max_score: 0.6758562922477722 | count: 3
+Gram-negative bacteria => bacteria | max_score: 0.9400938749313354 | count: 3
+inhaled colistin => antibiotic | max_score: 0.8616290092468262 | count: 3
+monotherapy => treatment | max_score: 0.5841182470321655 | count: 2
+systematic review => study_design | max_score: 0.64180588722229 | count: 1
+ventilator-associated pneumonia => disease_disorder | max_score: 0.5869765281677246 | count: 1
+ventilator-associated tracheobronchitis => disease_disorder | max_score: 0.5100938081741333 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9203816652297974 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9618382453918457 | count: 1
+Daily dose => drug_dosage | max_score: 0.6091993451118469 | count: 1
+treatment duration => treatment_duration | max_score: 0.9896122813224792 | count: 1
+clinical success => condition_outcome | max_score: 0.7104769945144653 | count: 1

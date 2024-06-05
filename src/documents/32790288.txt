@@ -1,0 +1,8 @@
+New antimicrobial peptides => peptide | max_score: 0.5178218483924866 | count: 1
+conventional antibiotics => antibiotic | max_score: 0.6921419501304626 | count: 1
+extracellular peptidases => enzyme | max_score: 0.9526533484458923 | count: 2
+biological wastewater treatment => treatment | max_score: 0.8690373301506042 | count: 1
+wastewater microbial communities => environmental_factor | max_score: 0.7370331287384033 | count: 2
+wastewater peptidases => enzyme | max_score: 0.82143634557724 | count: 1
+extracellular wastewater peptidases => enzyme | max_score: 0.8352392315864563 | count: 1
+enzyme-catalyzed hydrolysis => biological_process | max_score: 0.8759384155273438 | count: 2

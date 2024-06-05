@@ -1,0 +1,10 @@
+Acinetobacter baumannii => bacteria | max_score: 0.9163169860839844 | count: 1
+colistin => antibiotic | max_score: 0.8733047246932983 | count: 2
+vancomycin => antibiotic | max_score: 0.8747045993804932 | count: 1
+rifampin => antibiotic | max_score: 0.8176360130310059 | count: 1
+in vitro activity => activity | max_score: 0.8860839605331421 | count: 1
+killing testing => activity | max_score: 0.5733729004859924 | count: 1
+serum bactericidal activity => activity | max_score: 0.716825544834137 | count: 1
+innovative regimen => treatment | max_score: 0.5958816409111023 | count: 1
+Gram-positive microorganisms => bacteria | max_score: 0.6823740005493164 | count: 1
+severe infections => severity | max_score: 0.8180910348892212 | count: 1

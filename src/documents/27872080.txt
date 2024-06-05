@@ -1,0 +1,12 @@
+daptomycin => antibiotic | max_score: 0.7103660702705383 | count: 1
+DAP => antibiotic | max_score: 0.6054184436798096 | count: 5
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.7241573929786682 | count: 1
+MRSA => bacteria | max_score: 0.8423175811767578 | count: 7
+colistin => antibiotic | max_score: 0.7353519201278687 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.8134313225746155 | count: 1
+cathelicidin LL37 => peptide | max_score: 0.8404379487037659 | count: 1
+LL37 => peptide | max_score: 0.67093425989151 | count: 3
+vancomycin-intermediate S. aureus (VISA) => bacteria | max_score: 0.6263138651847839 | count: 1
+A. baumannii => bacteria | max_score: 0.6724579930305481 | count: 6
+in vitro activity => activity | max_score: 0.5635898113250732 | count: 1
+hVISA => bacteria | max_score: 0.5655791163444519 | count: 1

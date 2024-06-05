@@ -1,0 +1,11 @@
+Dactylosporangium => bacteria | max_score: 0.8424500823020935 | count: 1
+Actinobacteria => bacteria | max_score: 0.5581914186477661 | count: 1
+Dactylosporangium vinaceum => bacteria | max_score: 0.7369508147239685 | count: 1
+rubrolone conjugates => compound | max_score: 0.7244281768798828 | count: 1
+pre-rubrolone => compound | max_score: 0.8019002079963684 | count: 3
+amine containing antibiotics => compound | max_score: 0.5540392994880676 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8100042343139648 | count: 1
+siderophores => compound | max_score: 0.6975268125534058 | count: 1
+bacterial environment => environmental_factor | max_score: 0.8491262197494507 | count: 1
+rubrolone => compound | max_score: 0.6089248061180115 | count: 1
+Pre-rubrolone => compound | max_score: 0.8302537798881531 | count: 1

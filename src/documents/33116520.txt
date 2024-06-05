@@ -1,0 +1,10 @@
+ecosystem => environmental_factor | max_score: 0.6368061900138855 | count: 1
+AgNPs => compound | max_score: 0.635826051235199 | count: 8
+indolicidin => peptide | max_score: 0.9366796612739563 | count: 2
+Daphnia magna => species | max_score: 0.758065402507782 | count: 1
+Raphidocelis subcapitata => species | max_score: 0.7378228306770325 | count: 1
+aquatic trophic chain => environmental_factor | max_score: 0.7299985289573669 | count: 1
+Lepidium sativum => plant | max_score: 0.980164110660553 | count: 1
+Cucumis sativus => plant | max_score: 0.9871434569358826 | count: 1
+Lactuca sativa => plant | max_score: 0.9949727058410645 | count: 1
+D. magna => species | max_score: 0.5362580418586731 | count: 1

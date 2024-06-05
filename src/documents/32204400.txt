@@ -1,0 +1,13 @@
+chemotherapies => treatment | max_score: 0.7278271317481995 | count: 1
+epinecidin-1 => peptide | max_score: 0.7702211737632751 | count: 1
+epi-1 => peptide | max_score: 0.773949384689331 | count: 3
+orange-spotted grouper => species | max_score: 0.7119596600532532 | count: 1
+Epinephelus coioides => species | max_score: 0.9297992587089539 | count: 1
+bactericidal => activity | max_score: 0.5803186297416687 | count: 1
+anticancer activities => activity | max_score: 0.7080821394920349 | count: 1
+human synovial sarcoma cells => cell_line | max_score: 0.9245290756225586 | count: 1
+antisynovial sarcoma activity => activity | max_score: 0.5791745781898499 | count: 1
+calcium overload-induced calpain activation => biological_process | max_score: 0.5928846597671509 | count: 1
+oxidative stress => biological_process | max_score: 0.6760784983634949 | count: 1
+mitochondrial dysfunction => biological_process | max_score: 0.6241033673286438 | count: 1
+human SW982 cells => cell_line | max_score: 0.8407233953475952 | count: 1

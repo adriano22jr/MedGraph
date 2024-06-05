@@ -1,0 +1,10 @@
+hemolytic disorders => disease_disorder | max_score: 0.7425965070724487 | count: 1
+heme => peptide | max_score: 0.6415303945541382 | count: 2
+hemolysis => biological_process | max_score: 0.554140567779541 | count: 1
+immune cells => cell | max_score: 0.5868099927902222 | count: 1
+HDPs => peptide | max_score: 0.75223708152771 | count: 5
+hemin => peptide | max_score: 0.7847137451171875 | count: 3
+membrane activity => activity | max_score: 0.8828868269920349 | count: 2
+large assembly formation => biological_process | max_score: 0.5043293833732605 | count: 1
+peptide-lipid-small molecule systems => chemical_system | max_score: 0.6875326037406921 | count: 1
+in vivo milieu => environmental_factor | max_score: 0.666104793548584 | count: 1

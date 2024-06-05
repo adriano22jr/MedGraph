@@ -1,0 +1,11 @@
+Endotoxin removal therapy => treatment | max_score: 0.8279286623001099 | count: 1
+polymyxin B => drug | max_score: 0.7363766431808472 | count: 1
+sepsis => disease_disorder | max_score: 0.6444835662841797 | count: 4
+1994 => date | max_score: 0.932924211025238 | count: 1
+large sepsis clinical trial => clinical_trial | max_score: 0.6386518478393555 | count: 1
+monocytes => cell_type | max_score: 0.8927072882652283 | count: 1
+neutrophils => cell_type | max_score: 0.8785144686698914 | count: 1
+PMX therapy => treatment | max_score: 0.5097756385803223 | count: 1
+Endotoxemia => disease_disorder | max_score: 0.6441825032234192 | count: 1
+endotoxemia => disease_disorder | max_score: 0.6236522793769836 | count: 1
+endotoxin removal therapy => treatment | max_score: 0.7471083402633667 | count: 1

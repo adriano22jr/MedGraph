@@ -1,0 +1,9 @@
+Respiratory syncytial virus => virus | max_score: 0.7604444622993469 | count: 1
+RSV => virus | max_score: 0.9361976385116577 | count: 8
+Cathelicidins => peptide | max_score: 0.9158853888511658 | count: 1
+host defense peptides => peptide | max_score: 0.5296839475631714 | count: 1
+inflamed lung => body_part | max_score: 0.692184567451477 | count: 1
+LL-37 => peptide | max_score: 0.7416970133781433 | count: 3
+human epithelial cells => cell_type | max_score: 0.7950156927108765 | count: 1
+cathelicidins => peptide | max_score: 0.9358956813812256 | count: 2
+severity of disease outcome => severity | max_score: 0.6598217487335205 | count: 1

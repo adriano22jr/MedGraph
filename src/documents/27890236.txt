@@ -1,0 +1,10 @@
+Antimicrobial peptides => peptide | max_score: 0.8498879075050354 | count: 1
+antimicrobial peptides => peptide | max_score: 0.8398498892784119 | count: 1
+skin diseases => disease_disorder | max_score: 0.6027750372886658 | count: 1
+growth factors => molecular_function | max_score: 0.5639330744743347 | count: 1
+psoriasis => disease_disorder | max_score: 0.9451758861541748 | count: 1
+rosacea => disease_disorder | max_score: 0.9412774443626404 | count: 1
+natural antibiotics => antibiotic | max_score: 0.653821587562561 | count: 1
+bacteria => bacteria | max_score: 0.802996814250946 | count: 1
+atopic dermatitis => disease_disorder | max_score: 0.9478060603141785 | count: 1
+acne => disease_disorder | max_score: 0.9291167855262756 | count: 1

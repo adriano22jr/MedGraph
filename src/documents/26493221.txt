@@ -1,0 +1,14 @@
+MM63:CHx37 => compound | max_score: 0.8685487508773804 | count: 2
+Escherichia coli => bacteria | max_score: 0.9039201736450195 | count: 1
+antibacterial activity => activity | max_score: 0.6175740957260132 | count: 1
+human red blood cells => cell | max_score: 0.7357690930366516 | count: 1
+E. coli => bacteria | max_score: 0.5474817156791687 | count: 1
+GFP => molecule | max_score: 0.678209125995636 | count: 3
+osmoprotection machinery => biological_process | max_score: 0.6754598617553711 | count: 1
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.5925164818763733 | count: 1
+ProP => protein | max_score: 0.5768065452575684 | count: 1
+normal cells => cell | max_score: 0.5258179306983948 | count: 1
+osmoprotection => biological_process | max_score: 0.5283348560333252 | count: 1
+oxidative stress => biological_process | max_score: 0.5161068439483643 | count: 1
+anaerobic conditions => environmental_factor | max_score: 0.9524981379508972 | count: 1
+aerobic conditions => environmental_factor | max_score: 0.9333489537239075 | count: 1

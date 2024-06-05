@@ -1,0 +1,8 @@
+Escherichia coli => bacteria | max_score: 0.7584503293037415 | count: 1
+UPEC => bacteria | max_score: 0.757725179195404 | count: 3
+cecropin A => peptide | max_score: 0.6943905353546143 | count: 1
+CecA => peptide | max_score: 0.6766730546951294 | count: 3
+nalidixic acid => antibiotic | max_score: 0.7386176586151123 | count: 1
+outer membrane permeabilization => biological_process | max_score: 0.521850049495697 | count: 1
+efflux pump activity => activity | max_score: 0.8649928569793701 | count: 1
+pore-forming activity => activity | max_score: 0.6233806610107422 | count: 1

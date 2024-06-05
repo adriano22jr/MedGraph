@@ -1,0 +1,6 @@
+G(IIKK)3I-NH2 (G3) => peptide | max_score: 0.571143627166748 | count: 1
+MICs => lab_value | max_score: 0.5899649858474731 | count: 2
+G3 => peptide | max_score: 0.5282193422317505 | count: 2
+KI(KKII)2I-NH2 (KI) => peptide | max_score: 0.5657359957695007 | count: 1
+membrane-lytic activity => activity | max_score: 0.9166278839111328 | count: 1
+G(ILKK)3L-NH2 (GL) => peptide | max_score: 0.582795262336731 | count: 1

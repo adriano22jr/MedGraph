@@ -1,0 +1,7 @@
+KFF- EcH3 => peptide | max_score: 0.8450019359588623 | count: 2
+Escherichia coli => bacteria | max_score: 0.9473674297332764 | count: 1
+methionine aminopeptidase => enzyme | max_score: 0.9290591478347778 | count: 2
+MDR strains => bacteria | max_score: 0.5044516921043396 | count: 1
+KFF- NgH1 => peptide | max_score: 0.681481659412384 | count: 1
+Neisseria gonorrhoeae => bacteria | max_score: 0.9598482251167297 | count: 1
+human cervical epithelial cell model => cell_line | max_score: 0.8230687379837036 | count: 1

@@ -1,0 +1,14 @@
+Moringa oleifera => plant | max_score: 0.9788784980773926 | count: 1
+MCNDCGA peptide => peptide | max_score: 0.7469708919525146 | count: 1
+MOp3 => peptide | max_score: 0.8617381453514099 | count: 4
+Staphylococcus aureus => bacteria | max_score: 0.9822264909744263 | count: 1
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.6174201965332031 | count: 1
+2 mg/mL => volume | max_score: 0.7609087228775024 | count: 1
+hemolytic activity => activity | max_score: 0.9119055271148682 | count: 1
+MIC => lab_value | max_score: 0.6268619894981384 | count: 1
+salt solutions => environmental_factor | max_score: 0.6292235851287842 | count: 1
+high temperatures => environmental_factor | max_score: 0.5745323896408081 | count: 1
+acid protease => enzyme | max_score: 0.7526217699050903 | count: 1
+S. aureus => bacteria | max_score: 0.7674258947372437 | count: 2
+dihydrofolate reductase => enzyme | max_score: 0.9420416951179504 | count: 1
+DNA gyrase => enzyme | max_score: 0.9635241627693176 | count: 1

@@ -1,0 +1,8 @@
+Defensins => peptide | max_score: 0.8967262506484985 | count: 1
+host defence peptides => peptide | max_score: 0.5746968984603882 | count: 1
+HDPs => peptide | max_score: 0.7703836560249329 | count: 2
+anticancer activities => activity | max_score: 0.7352187633514404 | count: 1
+current antimicrobial and cancer treatments => treatment | max_score: 0.5759075880050659 | count: 1
+defensins => peptide | max_score: 0.8978078365325928 | count: 3
+membrane lipids => molecule | max_score: 0.5259700417518616 | count: 1
+tumour cells => cell | max_score: 0.8629759550094604 | count: 1

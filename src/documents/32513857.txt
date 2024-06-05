@@ -1,0 +1,16 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.8364788293838501 | count: 1
+conventional antibiotics => antibiotic | max_score: 0.6361681818962097 | count: 3
+MDR Klebsiella => bacteria | max_score: 0.8801152110099792 | count: 4
+innate effector systems => biological_process | max_score: 0.6699339151382446 | count: 1
+MDR K. pneumoniae => bacteria | max_score: 0.620439350605011 | count: 1
+human primary macrophages => cell_type | max_score: 0.7774485349655151 | count: 1
+vitamin D3 => compound | max_score: 0.848069965839386 | count: 3
+phenylbutyrate [PBA] => compound | max_score: 0.6689472794532776 | count: 1
+HO53 => compound | max_score: 0.6670067310333252 | count: 4
+PBA => compound | max_score: 0.5675194263458252 | count: 2
+Vitamin D3 => compound | max_score: 0.7724698185920715 | count: 1
+CAMP gene => gene | max_score: 0.9644932746887207 | count: 1
+CYBB gene => gene | max_score: 0.9732211828231812 | count: 2
+deletion => mutation | max_score: 0.5069527626037598 | count: 1
+skewed lyonization => biological_process | max_score: 0.5388378500938416 | count: 1
+K. pneumoniae => bacteria | max_score: 0.6001327037811279 | count: 1

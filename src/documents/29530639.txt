@@ -1,0 +1,13 @@
+mammary gland => anatomical_system | max_score: 0.671398401260376 | count: 1
+antibiotic delivery => treatment | max_score: 0.5378528237342834 | count: 1
+bovine fetal fibroblasts => cell_type | max_score: 0.7853639125823975 | count: 1
+reproductive system => anatomical_system | max_score: 0.9242920875549316 | count: 4
+mice => species | max_score: 0.5812512040138245 | count: 1
+Mice => species | max_score: 0.5368938446044922 | count: 1
+conventional milk => diet | max_score: 0.7398637533187866 | count: 2
+AIN93G diet => diet | max_score: 0.9406837821006775 | count: 1
+90 days => treatment_duration | max_score: 0.7964844703674316 | count: 1
+non-milk diet => diet | max_score: 0.9289628863334656 | count: 1
+serum sex hormone => lab_value | max_score: 0.6044318675994873 | count: 1
+sperm parameters => lab_value | max_score: 0.652097761631012 | count: 1
+estrus cycle => lab_value | max_score: 0.7104681134223938 | count: 1

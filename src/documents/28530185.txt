@@ -1,0 +1,15 @@
+CGGIGLMVG => peptide | max_score: 0.6439720392227173 | count: 3
+CGGGGGIGLMVG => peptide | max_score: 0.6309075951576233 | count: 3
+in vitro antimicrobial activities => activity | max_score: 0.6983464360237122 | count: 1
+Gram-positive => bacteria | max_score: 0.850959300994873 | count: 2
+Staphylococcus aureus => bacteria | max_score: 0.9539408087730408 | count: 1
+ATCC 43300 => bacteria | max_score: 0.5697891712188721 | count: 1
+Enterococcus faecalis => bacteria | max_score: 0.9506704807281494 | count: 1
+ATCC 5129 => bacteria | max_score: 0.6381654143333435 | count: 1
+Gram-negative => bacteria | max_score: 0.6827033758163452 | count: 1
+Escherichia coli => bacteria | max_score: 0.9641174077987671 | count: 1
+ATCC 35218 => bacteria | max_score: 0.6240176558494568 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9581058025360107 | count: 1
+ATCC 27853 => bacteria | max_score: 0.636691689491272 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.962427020072937 | count: 1
+ATCC 700603 => bacteria | max_score: 0.663215160369873 | count: 1

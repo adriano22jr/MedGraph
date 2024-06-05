@@ -1,0 +1,7 @@
+gene expression => biological_process | max_score: 0.5744369029998779 | count: 2
+CD14+ monocytes => cell_type | max_score: 0.8983874320983887 | count: 1
+CD4+ T cells => cell_type | max_score: 0.9196613430976868 | count: 1
+clinical traits => medical_term | max_score: 0.623340904712677 | count: 3
+barrier functions => molecular_function | max_score: 0.7930061221122742 | count: 1
+antimicrobial peptides => peptide | max_score: 0.799437403678894 | count: 1
+chemokines => gene | max_score: 0.5993748307228088 | count: 1

@@ -1,0 +1,10 @@
+antimicrobial activity => activity | max_score: 0.5051082372665405 | count: 1
+gram-positive microorganisms => bacteria | max_score: 0.6017234325408936 | count: 1
+RWRWRWRW => peptide | max_score: 0.5365126132965088 | count: 1
+AMP-1 => peptide | max_score: 0.5371904969215393 | count: 1
+KRFRIRVRV-NH2 => peptide | max_score: 0.8158087134361267 | count: 1
+AMP-2 => peptide | max_score: 0.5234939455986023 | count: 1
+P. aeruginosa => bacteria | max_score: 0.9654349088668823 | count: 1
+methicillin-resistant S. aureus => bacteria | max_score: 0.8286020159721375 | count: 1
+MRSA => bacteria | max_score: 0.5366383790969849 | count: 1
+keratinocytes => cell_type | max_score: 0.8820489048957825 | count: 1

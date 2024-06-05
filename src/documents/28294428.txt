@@ -1,0 +1,17 @@
+<30 weeks gestational age => age | max_score: 0.6172562837600708 | count: 1
+Bifidobacterium breve => bacteria | max_score: 0.8970628380775452 | count: 1
+supplementation => treatment | max_score: 0.6488358378410339 | count: 2
+B. breve => bacteria | max_score: 0.7327028512954712 | count: 3
+Peripheral blood => body_part | max_score: 0.9505875110626221 | count: 1
+infant stool => body_part | max_score: 0.8866050243377686 | count: 1
+day 21 => age | max_score: 0.6057481169700623 | count: 1
+lactoferrin => protein | max_score: 0.6455084085464478 | count: 1
+human cathelicidin => protein | max_score: 0.695341169834137 | count: 1
+secretory phospholipase A2 => enzyme | max_score: 0.9056774377822876 | count: 1
+plasma => body_part | max_score: 0.8047434091567993 | count: 2
+stool => body_part | max_score: 0.7021151781082153 | count: 1
+APP => protein | max_score: 0.6503690481185913 | count: 4
+whole blood => body_part | max_score: 0.5576921105384827 | count: 1
+S. epidermidis => bacteria | max_score: 0.6780501008033752 | count: 1
+Supplementation => treatment | max_score: 0.5909938216209412 | count: 1
+BPI => protein | max_score: 0.5082011222839355 | count: 1

@@ -1,0 +1,4 @@
+lactose => compound | max_score: 0.5535196661949158 | count: 1
+trehalose => compound | max_score: 0.6500122547149658 | count: 3
+AP114 => peptide | max_score: 0.7949771285057068 | count: 3
+antimicrobial activity => activity | max_score: 0.9404933452606201 | count: 2

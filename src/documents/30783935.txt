@@ -1,0 +1,17 @@
+Polymyxin => antibiotic | max_score: 0.8395474553108215 | count: 1
+multidrug-resistant gram-negative bacteria => bacteria | max_score: 0.7794519066810608 | count: 1
+colistin => antibiotic | max_score: 0.8392044305801392 | count: 6
+mice => subject | max_score: 0.6471017599105835 | count: 2
+control => treatment | max_score: 0.5149207711219788 | count: 1
+15 mg/kg/day => drug_dosage | max_score: 0.5625296235084534 | count: 1
+7 days => treatment_duration | max_score: 0.8699370622634888 | count: 2
+mice => species | max_score: 0.5876861810684204 | count: 2
+sciatic tissues => tissue | max_score: 0.6027276515960693 | count: 1
+Colistin => antibiotic | max_score: 0.8473916053771973 | count: 1
+oxidative stress => biological_process | max_score: 0.6396520733833313 | count: 2
+mitochondrial permeability transition => biological_process | max_score: 0.6220288276672363 | count: 1
+activities of mitochondrial respiratory chain => activity | max_score: 0.5335314273834229 | count: 1
+sciatic nerve tissues => tissue | max_score: 0.6113124489784241 | count: 1
+Na+/K+-ATPase => enzyme | max_score: 0.5673724412918091 | count: 1
+Bax => gene | max_score: 0.5996139645576477 | count: 1
+caspase-3 => gene | max_score: 0.6287015676498413 | count: 1

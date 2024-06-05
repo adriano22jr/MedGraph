@@ -1,0 +1,13 @@
+Ixodes scapularis => parasite | max_score: 0.8072918653488159 | count: 1
+proteases => protein | max_score: 0.8563152551651001 | count: 2
+protease inhibitors => protein | max_score: 0.7436336278915405 | count: 1
+unknown function proteins => protein | max_score: 0.7723278403282166 | count: 1
+immunity/antimicrobial => protein | max_score: 0.6825253367424011 | count: 1
+lipocalin => protein | max_score: 0.8611692786216736 | count: 1
+heme/iron binding => protein | max_score: 0.6953028440475464 | count: 1
+extracellular matrix/ cell adhesion => protein | max_score: 0.5322368741035461 | count: 1
+oxidant metabolism/ detoxification => molecular_function | max_score: 0.534105658531189 | count: 1
+transporter/ receptor related => protein | max_score: 0.6827924251556396 | count: 1
+cytoskeletal => protein | max_score: 0.7402057647705078 | count: 1
+housekeeping-like => protein | max_score: 0.7394950985908508 | count: 1
+metalloproteases => protein | max_score: 0.7193290591239929 | count: 1

@@ -1,0 +1,13 @@
+activities => activity | max_score: 0.5112632513046265 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9245945811271667 | count: 1
+achievable plasma concentrations => lab_value | max_score: 0.7978705167770386 | count: 1
+broad-spectrum activities => activity | max_score: 0.6937382221221924 | count: 1
+K. pneumoniae => bacteria | max_score: 0.7711831331253052 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9740692973136902 | count: 2
+Pseudomonas aeruginosa => bacteria | max_score: 0.973378598690033 | count: 1
+Citrobacter freundii => bacteria | max_score: 0.9691279530525208 | count: 1
+Enterobacter cloacae => bacteria | max_score: 0.9804896712303162 | count: 1
+Escherichia coli => bacteria | max_score: 0.9782105088233948 | count: 1
+Colistin-auranofin-ceftazidime => antibiotic | max_score: 0.7256414294242859 | count: 1
+colistin-auranofin-rifabutin => antibiotic | max_score: 0.6978057622909546 | count: 1
+rifabutin-colistin-imipenem => drug | max_score: 0.6321347951889038 | count: 1

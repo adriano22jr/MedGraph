@@ -1,0 +1,12 @@
+colistin => antibiotic | max_score: 0.911352813243866 | count: 2
+mcr-1 => gene | max_score: 0.9687761068344116 | count: 6
+Escherichia coli => bacteria | max_score: 0.9681052565574646 | count: 1
+E. coli => bacteria | max_score: 0.728326678276062 | count: 2
+MCREC => bacteria | max_score: 0.557780385017395 | count: 1
+IncI2 => gene | max_score: 0.7866149544715881 | count: 4
+IncHI2 => gene | max_score: 0.8146282434463501 | count: 4
+blaCTX-M-55 => gene | max_score: 0.9353671073913574 | count: 1
+blaCTX-M-14 => gene | max_score: 0.9394134283065796 | count: 1
+floR => gene | max_score: 0.956475019454956 | count: 1
+fosA3 => gene | max_score: 0.9553951025009155 | count: 1
+mcr-1-pap2 => gene | max_score: 0.5469057559967041 | count: 1

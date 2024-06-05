@@ -1,0 +1,10 @@
+Precision antimicrobials => antibiotic | max_score: 0.6957792043685913 | count: 1
+commensal bacteria => bacteria | max_score: 0.7354876399040222 | count: 2
+synthetic host defence peptide => peptide | max_score: 0.5237221717834473 | count: 1
+channel-forming membrane proteins => protein | max_score: 0.9352055788040161 | count: 1
+peptide sequence => peptide | max_score: 0.5710811018943787 | count: 1
+Mycobacterium tuberculosis => bacteria | max_score: 0.924830973148346 | count: 1
+host tissue => tissue | max_score: 0.9515182971954346 | count: 1
+mycobactericidal activity => activity | max_score: 0.8990466594696045 | count: 1
+transmembrane protein channels => protein | max_score: 0.6115763783454895 | count: 1
+antimycobacterial activity => activity | max_score: 0.8069756627082825 | count: 1

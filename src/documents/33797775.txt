@@ -1,0 +1,12 @@
+TLR => protein | max_score: 0.6697030663490295 | count: 2
+NLR => protein | max_score: 0.660777747631073 | count: 2
+equine mesenchymal stromal cells => cell_line | max_score: 0.5559203624725342 | count: 1
+MSCs => cell_line | max_score: 0.7990930080413818 | count: 2
+cathelicidin/LL-37 => peptide | max_score: 0.9202834367752075 | count: 1
+bactericidal action => biological_process | max_score: 0.6415344476699829 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.8019146919250488 | count: 1
+neutrophil phagocytosis => biological_process | max_score: 0.519560694694519 | count: 1
+culture absorbance => lab_value | max_score: 0.5839540958404541 | count: 1
+bactericidal activity => biological_process | max_score: 0.7444588541984558 | count: 2
+monocyte-chemoattractant-protein (MCP-1) => protein | max_score: 0.5748891830444336 | count: 1
+cathelicidin/LL37 => peptide | max_score: 0.9030901789665222 | count: 1

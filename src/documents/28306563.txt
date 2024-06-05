@@ -1,0 +1,10 @@
+Extended-spectrum β-lactamase => enzyme | max_score: 0.8703147768974304 | count: 1
+carbapenem-resistant Enterobacteriaceae (CRE) => bacteria | max_score: 0.6468552947044373 | count: 1
+WHO first-line and second-line recommended treatments => clinical_guideline | max_score: 0.610114574432373 | count: 1
+CRE => bacteria | max_score: 0.671196699142456 | count: 1
+old antibiotics => antibiotic | max_score: 0.6417856812477112 | count: 1
+colistin => antibiotic | max_score: 0.8670843839645386 | count: 1
+fosfomycin => antibiotic | max_score: 0.8691787123680115 | count: 1
+clinical outcomes => condition_outcome | max_score: 0.7985603213310242 | count: 2
+strategic trials => clinical_trial | max_score: 0.8470044136047363 | count: 1
+regulatory trials => clinical_trial | max_score: 0.8794659972190857 | count: 1

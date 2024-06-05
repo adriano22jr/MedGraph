@@ -1,0 +1,10 @@
+Lactophoricin => peptide | max_score: 0.7420864105224609 | count: 1
+LPcin => peptide | max_score: 0.7254215478897095 | count: 3
+proteose peptone => peptide | max_score: 0.5710437893867493 | count: 1
+bovine => species | max_score: 0.5591270327568054 | count: 1
+antimicrobial activities => activity | max_score: 0.8281151652336121 | count: 1
+LPcin-C8 => peptide | max_score: 0.5484377145767212 | count: 1
+LPcin-YK1 => peptide | max_score: 0.5713314414024353 | count: 1
+LPcin-YK2 => peptide | max_score: 0.5664977431297302 | count: 1
+LPcin-YK3 => peptide | max_score: 0.6647146344184875 | count: 1
+antibiotic activities => activity | max_score: 0.5962077379226685 | count: 1

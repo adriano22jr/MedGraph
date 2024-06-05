@@ -1,0 +1,10 @@
+IL-22 signaling pathway => biological_process | max_score: 0.6482668519020081 | count: 1
+IL-22 => protein | max_score: 0.738471508026123 | count: 6
+conventional immune cells => cell | max_score: 0.7589854598045349 | count: 1
+respiratory epithelial cells => cell | max_score: 0.8546987771987915 | count: 1
+anti-microbial peptides => peptide | max_score: 0.6432874798774719 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9791120290756226 | count: 1
+P. auruginosa => bacteria | max_score: 0.7592002153396606 | count: 1
+P. aeruginosa => bacteria | max_score: 0.8897773027420044 | count: 3
+protease IV => enzyme | max_score: 0.97025066614151 | count: 3
+type 2 secretion system-dependent serine protease => enzyme | max_score: 0.7482286691665649 | count: 1

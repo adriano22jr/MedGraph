@@ -1,0 +1,5 @@
+AMPs => peptide | max_score: 0.7955864071846008 | count: 8
+innate immune system => activity | max_score: 0.6446889042854309 | count: 1
+pathogenic bacteria => bacteria | max_score: 0.7894810438156128 | count: 1
+marine environment => environmental_factor | max_score: 0.9955787062644958 | count: 1
+computational tools => device | max_score: 0.6621060371398926 | count: 1

@@ -1,0 +1,9 @@
+Gram-negative bacterial pathogens => bacteria | max_score: 0.6039146780967712 | count: 1
+in vitro activity => activity | max_score: 0.5584495663642883 | count: 1
+EcDBS1R4 => peptide | max_score: 0.8455017805099487 | count: 6
+bacterial cells => cell | max_score: 0.6123344898223877 | count: 1
+model membrane systems => chemical_system | max_score: 0.5753617882728577 | count: 1
+Escherichia coli => bacteria | max_score: 0.9663282036781311 | count: 1
+E. coli => bacteria | max_score: 0.8705011606216431 | count: 3
+Staphylococcus aureus => bacteria | max_score: 0.9093055129051208 | count: 1
+human cells => cell | max_score: 0.8404097557067871 | count: 1

@@ -1,0 +1,9 @@
+Polymyxins => antibiotic | max_score: 0.6187539100646973 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9015116095542908 | count: 1
+polymyxins => drug | max_score: 0.6125621199607849 | count: 1
+susceptibility testing => diagnostic_procedure | max_score: 0.7684379816055298 | count: 5
+colistin => antibiotic | max_score: 0.8552119135856628 | count: 3
+polymyxins => antibiotic | max_score: 0.699298620223999 | count: 1
+mcr-1 => molecule | max_score: 0.5667183995246887 | count: 1
+mcr-2 => molecule | max_score: 0.5218167901039124 | count: 1
+mcr-3 => molecule | max_score: 0.5318752527236938 | count: 1

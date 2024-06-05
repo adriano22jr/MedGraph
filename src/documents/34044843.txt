@@ -1,0 +1,11 @@
+multidrug-resistant bacteria => bacteria | max_score: 0.6005550622940063 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5495596528053284 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.9532220959663391 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9720292091369629 | count: 1
+burn wound => body_part | max_score: 0.707055389881134 | count: 1
+rats => subject | max_score: 0.5535612106323242 | count: 2
+topical administration => treatment | max_score: 0.651835024356842 | count: 1
+A. baumannii => bacteria | max_score: 0.7642114162445068 | count: 2
+K. pneumoniae => bacteria | max_score: 0.6885260939598083 | count: 2
+re-epithelialization => biological_process | max_score: 0.5687745809555054 | count: 1
+granulation tissue => tissue | max_score: 0.8688036203384399 | count: 1

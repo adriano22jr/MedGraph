@@ -1,0 +1,15 @@
+Dermal fibroblasts => cell_type | max_score: 0.7323912978172302 | count: 1
+dFBs => cell_type | max_score: 0.6032823920249939 | count: 3
+adipocytes => cell_type | max_score: 0.8365195393562317 | count: 1
+cathelicidin => peptide | max_score: 0.9354504346847534 | count: 2
+Staphylococcus aureus => bacteria | max_score: 0.9338504076004028 | count: 1
+S. aureus => bacteria | max_score: 0.8900308012962341 | count: 2
+neonatal skin => body_part | max_score: 0.9465043544769287 | count: 1
+adipogenic dFBs => cell_type | max_score: 0.6730376482009888 | count: 1
+immature dermal fat => tissue | max_score: 0.8319979906082153 | count: 1
+dFBs => cell | max_score: 0.5618950724601746 | count: 1
+dermal fat => tissue | max_score: 0.7949762344360352 | count: 1
+adipogenesis => biological_process | max_score: 0.5306896567344666 | count: 1
+TGF-β => peptide | max_score: 0.5032872557640076 | count: 1
+adult mice => species | max_score: 0.6229296326637268 | count: 1
+skin => body_part | max_score: 0.5942095518112183 | count: 1

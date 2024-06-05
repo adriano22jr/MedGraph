@@ -1,0 +1,5 @@
+molecular descriptors => molecule | max_score: 0.6392554044723511 | count: 5
+antimicrobial peptides => peptide | max_score: 0.8565635681152344 | count: 3
+state-of-art prediction tools => device | max_score: 0.504697859287262 | count: 1
+antibacterial peptides => peptide | max_score: 0.6512746214866638 | count: 1
+antimicrobial activity => activity | max_score: 0.5090450644493103 | count: 1

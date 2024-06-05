@@ -1,0 +1,4 @@
+Bicontinuous microemulsions => chemical_system | max_score: 0.5837244987487793 | count: 1
+BμEs => chemical_system | max_score: 0.8673273324966431 | count: 4
+antibiotic-resistant microorganisms => organism | max_score: 0.602366030216217 | count: 1
+melittin => peptide | max_score: 0.9814168810844421 | count: 8

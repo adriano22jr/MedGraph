@@ -1,0 +1,5 @@
+sunlight exposure => environmental_factor | max_score: 0.9466660022735596 | count: 3
+oral health disorders => disease_disorder | max_score: 0.9247866868972778 | count: 1
+tooth mineralization => disease_disorder | max_score: 0.6124695539474487 | count: 1
+anti-inflammatory functions => biological_process | max_score: 0.6686873435974121 | count: 1
+anti-microbial peptides => peptide | max_score: 0.843829333782196 | count: 1

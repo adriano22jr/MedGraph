@@ -1,0 +1,14 @@
+colistin sulphate => antibiotic | max_score: 0.5524353981018066 | count: 1
+Gram-negative strains => bacteria | max_score: 0.62175452709198 | count: 1
+minimum plasma peak concentrations => lab_value | max_score: 0.6625083684921265 | count: 1
+phase 1 clinical study => clinical_trial | max_score: 0.963007926940918 | count: 1
+seven healthy subjects => subject | max_score: 0.6729906797409058 | count: 1
+q12h => drug_frequency | max_score: 0.830820620059967 | count: 1
+colistin methanesulfonate => antibiotic | max_score: 0.5992364287376404 | count: 1
+CMS => antibiotic | max_score: 0.5279015898704529 | count: 1
+Minimum bactericidal concentrations => lab_value | max_score: 0.6162448525428772 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.6415877938270569 | count: 1
+colistin-susceptible strains => bacteria | max_score: 0.6342596411705017 | count: 2
+Escherichia coli => bacteria | max_score: 0.7046454548835754 | count: 1
+colistin-resistant strains => bacteria | max_score: 0.6179234981536865 | count: 1
+colistin-resistant E. coli => bacteria | max_score: 0.647787868976593 | count: 3

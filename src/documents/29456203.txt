@@ -1,0 +1,15 @@
+colistin methanesulfonate => drug | max_score: 0.6117780804634094 | count: 1
+rats => species | max_score: 0.7757514715194702 | count: 1
+Animals => species | max_score: 0.6442624926567078 | count: 1
+CMS => drug | max_score: 0.5729836821556091 | count: 4
+seven days => treatment_duration | max_score: 0.8495901226997375 | count: 1
+two weeks => treatment_duration | max_score: 0.6320858001708984 | count: 4
+olive oil => diet | max_score: 0.8069543838500977 | count: 1
+plasma creatinine (pCr) => lab_value | max_score: 0.7169575095176697 | count: 1
+urine N-acetyl-b-D-glucosaminidase (NAG) => lab_value | max_score: 0.7380354404449463 | count: 1
+renal tissue => tissue | max_score: 0.6351335644721985 | count: 1
+superoxide dismutase => enzyme | max_score: 0.7495637536048889 | count: 1
+SOD => enzyme | max_score: 0.568227231502533 | count: 2
+glutathione reductase => enzyme | max_score: 0.8483540415763855 | count: 1
+GSH => enzyme | max_score: 0.6071499586105347 | count: 1
+Two weeks => treatment_duration | max_score: 0.6459161639213562 | count: 1

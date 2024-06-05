@@ -1,0 +1,14 @@
+LL37 => peptide | max_score: 0.9225143194198608 | count: 7
+antimicrobial peptide => peptide | max_score: 0.5392925143241882 | count: 1
+cell migration => biological_process | max_score: 0.6960011124610901 | count: 1
+cytokine production => biological_process | max_score: 0.7546499967575073 | count: 1
+apoptosis => biological_process | max_score: 0.858191728591919 | count: 1
+angiogenesis => biological_process | max_score: 0.8929466009140015 | count: 2
+vascularization => biological_process | max_score: 0.5838048458099365 | count: 1
+bone regeneration => biological_process | max_score: 0.6692408919334412 | count: 1
+BMP2 => protein | max_score: 0.5314154624938965 | count: 1
+MSCs => cell_type | max_score: 0.6943569779396057 | count: 2
+migration => biological_process | max_score: 0.5045517086982727 | count: 1
+MSCs => cell_line | max_score: 0.7266426682472229 | count: 1
+bacterial activity => activity | max_score: 0.8072826266288757 | count: 1
+mouse calvaria => tissue | max_score: 0.520326554775238 | count: 1

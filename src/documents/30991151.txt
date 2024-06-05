@@ -1,0 +1,15 @@
+penaeidins => peptide | max_score: 0.8275963068008423 | count: 1
+innate immunity => biological_process | max_score: 0.5824475884437561 | count: 1
+FmPEN3 => gene | max_score: 0.6723513603210449 | count: 8
+FmPEN5 => gene | max_score: 0.6744505167007446 | count: 4
+Fenneropenaeus merguiensis => species | max_score: 0.8189389109611511 | count: 1
+FmPEN5 => peptide | max_score: 0.7414958477020264 | count: 4
+hemocytes => cell_type | max_score: 0.9331613183021545 | count: 1
+gills => body_part | max_score: 0.8821297287940979 | count: 1
+epidermis => body_part | max_score: 0.8940215706825256 | count: 1
+nerve => body_part | max_score: 0.8500182032585144 | count: 1
+pyloric cecum => body_part | max_score: 0.8635151982307434 | count: 1
+Vibrio parahaemolyticus => bacteria | max_score: 0.8023768663406372 | count: 1
+Micrococcus lysodeikticus => fungus | max_score: 0.7620781064033508 | count: 1
+FmDorsal => gene | max_score: 0.553794801235199 | count: 1
+E. coli => bacteria | max_score: 0.6835893392562866 | count: 1

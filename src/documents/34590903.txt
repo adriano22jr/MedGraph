@@ -1,0 +1,8 @@
+Klebsiella pneumoniae => bacteria | max_score: 0.9669517278671265 | count: 1
+KPC-2-producing K. pneumoniae => bacteria | max_score: 0.8922754526138306 | count: 2
+outer membrane protein A => protein | max_score: 0.520460844039917 | count: 1
+OmpA => protein | max_score: 0.8841906785964966 | count: 2
+SlyB => protein | max_score: 0.88371741771698 | count: 2
+PhoPQ regulon => protein_family | max_score: 0.8934858441352844 | count: 1
+AcrA => protein | max_score: 0.929262101650238 | count: 2
+polymyxin B => antibiotic | max_score: 0.787507951259613 | count: 1

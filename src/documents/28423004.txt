@@ -1,0 +1,12 @@
+membrane permeabilization => biological_process | max_score: 0.5371752381324768 | count: 1
+defensins => protein | max_score: 0.5446194410324097 | count: 2
+HNP3 => peptide | max_score: 0.9047223925590515 | count: 2
+HNP4 => peptide | max_score: 0.8735292553901672 | count: 2
+HD5 => peptide | max_score: 0.8586809635162354 | count: 3
+human β-defensins => peptide | max_score: 0.54598069190979 | count: 1
+HBD1-4 => peptide | max_score: 0.6509969830513 | count: 1
+Escherichia coli => bacteria | max_score: 0.9836755394935608 | count: 1
+HD6 => peptide | max_score: 0.8687837719917297 | count: 3
+HBD1 => peptide | max_score: 0.8256369829177856 | count: 2
+E. coli => bacteria | max_score: 0.8247469663619995 | count: 3
+HBD4 => peptide | max_score: 0.8034133315086365 | count: 1

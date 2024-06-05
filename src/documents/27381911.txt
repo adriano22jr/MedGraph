@@ -1,0 +1,12 @@
+ribosomal synthesis => biological_process | max_score: 0.7264666557312012 | count: 1
+posttranslational modification => biological_process | max_score: 0.5045751333236694 | count: 1
+dedicated processing enzymes => enzyme | max_score: 0.6959810853004456 | count: 1
+micrococcin P1 => peptide | max_score: 0.5926657915115356 | count: 1
+MP1 => peptide | max_score: 0.5766011476516724 | count: 4
+Bacillus subtilis => bacteria | max_score: 0.9384545683860779 | count: 1
+promoter engineering => biological_process | max_score: 0.5036107301712036 | count: 1
+TclS => enzyme | max_score: 0.9394586086273193 | count: 1
+micrococcin P2 => peptide | max_score: 0.7230905294418335 | count: 1
+biosynthesis => biological_process | max_score: 0.5247209668159485 | count: 2
+B. subtilis => bacteria | max_score: 0.7575274705886841 | count: 1
+9-gene system => chemical_system | max_score: 0.6856675744056702 | count: 1

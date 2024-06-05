@@ -1,0 +1,13 @@
+Acute kidney injury => disease_disorder | max_score: 0.539165198802948 | count: 1
+septic shock => disease_disorder | max_score: 0.5581077933311462 | count: 2
+Angiopoietin levels => lab_value | max_score: 0.7600132822990417 | count: 1
+DHP-PMX => treatment | max_score: 0.597223162651062 | count: 2
+angiopoietin balance => lab_value | max_score: 0.549191415309906 | count: 1
+angiopoietin levels => lab_value | max_score: 0.7911087870597839 | count: 1
+DHP-PMX therapy => treatment | max_score: 0.8654562830924988 | count: 8
+enzyme-linked immunoassay => treatment | max_score: 0.5615620017051697 | count: 1
+renal function => lab_value | max_score: 0.6986098885536194 | count: 1
+less than 3 months => treatment_duration | max_score: 0.5976386666297913 | count: 1
+angiopoietin-1 level => lab_value | max_score: 0.5030638575553894 | count: 1
+mean angiopoietin-1 level => lab_value | max_score: 0.543036937713623 | count: 1
+mean angiopoietin-2 level => lab_value | max_score: 0.5351096987724304 | count: 1

@@ -1,0 +1,2 @@
+PE2 => peptide | max_score: 0.6992133259773254 | count: 2
+anti-bacterial activity => activity | max_score: 0.9639469981193542 | count: 1

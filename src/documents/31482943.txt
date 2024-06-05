@@ -1,0 +1,10 @@
+serum levels => lab_value | max_score: 0.812638521194458 | count: 1
+NACHT => peptide | max_score: 0.6224175691604614 | count: 1
+NLRP3 => protein | max_score: 0.8631221055984497 | count: 9
+LL-37 => peptide | max_score: 0.6754859089851379 | count: 7
+prospective study => study_design | max_score: 0.7460218071937561 | count: 1
+Serum levels => lab_value | max_score: 0.746779203414917 | count: 1
+serum => lab_value | max_score: 0.5970954298973083 | count: 2
+severe CAP => severity | max_score: 0.8738887906074524 | count: 1
+Patients => subject | max_score: 0.5709279775619507 | count: 1
+serum LL-37 => lab_value | max_score: 0.6106842756271362 | count: 1

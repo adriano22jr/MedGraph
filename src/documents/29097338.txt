@@ -1,0 +1,11 @@
+mcr-1 => gene | max_score: 0.8554357290267944 | count: 1
+colistin => antibiotic | max_score: 0.8642309308052063 | count: 3
+Klebsiella pneumoniae => bacteria | max_score: 0.6297575235366821 | count: 1
+KPC-KP => bacteria | max_score: 0.7381604909896851 | count: 7
+mgrB gene => gene | max_score: 0.9116659760475159 | count: 1
+ISL3 => mutation | max_score: 0.7923935055732727 | count: 6
+Clonal expansion => biological_process | max_score: 0.6106756925582886 | count: 1
+mgrB => gene | max_score: 0.8130125999450684 | count: 5
+pKpQIL-like plasmids => mutation | max_score: 0.5679312348365784 | count: 2
+Colistin => antibiotic | max_score: 0.8401419520378113 | count: 1
+insertion sequences => molecule | max_score: 0.5437494516372681 | count: 1

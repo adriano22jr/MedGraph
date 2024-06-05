@@ -1,0 +1,15 @@
+polymyxin antibiotics => antibiotic | max_score: 0.666572093963623 | count: 2
+polymyxin B => antibiotic | max_score: 0.8959959745407104 | count: 1
+colistin => antibiotic | max_score: 0.8980996608734131 | count: 4
+Candida => fungus | max_score: 0.948225736618042 | count: 2
+Cryptococcus => fungus | max_score: 0.9627988934516907 | count: 1
+Rhodotorula => fungus | max_score: 0.9137656688690186 | count: 1
+Aspergillus => fungus | max_score: 0.8348857164382935 | count: 2
+Fusarium => fungus | max_score: 0.5733118057250977 | count: 1
+Scedosporium => fungus | max_score: 0.7170059084892273 | count: 1
+Lichtheimia => fungus | max_score: 0.6948829293251038 | count: 1
+Rhizopus => species | max_score: 0.5970391035079956 | count: 1
+amphotericin B => antibiotic | max_score: 0.8633568286895752 | count: 1
+itraconazole => antibiotic | max_score: 0.7795583009719849 | count: 1
+voriconazole => antibiotic | max_score: 0.7658262252807617 | count: 1
+MICs => lab_value | max_score: 0.834622859954834 | count: 2

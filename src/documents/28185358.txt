@@ -1,0 +1,13 @@
+AmyI-1-18 => peptide | max_score: 0.8550012707710266 | count: 13
+rice => bacteria | max_score: 0.6524502635002136 | count: 1
+AmyI-1 => peptide | max_score: 0.6166670322418213 | count: 1
+endotoxic activity => activity | max_score: 0.7117831110954285 | count: 1
+lipopolysaccharide => molecule | max_score: 0.6240702867507935 | count: 1
+LPS => molecule | max_score: 0.7610512375831604 | count: 3
+Escherichia coli => bacteria | max_score: 0.9764278531074524 | count: 1
+mouse macrophages => cell_line | max_score: 0.7483881115913391 | count: 1
+RAW264 => cell_line | max_score: 0.9304292798042297 | count: 2
+anti-endotoxic activity => activity | max_score: 0.781981348991394 | count: 2
+G12R => molecule | max_score: 0.6765141487121582 | count: 1
+D15R => molecule | max_score: 0.5750608444213867 | count: 1
+E9L => molecule | max_score: 0.5637028813362122 | count: 1

@@ -1,0 +1,9 @@
+Bacteriophage => bacteria | max_score: 0.8069741129875183 | count: 1
+endolysins => protein | max_score: 0.8369794487953186 | count: 4
+conventional antibiotics => antibiotic | max_score: 0.6998338103294373 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.9308848977088928 | count: 1
+nutrient rich environments => environmental_factor | max_score: 0.9855802059173584 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5288605093955994 | count: 1
+AMPs => peptide | max_score: 0.6503611207008362 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9552661776542664 | count: 1
+S. aureus => bacteria | max_score: 0.6344282031059265 | count: 2

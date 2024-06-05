@@ -1,0 +1,15 @@
+Malabar grouper => species | max_score: 0.6497266888618469 | count: 1
+Epinephelus malabaricus => species | max_score: 0.8947519063949585 | count: 1
+EmPis-1 => peptide | max_score: 0.8217642307281494 | count: 10
+EmPis-2 => peptide | max_score: 0.8017207384109497 | count: 9
+mRNA => molecule | max_score: 0.7716846466064453 | count: 2
+head kidney => body_part | max_score: 0.506702721118927 | count: 1
+peripheral blood leukocytes (PBL) => tissue | max_score: 0.6983799934387207 | count: 1
+spleen => tissue | max_score: 0.906281054019928 | count: 2
+V. parahaemolyticus => bacteria | max_score: 0.6827755570411682 | count: 1
+microbicidal activities => activity | max_score: 0.8742572069168091 | count: 1
+hemolytic activity => activity | max_score: 0.9169265627861023 | count: 1
+rabbit erythrocytes => tissue | max_score: 0.8693020343780518 | count: 2
+piscidins => peptide | max_score: 0.6782084107398987 | count: 3
+microbicidal activity => activity | max_score: 0.7478172779083252 | count: 1
+cecropin superfamily => protein_family | max_score: 0.9294020533561707 | count: 1

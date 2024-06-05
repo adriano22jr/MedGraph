@@ -1,0 +1,13 @@
+Cellular senescence => biological_process | max_score: 0.6952390074729919 | count: 1
+proinflammatory phenotype => biological_process | max_score: 0.5961048603057861 | count: 3
+senescent endothelial cells => cell_type | max_score: 0.8050984144210815 | count: 9
+atherosclerotic lesions => tissue | max_score: 0.6557283401489258 | count: 1
+LL‑37 => peptide | max_score: 0.8617963194847107 | count: 6
+cathelicidin family => protein_family | max_score: 0.9545319080352783 | count: 1
+human endothelial cells => cell_line | max_score: 0.8620388507843018 | count: 1
+ICAM‑1 => protein | max_score: 0.7555963397026062 | count: 3
+NF‑κB p65 => protein | max_score: 0.868965744972229 | count: 3
+LPS => molecule | max_score: 0.6334520578384399 | count: 5
+toll‑like receptor 4 (TLR4) => protein | max_score: 0.7002708911895752 | count: 1
+purinergic receptor P2X 7 (P2X7) => protein | max_score: 0.6223839521408081 | count: 1
+TLR4 => protein | max_score: 0.5545352101325989 | count: 1

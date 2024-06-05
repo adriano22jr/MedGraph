@@ -1,0 +1,8 @@
+Surfactin => peptide | max_score: 0.8791401982307434 | count: 2
+iturin => peptide | max_score: 0.8817436099052429 | count: 5
+Bacillus spp. => bacteria | max_score: 0.9207559823989868 | count: 1
+surfactin => peptide | max_score: 0.9339714050292969 | count: 3
+Bacillus natto NT-6 => bacteria | max_score: 0.8577769994735718 | count: 2
+v/v => volume | max_score: 0.9176547527313232 | count: 4
+mg L-1 => volume | max_score: 0.7077609300613403 | count: 2
+RSD values => lab_value | max_score: 0.505042552947998 | count: 1

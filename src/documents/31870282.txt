@@ -1,0 +1,2 @@
+antimicrobial peptides => peptide | max_score: 0.6384773850440979 | count: 1
+AMPs => peptide | max_score: 0.6885399222373962 | count: 2

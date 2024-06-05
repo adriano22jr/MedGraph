@@ -1,0 +1,13 @@
+C-type lectins => protein | max_score: 0.6377236247062683 | count: 1
+Reg3 family => protein_family | max_score: 0.9777458906173706 | count: 2
+antimicrobial peptides => peptide | max_score: 0.7212482690811157 | count: 1
+AMPs => peptide | max_score: 0.5724660754203796 | count: 1
+body surfaces => body_part | max_score: 0.5535261034965515 | count: 1
+microorganisms => organism | max_score: 0.6421144604682922 | count: 1
+Reg3 => protein_family | max_score: 0.5182945728302002 | count: 1
+small intestine => body_part | max_score: 0.9104094505310059 | count: 1
+host defense process => activity | max_score: 0.7939199209213257 | count: 1
+bactericidal activity => activity | max_score: 0.978142499923706 | count: 1
+microbiota => organism | max_score: 0.5635510087013245 | count: 1
+immune response => biological_process | max_score: 0.5577425956726074 | count: 1
+enteric pathogens => organism | max_score: 0.6949742436408997 | count: 1

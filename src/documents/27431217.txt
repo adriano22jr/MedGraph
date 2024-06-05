@@ -1,0 +1,4 @@
+membrane translocation => biological_process | max_score: 0.7476766705513 | count: 1
+spheroplasts => cell_type | max_score: 0.7611241340637207 | count: 2
+Spheroplasts => cell_type | max_score: 0.7526930570602417 | count: 1
+normal bacterial cells => cell | max_score: 0.6888933181762695 | count: 1

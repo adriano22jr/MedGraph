@@ -1,0 +1,8 @@
+Plant defensins => peptide | max_score: 0.8503179550170898 | count: 1
+plant defensins => peptide | max_score: 0.8574275970458984 | count: 3
+anti-insect => activity | max_score: 0.5644897222518921 | count: 1
+antimicrobial activities => activity | max_score: 0.8084890246391296 | count: 1
+ion channels => protein | max_score: 0.6942092776298523 | count: 1
+antitumor activity => activity | max_score: 0.8149265646934509 | count: 1
+antibiofilm activity => activity | max_score: 0.7606124877929688 | count: 1
+human cells => cell | max_score: 0.814027726650238 | count: 1

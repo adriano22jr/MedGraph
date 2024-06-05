@@ -1,0 +1,5 @@
+Polymyxins => antibiotic | max_score: 0.760504424571991 | count: 1
+multidrug resistant bacteria => bacteria | max_score: 0.939024031162262 | count: 1
+antibiotics => antibiotic | max_score: 0.6092478632926941 | count: 1
+serum proteins => protein | max_score: 0.8273090720176697 | count: 1
+free drug concentration => lab_value | max_score: 0.718810498714447 | count: 1

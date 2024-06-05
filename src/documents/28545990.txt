@@ -1,0 +1,9 @@
+November 2015 => date | max_score: 0.9946420192718506 | count: 1
+mcr-1 => gene | max_score: 0.982579231262207 | count: 5
+animals => bacteria | max_score: 0.5032249689102173 | count: 1
+mcr-2 => gene | max_score: 0.9732977747917175 | count: 3
+Escherichia coli => bacteria | max_score: 0.824897825717926 | count: 1
+MICs => lab_value | max_score: 0.6485491991043091 | count: 1
+cephalosporins => antibiotic | max_score: 0.9077416658401489 | count: 1
+fluoroquinolones => antibiotic | max_score: 0.8776625394821167 | count: 1
+E. coli => bacteria | max_score: 0.6952555179595947 | count: 2

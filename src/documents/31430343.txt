@@ -1,0 +1,13 @@
+Biofilm formation => biological_process | max_score: 0.9427820444107056 | count: 2
+bacteria => bacteria | max_score: 0.6154784560203552 | count: 4
+environment => environmental_factor | max_score: 0.6456729173660278 | count: 1
+Vibrio cholerae => bacteria | max_score: 0.9070170521736145 | count: 1
+V. cholerae => bacteria | max_score: 0.8124947547912598 | count: 6
+Gram-negative pathogen => bacteria | max_score: 0.6512168645858765 | count: 1
+pathogenesis => biological_process | max_score: 0.5860849618911743 | count: 1
+surface => environmental_factor | max_score: 0.6724411845207214 | count: 2
+maturation stages => biological_process | max_score: 0.6609258055686951 | count: 1
+biofilm formation => biological_process | max_score: 0.9085607528686523 | count: 5
+polymyxin B => peptide | max_score: 0.6920173168182373 | count: 1
+PmB => peptide | max_score: 0.6187179684638977 | count: 6
+flagellin => protein | max_score: 0.5484169721603394 | count: 2

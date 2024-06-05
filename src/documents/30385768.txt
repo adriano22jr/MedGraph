@@ -1,0 +1,10 @@
+Ginseng => plant | max_score: 0.7140030264854431 | count: 1
+ginsentides => peptide | max_score: 0.7332310676574707 | count: 4
+ginseng => plant | max_score: 0.824461817741394 | count: 2
+Panax ginseng => plant | max_score: 0.8630241751670837 | count: 1
+Panax quinquefolius => species | max_score: 0.83624267578125 | count: 1
+Panax notoginseng => species | max_score: 0.8553845882415771 | count: 1
+TP1-TP14 => peptide | max_score: 0.5570263266563416 | count: 1
+Ginsentides => peptide | max_score: 0.6898497939109802 | count: 1
+8C-HLP => protein_family | max_score: 0.7201472520828247 | count: 2
+8C-HLPs => protein_family | max_score: 0.6751555800437927 | count: 2

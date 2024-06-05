@@ -1,0 +1,13 @@
+APK => peptide | max_score: 0.844002902507782 | count: 6
+petide => peptide | max_score: 0.5531747341156006 | count: 1
+A6K => peptide | max_score: 0.6815670728683472 | count: 1
+paclitaxel => drug | max_score: 0.8190789222717285 | count: 1
+doxorubicin => drug | max_score: 0.8013883829116821 | count: 1
+etomidate => drug | max_score: 0.7604908347129822 | count: 1
+propofol => drug | max_score: 0.8722373843193054 | count: 2
+E. coli => bacteria | max_score: 0.9658925533294678 | count: 1
+S. aureus => bacteria | max_score: 0.9740739464759827 | count: 1
+C. albicans => fungus | max_score: 0.9634950757026672 | count: 1
+Etomidate => drug | max_score: 0.7677208781242371 | count: 1
+antimicrobial activity => activity | max_score: 0.7676886320114136 | count: 1
+self-antimicrobial activity => activity | max_score: 0.6369996666908264 | count: 1

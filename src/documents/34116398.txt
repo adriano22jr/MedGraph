@@ -1,0 +1,8 @@
+β-lactam antibiotics => antibiotic | max_score: 0.7828961610794067 | count: 1
+bacteria => bacteria | max_score: 0.860613226890564 | count: 4
+β-lactamase enzymes => enzyme | max_score: 0.9433212876319885 | count: 1
+plant-based drugs => plant | max_score: 0.6468378901481628 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7095662355422974 | count: 1
+bacteriophage therapy => treatment | max_score: 0.6972538232803345 | count: 1
+RNA silencing => treatment | max_score: 0.5799006819725037 | count: 1
+antimicrobial peptides => antibiotic | max_score: 0.5955228209495544 | count: 1

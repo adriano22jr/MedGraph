@@ -1,0 +1,10 @@
+immunoregulatory function => biological_process | max_score: 0.5651839971542358 | count: 1
+GM-CSF => molecule | max_score: 0.515283465385437 | count: 1
+monocytes => cell_type | max_score: 0.5197216868400574 | count: 1
+immature dendritic cells (DCs) => cell_type | max_score: 0.6450039148330688 | count: 1
+moDCs => cell_type | max_score: 0.7158788442611694 | count: 3
+LPS => molecule | max_score: 0.6408834457397461 | count: 1
+apoptosis => biological_process | max_score: 0.5634903311729431 | count: 1
+CCR6 => protein | max_score: 0.5158220529556274 | count: 1
+CD4 + T cells => cell_type | max_score: 0.5088955760002136 | count: 1
+infant nutrition => diet | max_score: 0.6574088335037231 | count: 1

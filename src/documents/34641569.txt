@@ -1,0 +1,14 @@
+Peptaibols => peptide | max_score: 0.8787162899971008 | count: 1
+Trichoderma species => fungus | max_score: 0.8180338144302368 | count: 1
+peptaibols => peptide | max_score: 0.8932377099990845 | count: 3
+Trichoderma atroviride O1 => fungus | max_score: 0.8484260439872742 | count: 1
+multidrug-resistant bacterium => bacteria | max_score: 0.5203920602798462 | count: 1
+cancer cell lines => cell_line | max_score: 0.7970656752586365 | count: 1
+peptaibol synthetase-encoding gene => enzyme | max_score: 0.7667213678359985 | count: 1
+Atroviridins => peptide | max_score: 0.8552886843681335 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.8997449278831482 | count: 1
+T. atroviride O1 => fungus | max_score: 0.5201351642608643 | count: 1
+biolo-gical activity => activity | max_score: 0.7966534495353699 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9043081998825073 | count: 1
+human ovarian cancer cell lines => cell_line | max_score: 0.7749733924865723 | count: 1
+multidrug-resistant sublines => cell_line | max_score: 0.6713525652885437 | count: 1

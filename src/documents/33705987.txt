@@ -1,0 +1,8 @@
+Gram-negative bacteria => bacteria | max_score: 0.7273890376091003 | count: 1
+pGQ-DG => compound | max_score: 0.726655125617981 | count: 5
+Pseudomonas aeruginosa => bacteria | max_score: 0.8997611403465271 | count: 1
+P. aeruginosa => bacteria | max_score: 0.8766034841537476 | count: 7
+deferoxamine => antibiotic | max_score: 0.6407903432846069 | count: 1
+vancomycin => antibiotic | max_score: 0.7334902286529541 | count: 1
+colistin => antibiotic | max_score: 0.8390570282936096 | count: 4
+antimicrobial activity => activity | max_score: 0.5006700158119202 | count: 1

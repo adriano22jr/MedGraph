@@ -1,0 +1,4 @@
+mcr-1 => gene | max_score: 0.9594555497169495 | count: 1
+2015 => date | max_score: 0.9821370244026184 | count: 1
+MCR-family genes => protein_family | max_score: 0.8250254392623901 | count: 1
+MCR family => protein_family | max_score: 0.6000802516937256 | count: 1

@@ -1,0 +1,11 @@
+AMPs => peptide | max_score: 0.525655210018158 | count: 1
+antibacterial activity => activity | max_score: 0.7800562381744385 | count: 1
+in vivo settings => environmental_factor | max_score: 0.8276221752166748 | count: 1
+activity => activity | max_score: 0.6988105177879333 | count: 2
+Gram-negative bacteria => bacteria | max_score: 0.8385776281356812 | count: 1
+MIC values => lab_value | max_score: 0.9484142065048218 | count: 1
+clinical trials => clinical_trial | max_score: 0.9004343152046204 | count: 1
+polymyxin B => antibiotic | max_score: 0.6853452324867249 | count: 1
+side effects => side_effect | max_score: 0.8883805274963379 | count: 1
+complement proteins => protein | max_score: 0.8062891960144043 | count: 1
+clotting factors => protein | max_score: 0.5170377492904663 | count: 1

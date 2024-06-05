@@ -1,0 +1,15 @@
+Ghrelin => peptide | max_score: 0.9259656667709351 | count: 1
+feeding => biological_process | max_score: 0.7407942414283752 | count: 3
+blood glucose => lab_value | max_score: 0.8245190978050232 | count: 2
+body temperature => lab_value | max_score: 0.6066847443580627 | count: 2
+LEAP2 => peptide | max_score: 0.6586035490036011 | count: 6
+ghrelin => peptide | max_score: 0.9241763949394226 | count: 2
+body weight => weight | max_score: 0.7330095171928406 | count: 2
+glycemia => lab_value | max_score: 0.5443002581596375 | count: 1
+body temperature => weight | max_score: 0.5366010069847107 | count: 2
+liver => body_part | max_score: 0.8710976839065552 | count: 2
+C57BL/6 J mice => species | max_score: 0.7868001461029053 | count: 3
+Ghsr-KO mice => species | max_score: 0.5894697308540344 | count: 1
+mice => species | max_score: 0.562555730342865 | count: 1
+Il-6 => protein | max_score: 0.5845739841461182 | count: 1
+Il-1β => protein | max_score: 0.5503550171852112 | count: 1

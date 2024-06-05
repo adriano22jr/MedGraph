@@ -1,0 +1,13 @@
+metamorphosis => biological_process | max_score: 0.7878320217132568 | count: 4
+larval gut => body_part | max_score: 0.7881959676742554 | count: 2
+bactericidal activity => biological_process | max_score: 0.8475674986839294 | count: 1
+insect gut => body_part | max_score: 0.5129283666610718 | count: 1
+moulting pathway => biological_process | max_score: 0.5984951257705688 | count: 1
+Galleria mellonella => species | max_score: 0.9332841634750366 | count: 1
+Gryllus bimaculatus => species | max_score: 0.9309396743774414 | count: 1
+G. mellonella => species | max_score: 0.5508420467376709 | count: 1
+GmEts => enzyme | max_score: 0.527426540851593 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5427331924438477 | count: 1
+AMPs => peptide | max_score: 0.6195192337036133 | count: 1
+lysozyme => enzyme | max_score: 0.8799960613250732 | count: 1
+Gr. bimaculatus => species | max_score: 0.5567004680633545 | count: 1

@@ -1,0 +1,17 @@
+Nosema ceranae => parasite | max_score: 0.9380915760993958 | count: 1
+energetic stress => environmental_factor | max_score: 0.9114313125610352 | count: 1
+immune system => biological_process | max_score: 0.6037008762359619 | count: 1
+Porphyrins => drug | max_score: 0.6548376679420471 | count: 2
+honeybees => species | max_score: 0.6849201917648315 | count: 4
+Apis mellifera => species | max_score: 0.8109897375106812 | count: 1
+laboratory conditions => environmental_factor | max_score: 0.7603362202644348 | count: 1
+hemolymph => body_part | max_score: 0.9141934514045715 | count: 2
+porphyrin molecules => molecule | max_score: 0.6144855618476868 | count: 1
+hemocoel => body_part | max_score: 0.8486887216567993 | count: 1
+Phenoloxidase => enzyme | max_score: 0.8648825883865356 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5435367226600647 | count: 1
+abaecin => peptide | max_score: 0.8538067936897278 | count: 1
+defensin => peptide | max_score: 0.7952221632003784 | count: 1
+hymenoptaecin => peptide | max_score: 0.8585245609283447 | count: 1
+phenoloxidase => enzyme | max_score: 0.931165337562561 | count: 1
+PO activity => activity | max_score: 0.6823861002922058 | count: 3

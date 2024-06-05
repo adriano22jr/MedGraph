@@ -1,0 +1,7 @@
+Antimicrobial Peptides => peptide | max_score: 0.5430827140808105 | count: 1
+AMPs => peptide | max_score: 0.6821016073226929 | count: 10
+plants => plant | max_score: 0.9580293893814087 | count: 2
+broad-spectrum antimicrobial activity => activity | max_score: 0.8162118792533875 | count: 1
+rapid killing action => activity | max_score: 0.5667452812194824 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7187659740447998 | count: 1
+plant => plant | max_score: 0.545866847038269 | count: 1

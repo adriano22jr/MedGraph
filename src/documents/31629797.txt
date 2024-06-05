@@ -1,0 +1,14 @@
+Acinetobacter junii => bacteria | max_score: 0.8916642665863037 | count: 1
+MIC => lab_value | max_score: 0.7535232305526733 | count: 2
+Gram-positive => bacteria | max_score: 0.7811947464942932 | count: 2
+Gram-negative => bacteria | max_score: 0.7845089435577393 | count: 2
+anti-biofilm activity => activity | max_score: 0.7789014577865601 | count: 1
+antibacterial activity => activity | max_score: 0.5798373818397522 | count: 1
+Candida utilis => fungus | max_score: 0.9954589605331421 | count: 1
+Proteus mirabilis => bacteria | max_score: 0.9047167897224426 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9444819092750549 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9701830148696899 | count: 1
+IC50 => lab_value | max_score: 0.8382715582847595 | count: 1
+U87 => cell_line | max_score: 0.9655247926712036 | count: 1
+KB => cell_line | max_score: 0.9611508846282959 | count: 1
+HUVEC => cell_line | max_score: 0.942488431930542 | count: 1

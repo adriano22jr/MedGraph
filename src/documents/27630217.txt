@@ -1,0 +1,10 @@
+Francisella tularensis => bacteria | max_score: 0.7714539170265198 | count: 1
+anti-inflammatory environment => environmental_factor | max_score: 0.827577531337738 | count: 1
+host-cell death programs => biological_process | max_score: 0.547936201095581 | count: 1
+PGE2 => molecule | max_score: 0.534085214138031 | count: 1
+murine monocytes => cell_type | max_score: 0.6602275967597961 | count: 1
+apoptotic cell death => biological_process | max_score: 0.5086438059806824 | count: 1
+neutrophils => cell_type | max_score: 0.7824721336364746 | count: 1
+5-LO activity => biological_process | max_score: 0.6607455015182495 | count: 1
+antibiotics => antibiotic | max_score: 0.7178993821144104 | count: 1
+conventional antimicrobial peptides => antibiotic | max_score: 0.5604811310768127 | count: 1

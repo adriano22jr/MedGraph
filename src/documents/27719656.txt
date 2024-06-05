@@ -1,0 +1,14 @@
+Plant defensins => protein_family | max_score: 0.6717503070831299 | count: 1
+insecticidal activities => activity | max_score: 0.6266703009605408 | count: 1
+EgDFS => gene | max_score: 0.7196845412254333 | count: 4
+Elaeis guineensis => plant | max_score: 0.9069691896438599 | count: 1
+predicted molecular weight => weight | max_score: 0.5275775194168091 | count: 1
+8.69 kDa => weight | max_score: 0.6132031679153442 | count: 1
+potential signal peptide => peptide | max_score: 0.7387032508850098 | count: 1
+plant defensins => protein_family | max_score: 0.7361677289009094 | count: 1
+EgDFSm => gene | max_score: 0.5185931921005249 | count: 1
+Escherichia coli BL21 (DE3) => bacteria | max_score: 0.7818660736083984 | count: 1
+EgDFSm => peptide | max_score: 0.5815672278404236 | count: 1
+inhibitory activity => activity | max_score: 0.8316713571548462 | count: 1
+G. boninense => fungus | max_score: 0.9124953150749207 | count: 2
+starch assimilation => activity | max_score: 0.6733724474906921 | count: 1

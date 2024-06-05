@@ -1,0 +1,15 @@
+tyramine => compound | max_score: 0.8175873160362244 | count: 2
+octopamine => compound | max_score: 0.7373676300048828 | count: 3
+octopaminergic synthesis pathway => biological_process | max_score: 0.6604534387588501 | count: 1
+Litopenaeus vannamei => species | max_score: 0.9171591401100159 | count: 1
+Tyrosine decarboxylase => enzyme | max_score: 0.7617125511169434 | count: 1
+TDC => enzyme | max_score: 0.6686105132102966 | count: 2
+brain => body_part | max_score: 0.5174396634101868 | count: 1
+LvTDC => gene | max_score: 0.6599956154823303 | count: 7
+nervous thoracic ganglia => body_part | max_score: 0.6075795888900757 | count: 1
+hyaline cells => cell | max_score: 0.8365530967712402 | count: 1
+antimicrobial peptides => peptide | max_score: 0.9406232833862305 | count: 1
+phagocytic activity => activity | max_score: 0.9853633642196655 | count: 1
+clearance efficiency => activity | max_score: 0.5813053846359253 | count: 1
+Vibrio alginolyticus => bacteria | max_score: 0.834769070148468 | count: 1
+L. vannamei => species | max_score: 0.6349233984947205 | count: 1

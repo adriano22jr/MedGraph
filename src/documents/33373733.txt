@@ -1,0 +1,8 @@
+humans => species | max_score: 0.8634141683578491 | count: 1
+pigs => species | max_score: 0.9023669362068176 | count: 1
+PrAMPs => peptide | max_score: 0.5762455463409424 | count: 1
+K. pneumoniae => bacteria | max_score: 0.847267210483551 | count: 6
+piglets => species | max_score: 0.8326868414878845 | count: 1
+Api137 => peptide | max_score: 0.9181349873542786 | count: 6
+Api802 => peptide | max_score: 0.8562940955162048 | count: 1
+cefquinome => antibiotic | max_score: 0.591049313545227 | count: 1

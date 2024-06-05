@@ -1,0 +1,7 @@
+Antimicrobial peptides => peptide | max_score: 0.6248534917831421 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6123552322387695 | count: 1
+non-cancerous cells => cell_type | max_score: 0.6203671097755432 | count: 1
+Nisin => peptide | max_score: 0.9201728701591492 | count: 1
+apoptotic cell death => biological_process | max_score: 0.550796627998352 | count: 1
+cancer cell lines => cell_line | max_score: 0.8629082441329956 | count: 1
+nisin => peptide | max_score: 0.9340314865112305 | count: 4

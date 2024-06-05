@@ -1,0 +1,6 @@
+classical antibiotics => antibiotic | max_score: 0.5691437125205994 | count: 1
+pleurocidin => peptide | max_score: 0.9012632966041565 | count: 2
+Winter Flounder => species | max_score: 0.8803524971008301 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.96077561378479 | count: 1
+intravenous dose => drug_dosage | max_score: 0.8640803694725037 | count: 1
+vancomycin => antibiotic | max_score: 0.8706105947494507 | count: 1

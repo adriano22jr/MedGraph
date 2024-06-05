@@ -1,0 +1,14 @@
+Biomaterial implants => device | max_score: 0.7783103585243225 | count: 1
+medical devices => device | max_score: 0.7148302793502808 | count: 1
+Ag => compound | max_score: 0.6210808157920837 | count: 1
+Cu => compound | max_score: 0.6097000241279602 | count: 1
+ZnO => compound | max_score: 0.6258069276809692 | count: 1
+MoS₂ => compound | max_score: 0.5993761420249939 | count: 1
+nitride compound => compound | max_score: 0.7586891055107117 | count: 1
+antibiotic => compound | max_score: 0.7353215217590332 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7344353795051575 | count: 1
+polymer => compound | max_score: 0.6775076985359192 | count: 1
+essential oils => compound | max_score: 0.5328713655471802 | count: 1
+antimicrobial coatings => device | max_score: 0.5126392841339111 | count: 1
+in vitro => study_design | max_score: 0.6211968660354614 | count: 1
+in vivo => study_design | max_score: 0.5598778128623962 | count: 1

@@ -1,0 +1,9 @@
+Helicobacter pylori => bacteria | max_score: 0.8706987500190735 | count: 1
+H. pylori => bacteria | max_score: 0.8532027006149292 | count: 2
+gastric ulcers => disease_disorder | max_score: 0.5811988711357117 | count: 1
+type IV secretion system (T4SS) => biological_process | max_score: 0.5770789384841919 | count: 1
+bacterial cells => cell | max_score: 0.6946851015090942 | count: 1
+T4SS => biological_process | max_score: 0.5053478479385376 | count: 1
+VirB11 ATPase => protein | max_score: 0.7144434452056885 | count: 1
+HP0525 => protein | max_score: 0.8342114686965942 | count: 5
+8-amino imidazo[1,2-a]pyrazine derivatives => compound | max_score: 0.542533278465271 | count: 1

@@ -1,0 +1,13 @@
+Trichoderma genus => fungus | max_score: 0.6346539258956909 | count: 1
+peptaibols => peptide | max_score: 0.7363709211349487 | count: 2
+pH => environmental_factor | max_score: 0.7330204248428345 | count: 1
+temperature conditions => environmental_factor | max_score: 0.7143703699111938 | count: 1
+trichogin => peptide | max_score: 0.876663863658905 | count: 2
+Botrytis cinerea => fungus | max_score: 0.94395512342453 | count: 1
+Bipolaris sorokiniana => fungus | max_score: 0.9321923851966858 | count: 1
+Fusarium graminearum => fungus | max_score: 0.9729644060134888 | count: 1
+Penicillium expansum => fungus | max_score: 0.9675370454788208 | count: 1
+common bean => plant | max_score: 0.8836057186126709 | count: 1
+grapevine => plant | max_score: 0.8733316659927368 | count: 1
+ripe grape berries => body_part | max_score: 0.7885835766792297 | count: 1
+peptide fungicidal activity => activity | max_score: 0.6393978595733643 | count: 1

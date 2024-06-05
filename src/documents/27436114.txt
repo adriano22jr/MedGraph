@@ -1,0 +1,15 @@
+Acanthoscurria gomesiana => species | max_score: 0.9030259251594543 | count: 2
+Theraphosidae family => bacteria | max_score: 0.7462058663368225 | count: 1
+gomesin => peptide | max_score: 0.8286473751068115 | count: 1
+acanthoscurrin => peptide | max_score: 0.8297274112701416 | count: 1
+hemolymph => body_part | max_score: 0.6452401876449585 | count: 1
+A. gomesiana => species | max_score: 0.5000093579292297 | count: 1
+U1-TRTX-Agm1a => peptide | max_score: 0.9028365015983582 | count: 2
+U1-TRTX-Agm2a => peptide | max_score: 0.898422122001648 | count: 2
+U1-TRTX-Agm3a => peptide | max_score: 0.8941949009895325 | count: 1
+U1-TRTX-Ap1a => peptide | max_score: 0.8293851017951965 | count: 1
+genicutoxin-D1 => peptide | max_score: 0.7558736801147461 | count: 1
+activity => activity | max_score: 0.6377622485160828 | count: 1
+Escherichia coli => bacteria | max_score: 0.9475034475326538 | count: 1
+Enterobacter cloacae => bacteria | max_score: 0.9435296654701233 | count: 1
+Candida albicans => fungus | max_score: 0.9709025621414185 | count: 1

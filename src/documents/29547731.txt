@@ -1,0 +1,10 @@
+indolicidin => peptide | max_score: 0.898543119430542 | count: 1
+oxidative stress => biological_process | max_score: 0.6454747915267944 | count: 2
+Daphnia magna => species | max_score: 0.8807302117347717 | count: 1
+D. magna => species | max_score: 0.5070063471794128 | count: 1
+QDs-indolicidin => peptide | max_score: 0.6538447141647339 | count: 3
+female => sex | max_score: 0.820490837097168 | count: 1
+superoxide dismutase (SOD) => enzyme | max_score: 0.9142105579376221 | count: 1
+catalase (CAT) => enzyme | max_score: 0.9341024160385132 | count: 1
+glutathione transferase (GST) => enzyme | max_score: 0.9587246775627136 | count: 1
+environmental QDs-indolicidin complex => environmental_factor | max_score: 0.5942758321762085 | count: 1

@@ -1,0 +1,13 @@
+JAK inhibitor => drug | max_score: 0.5636399984359741 | count: 1
+psoriasis => disease_disorder | max_score: 0.8158583045005798 | count: 6
+serum hBD-2 levels => lab_value | max_score: 0.7607427835464478 | count: 1
+placebo => treatment | max_score: 0.5039876103401184 | count: 1
+tofacitinib => drug | max_score: 0.8849249482154846 | count: 3
+baseline => treatment_duration | max_score: 0.5569750666618347 | count: 1
+week 8 => treatment_duration | max_score: 0.5107259750366211 | count: 1
+week 16 => treatment_duration | max_score: 0.6299717426300049 | count: 1
+Serum hBD-2 levels => lab_value | max_score: 0.7700240612030029 | count: 2
+10 mg b.i.d. => drug_dosage | max_score: 0.5892956256866455 | count: 2
+hBD-2 levels => lab_value | max_score: 0.5749325752258301 | count: 1
+mild => severity | max_score: 0.5057267546653748 | count: 1
+moderate-to-severe => severity | max_score: 0.5504748225212097 | count: 1

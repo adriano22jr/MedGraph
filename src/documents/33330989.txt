@@ -1,0 +1,13 @@
+Bile => environmental_factor | max_score: 0.5450558066368103 | count: 1
+enteric pathogens => bacteria | max_score: 0.6016152501106262 | count: 1
+Vibrio cholerae => bacteria | max_score: 0.9605397582054138 | count: 1
+OmpU => protein | max_score: 0.92216557264328 | count: 5
+host-derived antimicrobial peptides => peptide | max_score: 0.6730254888534546 | count: 1
+ompU => protein | max_score: 0.912900984287262 | count: 7
+ToxR => protein | max_score: 0.7442982792854309 | count: 2
+suppressor mutations => mutation | max_score: 0.962198793888092 | count: 1
+σE => protein | max_score: 0.6147932410240173 | count: 4
+V. cholerae => bacteria | max_score: 0.717433750629425 | count: 1
+promoter activity => activity | max_score: 0.8312068581581116 | count: 1
+ΔrpoE strains => bacteria | max_score: 0.607628583908081 | count: 3
+membrane stress conditions => environmental_factor | max_score: 0.5054503679275513 | count: 1

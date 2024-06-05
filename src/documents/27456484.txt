@@ -1,0 +1,15 @@
+IL-22-IL-22R signaling => biological_process | max_score: 0.7225003242492676 | count: 1
+intestine => body_part | max_score: 0.6964775919914246 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7142428755760193 | count: 1
+chemotactic genes => protein | max_score: 0.5951319336891174 | count: 1
+Streptococcus pneumoniae => bacteria | max_score: 0.9074196219444275 | count: 1
+lung => body_part | max_score: 0.7015317678451538 | count: 5
+IL-22 => peptide | max_score: 0.7728284597396851 | count: 9
+wild-type mice => species | max_score: 0.7543066740036011 | count: 2
+Il22 => peptide | max_score: 0.5047228932380676 | count: 1
+mice => species | max_score: 0.6825181841850281 | count: 4
+Il22ra1 => protein | max_score: 0.620775043964386 | count: 1
+liver => body_part | max_score: 0.751118004322052 | count: 3
+C3 => peptide | max_score: 0.6402789354324341 | count: 3
+S. pneumoniae => bacteria | max_score: 0.5586081743240356 | count: 1
+IL-22R => protein | max_score: 0.7253191471099854 | count: 1

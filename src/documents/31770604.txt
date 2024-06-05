@@ -1,0 +1,14 @@
+Gram-negative bacilli => bacteria | max_score: 0.6262151598930359 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.8691676259040833 | count: 1
+A. baumannii => bacteria | max_score: 0.8846718668937683 | count: 5
+colistin => antibiotic | max_score: 0.9480166435241699 | count: 6
+MICs => lab_value | max_score: 0.9154644012451172 | count: 2
+imipenem => antibiotic | max_score: 0.8979948163032532 | count: 1
+meropenem => antibiotic | max_score: 0.9028014540672302 | count: 1
+OXA-type carbapenemase genes => gene | max_score: 0.8028055429458618 | count: 1
+blaOXA-23-like => gene | max_score: 0.9642451405525208 | count: 2
+blaOXA-24/40-like => gene | max_score: 0.9433207511901855 | count: 2
+blaOXA-51-like => gene | max_score: 0.9673092365264893 | count: 2
+blaOXA-58-like => gene | max_score: 0.9643300771713257 | count: 1
+blaOXA-143-like => gene | max_score: 0.9587416648864746 | count: 1
+μg/mL => volume | max_score: 0.5007728338241577 | count: 1

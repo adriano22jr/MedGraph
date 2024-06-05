@@ -1,0 +1,4 @@
+cysteine containing antimicrobial peptide => peptide | max_score: 0.5773600339889526 | count: 1
+silver nanoparticles => compound | max_score: 0.554451048374176 | count: 1
+biological activity => activity | max_score: 0.7604000568389893 | count: 1
+AMP-nanoparticle system => chemical_system | max_score: 0.817642092704773 | count: 1

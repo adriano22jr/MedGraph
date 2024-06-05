@@ -1,0 +1,5 @@
+V13K => peptide | max_score: 0.9028111696243286 | count: 2
+antimicrobial activity => activity | max_score: 0.7133839130401611 | count: 1
+hemolytic activity => activity | max_score: 0.5829845666885376 | count: 1
+anticancer activity => activity | max_score: 0.7763152718544006 | count: 1
+biological activity => activity | max_score: 0.817134439945221 | count: 3

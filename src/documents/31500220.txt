@@ -1,0 +1,16 @@
+bronchial epithelium => tissue | max_score: 0.8238030076026917 | count: 2
+cigarette smoke => environmental_factor | max_score: 0.8340229392051697 | count: 2
+alveolar macrophages => cell_type | max_score: 0.8282373547554016 | count: 1
+bronchial epithelial cells => cell_type | max_score: 0.5144572257995605 | count: 1
+human bronchial epithelial cell line => cell_line | max_score: 0.5776312351226807 | count: 1
+16HBE => cell_line | max_score: 0.9496684074401855 | count: 4
+PBEC => cell_line | max_score: 0.7554879188537598 | count: 3
+COPD patients => subject | max_score: 0.6449432373046875 | count: 1
+controls => subject | max_score: 0.8149368762969971 | count: 2
+IL-8 => enzyme | max_score: 0.6307913661003113 | count: 1
+cathelicidin => peptide | max_score: 0.9642555713653564 | count: 2
+COPD subjects => subject | max_score: 0.5897908210754395 | count: 1
+epithelial to mesenchymal transition => biological_process | max_score: 0.6989333033561707 | count: 1
+MMP-9 => enzyme | max_score: 0.7143720388412476 | count: 1
+wound healing => biological_process | max_score: 0.6254820823669434 | count: 1
+CYP24A1 => enzyme | max_score: 0.9171622395515442 | count: 1

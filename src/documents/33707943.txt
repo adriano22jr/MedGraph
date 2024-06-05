@@ -1,0 +1,11 @@
+AP => peptide | max_score: 0.5512478351593018 | count: 3
+antibacterial activity => activity | max_score: 0.7741761803627014 | count: 3
+AP-CdSe NPs => compound | max_score: 0.6078224182128906 | count: 7
+Escherichia coli => bacteria | max_score: 0.9068248867988586 | count: 1
+E. coli => bacteria | max_score: 0.8459208607673645 | count: 2
+Staphylococcus aureus => bacteria | max_score: 0.9444074034690857 | count: 1
+S. aureus => bacteria | max_score: 0.7881278991699219 | count: 3
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.7276732325553894 | count: 1
+apoptosis => biological_process | max_score: 0.5909847021102905 | count: 1
+mice => species | max_score: 0.6923838257789612 | count: 1
+side effects => side_effect | max_score: 0.603638231754303 | count: 1

@@ -1,0 +1,10 @@
+LL-37 => peptide | max_score: 0.9453810453414917 | count: 7
+T cells => cell | max_score: 0.7659143805503845 | count: 3
+apoE-/- mice => species | max_score: 0.6906422972679138 | count: 4
+PBMCs => cell | max_score: 0.7391406893730164 | count: 3
+self-reported subjects => subject | max_score: 0.6682547926902771 | count: 1
+Western diet => diet | max_score: 0.996907651424408 | count: 1
+Recipient mice => subject | max_score: 0.6040350198745728 | count: 1
+atherosclerotic plaques => tissue | max_score: 0.8677229285240173 | count: 2
+Spleens => body_part | max_score: 0.7502493262290955 | count: 1
+mCRAMP => peptide | max_score: 0.5259552001953125 | count: 1

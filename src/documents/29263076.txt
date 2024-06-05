@@ -1,0 +1,5 @@
+Lipid A aminoarabinosylation => biological_process | max_score: 0.7821182012557983 | count: 1
+colistin => antibiotic | max_score: 0.9104924201965332 | count: 4
+Pseudomonas aeruginosa => bacteria | max_score: 0.9912915825843811 | count: 1
+lipid A aminoarabinosylation => biological_process | max_score: 0.8308752775192261 | count: 2
+P. aeruginosa => bacteria | max_score: 0.7988196611404419 | count: 2

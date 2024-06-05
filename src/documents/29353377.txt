@@ -1,0 +1,12 @@
+melittin => antibiotic | max_score: 0.8862460851669312 | count: 6
+colistin => antibiotic | max_score: 0.9507740139961243 | count: 3
+imipenem => antibiotic | max_score: 0.913602352142334 | count: 3
+ciprofloxacin => antibiotic | max_score: 0.9484150409698486 | count: 1
+Acinetobacter baumannii => bacteria | max_score: 0.925814688205719 | count: 1
+biofilm formation => biological_process | max_score: 0.5476203560829163 | count: 1
+Minimum inhibitory concentrations (MICs) => lab_value | max_score: 0.7697495818138123 | count: 1
+minimum bactericidal concentrations (MBCs) => lab_value | max_score: 0.7933578491210938 | count: 1
+minimum biofilm inhibitory concentrations (MBICs) => lab_value | max_score: 0.7767501473426819 | count: 1
+biofilm removal activities => activity | max_score: 0.8176854252815247 | count: 1
+biofilm-associated protein (bap) => protein | max_score: 0.6186957955360413 | count: 1
+bap => protein | max_score: 0.5781634449958801 | count: 1

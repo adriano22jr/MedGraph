@@ -1,0 +1,10 @@
+disc diffusion tests => diagnostic_procedure | max_score: 0.5855000019073486 | count: 2
+Escherichia coli => bacteria | max_score: 0.9571751952171326 | count: 2
+Klebsiella pneumoniae => bacteria | max_score: 0.9423892498016357 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9651994109153748 | count: 1
+Acinetobacter spp. => bacteria | max_score: 0.8593854904174805 | count: 2
+E. coli => bacteria | max_score: 0.8011261820793152 | count: 3
+K. pneumoniae => bacteria | max_score: 0.7675707936286926 | count: 4
+P. aeruginosa => bacteria | max_score: 0.7870561480522156 | count: 2
+colistin resistance genes => gene | max_score: 0.6749184131622314 | count: 1
+mcr genes => gene | max_score: 0.8722039461135864 | count: 1

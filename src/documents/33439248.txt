@@ -1,0 +1,8 @@
+antibiotics => drug | max_score: 0.6914629340171814 | count: 1
+antivirals => antibiotic | max_score: 0.5774407982826233 | count: 1
+crop protection agents => drug | max_score: 0.5766168236732483 | count: 1
+structure-activity relationships => biological_process | max_score: 0.5084273815155029 | count: 1
+biosynthetic machineries => chemical_system | max_score: 0.8847343921661377 | count: 1
+biosynthetic pathways => chemical_system | max_score: 0.6956930756568909 | count: 2
+non-ribosomally produced peptides => peptide | max_score: 0.6757314801216125 | count: 1
+post-translationally modified peptides => peptide | max_score: 0.5839686989784241 | count: 1

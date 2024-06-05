@@ -1,0 +1,17 @@
+cordyheptapeptide A (8) => peptide | max_score: 0.5037456154823303 | count: 1
+Cordyceps sp. BCC 1788 => fungus | max_score: 0.9345310926437378 | count: 1
+N-methylated tetrapeptide => peptide | max_score: 0.5420706868171692 | count: 1
+linear heptapeptide unit => peptide | max_score: 0.5871527791023254 | count: 1
+antimicrobial activity => activity | max_score: 0.6717522740364075 | count: 1
+antibacterial activity => activity | max_score: 0.7657161951065063 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.7197578549385071 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9866430759429932 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9865384101867676 | count: 1
+antifungal activity => activity | max_score: 0.7369768023490906 | count: 1
+Trichophyton mentagrophytes => plant | max_score: 0.8002610802650452 | count: 1
+Microsporum audouinii => plant | max_score: 0.8189229965209961 | count: 1
+gatifloxacin => antibiotic | max_score: 0.8806290626525879 | count: 1
+griseofulvin => antibiotic | max_score: 0.8114743232727051 | count: 1
+cyclopolypeptide 8 => peptide | max_score: 0.5299128890037537 | count: 1
+Dalton's lymphoma ascites (DLA) => cell_line | max_score: 0.8259825706481934 | count: 1
+Ehrlich's ascites carcinoma (EAC) => cell_line | max_score: 0.8773576021194458 | count: 1

@@ -1,0 +1,12 @@
+GHSR => protein | max_score: 0.8176456093788147 | count: 8
+G protein-coupled receptor => protein | max_score: 0.8363789916038513 | count: 1
+central nervous system => anatomical_system | max_score: 0.8652631044387817 | count: 1
+ghrelin => peptide | max_score: 0.9703413844108582 | count: 6
+LEAP2 => peptide | max_score: 0.823418140411377 | count: 6
+ghrelin-evoked activity => activity | max_score: 0.8558884263038635 | count: 1
+ligand-independent activity => activity | max_score: 0.8496118783950806 | count: 1
+constitutive activity => activity | max_score: 0.763948917388916 | count: 1
+mice => species | max_score: 0.6150526404380798 | count: 2
+high-fat (HF) diet => diet | max_score: 0.8073264956474304 | count: 1
+wild-type mice => species | max_score: 0.7562964558601379 | count: 1
+plasma levels => lab_value | max_score: 0.8632142543792725 | count: 2

@@ -1,0 +1,17 @@
+Macrophages => cell_type | max_score: 0.8929271101951599 | count: 1
+inflammatory response => biological_process | max_score: 0.7096032500267029 | count: 1
+environmental triggers => environmental_factor | max_score: 0.9575034379959106 | count: 2
+lipopolysaccharide => molecule | max_score: 0.5110449194908142 | count: 1
+Inflammatory signaling => biological_process | max_score: 0.816926896572113 | count: 1
+macrophages => cell | max_score: 0.8981046080589294 | count: 5
+innate immune system => anatomical_system | max_score: 0.5761645436286926 | count: 1
+Nitric oxide => molecule | max_score: 0.5064004063606262 | count: 1
+inflammatory responses => biological_process | max_score: 0.6217325925827026 | count: 3
+ocular surface => body_part | max_score: 0.8701996207237244 | count: 1
+Histatin peptides => peptide | max_score: 0.8162615895271301 | count: 1
+Hst1 => peptide | max_score: 0.576936662197113 | count: 2
+RAW264.7 (RAW) => cell_line | max_score: 0.8561803698539734 | count: 1
+inflammatory signaling => biological_process | max_score: 0.7753071784973145 | count: 2
+NO production => biological_process | max_score: 0.5542064309120178 | count: 1
+cytokine production => biological_process | max_score: 0.6514259576797485 | count: 2
+RAW cells => cell_line | max_score: 0.6077877879142761 | count: 1

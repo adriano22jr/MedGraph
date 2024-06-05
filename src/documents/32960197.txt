@@ -1,0 +1,5 @@
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9124263525009155 | count: 1
+persister cells => cell | max_score: 0.888177216053009 | count: 2
+α/β CPMB => compound | max_score: 0.5425912141799927 | count: 3
+polymer brush => device | max_score: 0.7618011236190796 | count: 2
+Gram-positive bacteria => bacteria | max_score: 0.5948634743690491 | count: 1

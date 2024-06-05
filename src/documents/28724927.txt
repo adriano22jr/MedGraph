@@ -1,0 +1,12 @@
+mammalian cells => cell_type | max_score: 0.7423843741416931 | count: 1
+polymyxin B sulfate => antibiotic | max_score: 0.5730118155479431 | count: 1
+sushi peptide => peptide | max_score: 0.8768259882926941 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.8654487729072571 | count: 1
+antimicrobial activity => activity | max_score: 0.6254528760910034 | count: 1
+Escherichia coli => bacteria | max_score: 0.8696351051330566 | count: 1
+E. coli => bacteria | max_score: 0.6119228601455688 | count: 1
+Salmonella typhi => bacteria | max_score: 0.8937626481056213 | count: 1
+cervical cancer cells => cell_line | max_score: 0.668739914894104 | count: 1
+HeLa => cell_line | max_score: 0.9287029504776001 | count: 1
+folate receptors => protein | max_score: 0.8589043021202087 | count: 1
+mammalian cells => cell | max_score: 0.7193268537521362 | count: 1

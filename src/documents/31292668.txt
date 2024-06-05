@@ -1,0 +1,10 @@
+NLRP12 => gene | max_score: 0.9102066159248352 | count: 4
+Porphyromonas gingivalis => bacteria | max_score: 0.9345124363899231 | count: 1
+mouse macrophages => cell_line | max_score: 0.8266395926475525 | count: 2
+P. gingivalis => bacteria | max_score: 0.8861129283905029 | count: 3
+LPS => molecule | max_score: 0.8250551223754883 | count: 2
+supernatant => volume | max_score: 0.8948230147361755 | count: 2
+treated cells => cell_line | max_score: 0.6205955147743225 | count: 1
+iNOS => protein | max_score: 0.8502351641654968 | count: 2
+TNF-α => protein | max_score: 0.7598379850387573 | count: 2
+macrophages => cell_type | max_score: 0.6466448307037354 | count: 2

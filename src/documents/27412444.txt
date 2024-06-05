@@ -1,0 +1,12 @@
+men => sex | max_score: 0.9875128865242004 | count: 2
+women => sex | max_score: 0.9903530478477478 | count: 2
+prostatitis => disease_disorder | max_score: 0.8420741558074951 | count: 1
+epididymitis => disease_disorder | max_score: 0.7766443490982056 | count: 1
+cervicitis => disease_disorder | max_score: 0.8278908133506775 | count: 1
+pelvic inflammatory disease => disease_disorder | max_score: 0.8159481883049011 | count: 1
+ectopic pregnancy => disease_disorder | max_score: 0.82061767578125 | count: 1
+C. trachomatis => bacteria | max_score: 0.7373362183570862 | count: 3
+resource-limited environments => environmental_factor | max_score: 0.9858827590942383 | count: 1
+antimicrobial peptide => peptide | max_score: 0.5548734068870544 | count: 1
+DNA => molecule | max_score: 0.6056141257286072 | count: 2
+specialized equipment => device | max_score: 0.6460065841674805 | count: 1

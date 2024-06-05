@@ -1,0 +1,9 @@
+immune responses => biological_process | max_score: 0.5193912386894226 | count: 1
+lncRNA => molecule | max_score: 0.5321986079216003 | count: 1
+Drosophila => species | max_score: 0.758905827999115 | count: 3
+lncRNA-CR11538 => molecule | max_score: 0.7742094993591309 | count: 6
+Drosomycin => peptide | max_score: 0.6814517378807068 | count: 1
+Metchnikowin => peptide | max_score: 0.7043148279190063 | count: 1
+Toll signaling pathway => biological_process | max_score: 0.8836010694503784 | count: 1
+Dif/Dorsal => protein | max_score: 0.6714417934417725 | count: 3
+M. luteus => species | max_score: 0.7921383380889893 | count: 1

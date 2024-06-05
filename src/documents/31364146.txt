@@ -1,0 +1,10 @@
+idiopathic pulmonary fibrosis => disease_disorder | max_score: 0.6888372898101807 | count: 1
+oxidant-antioxidant imbalance => biological_process | max_score: 0.5377154350280762 | count: 1
+fibrogenesis => biological_process | max_score: 0.5402446389198303 | count: 1
+Idiopathic Pulmonary Fibrosis => disease_disorder | max_score: 0.7160440683364868 | count: 1
+Antioxidant/Antibiotic Combination Therapy => treatment | max_score: 0.7774959802627563 | count: 1
+colistin => antibiotic | max_score: 0.9271280169487 | count: 2
+S. maltophilia => bacteria | max_score: 0.8723803758621216 | count: 1
+respiratory tract => body_part | max_score: 0.5905676484107971 | count: 1
+antibacterial therapy => treatment | max_score: 0.72133469581604 | count: 1
+antioxidant therapy => treatment | max_score: 0.6329731941223145 | count: 1

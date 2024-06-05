@@ -1,0 +1,9 @@
+colistin => antibiotic | max_score: 0.9647148847579956 | count: 7
+Gram-negative bacteria => bacteria | max_score: 0.8103584051132202 | count: 1
+animal production => activity | max_score: 0.7632622122764587 | count: 2
+humans => species | max_score: 0.606934666633606 | count: 1
+Escherichia coli => bacteria | max_score: 0.9388282895088196 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9651684165000916 | count: 1
+case-control study => study_design | max_score: 0.7641408443450928 | count: 1
+E. coli => bacteria | max_score: 0.513396143913269 | count: 1
+carbapenems => antibiotic | max_score: 0.7804261445999146 | count: 3

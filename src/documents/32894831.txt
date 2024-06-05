@@ -1,0 +1,13 @@
+polymyxin B-immobilized fiber column => device | max_score: 0.5086876749992371 | count: 1
+PMX-DHP => device | max_score: 0.8156683444976807 | count: 2
+PMX-F => device | max_score: 0.8263121843338013 | count: 8
+cytokines => molecule | max_score: 0.7031512260437012 | count: 5
+Cytokines => molecule | max_score: 0.6196808218955994 | count: 1
+RANTES => molecule | max_score: 0.6404802799224854 | count: 1
+platelet-derived growth factor-bb => molecule | max_score: 0.6184679269790649 | count: 1
+transforming growth factor-β => molecule | max_score: 0.6596449613571167 | count: 1
+IL-1β => molecule | max_score: 0.6101546883583069 | count: 1
+vascular endothelial growth factor-A => molecule | max_score: 0.5600594282150269 | count: 1
+IL-6 => molecule | max_score: 0.6185547113418579 | count: 1
+IL-12 => molecule | max_score: 0.5972062945365906 | count: 1
+tumor necrosis factor α => molecule | max_score: 0.517244279384613 | count: 1

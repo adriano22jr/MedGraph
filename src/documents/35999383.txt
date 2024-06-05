@@ -1,0 +1,15 @@
+Brevilaterins => peptide | max_score: 0.5910158753395081 | count: 1
+Brevibacillus laterosporus => bacteria | max_score: 0.8808050155639648 | count: 1
+Brevilaterin B => peptide | max_score: 0.9275878071784973 | count: 5
+anticancer activity => activity | max_score: 0.6898641586303711 | count: 2
+Proliferation => biological_process | max_score: 0.8134447336196899 | count: 1
+membrane permeability => biological_process | max_score: 0.5902001261711121 | count: 1
+apoptotic rate => biological_process | max_score: 0.5581159591674805 | count: 1
+ROS levels => lab_value | max_score: 0.8858782649040222 | count: 2
+mitochondrial membrane potential => lab_value | max_score: 0.7900830507278442 | count: 2
+proliferation => biological_process | max_score: 0.761223554611206 | count: 1
+epidermal cancer cell => cell_line | max_score: 0.5029738545417786 | count: 1
+A431 => cell_line | max_score: 0.9744930863380432 | count: 3
+control normal cells => cell_line | max_score: 0.6953530311584473 | count: 1
+µg/mL => volume | max_score: 0.5967428088188171 | count: 2
+apoptosis => biological_process | max_score: 0.6378870010375977 | count: 1

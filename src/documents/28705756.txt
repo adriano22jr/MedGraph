@@ -1,0 +1,6 @@
+mcr-1 => molecule | max_score: 0.680097758769989 | count: 3
+plasmid => molecule | max_score: 0.5558339357376099 | count: 1
+colistin-resistant Escherichia coli => bacteria | max_score: 0.8979344964027405 | count: 1
+livestock => bacteria | max_score: 0.6965568661689758 | count: 1
+colistin-resistant E. coli => bacteria | max_score: 0.814233124256134 | count: 1
+E. coli => bacteria | max_score: 0.7024915814399719 | count: 1

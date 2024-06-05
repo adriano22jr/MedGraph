@@ -1,0 +1,8 @@
+Trichophyton rubrum => fungus | max_score: 0.9371723532676697 | count: 1
+reconstructed human epidermis => tissue | max_score: 0.6014288067817688 | count: 1
+RHE => tissue | max_score: 0.8511979579925537 | count: 4
+antimicrobial peptides => peptide | max_score: 0.8510227799415588 | count: 2
+keratinocytes => cell | max_score: 0.8316439390182495 | count: 2
+p38 mitogen-activated protein kinase => enzyme | max_score: 0.7522172331809998 | count: 2
+activity => activity | max_score: 0.6525745987892151 | count: 1
+PD169316 => drug | max_score: 0.8597140908241272 | count: 2

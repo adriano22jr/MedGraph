@@ -1,0 +1,15 @@
+root caries => disease_disorder | max_score: 0.5132961273193359 | count: 2
+lasers => device | max_score: 0.9722499847412109 | count: 2
+salivary proteins => protein | max_score: 0.8140807747840881 | count: 1
+statherin-derived peptides => peptide | max_score: 0.759989857673645 | count: 1
+8DSS => peptide | max_score: 0.7992881536483765 | count: 1
+self-assembling peptide P11-4 => peptide | max_score: 0.809138834476471 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7073309421539307 | count: 1
+casein phosphopeptides => peptide | max_score: 0.7454227805137634 | count: 1
+remineralization => biological_process | max_score: 0.6101402044296265 | count: 3
+demineralized tissue => tissue | max_score: 0.7383461594581604 | count: 1
+antimicrobial action => biological_process | max_score: 0.5031389594078064 | count: 1
+phosphate uptake => biological_process | max_score: 0.5033938884735107 | count: 1
+previously demineralized dentin => tissue | max_score: 0.5667264461517334 | count: 1
+dentin => tissue | max_score: 0.634213924407959 | count: 2
+Lasers => device | max_score: 0.9586153626441956 | count: 1

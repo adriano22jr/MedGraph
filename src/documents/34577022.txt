@@ -1,0 +1,10 @@
+Conventional thermal and chemical treatments => treatment | max_score: 0.6393508911132812 | count: 1
+AMPs => peptide | max_score: 0.5557413101196289 | count: 4
+bacteriocins => peptide | max_score: 0.8882524371147156 | count: 2
+nisin => peptide | max_score: 0.9512729048728943 | count: 4
+bacteria => bacteria | max_score: 0.6516337990760803 | count: 2
+lactic acid bacteria => bacteria | max_score: 0.8202311992645264 | count: 1
+spore-forming microorganisms => bacteria | max_score: 0.5088879466056824 | count: 1
+high pressure => treatment | max_score: 0.6290739178657532 | count: 1
+supercritical carbon dioxide => treatment | max_score: 0.6887734532356262 | count: 1
+electric pulses => treatment | max_score: 0.7224847078323364 | count: 1

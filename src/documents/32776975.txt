@@ -1,0 +1,14 @@
+Aedes aegypti => species | max_score: 0.8633007407188416 | count: 1
+SGs => anatomical_system | max_score: 0.6327349543571472 | count: 5
+dengue => virus | max_score: 0.7889717221260071 | count: 1
+Zika => virus | max_score: 0.8128306865692139 | count: 1
+chikungunya => virus | max_score: 0.7413511276245117 | count: 1
+apoptosis => biological_process | max_score: 0.8321475386619568 | count: 4
+blood-feeding => biological_process | max_score: 0.733204185962677 | count: 1
+lipid metabolism => biological_process | max_score: 0.7836151719093323 | count: 1
+midgut => anatomical_system | max_score: 0.5408429503440857 | count: 1
+Kayak => gene | max_score: 0.8060585856437683 | count: 1
+Puckered => gene | max_score: 0.858285665512085 | count: 2
+TEP20 => gene | max_score: 0.6809267401695251 | count: 5
+Dronc => gene | max_score: 0.872217059135437 | count: 3
+antimicrobial peptides (AMPs) => biological_process | max_score: 0.5599228143692017 | count: 1

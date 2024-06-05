@@ -1,0 +1,12 @@
+Mycobacterium avium complex => bacteria | max_score: 0.8270108699798584 | count: 1
+N-acetyl-cysteine => drug | max_score: 0.9026277661323547 | count: 7
+M. avium => bacteria | max_score: 0.671240508556366 | count: 3
+in vitro => study_design | max_score: 0.6297149658203125 | count: 1
+in vivo => study_design | max_score: 0.7502094507217407 | count: 1
+A549 cells => cell_line | max_score: 0.979601263999939 | count: 1
+human β-defensin-2 => peptide | max_score: 0.8942635655403137 | count: 1
+mouse model => study_design | max_score: 0.5974990129470825 | count: 1
+lungs => body_part | max_score: 0.6040707230567932 | count: 1
+murine β-defensin-3 => peptide | max_score: 0.869778037071228 | count: 1
+interleukin-17 => peptide | max_score: 0.6166145205497742 | count: 1
+clarithromycin => antibiotic | max_score: 0.8777363300323486 | count: 1

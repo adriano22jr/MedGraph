@@ -1,0 +1,13 @@
+Bacteriocins => peptide | max_score: 0.7499796748161316 | count: 1
+lactic acid bacteria => bacteria | max_score: 0.7467808127403259 | count: 1
+spoilage bacteria => bacteria | max_score: 0.6353155374526978 | count: 1
+foodborne pathogens => bacteria | max_score: 0.6162084341049194 | count: 1
+Pediococcus pentosaceus => bacteria | max_score: 0.823253870010376 | count: 1
+ATCC 43200 => cell_line | max_score: 0.5922691822052002 | count: 1
+BLIS => peptide | max_score: 0.6512702107429504 | count: 3
+bioreactor => device | max_score: 0.9486486911773682 | count: 1
+peptone => peptide | max_score: 0.5334024429321289 | count: 1
+BLIS activity => activity | max_score: 0.8594432473182678 | count: 2
+Listeria strains => bacteria | max_score: 0.6507954597473145 | count: 1
+Listeria innocua => bacteria | max_score: 0.8543893098831177 | count: 1
+Listeria seeligeri => bacteria | max_score: 0.8938987851142883 | count: 1

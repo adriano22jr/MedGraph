@@ -1,0 +1,15 @@
+colistin => antibiotic | max_score: 0.7486433386802673 | count: 3
+nephrotoxicity => disease_disorder | max_score: 0.5742664337158203 | count: 2
+2011 => date | max_score: 0.8559927344322205 | count: 1
+2017 => date | max_score: 0.8322473168373108 | count: 1
+Acute kidney injury => disease_disorder | max_score: 0.5222886204719543 | count: 1
+Kidney Disease Improving Global Outcome criteria => clinical_guideline | max_score: 0.7138773798942566 | count: 1
+male => sex | max_score: 0.9872190952301025 | count: 1
+mean age => age | max_score: 0.706026017665863 | count: 1
+58.7 ± 20.3 years => age | max_score: 0.5476303100585938 | count: 1
+Advanced age => age | max_score: 0.885928213596344 | count: 1
+47.4 years => age | max_score: 0.5872734189033508 | count: 1
+diabetes mellitus => disease_disorder | max_score: 0.6523844599723816 | count: 1
+heart failure => disease_disorder | max_score: 0.6850341558456421 | count: 2
+mortality => condition_outcome | max_score: 0.5682780742645264 | count: 2
+advanced age => age | max_score: 0.8776196241378784 | count: 1

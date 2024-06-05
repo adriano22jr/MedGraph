@@ -1,0 +1,13 @@
+Mycobacterium avium => bacteria | max_score: 0.9323031306266785 | count: 1
+Antimicrobial peptides => peptide | max_score: 0.5989617705345154 | count: 1
+AMPs => peptide | max_score: 0.575552761554718 | count: 2
+broad-spectrum antimicrobial activity => activity | max_score: 0.7478675842285156 | count: 1
+Mycobacterium tuberculosis => bacteria | max_score: 0.9053581953048706 | count: 1
+M. avium => bacteria | max_score: 0.6674871444702148 | count: 2
+MICs => lab_value | max_score: 0.717583954334259 | count: 1
+microtitre plates => device | max_score: 0.6867683529853821 | count: 1
+Mastoparan => antibiotic | max_score: 0.7900419235229492 | count: 1
+melittin => peptide | max_score: 0.7559663653373718 | count: 1
+M. tuberculosis => bacteria | max_score: 0.6779378652572632 | count: 1
+indolicidin => antibiotic | max_score: 0.7926166653633118 | count: 1
+drug-delivery systems => device | max_score: 0.7176141142845154 | count: 1

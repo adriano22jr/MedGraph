@@ -1,0 +1,9 @@
+MW thermal heating => treatment | max_score: 0.6500164866447449 | count: 2
+antibacterial activity => activity | max_score: 0.7162142992019653 | count: 4
+MW heating => treatment | max_score: 0.5711071491241455 | count: 2
+rapeseed => plant | max_score: 0.6524908542633057 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9912492036819458 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.9900082349777222 | count: 1
+defensin-1 => protein | max_score: 0.7912294864654541 | count: 3
+conventional thermal treatment => treatment | max_score: 0.8025981187820435 | count: 1
+glucose oxidase activity => activity | max_score: 0.799864649772644 | count: 1

@@ -1,0 +1,14 @@
+Gram-negative pathogens => bacteria | max_score: 0.7740721106529236 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9804838299751282 | count: 1
+D-11 => peptide | max_score: 0.8758714199066162 | count: 3
+membrane permeability => biological_process | max_score: 0.5204253792762756 | count: 1
+LPS => molecule | max_score: 0.7470179796218872 | count: 1
+membrane phospholipids => molecule | max_score: 0.6864054799079895 | count: 1
+ATP production => biological_process | max_score: 0.6506007313728333 | count: 1
+efflux pumps => molecule | max_score: 0.6226633191108704 | count: 1
+respiration chain => biological_process | max_score: 0.7807109951972961 | count: 1
+bacterial cells => cell | max_score: 0.7605471014976501 | count: 1
+antibiotics => antibiotic | max_score: 0.5569934844970703 | count: 1
+P. aeruginosa => bacteria | max_score: 0.7496651411056519 | count: 2
+azithromycin => antibiotic | max_score: 0.7790990471839905 | count: 1
+biofilm formation => biological_process | max_score: 0.5648518204689026 | count: 1

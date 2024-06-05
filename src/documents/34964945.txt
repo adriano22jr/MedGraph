@@ -1,0 +1,9 @@
+trypsin => enzyme | max_score: 0.9802954792976379 | count: 5
+TICbf-14 => peptide | max_score: 0.9326902031898499 | count: 5
+Cbf-14 => peptide | max_score: 0.8839775323867798 | count: 1
+CWTKSIPPKPC => peptide | max_score: 0.6882258653640747 | count: 1
+bacteria-infected mice => bacteria | max_score: 0.5852856040000916 | count: 1
+systemic dissemination => biological_process | max_score: 0.5122547149658203 | count: 1
+bacteria => bacteria | max_score: 0.6653925776481628 | count: 2
+host inflammation => biological_process | max_score: 0.6489699482917786 | count: 1
+biofilm formation => biological_process | max_score: 0.6442983150482178 | count: 1

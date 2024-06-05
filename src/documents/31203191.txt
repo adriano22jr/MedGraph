@@ -1,0 +1,8 @@
+hBD-1 => gene | max_score: 0.9333937764167786 | count: 1
+rs11362 => mutation | max_score: 0.9477025270462036 | count: 4
+rs1799946 => mutation | max_score: 0.9457876682281494 | count: 5
+rs1800972 => mutation | max_score: 0.9564206004142761 | count: 3
+CD14 => gene | max_score: 0.9152688384056091 | count: 1
+rs2569190 => mutation | max_score: 0.9458212852478027 | count: 1
+case-control studies => study_design | max_score: 0.8038554787635803 | count: 1
+DEFB1 => gene | max_score: 0.8373239040374756 | count: 1

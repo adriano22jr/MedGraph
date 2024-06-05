@@ -1,0 +1,14 @@
+membrane depolarization => biological_process | max_score: 0.6323496103286743 | count: 2
+antimicrobial activity => activity | max_score: 0.6337816119194031 | count: 2
+TP359 => peptide | max_score: 0.95538729429245 | count: 5
+Pseudomonas aeruginosa => bacteria | max_score: 0.977980375289917 | count: 1
+P. aeruginosa => bacteria | max_score: 0.7777929902076721 | count: 1
+membrane damage => biological_process | max_score: 0.5310999751091003 | count: 1
+mouse J774 macrophages => cell_line | max_score: 0.9208297729492188 | count: 1
+human lung A549 epithelial cells => cell_line | max_score: 0.9633661508560181 | count: 1
+viable rod-shaped cells => cell_type | max_score: 0.6205234527587891 | count: 1
+ghost cells => cell_type | max_score: 0.6544898152351379 | count: 1
+outer membrane biogenesis genes => gene | max_score: 0.5874415636062622 | count: 2
+oprF => gene | max_score: 0.9105654358863831 | count: 2
+OprF => gene | max_score: 0.9365983009338379 | count: 1
+P aeruginosa => bacteria | max_score: 0.5605369210243225 | count: 1

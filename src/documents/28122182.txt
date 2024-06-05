@@ -1,0 +1,10 @@
+antimicrobial peptides => peptide | max_score: 0.693725049495697 | count: 1
+6 => compound | max_score: 0.7941964864730835 | count: 2
+18 => compound | max_score: 0.7416538596153259 | count: 1
+potent activities => activity | max_score: 0.5619235038757324 | count: 1
+Gram-positive bacteria => bacteria | max_score: 0.8741946220397949 | count: 1
+MRSA => bacteria | max_score: 0.9714010953903198 | count: 1
+VRE => bacteria | max_score: 0.9585213661193848 | count: 1
+MICs => lab_value | max_score: 0.8748658895492554 | count: 1
+rapid bactericidal effect => activity | max_score: 0.7085337042808533 | count: 1
+clinical trials => clinical_trial | max_score: 0.8937850594520569 | count: 1

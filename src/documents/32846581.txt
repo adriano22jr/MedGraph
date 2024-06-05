@@ -1,0 +1,2 @@
+bioactivities => activity | max_score: 0.6522722244262695 | count: 5
+clinical trials => clinical_trial | max_score: 0.6799995303153992 | count: 1

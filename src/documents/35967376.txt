@@ -1,0 +1,13 @@
+Hidradenitis Suppurativa => disease_disorder | max_score: 0.5236204862594604 | count: 1
+HS => medical_abbreviation | max_score: 0.5111936330795288 | count: 2
+innate immune system => biological_process | max_score: 0.5604708194732666 | count: 1
+pathogenic microorganisms => organism | max_score: 0.5591707229614258 | count: 1
+host antimicrobial peptides => peptide | max_score: 0.576789379119873 | count: 1
+AMPs => peptide | max_score: 0.6033568382263184 | count: 2
+complement system => biological_process | max_score: 0.5964252352714539 | count: 1
+cathelicidin => peptide | max_score: 0.9259782433509827 | count: 1
+defensins => peptide | max_score: 0.8280588388442993 | count: 1
+dermcidin => peptide | max_score: 0.9392871260643005 | count: 1
+S100 proteins => protein | max_score: 0.9002347588539124 | count: 1
+RNAse 7 => protein | max_score: 0.9137459397315979 | count: 1
+complement proteins => protein | max_score: 0.8431692123413086 | count: 1

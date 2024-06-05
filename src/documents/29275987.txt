@@ -1,0 +1,4 @@
+6K-F17 => peptide | max_score: 0.8115522265434265 | count: 4
+KKKKKK-AAFAAWAAFAA-NH2 => peptide | max_score: 0.6812441945075989 | count: 1
+mammalian cells => cell | max_score: 0.8371641039848328 | count: 1
+antimicrobial activity => activity | max_score: 0.8697674870491028 | count: 1

@@ -1,0 +1,5 @@
+host defense peptides => peptide | max_score: 0.7678452730178833 | count: 1
+peptides => peptide | max_score: 0.7201051712036133 | count: 2
+immunomodulatory activity => activity | max_score: 0.7539629340171814 | count: 1
+emerging viruses => virus | max_score: 0.573236346244812 | count: 1
+coronaviruses => virus | max_score: 0.9896659851074219 | count: 2

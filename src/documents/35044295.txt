@@ -1,0 +1,10 @@
+MprF => protein | max_score: 0.6921116709709167 | count: 4
+synthase => enzyme | max_score: 0.5141142010688782 | count: 1
+flippase => enzyme | max_score: 0.5319004654884338 | count: 1
+phospholipid => molecule | max_score: 0.5450785160064697 | count: 1
+lysyl-phosphatidylglycerol => molecule | max_score: 0.7369645237922668 | count: 1
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.8512552380561829 | count: 1
+MRSA => bacteria | max_score: 0.9039557576179504 | count: 5
+cationic host defense peptides => peptide | max_score: 0.700025737285614 | count: 1
+daptomycin => antibiotic | max_score: 0.788849413394928 | count: 1
+human phagocytes => cell_type | max_score: 0.8416462540626526 | count: 1

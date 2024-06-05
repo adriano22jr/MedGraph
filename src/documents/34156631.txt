@@ -1,0 +1,8 @@
+loading doses => drug_dosage | max_score: 0.5884208083152771 | count: 1
+Colistin => antibiotic | max_score: 0.957049548625946 | count: 1
+colistin => antibiotic | max_score: 0.9502079486846924 | count: 4
+target value => lab_value | max_score: 0.7096084356307983 | count: 1
+target concentration => lab_value | max_score: 0.6014302968978882 | count: 2
+administration intervals => drug_frequency | max_score: 0.5316419005393982 | count: 1
+every 8 h => drug_frequency | max_score: 0.9021458029747009 | count: 1
+every 24 h => drug_frequency | max_score: 0.8712399005889893 | count: 1

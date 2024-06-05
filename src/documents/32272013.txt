@@ -1,0 +1,13 @@
+Gram-negative bacterial pathogens => bacteria | max_score: 0.6507524251937866 | count: 1
+Salmonella enterica Typhimurium => bacteria | max_score: 0.9436964392662048 | count: 1
+macrophages => cell_type | max_score: 0.9302108287811279 | count: 3
+clofazimine => antibiotic | max_score: 0.7151428461074829 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.6356077790260315 | count: 1
+CFZ => drug | max_score: 0.5459938049316406 | count: 2
+S. Typhimurium => bacteria | max_score: 0.8591946959495544 | count: 4
+mice => species | max_score: 0.9234787821769714 | count: 2
+tissue colonization => environmental_factor | max_score: 0.6079636812210083 | count: 1
+E. coli => bacteria | max_score: 0.8181037902832031 | count: 1
+low pH => environmental_factor | max_score: 0.9577606320381165 | count: 1
+low magnesium and phosphate => environmental_factor | max_score: 0.8821094036102295 | count: 1
+cationic antimicrobial peptides => peptide | max_score: 0.9321721792221069 | count: 1

@@ -1,0 +1,16 @@
+gold-striped geckos => species | max_score: 0.7613844275474548 | count: 3
+Woodworthia chrysosiretica => species | max_score: 0.9139317274093628 | count: 1
+Pacific geckos => species | max_score: 0.7245151400566101 | count: 2
+Dactylocnemis pacificus => species | max_score: 0.9378125071525574 | count: 1
+Ultraviolet light => environmental_factor | max_score: 0.8844602108001709 | count: 1
+heat => environmental_factor | max_score: 0.5934131145477295 | count: 1
+fluorescent bulb => device | max_score: 0.9632408022880554 | count: 1
+ceramic heat bulb => device | max_score: 0.920418918132782 | count: 1
+varying severity => severity | max_score: 0.7027450203895569 | count: 1
+topical combined antimicrobial therapy => treatment | max_score: 0.868739902973175 | count: 1
+18-29 days => treatment_duration | max_score: 0.6117205023765564 | count: 1
+dysecdysis => sign_symptom | max_score: 0.5213133692741394 | count: 1
+mycotic spectaculitis => disease_disorder | max_score: 0.6524639129638672 | count: 1
+mycotic dermatitis => disease_disorder | max_score: 0.5161141157150269 | count: 1
+macrophages => cell | max_score: 0.6002352237701416 | count: 1
+Mycotic spectaculitis => disease_disorder | max_score: 0.6580855250358582 | count: 1

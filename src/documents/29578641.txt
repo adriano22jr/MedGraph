@@ -1,0 +1,14 @@
+Paenibacillus larvae => bacteria | max_score: 0.9248308539390564 | count: 1
+European honey bee-Apis mellifera => species | max_score: 0.7343437075614929 | count: 1
+Asiatic cavity-nesting honey bees => species | max_score: 0.5145538449287415 | count: 1
+Apis cerana => species | max_score: 0.9427623748779297 | count: 1
+antimicrobial peptides => peptide | max_score: 0.5358843803405762 | count: 1
+AMPs => peptide | max_score: 0.6320393085479736 | count: 2
+defensin => peptide | max_score: 0.9238985180854797 | count: 1
+apidaecin => peptide | max_score: 0.9451486468315125 | count: 1
+abaecin => peptide | max_score: 0.9273777008056641 | count: 1
+hymenoptaecin => peptide | max_score: 0.9394058585166931 | count: 1
+A. mellifera => species | max_score: 0.634907066822052 | count: 5
+A. cerana => species | max_score: 0.6190248131752014 | count: 4
+P. larvae => bacteria | max_score: 0.6045880913734436 | count: 3
+larval ages => age | max_score: 0.7715466022491455 | count: 1

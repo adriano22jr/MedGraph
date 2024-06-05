@@ -1,0 +1,13 @@
+Staphylococcus aureus => bacteria | max_score: 0.9589424729347229 | count: 1
+atopic dermatitis => disease_disorder | max_score: 0.5954618453979492 | count: 1
+dysbiosis => biological_process | max_score: 0.6200703382492065 | count: 2
+Omiganan => peptide | max_score: 0.8752509951591492 | count: 1
+S aureus => bacteria | max_score: 0.8100290894508362 | count: 2
+omiganan => peptide | max_score: 0.9045665264129639 | count: 6
+twice daily => drug_frequency | max_score: 0.9688619375228882 | count: 2
+28 days => treatment_duration | max_score: 0.7861538529396057 | count: 2
+Weekly visits => treatment_duration | max_score: 0.5373562574386597 | count: 1
+clinical scores => medical_term | max_score: 0.5863444805145264 | count: 1
+microbiological and pharmacodynamic assessments => diagnostic_procedure | max_score: 0.5645778179168701 | count: 1
+Staphylococcus species => bacteria | max_score: 0.7145134806632996 | count: 1
+clinical improvement => medical_term | max_score: 0.5335015654563904 | count: 1

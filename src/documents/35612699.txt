@@ -1,0 +1,8 @@
+antibiotics => antibiotic | max_score: 0.8231258988380432 | count: 2
+orthopedic surgery => surgical_procedure | max_score: 0.8090133666992188 | count: 1
+AMP => peptide | max_score: 0.841713547706604 | count: 3
+methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.7770799994468689 | count: 1
+MRSA => bacteria | max_score: 0.8492140769958496 | count: 3
+implants => device | max_score: 0.8757147192955017 | count: 5
+sonication => surgical_procedure | max_score: 0.6951082944869995 | count: 1
+murine femoral canals => anatomical_system | max_score: 0.6797015070915222 | count: 1

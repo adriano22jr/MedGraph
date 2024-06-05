@@ -1,0 +1,13 @@
+honeybees => species | max_score: 0.6057333946228027 | count: 1
+Apis mellifera L. => species | max_score: 0.9291602969169617 | count: 1
+peptides => peptide | max_score: 0.8423571586608887 | count: 1
+proteins => protein | max_score: 0.8258271217346191 | count: 1
+enzymes => enzyme | max_score: 0.9621745347976685 | count: 1
+volatile metabolites => compound | max_score: 0.6950945258140564 | count: 1
+compounds => compound | max_score: 0.5729708075523376 | count: 2
+bacteria => bacteria | max_score: 0.8778664469718933 | count: 1
+viruses => virus | max_score: 0.9595314860343933 | count: 1
+fungi => fungus | max_score: 0.9850721955299377 | count: 1
+antibiotics => antibiotic | max_score: 0.6264227032661438 | count: 1
+maintenance dosage => drug_dosage | max_score: 0.6906405687332153 | count: 1
+side effects => side_effect | max_score: 0.8133525848388672 | count: 1

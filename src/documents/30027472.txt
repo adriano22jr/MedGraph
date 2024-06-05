@@ -1,0 +1,15 @@
+Enterococci => bacteria | max_score: 0.9074633717536926 | count: 1
+enterocins => peptide | max_score: 0.8916125297546387 | count: 3
+extreme conditions => environmental_factor | max_score: 0.9186424016952515 | count: 1
+Gram-negative bacteria => bacteria | max_score: 0.9116263389587402 | count: 1
+enterococci => bacteria | max_score: 0.9241521954536438 | count: 1
+plasmids => molecule | max_score: 0.8438190817832947 | count: 4
+Enterococcus faecium GHB21 => bacteria | max_score: 0.8446600437164307 | count: 1
+restriction endonucleases => enzyme | max_score: 0.9072551131248474 | count: 1
+pGHB-21.1 => molecule | max_score: 0.5920924544334412 | count: 1
+pGHB-21.2 => molecule | max_score: 0.6915817260742188 | count: 1
+E. faecium GHB21 => bacteria | max_score: 0.7276456952095032 | count: 2
+entA => gene | max_score: 0.7768145799636841 | count: 1
+entB => gene | max_score: 0.783613383769989 | count: 1
+entP => gene | max_score: 0.8571451902389526 | count: 1
+E. faecium => bacteria | max_score: 0.6094599962234497 | count: 1

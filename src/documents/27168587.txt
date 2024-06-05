@@ -1,0 +1,8 @@
+Brazilian multicentric antimicrobial resistance surveillance study => study_design | max_score: 0.5097630023956299 | count: 1
+colistin => antibiotic | max_score: 0.8793167471885681 | count: 1
+Enterobacteriaceae => bacteria | max_score: 0.8659248352050781 | count: 1
+2000 => date | max_score: 0.5861416459083557 | count: 1
+2016 => date | max_score: 0.7610342502593994 | count: 1
+Escherichia coli => bacteria | max_score: 0.9228625297546387 | count: 1
+2012 => date | max_score: 0.890059232711792 | count: 1
+E. coli => bacteria | max_score: 0.6588414907455444 | count: 1

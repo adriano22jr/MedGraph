@@ -1,0 +1,17 @@
+phosphatase activity => activity | max_score: 0.5740824341773987 | count: 1
+mammals => species | max_score: 0.5854426622390747 | count: 1
+Stat family members => protein_family | max_score: 0.7435812950134277 | count: 1
+crustaceans => species | max_score: 0.5528329610824585 | count: 2
+β-arrestin1 => enzyme | max_score: 0.7695556879043579 | count: 1
+TC45 => enzyme | max_score: 0.8522053360939026 | count: 6
+antimicrobial peptide => peptide | max_score: 0.623253583908081 | count: 1
+AMP => peptide | max_score: 0.8710417151451111 | count: 3
+βArr1 => protein | max_score: 0.5959414839744568 | count: 2
+hemocytes => cell_type | max_score: 0.8513844013214111 | count: 1
+Stat => protein | max_score: 0.5069812536239624 | count: 1
+Marsupenaeus japonicus => species | max_score: 0.8942343592643738 | count: 1
+Vibrio anguillarum => bacteria | max_score: 0.9597830176353455 | count: 1
+Stat => enzyme | max_score: 0.5182517766952515 | count: 1
+V. anguillarum => bacteria | max_score: 0.7194488048553467 | count: 1
+βarr1 => enzyme | max_score: 0.5700575709342957 | count: 2
+Stat activity => activity | max_score: 0.6110624670982361 | count: 1

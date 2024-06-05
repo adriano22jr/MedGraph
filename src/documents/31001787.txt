@@ -1,0 +1,12 @@
+Paenibacillus alvei NP75 => bacteria | max_score: 0.9328316450119019 | count: 1
+Gram-positive bacterium => bacteria | max_score: 0.7808629870414734 | count: 1
+paenibacillin N => peptide | max_score: 0.9513555765151978 | count: 4
+antimicrobial activity => activity | max_score: 0.77225661277771 | count: 1
+P. alvei NP75 => bacteria | max_score: 0.8060911297798157 | count: 3
+non-ribosomal mediated => biological_process | max_score: 0.6011093854904175 | count: 1
+paenibacillin P => peptide | max_score: 0.9540880918502808 | count: 4
+ribosomal mediated => biological_process | max_score: 0.6428494453430176 | count: 1
+protease => enzyme | max_score: 0.7639236450195312 | count: 5
+phenylmethylsulfonyl fluoride (PMSF) => antibiotic | max_score: 0.51640784740448 | count: 1
+mutant => mutation | max_score: 0.9556999802589417 | count: 1
+plasmid curing => biological_process | max_score: 0.6582186222076416 | count: 2

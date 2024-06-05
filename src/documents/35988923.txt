@@ -1,0 +1,7 @@
+Antimicrobial peptides => peptide | max_score: 0.6612654328346252 | count: 1
+AMPs => peptide | max_score: 0.7180289030075073 | count: 2
+microorganisms => organism | max_score: 0.6782597303390503 | count: 1
+viruses => virus | max_score: 0.9089801907539368 | count: 1
+cancer cells => cell | max_score: 0.7422773241996765 | count: 1
+traditional antibiotics => antibiotic | max_score: 0.600548267364502 | count: 1
+AMPBenchmark => device | max_score: 0.6517518162727356 | count: 3

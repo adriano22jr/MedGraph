@@ -1,0 +1,13 @@
+Plant-parasitic nematodes => parasite | max_score: 0.8588873147964478 | count: 1
+PPNs => parasite | max_score: 0.7816811203956604 | count: 3
+agricultural crops => plant | max_score: 0.9830307960510254 | count: 1
+environmental side effects => side_effect | max_score: 0.8006025552749634 | count: 1
+nematodes => parasite | max_score: 0.8092578053474426 | count: 7
+bacteria => parasite | max_score: 0.5445402264595032 | count: 2
+fungi => fungus | max_score: 0.8438746929168701 | count: 1
+nematode-trapping fungi => fungus | max_score: 0.9521241784095764 | count: 2
+special trapping devices => device | max_score: 0.7797130346298218 | count: 1
+endo-parasitic fungi => fungus | max_score: 0.9616755247116089 | count: 1
+bacteria => bacteria | max_score: 0.5433032512664795 | count: 1
+anti-microbial peptides => peptide | max_score: 0.9078394174575806 | count: 1
+innate immunity system => biological_process | max_score: 0.6891859173774719 | count: 1

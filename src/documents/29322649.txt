@@ -1,0 +1,11 @@
+antibiotic-resistant bacteria => bacteria | max_score: 0.5542886853218079 | count: 1
+T-catesbeianin-1 => peptide | max_score: 0.9056981801986694 | count: 3
+pesticin => antibiotic | max_score: 0.6918315887451172 | count: 1
+catesbeianin-1 => peptide | max_score: 0.8295251727104187 | count: 1
+Pichia pastoris => fungus | max_score: 0.7737092971801758 | count: 1
+antimicrobial activity => activity | max_score: 0.9431048035621643 | count: 2
+cytotoxicity => activity | max_score: 0.8237305283546448 | count: 1
+FyuA => protein | max_score: 0.8047681450843811 | count: 1
+Escherichia coli => bacteria | max_score: 0.9761586785316467 | count: 1
+fyuA => protein | max_score: 0.5229185819625854 | count: 1
+E. coli => bacteria | max_score: 0.5417512655258179 | count: 1

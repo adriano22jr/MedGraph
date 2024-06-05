@@ -1,0 +1,8 @@
+chromoblastomycosis => disease_disorder | max_score: 0.5853511691093445 | count: 4
+eumycetoma => disease_disorder | max_score: 0.5509469509124756 | count: 1
+retrospective study => study_design | max_score: 0.6263574957847595 | count: 1
+paraffin-embedded tissue samples => tissue | max_score: 0.6009299159049988 | count: 1
+DNA => molecule | max_score: 0.6671717166900635 | count: 4
+psoriasis lesional skin samples => tissue | max_score: 0.7698237299919128 | count: 1
+psoriasis skin samples => tissue | max_score: 0.5148246884346008 | count: 1
+IL-17A => protein | max_score: 0.5239760875701904 | count: 1

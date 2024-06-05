@@ -1,0 +1,13 @@
+Hepcidin => peptide | max_score: 0.9205110669136047 | count: 1
+antimicrobial peptide => peptide | max_score: 0.5735181570053101 | count: 1
+zebrafish => species | max_score: 0.5913671851158142 | count: 2
+hepcidin => peptide | max_score: 0.9431225061416626 | count: 5
+liver => body_part | max_score: 0.9051993489265442 | count: 1
+Aeromonas hydrophila => bacteria | max_score: 0.827643096446991 | count: 1
+DNA => molecule | max_score: 0.6004101634025574 | count: 2
+bactericidal activity => activity | max_score: 0.9526011943817139 | count: 1
+A.h => bacteria | max_score: 0.5670697093009949 | count: 3
+Escherichia coli => bacteria | max_score: 0.9168678522109985 | count: 1
+OmpA => protein | max_score: 0.6486085653305054 | count: 1
+A.h cells => cell_line | max_score: 0.6189202666282654 | count: 1
+Vibrio alginolyticus => bacteria | max_score: 0.8692134022712708 | count: 1

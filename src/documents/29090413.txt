@@ -1,0 +1,6 @@
+stratum corneum => tissue | max_score: 0.6032968759536743 | count: 2
+skin => body_part | max_score: 0.6852972507476807 | count: 6
+magainin => peptide | max_score: 0.8402227759361267 | count: 3
+human skin => body_part | max_score: 0.6960977911949158 | count: 1
+NIH/3T3 mouse fibroblast cell line => cell_line | max_score: 0.9136964678764343 | count: 1
+porcine skin => body_part | max_score: 0.7291737794876099 | count: 1

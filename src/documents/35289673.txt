@@ -1,0 +1,12 @@
+IFN-Is => protein | max_score: 0.584684431552887 | count: 2
+innate immunity => biological_process | max_score: 0.5223390460014343 | count: 1
+IFN1 => protein | max_score: 0.6154139637947083 | count: 2
+grass carp => species | max_score: 0.7189617156982422 | count: 2
+Ctenopharyngodon idella => species | max_score: 0.8864290714263916 | count: 1
+gcIFN-20 => peptide | max_score: 0.9564579725265503 | count: 9
+membrane environment => environmental_factor | max_score: 0.7874433994293213 | count: 1
+antimicrobial activity => activity | max_score: 0.7698390483856201 | count: 2
+Gram-negative (G-) => bacteria | max_score: 0.6012659072875977 | count: 1
+Gram-positive (G+) => bacteria | max_score: 0.7320277690887451 | count: 1
+G+ bacteria => bacteria | max_score: 0.7742242217063904 | count: 1
+G- bacteria => bacteria | max_score: 0.7421609163284302 | count: 1

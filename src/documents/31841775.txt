@@ -1,0 +1,10 @@
+antibiotics => antibiotic | max_score: 0.7618092894554138 | count: 2
+environmental issues => environmental_factor | max_score: 0.976539134979248 | count: 1
+AgNPs => compound | max_score: 0.5653885006904602 | count: 4
+antibacterial activity => activity | max_score: 0.8941178321838379 | count: 4
+P-13 => peptide | max_score: 0.8566014170646667 | count: 6
+MICs => lab_value | max_score: 0.5109055042266846 | count: 1
+E. coli => bacteria | max_score: 0.9824074506759644 | count: 2
+S. aureus => bacteria | max_score: 0.9834818840026855 | count: 2
+B. pumilus => bacteria | max_score: 0.94725501537323 | count: 2
+P. aeruginosa => bacteria | max_score: 0.979569137096405 | count: 2

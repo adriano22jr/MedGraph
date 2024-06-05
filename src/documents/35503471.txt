@@ -1,0 +1,14 @@
+Plectasin => peptide | max_score: 0.9377478957176208 | count: 1
+Pseudoplectania nigrella => fungus | max_score: 0.9867463707923889 | count: 1
+plectasin => peptide | max_score: 0.9512922167778015 | count: 9
+Pichia pastoris => fungus | max_score: 0.6767370104789734 | count: 1
+4Ple-61 => cell_line | max_score: 0.7017900943756104 | count: 4
+total protein => protein | max_score: 0.6440610885620117 | count: 2
+Ple-6 => cell_line | max_score: 0.6310064792633057 | count: 1
+mg/L => volume | max_score: 0.6154354214668274 | count: 1
+5-L => volume | max_score: 0.6345303654670715 | count: 1
+antimicrobial activity => activity | max_score: 0.6514477729797363 | count: 1
+Staphylococcus aureus => bacteria | max_score: 0.7828987240791321 | count: 1
+S. aureus => bacteria | max_score: 0.5415678024291992 | count: 1
+MICs => lab_value | max_score: 0.8288003206253052 | count: 1
+food-borne antibiotic-resistant S. aureus => bacteria | max_score: 0.6530473232269287 | count: 1

@@ -1,0 +1,3 @@
+antimicrobial activity => activity | max_score: 0.8360891938209534 | count: 3
+α,γ-hybrid lipopeptides => peptide | max_score: 0.805022656917572 | count: 3
+Gram-negative bacteria => bacteria | max_score: 0.8822392821311951 | count: 1

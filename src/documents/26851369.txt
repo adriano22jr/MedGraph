@@ -1,0 +1,8 @@
+PBMC => cell_type | max_score: 0.7201905846595764 | count: 3
+ACSL4 => gene | max_score: 0.9715591669082642 | count: 3
+CUBN => gene | max_score: 0.9391074180603027 | count: 1
+DEFB1 => gene | max_score: 0.9740393161773682 | count: 4
+FABP3 => gene | max_score: 0.975932240486145 | count: 5
+GK => gene | max_score: 0.9583141803741455 | count: 2
+large scale gene expression study => study_design | max_score: 0.5651887059211731 | count: 1
+TLR4 => immunologic_marker | max_score: 0.9171727895736694 | count: 2

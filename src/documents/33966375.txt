@@ -1,0 +1,8 @@
+Pseudomonas aeruginosa => bacteria | max_score: 0.9408607482910156 | count: 1
+PA => bacteria | max_score: 0.675896167755127 | count: 8
+LL37 peptide => peptide | max_score: 0.9220266938209534 | count: 4
+albumin-based nanodrug delivery system => chemical_system | max_score: 0.6745051145553589 | count: 1
+peritoneal macrophages => cell_type | max_score: 0.9270326495170593 | count: 1
+TNF-α => protein | max_score: 0.8384037017822266 | count: 2
+IL-6 => protein | max_score: 0.812747597694397 | count: 1
+IL-1β => protein | max_score: 0.7871226668357849 | count: 1

@@ -1,0 +1,5 @@
+malignant cells => cell | max_score: 0.7372288703918457 | count: 1
+Drosophila melanogaster => species | max_score: 0.8328372836112976 | count: 1
+naturally occurring bacterium => bacteria | max_score: 0.6660585403442383 | count: 1
+drosomycin-that => peptide | max_score: 0.9005178213119507 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6022288203239441 | count: 1

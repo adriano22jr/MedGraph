@@ -1,0 +1,15 @@
+intestinal mucosal barrier => anatomical_system | max_score: 0.6681890487670898 | count: 1
+intestinal epithelium => anatomical_system | max_score: 0.7765451669692993 | count: 1
+IECs => cell_type | max_score: 0.7603925466537476 | count: 4
+intestinal homeostasis => biological_process | max_score: 0.524135947227478 | count: 1
+nutrient absorption => biological_process | max_score: 0.9056574702262878 | count: 1
+physical segregation => biological_process | max_score: 0.8722820281982422 | count: 1
+antibacterial peptides => peptide | max_score: 0.7892401814460754 | count: 1
+immune responses => biological_process | max_score: 0.7750609517097473 | count: 1
+Autophagy => biological_process | max_score: 0.9328576922416687 | count: 1
+autophagy => biological_process | max_score: 0.9024998545646667 | count: 2
+stem cells => cell_type | max_score: 0.8476006388664246 | count: 1
+enterocytes => cell_type | max_score: 0.871167004108429 | count: 1
+goblet cells => cell_type | max_score: 0.910929262638092 | count: 1
+Paneth cells => cell_type | max_score: 0.8622052669525146 | count: 1
+autophagy-targeting therapy => treatment | max_score: 0.5110704898834229 | count: 1

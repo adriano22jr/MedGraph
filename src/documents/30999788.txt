@@ -1,0 +1,3 @@
+women => sex | max_score: 0.9631315469741821 | count: 4
+ELISA kit => device | max_score: 0.6374216675758362 | count: 1
+gestational age => age | max_score: 0.7139145731925964 | count: 1

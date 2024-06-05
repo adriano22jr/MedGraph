@@ -1,0 +1,7 @@
+colistin => antibiotic | max_score: 0.9072980284690857 | count: 4
+conventional therapy => treatment | max_score: 0.7087942957878113 | count: 1
+carbapenem-resistant Enterobacteriaceae => bacteria | max_score: 0.7824988961219788 | count: 1
+life expectancy => medical_term | max_score: 0.5262201428413391 | count: 1
+observational study => study_design | max_score: 0.9097963571548462 | count: 2
+meropenem => antibiotic | max_score: 0.5979800820350647 | count: 2
+CRE => bacteria | max_score: 0.541506290435791 | count: 1

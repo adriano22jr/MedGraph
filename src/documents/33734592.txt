@@ -1,0 +1,12 @@
+Rosacea => disease_disorder | max_score: 0.9111985564231873 | count: 1
+skin => body_part | max_score: 0.669546902179718 | count: 4
+mTORC1 signaling => biological_process | max_score: 0.7938750982284546 | count: 4
+epidermis => body_part | max_score: 0.8427008390426636 | count: 1
+rosacea => disease_disorder | max_score: 0.890521764755249 | count: 3
+mTORC1 => gene | max_score: 0.5594276189804077 | count: 2
+epithelium => body_part | max_score: 0.7787228226661682 | count: 1
+cathelicidin => peptide | max_score: 0.8796808123588562 | count: 4
+keratinocytes => cell_type | max_score: 0.8867216110229492 | count: 1
+NF-κB => protein | max_score: 0.5450338125228882 | count: 1
+rapamycin => drug | max_score: 0.7531524896621704 | count: 1
+mTORC1 => protein | max_score: 0.5489411354064941 | count: 1

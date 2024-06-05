@@ -1,0 +1,12 @@
+lung => anatomical_system | max_score: 0.5734823346138 | count: 4
+gas exchange => biological_process | max_score: 0.7453022003173828 | count: 1
+inhaled air => environmental_factor | max_score: 0.6918067336082458 | count: 1
+Resident cells => cell_type | max_score: 0.5855748653411865 | count: 1
+alveolar macrophages => cell_type | max_score: 0.7671982049942017 | count: 1
+AMs => cell_type | max_score: 0.6452013254165649 | count: 8
+ECs => cell_type | max_score: 0.6256845593452454 | count: 7
+alveolar ECs => cell_type | max_score: 0.6974271535873413 | count: 1
+inflammatory responses => biological_process | max_score: 0.6285407543182373 | count: 2
+apoptotic cells => cell_type | max_score: 0.5441300272941589 | count: 1
+anti-microbial peptides => peptide | max_score: 0.8945260047912598 | count: 1
+CD200 => protein | max_score: 0.8097336888313293 | count: 1

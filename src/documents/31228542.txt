@@ -1,0 +1,15 @@
+R5F5 => peptide | max_score: 0.9162599444389343 | count: 5
+PcDBS1R5 => peptide | max_score: 0.8345067501068115 | count: 1
+Plasmodium chabaudi => parasite | max_score: 0.9762979745864868 | count: 1
+R5F1 => peptide | max_score: 0.6685402393341064 | count: 1
+Pseudomonas aeruginosa => bacteria | max_score: 0.9907270669937134 | count: 1
+antimicrobial activity => activity | max_score: 0.599477231502533 | count: 1
+P. aeruginosa => bacteria | max_score: 0.8463335633277893 | count: 1
+Klebsiella pneumoniae => bacteria | max_score: 0.9665929675102234 | count: 1
+anti-biofilm activity => activity | max_score: 0.6558337807655334 | count: 2
+μg·mL-1 => volume | max_score: 0.7384251356124878 | count: 2
+mice erythrocytes => cell_line | max_score: 0.8110030889511108 | count: 1
+μg mL-1 => volume | max_score: 0.63276606798172 | count: 1
+human lung fibroblast cells => cell_line | max_score: 0.8475105166435242 | count: 1
+v/v => volume | max_score: 0.740750253200531 | count: 1
+anionic environment => environmental_factor | max_score: 0.8998761177062988 | count: 1

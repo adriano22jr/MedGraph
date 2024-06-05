@@ -1,0 +1,16 @@
+colistin => antibiotic | max_score: 0.8915897607803345 | count: 4
+MCR-1 => protein | max_score: 0.7641074061393738 | count: 1
+MCR-2 => protein | max_score: 0.7243335843086243 | count: 1
+MCR-3 => protein | max_score: 0.7224498391151428 | count: 1
+MCR-4 => protein | max_score: 0.730278491973877 | count: 1
+mcr-1 => gene | max_score: 0.6029037833213806 | count: 2
+mcr-2 => protein | max_score: 0.5861631631851196 | count: 2
+Salmonella enterica subsp. enterica serovar Paratyphi B => bacteria | max_score: 0.8125779032707214 | count: 1
+Salmonella Paratyphi B dTa+ => bacteria | max_score: 0.8314601182937622 | count: 3
+MIC values => lab_value | max_score: 0.8560401797294617 | count: 2
+mg/L => volume | max_score: 0.5563254356384277 | count: 2
+mcr-5 => gene | max_score: 0.7412440776824951 | count: 3
+Escherichia coli DH5α => bacteria | max_score: 0.7806404829025269 | count: 1
+activity => activity | max_score: 0.5240585207939148 | count: 1
+MCR-5 => gene | max_score: 0.6154206395149231 | count: 1
+Tn3 family => protein_family | max_score: 0.9660675525665283 | count: 1

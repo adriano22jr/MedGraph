@@ -1,0 +1,17 @@
+Peptides => peptide | max_score: 0.6033532023429871 | count: 1
+peptides => peptide | max_score: 0.6354746222496033 | count: 3
+calcium absorption => biological_process | max_score: 0.5156220197677612 | count: 1
+Soy protein => protein | max_score: 0.7514286041259766 | count: 1
+soy => plant | max_score: 0.6050801873207092 | count: 2
+SPs => peptide | max_score: 0.7473656535148621 | count: 3
+digestive system => anatomical_system | max_score: 0.6585781574249268 | count: 1
+low-density lipoprotein => lab_value | max_score: 0.5447745323181152 | count: 1
+angiotensin-I converting enzyme => enzyme | max_score: 0.8674168586730957 | count: 1
+antithrombotic peptides => peptide | max_score: 0.8217311501502991 | count: 1
+platelet aggregation => biological_process | max_score: 0.512802243232727 | count: 1
+cardiovascular activity => activity | max_score: 0.8966798782348633 | count: 1
+apoptosis => biological_process | max_score: 0.6328179240226746 | count: 1
+inflammation => biological_process | max_score: 0.5280093550682068 | count: 1
+cell cycle arrest => biological_process | max_score: 0.5561836957931519 | count: 1
+invasion => biological_process | max_score: 0.5117506980895996 | count: 1
+metastasis => biological_process | max_score: 0.5136117935180664 | count: 1

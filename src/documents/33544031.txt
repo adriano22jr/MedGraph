@@ -1,0 +1,10 @@
+Polymyxin B => antibiotic | max_score: 0.8092546463012695 | count: 1
+colistin => antibiotic | max_score: 0.5773776769638062 | count: 1
+polymyxin E => antibiotic | max_score: 0.6351227164268494 | count: 1
+gram-negative pathogens => bacteria | max_score: 0.5523225665092468 | count: 1
+activity => activity | max_score: 0.6527625322341919 | count: 4
+AL-6 => drug | max_score: 0.6892262697219849 | count: 9
+Acinetobacter baumannii => bacteria | max_score: 0.828193187713623 | count: 1
+A. baumannii => bacteria | max_score: 0.8237190842628479 | count: 5
+μg/mL => volume | max_score: 0.8016849756240845 | count: 4
+polymyxin E2 => antibiotic | max_score: 0.5848575234413147 | count: 1

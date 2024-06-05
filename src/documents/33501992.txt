@@ -1,0 +1,9 @@
+Pa-MAP 2 => peptide | max_score: 0.9605085253715515 | count: 2
+Pa-MAP 1.9 => peptide | max_score: 0.9634714722633362 | count: 3
+Escherichia coli => bacteria | max_score: 0.8943026661872864 | count: 1
+in vivo => environmental_factor | max_score: 0.5318151116371155 | count: 1
+antimicrobial activity => activity | max_score: 0.8008742332458496 | count: 1
+E. coli MDR strain => bacteria | max_score: 0.6108417510986328 | count: 1
+in vitro => environmental_factor | max_score: 0.5278860926628113 | count: 1
+in vivo => study_design | max_score: 0.5203608274459839 | count: 1
+AFM => device | max_score: 0.523314893245697 | count: 1

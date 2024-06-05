@@ -1,0 +1,11 @@
+SOCS2-12 => gene | max_score: 0.7623847723007202 | count: 1
+Bombyx mori (Dazao) => species | max_score: 0.7732023000717163 | count: 1
+BmSOCS2-12 => gene | max_score: 0.9280678629875183 | count: 9
+antimicrobial peptides => peptide | max_score: 0.5632876753807068 | count: 1
+AMPs => peptide | max_score: 0.8244020342826843 | count: 3
+ecdysteroid signaling transduction => biological_process | max_score: 0.7617545127868652 | count: 2
+fat body => body_part | max_score: 0.9537208080291748 | count: 3
+hemocyte => body_part | max_score: 0.8770377039909363 | count: 2
+pathogens => parasite | max_score: 0.5363548398017883 | count: 1
+double-stranded RNA => molecule | max_score: 0.6940085291862488 | count: 1
+20-hydroxyecdysone => drug | max_score: 0.7482225298881531 | count: 1

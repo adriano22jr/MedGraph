@@ -1,0 +1,15 @@
+Lactic acid bacteria => bacteria | max_score: 0.8784966468811035 | count: 1
+bacteriocins => peptide | max_score: 0.6248934864997864 | count: 5
+permease IIC => protein | max_score: 0.802981436252594 | count: 1
+surface protein IID => protein | max_score: 0.7546947002410889 | count: 1
+BacSJ => peptide | max_score: 0.9062374830245972 | count: 6
+Lactobacillus paracasei subsp. paracasei BGSJ2-8 => bacteria | max_score: 0.8772282004356384 | count: 1
+GarQ => peptide | max_score: 0.5307855010032654 | count: 2
+Gram-positive bacteria => bacteria | max_score: 0.6399329900741577 | count: 1
+Lactococcus lactis => bacteria | max_score: 0.9238820672035217 | count: 1
+Listeria monocytogenes => bacteria | max_score: 0.9253522753715515 | count: 1
+Lactococcus garvieae => bacteria | max_score: 0.9192653298377991 | count: 1
+L.lactis => bacteria | max_score: 0.5628947019577026 | count: 2
+missense mutations => mutation | max_score: 0.9405147433280945 | count: 1
+IIC => protein | max_score: 0.5350435972213745 | count: 2
+IID => protein | max_score: 0.5674915313720703 | count: 2

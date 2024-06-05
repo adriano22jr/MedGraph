@@ -1,0 +1,14 @@
+Aedes mosquitoes => species | max_score: 0.7062067985534668 | count: 5
+innate immune systems => biological_process | max_score: 0.6861582398414612 | count: 2
+MAPKs => protein_family | max_score: 0.7061681151390076 | count: 3
+antimicrobial peptides => peptide | max_score: 0.6400027275085449 | count: 1
+AMPs => peptide | max_score: 0.6530633568763733 | count: 4
+DENV => virus | max_score: 0.8928564786911011 | count: 5
+ERK => protein | max_score: 0.7275665998458862 | count: 6
+JNK => protein | max_score: 0.6628007888793945 | count: 1
+p38 => protein | max_score: 0.6330969333648682 | count: 1
+viral replication => biological_process | max_score: 0.5354341268539429 | count: 1
+Aedes mosquito cells => cell | max_score: 0.6351815462112427 | count: 1
+Ras => protein | max_score: 0.5242579579353333 | count: 4
+midguts => body_part | max_score: 0.7339217066764832 | count: 1
+defensin C => protein | max_score: 0.6077035069465637 | count: 1

@@ -1,0 +1,10 @@
+Enterobacteriaceae => bacteria | max_score: 0.8087602257728577 | count: 1
+food-producing animals => diet | max_score: 0.5814028382301331 | count: 2
+meat => diet | max_score: 0.615011990070343 | count: 2
+animal feed => diet | max_score: 0.6994087100028992 | count: 1
+mcr-1 gene => gene | max_score: 0.9480839371681213 | count: 1
+Escherichia coli => bacteria | max_score: 0.9694845080375671 | count: 1
+Salmonella enterica => bacteria | max_score: 0.9632440209388733 | count: 1
+extended-spectrum β-lactamase => enzyme | max_score: 0.9365578293800354 | count: 1
+plasmid-mediated AmpC β-lactamase => enzyme | max_score: 0.804836630821228 | count: 1
+mcr-2 gene => gene | max_score: 0.9084866642951965 | count: 1

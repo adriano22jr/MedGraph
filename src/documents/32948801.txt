@@ -1,0 +1,11 @@
+Tumor necrosis factor receptor (TNFR) => immunologic_marker | max_score: 0.5969643592834473 | count: 1
+Neutrophil gelatinase-associated lipocalin (NGAL) => immunologic_marker | max_score: 0.7850497961044312 | count: 1
+Heparin binding protein (HBP) => immunologic_marker | max_score: 0.7514778971672058 | count: 1
+arterial catheter => device | max_score: 0.9720152020454407 | count: 1
+Diagnoses => diagnostic_procedure | max_score: 0.7370221614837646 | count: 1
+NGAL => immunologic_marker | max_score: 0.6542134881019592 | count: 2
+TNFR1 => immunologic_marker | max_score: 0.6457608938217163 | count: 3
+TNFR2 => immunologic_marker | max_score: 0.6342105865478516 | count: 3
+diagnoses => diagnostic_procedure | max_score: 0.5634083151817322 | count: 1
+CRP => immunologic_marker | max_score: 0.6916877627372742 | count: 2
+mortality => condition_outcome | max_score: 0.5115618109703064 | count: 1

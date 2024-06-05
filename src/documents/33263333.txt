@@ -1,0 +1,8 @@
+lipopolysaccharide => molecule | max_score: 0.6001316905021667 | count: 1
+LPS => molecule | max_score: 0.8180580139160156 | count: 3
+gram-negative bacteria => bacteria | max_score: 0.9740139842033386 | count: 5
+Pro9-3 => peptide | max_score: 0.9094111919403076 | count: 10
+antimicrobial activity => activity | max_score: 0.7801402807235718 | count: 2
+LPS-neutralizing activity => activity | max_score: 0.6608694791793823 | count: 1
+Tlr7 => molecule | max_score: 0.621799886226654 | count: 1
+antibacterial activity => activity | max_score: 0.6048288345336914 | count: 1

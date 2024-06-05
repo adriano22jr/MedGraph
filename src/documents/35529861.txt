@@ -1,0 +1,16 @@
+Host defense peptides => peptide | max_score: 0.6658741235733032 | count: 1
+HDPs => peptide | max_score: 0.6549992561340332 | count: 1
+innate immune system => biological_process | max_score: 0.5327926278114319 | count: 1
+histone deacetylation => biological_process | max_score: 0.6606695055961609 | count: 1
+DNA methylation => biological_process | max_score: 0.6505458950996399 | count: 1
+HDACi => drug | max_score: 0.6443247199058533 | count: 6
+chicken macrophage cell lines => cell_line | max_score: 0.8749322295188904 | count: 1
+HMTi => drug | max_score: 0.5866318345069885 | count: 2
+DNMTi => drug | max_score: 0.6106011271476746 | count: 2
+HDP gene expression => biological_process | max_score: 0.5236199498176575 | count: 1
+HDP => peptide | max_score: 0.5040773153305054 | count: 1
+butyrate => drug | max_score: 0.761813223361969 | count: 1
+BIX01294 => drug | max_score: 0.7313611507415771 | count: 1
+chicken peripheral blood mononuclear cells => cell_type | max_score: 0.7433492541313171 | count: 1
+tight junction proteins => protein | max_score: 0.5894421935081482 | count: 1
+claudin 1 => protein | max_score: 0.8081319332122803 | count: 1

@@ -1,0 +1,17 @@
+wound healing => biological_process | max_score: 0.8120375871658325 | count: 4
+hBD-2 => peptide | max_score: 0.9204353094100952 | count: 4
+APKAM => peptide | max_score: 0.7533525824546814 | count: 1
+A-hBD-2 => peptide | max_score: 0.8753557205200195 | count: 8
+in vivo => environmental_factor | max_score: 0.5295386910438538 | count: 1
+cytotoxicity => biological_process | max_score: 0.556221604347229 | count: 3
+keratinocytes => cell_type | max_score: 0.9025371670722961 | count: 5
+antimicrobial activity => activity | max_score: 0.8202514052391052 | count: 2
+Staphylococcus aureus => bacteria | max_score: 0.984516441822052 | count: 1
+Cell migration => biological_process | max_score: 0.520539402961731 | count: 1
+Wound healing => biological_process | max_score: 0.79728764295578 | count: 1
+Sprague-Dawley rats => species | max_score: 0.9275467991828918 | count: 1
+structural stability => biological_process | max_score: 0.5798565149307251 | count: 2
+proliferation => biological_process | max_score: 0.5302600264549255 | count: 1
+EGFR => protein | max_score: 0.8292642831802368 | count: 1
+STAT3 => protein | max_score: 0.8168998956680298 | count: 1
+phospholipase C => enzyme | max_score: 0.8976483345031738 | count: 1

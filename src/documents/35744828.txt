@@ -1,0 +1,7 @@
+plants => plant | max_score: 0.7178961634635925 | count: 1
+Plant => plant | max_score: 0.6179463267326355 | count: 1
+PAMPs => peptide | max_score: 0.7736477851867676 | count: 5
+AMPs => peptide | max_score: 0.6417458653450012 | count: 1
+wide spectrum activity => activity | max_score: 0.6273568272590637 | count: 1
+crops => plant | max_score: 0.5944172143936157 | count: 1
+proteases => enzyme | max_score: 0.8785949945449829 | count: 1

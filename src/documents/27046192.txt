@@ -1,0 +1,9 @@
+WR => peptide | max_score: 0.5995144844055176 | count: 4
+antibacterial activity => activity | max_score: 0.8105766177177429 | count: 3
+activity => activity | max_score: 0.530023992061615 | count: 1
+WK peptides => peptide | max_score: 0.5263389348983765 | count: 1
+WK12 => peptide | max_score: 0.7006320357322693 | count: 3
+WR12 => peptide | max_score: 0.6779349446296692 | count: 3
+Pseudomonasaeruginosa => bacteria | max_score: 0.9240422248840332 | count: 1
+membrane permeabilizing activity => activity | max_score: 0.73249751329422 | count: 1
+MIC => lab_value | max_score: 0.5869083404541016 | count: 1

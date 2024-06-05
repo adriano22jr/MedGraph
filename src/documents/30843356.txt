@@ -1,0 +1,12 @@
+conventional antibiotics => drug | max_score: 0.5784304141998291 | count: 1
+antimicrobial peptides => compound | max_score: 0.5251674652099609 | count: 1
+gram-positive bacteria => bacteria | max_score: 0.6652310490608215 | count: 1
+antimicrobial activity => activity | max_score: 0.6038848757743835 | count: 1
+amino acid (aa) => molecule | max_score: 0.5004063844680786 | count: 1
+lipopolysaccharide (LPS) => molecule | max_score: 0.5629038214683533 | count: 1
+human mononuclear cells => cell_line | max_score: 0.8969463109970093 | count: 1
+whole blood => cell_line | max_score: 0.5990845561027527 | count: 1
+Pep19-2.5 => peptide | max_score: 0.8817754983901978 | count: 4
+Salmonella enterica => bacteria | max_score: 0.976983368396759 | count: 1
+anti-inflammatory activity => activity | max_score: 0.9105015397071838 | count: 2
+LPS => molecule | max_score: 0.6105072498321533 | count: 2

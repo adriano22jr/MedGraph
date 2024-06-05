@@ -1,0 +1,8 @@
+ciprofloxacin => antibiotic | max_score: 0.9663112759590149 | count: 2
+Escherichia coli => bacteria | max_score: 0.9501475691795349 | count: 1
+MIC => lab_value | max_score: 0.5707046389579773 | count: 3
+Ser83 => mutation | max_score: 0.7699988484382629 | count: 1
+Asp87 => mutation | max_score: 0.7456151247024536 | count: 1
+parC => gene | max_score: 0.5376012921333313 | count: 1
+Ser80 => mutation | max_score: 0.7835967540740967 | count: 1
+qnrS1 gene => gene | max_score: 0.9557971358299255 | count: 1

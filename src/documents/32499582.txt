@@ -1,0 +1,12 @@
+multi-drug resistant bacteria => bacteria | max_score: 0.5754725933074951 | count: 1
+cathelicidins => peptide | max_score: 0.6301277279853821 | count: 1
+mammalian cells => cell_line | max_score: 0.7863298654556274 | count: 1
+BotrAMP14 => peptide | max_score: 0.9506964683532715 | count: 4
+CrotAMP14 => peptide | max_score: 0.9358437061309814 | count: 4
+batroxicidin => peptide | max_score: 0.951063334941864 | count: 2
+crotalicidin => peptide | max_score: 0.9515435099601746 | count: 2
+broad-spectrum antibacterial activity => activity | max_score: 0.5376726388931274 | count: 1
+minimal inhibitory concentrations => lab_value | max_score: 0.7596895098686218 | count: 1
+Caco-2 cells => cell_line | max_score: 0.9795015454292297 | count: 1
+E. coli => bacteria | max_score: 0.920805811882019 | count: 1
+membrane-like environment => environmental_factor | max_score: 0.9054796695709229 | count: 1

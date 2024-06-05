@@ -1,0 +1,7 @@
+Johne's disease => disease_disorder | max_score: 0.5085787773132324 | count: 1
+Mycobacterium avium subspecies => bacteria | max_score: 0.689028263092041 | count: 1
+MAP => bacteria | max_score: 0.6105993390083313 | count: 4
+case-control design => study_design | max_score: 0.9314174056053162 | count: 1
+serum ELISA => immunologic_marker | max_score: 0.8473241329193115 | count: 2
+fecal culture => immunologic_marker | max_score: 0.5214455127716064 | count: 1
+BTA7 => disease_disorder | max_score: 0.5124413967132568 | count: 1

@@ -1,0 +1,9 @@
+root canal treatment => surgical_procedure | max_score: 0.6526064872741699 | count: 1
+aPDT => treatment | max_score: 0.5136656761169434 | count: 1
+DCD‑1L => peptide | max_score: 0.7177895903587341 | count: 1
+Enterococcus faecalis => bacteria | max_score: 0.9781002402305603 | count: 1
+EmoNp-DCD-1L => peptide | max_score: 0.6316894888877869 | count: 6
+E. faecalis => bacteria | max_score: 0.8122420310974121 | count: 4
+minimum inhibitory concentration (MIC) => lab_value | max_score: 0.7346605062484741 | count: 1
+proteins => protein | max_score: 0.5093271732330322 | count: 1
+sub-MIC doses => drug_dosage | max_score: 0.550696849822998 | count: 1

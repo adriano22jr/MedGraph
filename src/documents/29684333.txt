@@ -1,0 +1,4 @@
+Gram negative bacteria => bacteria | max_score: 0.9348105788230896 | count: 1
+hydrophobic drugs => drug | max_score: 0.5319602489471436 | count: 1
+Cecropin A => peptide | max_score: 0.9483922123908997 | count: 5
+K12 E. coli => bacteria | max_score: 0.7984972596168518 | count: 1

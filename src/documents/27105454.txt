@@ -1,0 +1,9 @@
+Mycoplasma bovis => parasite | max_score: 0.8508979678153992 | count: 1
+bacterins => protein | max_score: 0.655585765838623 | count: 1
+TriAdj => compound | max_score: 0.6797983050346375 | count: 3
+cell-mediated immune responses => biological_process | max_score: 0.6554445028305054 | count: 1
+poly I:C => compound | max_score: 0.6229197978973389 | count: 2
+VQRWLIVWRIRK => peptide | max_score: 0.7808314561843872 | count: 1
+IgG1 => protein | max_score: 0.647494375705719 | count: 1
+humoral immune responses => biological_process | max_score: 0.597996711730957 | count: 1
+IgG2 => protein | max_score: 0.7280745506286621 | count: 1

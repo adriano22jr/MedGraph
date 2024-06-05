@@ -1,0 +1,8 @@
+DNA => molecule | max_score: 0.8547753691673279 | count: 6
+skin => body_part | max_score: 0.9404240846633911 | count: 5
+host defense mechanisms => biological_process | max_score: 0.7275316715240479 | count: 1
+antimicrobial peptides => peptide | max_score: 0.7486331462860107 | count: 1
+low cutaneous pH => environmental_factor | max_score: 0.932503879070282 | count: 1
+microbial turnover => biological_process | max_score: 0.6054884791374207 | count: 1
+dead cells => cell | max_score: 0.5818217992782593 | count: 1
+microbial DNA => molecule | max_score: 0.8791589140892029 | count: 1

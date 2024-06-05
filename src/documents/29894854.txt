@@ -1,0 +1,10 @@
+S-MWCNTs => device | max_score: 0.8038688898086548 | count: 3
+A-MWCNTs => device | max_score: 0.5997015833854675 | count: 1
+microRNA-21 => molecule | max_score: 0.6561499238014221 | count: 1
+miR-21 => molecule | max_score: 0.8314616084098816 | count: 3
+microRNAs => molecule | max_score: 0.588051438331604 | count: 1
+miRNAs => molecule | max_score: 0.6555652618408203 | count: 2
+electrode => device | max_score: 0.7944052219390869 | count: 2
+MiR-21 => molecule | max_score: 0.8387523293495178 | count: 1
+signal nanoprobe => device | max_score: 0.504673421382904 | count: 1
+MWCNTs => device | max_score: 0.5891978740692139 | count: 2

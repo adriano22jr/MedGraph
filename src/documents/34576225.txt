@@ -1,0 +1,13 @@
+side effects => side_effect | max_score: 0.7756040692329407 | count: 2
+neutrophil activity => activity | max_score: 0.5571175217628479 | count: 1
+repair process => biological_process | max_score: 0.598429799079895 | count: 1
+neutrophils => cell_type | max_score: 0.8365307450294495 | count: 3
+antimicrobial peptides => peptide | max_score: 0.5192365646362305 | count: 1
+pentoxifylline => peptide | max_score: 0.5180715918540955 | count: 1
+Ti implant => device | max_score: 0.8472087979316711 | count: 2
+tibia => body_part | max_score: 0.8221935629844666 | count: 1
+culture activity => activity | max_score: 0.9083448052406311 | count: 1
+elastase => enzyme | max_score: 0.968357503414154 | count: 1
+myeloperoxidase => enzyme | max_score: 0.9668943285942078 | count: 1
+alkaline phosphatase => enzyme | max_score: 0.9767333269119263 | count: 1
+free radical generation => biological_process | max_score: 0.7388066053390503 | count: 1

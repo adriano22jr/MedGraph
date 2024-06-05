@@ -1,0 +1,8 @@
+Polymyxins B and E => antibiotic | max_score: 0.7712754011154175 | count: 1
+colistin => antibiotic | max_score: 0.791673481464386 | count: 1
+Gram-negative pathogens => bacteria | max_score: 0.8081244826316833 | count: 1
+nephrotoxicity => disease_disorder | max_score: 0.8368420600891113 | count: 2
+renal tubular cells => cell_type | max_score: 0.9047042727470398 | count: 1
+tripeptide linear segment => peptide | max_score: 0.6853339076042175 | count: 1
+cyclic heptapeptide => peptide | max_score: 0.8598562479019165 | count: 1
+polymyxins => antibiotic | max_score: 0.526849091053009 | count: 1

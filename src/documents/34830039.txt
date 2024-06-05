@@ -1,0 +1,12 @@
+environmental niches => environmental_factor | max_score: 0.7131922841072083 | count: 1
+Campylobacter jejuni => bacteria | max_score: 0.9606897234916687 | count: 1
+C. jejuni => bacteria | max_score: 0.6438510417938232 | count: 1
+poultry => species | max_score: 0.5765360593795776 | count: 1
+food chain => environmental_factor | max_score: 0.9048232436180115 | count: 2
+essential oils => plant | max_score: 0.7358370423316956 | count: 1
+antimicrobial peptides (AMPs) => peptide | max_score: 0.6809045672416687 | count: 1
+polyphenolic extracts => compound | max_score: 0.8490288257598877 | count: 1
+algae extracts => compound | max_score: 0.6268582940101624 | count: 1
+probiotic-derived factors => compound | max_score: 0.7929774522781372 | count: 1
+d-amino acids (DAs) => compound | max_score: 0.7145149111747742 | count: 1
+glycolipid biosurfactants => compound | max_score: 0.7761827111244202 | count: 1

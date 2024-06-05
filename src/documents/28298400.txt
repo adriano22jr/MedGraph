@@ -1,0 +1,8 @@
+inflammatory markers => lab_value | max_score: 0.6669563055038452 | count: 2
+Bergen COPD Cohort Study => study_design | max_score: 0.8549081087112427 | count: 1
+human cathelicidin (hCAP18/LL-37) => peptide | max_score: 0.7218857407569885 | count: 1
+interleukin (IL)-8 => immunologic_marker | max_score: 0.6182253956794739 | count: 1
+IL-6 => immunologic_marker | max_score: 0.6967384815216064 | count: 1
+tumour necrosis factor-α (TNF-α) => immunologic_marker | max_score: 0.7358239889144897 | count: 1
+hCAP18/LL-37 => peptide | max_score: 0.8024687767028809 | count: 4
+higher age => age | max_score: 0.914615273475647 | count: 1

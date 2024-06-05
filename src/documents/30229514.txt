@@ -1,0 +1,5 @@
+antibiotics => antibiotic | max_score: 0.643001139163971 | count: 5
+antimicrobial peptides => peptide | max_score: 0.6684207320213318 | count: 1
+AMPs => peptide | max_score: 0.8065186142921448 | count: 7
+microbial killing activity => activity | max_score: 0.701606273651123 | count: 1
+innate immune system => disease_disorder | max_score: 0.5129090547561646 | count: 1

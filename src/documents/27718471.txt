@@ -1,0 +1,12 @@
+Py11 => peptide | max_score: 0.9346674680709839 | count: 7
+antimicrobial activity => activity | max_score: 0.876824676990509 | count: 3
+antibiotic-resistant bacteria => bacteria | max_score: 0.6988168954849243 | count: 1
+MRSA => bacteria | max_score: 0.9776021838188171 | count: 1
+MDRPA => bacteria | max_score: 0.9607335925102234 | count: 2
+VREF => bacteria | max_score: 0.961098849773407 | count: 1
+melittin => antibiotic | max_score: 0.707741379737854 | count: 1
+bacterial cells => cell | max_score: 0.7410755157470703 | count: 2
+LL-37 => antibiotic | max_score: 0.7029865980148315 | count: 2
+trypsin => enzyme | max_score: 0.9534912109375 | count: 1
+anti-biofilm activity => activity | max_score: 0.5964376330375671 | count: 1
+TNF-α => enzyme | max_score: 0.5066332221031189 | count: 1

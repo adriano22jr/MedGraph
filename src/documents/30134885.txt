@@ -1,0 +1,8 @@
+Xylella fastidiosa => bacteria | max_score: 0.9293886423110962 | count: 1
+Homalodisca vitripennis => species | max_score: 0.7288466095924377 | count: 1
+Pantoea agglomerans => bacteria | max_score: 0.6254903674125671 | count: 1
+melittin => peptide | max_score: 0.9384275674819946 | count: 1
+scorpine-like molecule => peptide | max_score: 0.6065070033073425 | count: 1
+SLM => peptide | max_score: 0.6034214496612549 | count: 2
+Melittin => peptide | max_score: 0.917898952960968 | count: 1
+grape plants => plant | max_score: 0.9805489182472229 | count: 1

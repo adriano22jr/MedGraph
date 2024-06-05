@@ -1,0 +1,13 @@
+Drosophila melanogaster => species | max_score: 0.8759856820106506 | count: 1
+fermenting fruit => plant | max_score: 0.788561224937439 | count: 1
+microorganisms => organism | max_score: 0.6964014172554016 | count: 2
+microbe-rich environments => environmental_factor | max_score: 0.5012539625167847 | count: 1
+D. melanogaster => species | max_score: 0.6266670823097229 | count: 4
+antimicrobial peptide (AMP) => peptide | max_score: 0.6066998839378357 | count: 1
+microbes => organism | max_score: 0.5838425159454346 | count: 3
+antimicrobial peptides (AMPs) => peptide | max_score: 0.6268569827079773 | count: 1
+epithelial immune response => biological_process | max_score: 0.6307449340820312 | count: 1
+host response => biological_process | max_score: 0.5533002018928528 | count: 1
+nutrient acquisition => biological_process | max_score: 0.6124373078346252 | count: 1
+host defence => biological_process | max_score: 0.5696592330932617 | count: 1
+antimicrobial peptides => peptide | max_score: 0.6478044986724854 | count: 1

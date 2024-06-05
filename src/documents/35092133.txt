@@ -1,0 +1,17 @@
+antimicrobial activity => activity | max_score: 0.5522506237030029 | count: 1
+insulin-like growth factor-binding protein 5 => protein | max_score: 0.533191442489624 | count: 1
+AMP-IBP5 => peptide | max_score: 0.9041018486022949 | count: 5
+mast cells => cell_type | max_score: 0.8172558546066284 | count: 1
+migration => biological_process | max_score: 0.54305499792099 | count: 1
+Human keratinocytes => cell_line | max_score: 0.8120573163032532 | count: 1
+high glucose milieus => environmental_factor | max_score: 0.9585292339324951 | count: 1
+proliferation and migration => biological_process | max_score: 0.6245667934417725 | count: 2
+Wounds => body_part | max_score: 0.5164448618888855 | count: 1
+streptozotocin-induced diabetic mice => species | max_score: 0.6829940676689148 | count: 1
+keratinocytes => cell_type | max_score: 0.7295229434967041 | count: 1
+epidermal growth factor receptor => protein | max_score: 0.8162153363227844 | count: 1
+signal transducer and activator of transcription 1 and 3 => protein | max_score: 0.7125702500343323 | count: 1
+mitogen-activated protein kinase => protein | max_score: 0.8269422650337219 | count: 1
+vessel formation => biological_process | max_score: 0.5611879229545593 | count: 1
+diabetic mice => species | max_score: 0.5780736804008484 | count: 1
+wounds => body_part | max_score: 0.5796343684196472 | count: 1

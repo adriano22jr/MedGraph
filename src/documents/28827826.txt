@@ -1,0 +1,12 @@
+NK-lysins => protein | max_score: 0.7830166220664978 | count: 1
+human granulysin => protein | max_score: 0.656327486038208 | count: 1
+NK-lysin => protein | max_score: 0.8024431467056274 | count: 5
+cytotoxic T-lymphocytes => cell_type | max_score: 0.9215388894081116 | count: 1
+NK-cells => cell_type | max_score: 0.8541460037231445 | count: 1
+antimicrobial activity => activity | max_score: 0.9062119126319885 | count: 4
+Histophilus somni => bacteria | max_score: 0.9210221171379089 | count: 1
+antibacterial activity => activity | max_score: 0.6646799445152283 | count: 1
+H. somni => bacteria | max_score: 0.7000865936279297 | count: 7
+bactericidal activity => activity | max_score: 0.7151784896850586 | count: 1
+NK2A-derived peptide => peptide | max_score: 0.8474772572517395 | count: 1
+bovine => species | max_score: 0.5102126002311707 | count: 1

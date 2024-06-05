@@ -1,0 +1,14 @@
+VmCT1 => peptide | max_score: 0.8941736817359924 | count: 3
+Vaejovis mexicanus => species | max_score: 0.9240813255310059 | count: 1
+antimicrobial activity => activity | max_score: 0.5602518916130066 | count: 1
+bacteria => parasite | max_score: 0.7770512700080872 | count: 1
+fungi => fungus | max_score: 0.9609323740005493 | count: 1
+protozoa => parasite | max_score: 0.724335789680481 | count: 1
+Trypanossoma cruzi => parasite | max_score: 0.8248248100280762 | count: 1
+Plasmodium protozoa => parasite | max_score: 0.8586575984954834 | count: 1
+VmCT1-NH2 => peptide | max_score: 0.7718554735183716 | count: 6
+Plasmodium gallinaceum => parasite | max_score: 0.8200206756591797 | count: 1
+MCF-7 => cell_line | max_score: 0.9345333576202393 | count: 2
+IC50 => lab_value | max_score: 0.9293012619018555 | count: 1
+μmol L-1 => lab_value | max_score: 0.5653085708618164 | count: 1
+peptide family => protein_family | max_score: 0.7866058349609375 | count: 1

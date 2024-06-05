@@ -1,0 +1,10 @@
+immunomodulatory activities => activity | max_score: 0.5996561646461487 | count: 1
+Ciona intestinalis => organism | max_score: 0.5684882402420044 | count: 1
+Ci8 short => peptide | max_score: 0.7966794371604919 | count: 3
+innate immune responses => biological_process | max_score: 0.5387153625488281 | count: 1
+human Peripheral Blood Mononuclear Cells (PBMCs) => cell_line | max_score: 0.713375985622406 | count: 1
+biological activities => activity | max_score: 0.541041910648346 | count: 1
+CD4+ T lymphocytes => cell_type | max_score: 0.7327626347541809 | count: 1
+IFN-γ secretion => biological_process | max_score: 0.6189208626747131 | count: 1
+TGF-β1/Latency Associated Protein (LAP) => immunologic_marker | max_score: 0.765728771686554 | count: 1
+CD39/CD73 => immunologic_marker | max_score: 0.7546412348747253 | count: 1

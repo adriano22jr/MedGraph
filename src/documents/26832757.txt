@@ -1,0 +1,14 @@
+Onc112 => peptide | max_score: 0.9349656105041504 | count: 7
+Escherichia coli => bacteria | max_score: 0.9128091335296631 | count: 1
+Onc72 => peptide | max_score: 0.880744993686676 | count: 4
+mice => species | max_score: 0.8836645483970642 | count: 1
+blood => body_part | max_score: 0.8614116311073303 | count: 3
+kidneys => body_part | max_score: 0.8919268846511841 | count: 2
+liver => body_part | max_score: 0.9017381072044373 | count: 2
+brain => body_part | max_score: 0.8979218006134033 | count: 3
+urine => body_part | max_score: 0.8923037052154541 | count: 3
+plasma => body_part | max_score: 0.7919251322746277 | count: 2
+kidney => body_part | max_score: 0.5572016835212708 | count: 1
+MICs => lab_value | max_score: 0.725604236125946 | count: 2
+mg/L => volume | max_score: 0.6635956764221191 | count: 2
+kidney homogenates => body_part | max_score: 0.6732853055000305 | count: 1

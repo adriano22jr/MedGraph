@@ -1,0 +1,6 @@
+antibiotic-resistant bacteria => bacteria | max_score: 0.5833249092102051 | count: 1
+superbugs => bacteria | max_score: 0.5538753271102905 | count: 1
+WWWLRKIW-NH2 => peptide | max_score: 0.7112038135528564 | count: 1
+methicillin-resistant Staphylococcus aureus USA300 => bacteria | max_score: 0.8315359950065613 | count: 1
+antibiofilm activity => activity | max_score: 0.8988692164421082 | count: 1
+WWW => peptide | max_score: 0.5245066285133362 | count: 1
