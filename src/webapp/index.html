@@ -6,7 +6,8 @@
     </head>
     <body>
         <form>
-            <button id = "get-graph-data">Click here to get graph data</button>
+            <button id = "get-graph-data-mesh">Click here to get graph from mesh terms</button>
+            <button id = "get-graph-data-ner">Click here to get graph from NER entities</button>
         </form>
         <h3 id = "nodes-count" style = "display: none;">Nodes count: </h3>
         <h3 id = "edges-count" style = "display: none;">Edges count: </h3>
@@ -18,10 +19,12 @@
         <script src="https://gw.alipayobjects.com/os/lib/antv/g6/4.3.11/dist/g6.min.js"></script>
         <script>
             $(document).ready(function(){
-                let button = document.getElementById("get-graph-data");
+                let button1 = document.getElementById("get-graph-data-mesh");
+                let button2 = document.getElementById("get-graph-data-ner");
                 let base_url = "http://127.0.0.1:5000/";
 
-                button.addEventListener("click", getGraphData);
+                button1.addEventListener("click", getGraphData);
+                button2.addEventListener("click", getGraphDataNer);
 
                 async function getGraphData(event){
                     event.preventDefault();
@@ -39,7 +42,29 @@
                     };
                       
                       
-                    const graph = new G6.Graph({container: 'graph', width: 800, height: 500});
+                    const graph = new G6.Graph({container: 'graph', width: 1500, height: 750});
+                    console.log(gdata);
+                    graph.data(gdata);
+                    graph.render();
+                }
+
+                async function getGraphDataNer(event){
+                    event.preventDefault();
+                    let response = await fetch(base_url + "ner_graph", {
+                        method: "GET"
+                    });
+                    let data = await response.json();
+
+                    $("#nodes-count").css({"display": "block"});
+                    $("#edges-count").css({"display": "block"});
+
+                    const gdata = {
+                        nodes: data.graph_nodes,
+                        edges: data.graph_edges,
+                    };
+                      
+                      
+                    const graph = new G6.Graph({container: 'graph', width: 1500, height: 750});
                     console.log(gdata);
                     graph.data(gdata);
                     graph.render();

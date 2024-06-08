@@ -22,4 +22,13 @@ app.get('/meshterms_graph', (request, response) => {
     });
 });
 
+app.get('/ner_graph', (request, response) => {
+    var options = {method: 'POST', uri: 'http://127.0.0.1:5000/ner_graph', json: true};
+    var sendrequest = request(options).then(function (parsedBody) { 
+        response.status(200).json({nodes: parsedBody["graph_nodes"], edges: parsedBody["graph_edges"]});
+    }).catch(function (err) { 
+        console.log(err); 
+    });
+});
+
 app.listen(process.env.PORT || 3000, () => console.log('Server is running on http://localhost:3000'));
