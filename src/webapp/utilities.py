@@ -34,6 +34,6 @@ if __name__ == "__main__":
     database = client["MedGraph"]
     
     graph = build_graph_from_meshterms(collection = database["Dataset2000Entries"])
-    save_graph(filename = "src/webapp/data/graph_meshterms.pkl", graph = graph)
+    save_graph(filename = "data/graph_meshterms.pkl", graph = graph)
     
     

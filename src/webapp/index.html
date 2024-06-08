@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <title>NodeJS Graph Visualization</title>
+    </head>
+    <body>
+        <form>
+            <button id = "get-graph-data">Click here to get graph data</button>
+        </form>
+        <h3 id = "nodes-count" style = "display: none;">Nodes count: </h3>
+        <h3 id = "edges-count" style = "display: none;">Edges count: </h3>
+        <div id="graph"></div>
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="https://gw.alipayobjects.com/os/lib/antv/g6/4.3.11/dist/g6.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                let button = document.getElementById("get-graph-data");
+                let base_url = "http://127.0.0.1:5000/";
+
+                button.addEventListener("click", getGraphData);
+
+                async function getGraphData(event){
+                    event.preventDefault();
+                    let response = await fetch(base_url + "meshterms_graph", {
+                        method: "GET"
+                    });
+                    let data = await response.json();
+
+                    $("#nodes-count").css({"display": "block"});
+                    $("#edges-count").css({"display": "block"});
+
+                    const gdata = {
+                        nodes: data.graph_nodes,
+                        edges: data.graph_edges,
+                    };
+                      
+                      
+                    const graph = new G6.Graph({container: 'graph', width: 800, height: 500});
+                    console.log(gdata);
+                    graph.data(gdata);
+                    graph.render();
+                }
+            });
+        </script>
+    </body>
+</html>
