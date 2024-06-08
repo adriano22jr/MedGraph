@@ -26,10 +26,15 @@ def network():
 
     network = Network("1500px", "1000px", directed = False)
     network.add_nodes(graph.nodes)
-    
+
+    count = 0
+
     for edge in graph.edges(data = True):
-        network.add_edge(edge[0], edge[1], title = edge[2]["weight"])
-    
+        if(count < 100):
+            network.add_edge(int(edge[0]), int(edge[1]), title = edge[2]["weight"])
+            print("Aggiunto l'arco: ", edge)
+            count += 1
+
     return flask.render_template("ner_index.html", network = network)
 
 if __name__ == "__main__":

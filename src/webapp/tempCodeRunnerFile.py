@@ -1,0 +1,1 @@
+        print(graph.nodes(data = True))
