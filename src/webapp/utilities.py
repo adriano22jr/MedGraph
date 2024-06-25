@@ -38,7 +38,7 @@ def build_graph_from_labels():
             if pmid1 < pmid2:
                 common_labels = pmid_to_labels[pmid1].intersection(pmid_to_labels[pmid2])        
                 for item in common_labels:
-                    graph.add_edge(pmid1, pmid2, weight = item)
+                    graph.add_edge(pmid1, pmid2, weight = len(item))
     
     return graph
 

@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import * as d3 from 'd3';
+
 const App = () => {
     const [nodesCountVisible, setNodesCountVisible] = useState(false);
     const [edgesCountVisible, setEdgesCountVisible] = useState(false);
 
-    const base_url = "/"
+    const base_url = "http://localhost:3000/"; // Ensure this matches your server's URL
 
     useEffect(() => {
         
@@ -23,7 +24,7 @@ const App = () => {
             const simulation = d3.forceSimulation(data.nodes)
                 .force("link", d3.forceLink(data.edges).id(d => d.id))
                 .force("center", d3.forceCenter(width / 2, height / 2))
-                .force("charge", d3.forceManyBody().strength(-200));
+                .force("charge", d3.forceManyBody().strength(-100));
 
             const link = svg.append("g")
                 .attr("class", "links")
@@ -104,35 +105,25 @@ const App = () => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
-                let responseData = await response.text();
-                try {
-                    let data = JSON.parse(responseData);
+                let data = await response.json();
 
-                    setNodesCountVisible(true);
-                    setEdgesCountVisible(true);
+                setNodesCountVisible(true);
+                setEdgesCountVisible(true);
 
-                    d3.select("#graph").select("svg").remove();
-
-                    const gdata = {
-                        nodes: data.graph_nodes,
-                        edges: data.graph_edges,
-                    };
-                    createGraph(gdata);
-                } catch (e) {
-                    console.error("Failed to parse JSON:", responseData);
-                    throw e;
-                }
+                d3.select("#graph").select("svg").remove();
+                
+                createGraph(data);
             } catch (error) {
                 console.error("Failed to fetch graph data:", error);
             }
         };
 
         document.getElementById("get-graph-data-mesh").addEventListener("click", (event) => getGraphData(event, "meshterms_graph"));
-        document.getElementById("get-graph-data-ner").addEventListener("click", (event) => getGraphData(event, "network"));
+        document.getElementById("get-graph-data-ner").addEventListener("click", (event) => getGraphData(event, "ner_graph"));
         document.getElementById("get-graph-test").addEventListener("click", async (event) => {
             event.preventDefault();
             try {
-                let response = await fetch('https://assets.antv.antgroup.com/g6/60000.json');
+                let response = await fetch('https://assets.antv.antgroup.com/g6/5000.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -162,3 +153,4 @@ const App = () => {
 };
 
 export default App;
+

@@ -21,7 +21,7 @@ def meshterms_graph():
 @app.route("/network", methods = ["GET", "POST"])
 @cross_origin()
 def network():
-    graph = utilities.extract_graph(filename = "data/graph_ner.pkl")
+    graph = utilities.extract_graph(filename = "C:\\Users\\antho\\MedGraph\\src\\webapp\\data\\graph_ner.pkl")
     
     graph_nodes = []
     for node in graph.nodes:
@@ -32,6 +32,7 @@ def network():
         graph_edges.append({"source": str(edge[0]), "target": str(edge[1]), "label": str(edge[2]["weight"])})
 
     return json.dumps({"graph_nodes": graph_nodes, "graph_edges": graph_edges})
+
 
 if __name__ == "__main__":
     app.run(port = 5000, debug=True)
