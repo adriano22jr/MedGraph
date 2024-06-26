@@ -8,7 +8,7 @@ def index():
 
 @app.route('/data')
 def get_data():
-    with open('C:\\Users\\antho\\MedGraph\\graph\\updated_output_file.json', 'r') as f:
+    with open('graph/even_more_updated_output_file.json', 'r') as f:
         data = json.load(f)
     return jsonify(data)
 

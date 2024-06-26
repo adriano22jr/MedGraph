@@ -1,48 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>3D Force Graph</title>
+  <head>
+    <meta charset="UTF-8" />
+    <title>MedGraph</title>
     <style>
-        body { margin: 0; }
-        #3d-graph { width: 1920; height: 1080; }
+      body {
+        margin: 0;
+      }
     </style>
+    <script src="//unpkg.com/dat.gui"></script>
     <script src="//unpkg.com/3d-force-graph"></script>
-
-</head>
-<body>
+  </head>
+  <body>
     <div id="3d-graph"></div>
-
-    <script type="module">
-        const response = await fetch('/data');
-        const gData = await response.json();
-        const Graph = ForceGraph3D()(document.getElementById('3d-graph')).nodeAutoColorBy("id").linkAutoColorBy('entity').linkVisibility(false).graphData(gData);
-        
-        Graph.onNodeClick(node => {
-            Graph.linkVisibility((link) => {
-                return link.source.id === node.id || link.target.id === node.id;
-            });
-            const distance = 200;
-          const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
-
-          const newPos = node.x || node.y  || node.z
-            ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
-          : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
-
-          Graph.cameraPosition(
-            newPos, // new position
-            node, // lookAt ({ x, y, z })
-            1000  // ms transition duration
-          );
-        })
-        .nodeLabel('id')
-        .linkLabel('term')
-        .d3Force('link')
-        .distance(d => {return 1000;}).strength(0)
-        .linkOpacity(1);
-        
-
+    <script type="importmap">
+      { "imports": { "three": "//unpkg.com/three/build/three.module.js" } }
     </script>
+    <script type="module">
+      import { UnrealBloomPass } from "//unpkg.com/three/examples/jsm/postprocessing/UnrealBloomPass.js";
 
-</body>
+      var nodeInfo = {
+          identifier: "Cerca un nodo: ",
+          color0: "#804cdc",
+        };
+
+
+      const response = await fetch("/data");
+      const gData = await response.json();
+      const Graph = ForceGraph3D()(document.getElementById("3d-graph"))
+        .nodeAutoColorBy("id")
+        .linkAutoColorBy("entity")
+        .linkVisibility(false)
+        .graphData(gData);
+
+      let gui = new dat.GUI();
+
+      function resetGUI() {
+        gui.destroy();
+        gui = new dat.GUI();
+      }
+
+      let linkGUI = new dat.GUI();
+      linkGUI.hide();
+      function resetLinkGUI() {
+        linkGUI.destroy();
+        linkGUI = new dat.GUI();
+      }
+
+      Graph.onNodeClick((node) => {
+        Graph.linkVisibility((link) => {
+          return link.source.id === node.id || link.target.id === node.id;
+        });
+
+        const distance = 200;
+        const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+
+        const newPos =
+          node.x || node.y || node.z
+            ? {
+                x: node.x * distRatio,
+                y: node.y * distRatio,
+                z: node.z * distRatio,
+              }
+            : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+
+        Graph.cameraPosition(
+          newPos, // new position
+          node, // lookAt ({ x, y, z })
+          1000 // ms transition duration
+        );
+
+        resetGUI();
+
+        var nodeInfo = { //TODO: aggiungere gli altri attributi sui nodi, presi dal DB
+          identifier: node.id,
+          color0: "#804cdc",
+        };
+        const identifierController = gui.add(nodeInfo, "identifier");
+
+        identifierController.onFinishChange((value) => {
+          const targetNode = gData.nodes.find((node) => node.id === value);
+          if (targetNode) {
+            const distance = 200;
+            const distRatio =
+              1 +
+              distance / Math.hypot(targetNode.x, targetNode.y, targetNode.z);
+
+            const newPos =
+              targetNode.x || targetNode.y || targetNode.z
+                ? {
+                    x: targetNode.x * distRatio,
+                    y: targetNode.y * distRatio,
+                    z: targetNode.z * distRatio,
+                  }
+                : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+
+            Graph.cameraPosition(
+              newPos, // new position
+              targetNode, // lookAt ({ x, y, z })
+              2000 // ms transition duration
+            );
+          } else {
+            console.log("Node not found");
+          }
+        });
+      });
+
+      Graph.onNodeRightClick((node) => {
+        window
+          .open("https://pubmed.ncbi.nlm.nih.gov/" + node.id + "/", "_blank")
+          .focus();
+      })
+        .backgroundColor("#000003")
+        .nodeOpacity(1)
+        .nodeLabel("id")
+        .linkHoverPrecision(1.2)
+        .linkLabel("subject")
+        .d3Force("link")
+        .distance((d) => {
+          return 1300;
+        })
+        .strength(0);
+
+      Graph.onLinkClick((link) => {
+        var sub = link.subject;
+        var ent = link.entity;
+
+        var linkInfo = { 
+          source: link.source.id,
+          target: link.target.id,
+          subject: sub,
+          entity: ent,
+          color: '#804cdc',
+        };
+
+        resetLinkGUI();
+        linkGUI.add(linkInfo, "source");
+        linkGUI.add(linkInfo, "target");
+        linkGUI.add(linkInfo, "subject");
+        linkGUI.add(linkInfo, "entity");
+        linkGUI.show();
+      })
+
+      const bloomPass = new UnrealBloomPass();
+      bloomPass.strength = 1;
+      bloomPass.radius = 1;
+      bloomPass.threshold = 0;
+      Graph.postProcessingComposer().addPass(bloomPass);
+    </script>
+  </body>
 </html>
