@@ -22,8 +22,8 @@
       var nodeInfo = {
           identifier: "Cerca un nodo: ",
           color0: "#804cdc",
+          terms: "",
         };
-
 
       const response = await fetch("/data");
       const gData = await response.json();
@@ -47,7 +47,14 @@
         linkGUI = new dat.GUI();
       }
 
-      Graph.onNodeClick((node) => {
+      Graph.onNodeClick(async (node) => {
+        const nodeDetailsResponse = await fetch(`/node/${node.id}`);
+        const nodeDetails = await nodeDetailsResponse.json();
+        if (nodeDetails.error) {
+          console.log(nodeDetails.error);
+          return;
+        }
+
         Graph.linkVisibility((link) => {
           return link.source.id === node.id || link.target.id === node.id;
         });
@@ -71,12 +78,21 @@
         );
 
         resetGUI();
-
-        var nodeInfo = { //TODO: aggiungere gli altri attributi sui nodi, presi dal DB
-          identifier: node.id,
+        var termsString = node.terms.toString();
+        var nodeInfo = {
+          identifier: nodeDetails["_id"],
           color0: "#804cdc",
+          terms: termsString,
+          titolo: nodeDetails["title"], 
+          anno: nodeDetails["Year"],
+          giornale: nodeDetails["Journal"],
         };
+
         const identifierController = gui.add(nodeInfo, "identifier");
+        const termsController = gui.add(nodeInfo, "terms");
+        const titoloController = gui.add(nodeInfo, "titolo"); 
+        const annoController = gui.add(nodeInfo, "anno");
+        const giornaleController = gui.add(nodeInfo, "giornale");
 
         identifierController.onFinishChange((value) => {
           const targetNode = gData.nodes.find((node) => node.id === value);
@@ -140,7 +156,7 @@
         linkGUI.add(linkInfo, "subject");
         linkGUI.add(linkInfo, "entity");
         linkGUI.show();
-      })
+      });
 
       const bloomPass = new UnrealBloomPass();
       bloomPass.strength = 1;
@@ -150,3 +166,4 @@
     </script>
   </body>
 </html>
+

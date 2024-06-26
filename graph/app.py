@@ -1,6 +1,17 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
+from pymongo import MongoClient
+from bson import ObjectId
 import json
+
 app = Flask(__name__, template_folder="templateFiles", static_folder="staticFiles")
+
+# Configura la connessione a MongoDB
+try:
+    client = MongoClient("mongodb://localhost:27017/")
+    db = client['MedGraph']
+    collection = db['Dataset2000Entries']
+except Exception as e:
+    print("Errore nella connessione a MongoDB:", e)
 
 @app.route('/')
 def index():
@@ -8,11 +19,28 @@ def index():
 
 @app.route('/data')
 def get_data():
-    with open('graph/even_more_updated_output_file.json', 'r') as f:
-        data = json.load(f)
-    return jsonify(data)
+    try:
+        with open('graph/even_more_updated_output_file.json', 'r') as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        print("Errore nel caricamento dei dati:", e)
+        return jsonify({"error": "Errore nel caricamento dei dati"}), 500
+
+
+
+@app.route('/node/<node_id>')
+def get_node_details(node_id):
+    try:
+        node_id = int(node_id)
+        node = collection.find_one({"_id": node_id}, {"title": 1, "Year": 1, "Journal": 1})
+        if node:
+            return jsonify(node)
+        else:
+            return jsonify({"error": "Node not found"}), 404
+    except Exception as e:
+        print("Errore nella ricerca del nodo:", e)
+        return jsonify({"error": "Errore nella ricerca del nodo"}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-    
