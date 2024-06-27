@@ -15,7 +15,8 @@ pip install flask pymongo bson json
 ```
 
 Then, run ```app.py``` and open the development server.
-Keep in mind that, in order to correctly display nodes information, you need to be connect to the MedGraph database, currently local hosted.
+
+### ⚠️ Please keep in mind that, in order to correctly display nodes information, you need to be connect to the MedGraph database, currently local hosted. ⚠️
 
 ## Commands 🖱️
 
