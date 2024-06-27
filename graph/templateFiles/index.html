@@ -7,6 +7,13 @@
       body {
         margin: 0;
       }
+      .gui-container textarea {
+        width: 100%;
+        height: 100px;
+        resize: none;
+        overflow: auto;
+        white-space: pre-wrap;
+      }
     </style>
     <script src="//unpkg.com/dat.gui"></script>
     <script src="//unpkg.com/3d-force-graph"></script>
@@ -19,11 +26,11 @@
     <script type="module">
       import { UnrealBloomPass } from "//unpkg.com/three/examples/jsm/postprocessing/UnrealBloomPass.js";
 
-      var nodeInfo = {
-          identifier: "Cerca un nodo: ",
-          color0: "#804cdc",
-          terms: "",
-        };
+      let nodeInfo = {
+        identifier: "",
+        color0: "#804cdc",
+        terms: "",
+      };
 
       const response = await fetch("/data");
       const gData = await response.json();
@@ -34,10 +41,13 @@
         .graphData(gData);
 
       let gui = new dat.GUI();
+      gui.hide();
+      gui.domElement.classList.add("gui-container");
 
       function resetGUI() {
         gui.destroy();
         gui = new dat.GUI();
+        gui.domElement.classList.add("gui-container");
       }
 
       let linkGUI = new dat.GUI();
@@ -45,6 +55,7 @@
       function resetLinkGUI() {
         linkGUI.destroy();
         linkGUI = new dat.GUI();
+        linkGUI.domElement.classList.add("gui-container");
       }
 
       Graph.onNodeClick(async (node) => {
@@ -69,60 +80,73 @@
                 y: node.y * distRatio,
                 z: node.z * distRatio,
               }
-            : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+            : { x: 0, y: 0, z: distance };
 
         Graph.cameraPosition(
-          newPos, // new position
-          node, // lookAt ({ x, y, z })
+          newPos,
+          node,
           1000 // ms transition duration
         );
 
         resetGUI();
-        var termsString = node.terms.toString();
-        var authorsString = nodeDetails['authors'].toString();
-        var nodeInfo = {
-          identifier: nodeDetails["_id"],
+        const termsString = node.terms.toString();
+        const authorsString = nodeDetails.authors.toString();
+        nodeInfo = {
+          identifier: nodeDetails._id,
           color0: "#804cdc",
           terms: termsString,
-          titolo: nodeDetails["title"], 
-          anno: nodeDetails["Year"],
-          abstract: nodeDetails["abstract"],
+          titolo: nodeDetails.title,
+          anno: nodeDetails.Year,
+          abstract: nodeDetails.abstract,
           authors: authorsString,
         };
 
-        const identifierController = gui.add(nodeInfo, "identifier");
+        gui.add(nodeInfo, "identifier");
+        gui.add(nodeInfo, "titolo");
+        gui.add(nodeInfo, "anno");
+        gui.show();
+
         const termsController = gui.add(nodeInfo, "terms");
-        const titoloController = gui.add(nodeInfo, "titolo"); 
-        const annoController = gui.add(nodeInfo, "anno");
-        const giornaleController = gui.add(nodeInfo, "abstract");
+        const abstractController = gui.add(nodeInfo, "abstract");
         const authorsController = gui.add(nodeInfo, "authors");
 
-        identifierController.onFinishChange((value) => {
-          const targetNode = gData.nodes.find((node) => node.id === value);
-          if (targetNode) {
-            const distance = 200;
-            const distRatio =
-              1 +
-              distance / Math.hypot(targetNode.x, targetNode.y, targetNode.z);
+        function makeTextarea(controller) {
+          const textArea = document.createElement('textarea');
+          textArea.value = controller.getValue();
+          textArea.style.width = '100%';
+          textArea.style.height = '100px';
+          textArea.readOnly = true;
+          controller.__li.replaceChild(textArea, controller.__input);
+        }
 
-            const newPos =
-              targetNode.x || targetNode.y || targetNode.z
-                ? {
-                    x: targetNode.x * distRatio,
-                    y: targetNode.y * distRatio,
-                    z: targetNode.z * distRatio,
-                  }
-                : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+        makeTextarea(termsController);
+        makeTextarea(abstractController);
+        makeTextarea(authorsController);
+      });
 
-            Graph.cameraPosition(
-              newPos, // new position
-              targetNode, // lookAt ({ x, y, z })
-              2000 // ms transition duration
-            );
-          } else {
-            console.log("Node not found");
-          }
-        });
+      let searchGUI = new dat.GUI();
+      searchGUI.add(nodeInfo, "identifier").name("Cerca un nodo: ").onFinishChange((value) => {
+        const targetNode = gData.nodes.find((node) => node.id === value);
+        if (targetNode) {
+          const distance = 200;
+          const distRatio = 1 + distance / Math.hypot(targetNode.x, targetNode.y, targetNode.z);
+
+          const newPos = targetNode.x || targetNode.y || targetNode.z
+            ? {
+                x: targetNode.x * distRatio,
+                y: targetNode.y * distRatio,
+                z: targetNode.z * distRatio,
+              }
+            : { x: 0, y: 0, z: distance }; 
+
+          Graph.cameraPosition(
+            newPos, 
+            targetNode, 
+            2000 // ms
+          );
+        } else {
+          console.log("Node not found");
+        }
       });
 
       Graph.onNodeRightClick((node) => {
@@ -169,4 +193,3 @@
     </script>
   </body>
 </html>
-
