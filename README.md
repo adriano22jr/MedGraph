@@ -11,7 +11,7 @@ The resulting graph not only facilitates the understanding of existing relations
 In order to run the browser tool, please install the following libraries:
 
 ```sh
-pip install flask pymongo bson json
+pip install -r requirements.txt
 ```
 
 Then, run ```app.py``` and open the development server.
