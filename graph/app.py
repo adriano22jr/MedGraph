@@ -10,6 +10,7 @@ try:
     client = MongoClient("mongodb://localhost:27017/")
     db = client['MedGraph']
     collection = db['Dataset2000Entries']
+    collection_authors = db['Authors']
 except Exception as e:
     print("Errore nella connessione a MongoDB:", e)
 
@@ -33,8 +34,15 @@ def get_data():
 def get_node_details(node_id):
     try:
         node_id = int(node_id)
-        node = collection.find_one({"_id": node_id}, {"title": 1, "Year": 1, "Journal": 1})
+        node = collection.find_one({"_id": node_id}, {"title": 1, "Year": 1, "abstract": 1, "authors": 1})
+        
         if node:
+            # Recupera i dettagli degli autori
+            author_ids = node.get('authors', [])
+            authors = list(collection_authors.find({"_id": {"$in": [ObjectId(author_id) for author_id in author_ids]}}, {"_id": 0, "author": 1}))
+            authors = [author['author'] for author in authors]
+            node['authors'] = authors
+            print(node)
             return jsonify(node)
         else:
             return jsonify({"error": "Node not found"}), 404

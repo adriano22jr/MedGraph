@@ -79,20 +79,23 @@
 
         resetGUI();
         var termsString = node.terms.toString();
+        var authorsString = nodeDetails['authors'].toString();
         var nodeInfo = {
           identifier: nodeDetails["_id"],
           color0: "#804cdc",
           terms: termsString,
           titolo: nodeDetails["title"], 
           anno: nodeDetails["Year"],
-          giornale: nodeDetails["Journal"],
+          abstract: nodeDetails["abstract"],
+          authors: authorsString,
         };
 
         const identifierController = gui.add(nodeInfo, "identifier");
         const termsController = gui.add(nodeInfo, "terms");
         const titoloController = gui.add(nodeInfo, "titolo"); 
         const annoController = gui.add(nodeInfo, "anno");
-        const giornaleController = gui.add(nodeInfo, "giornale");
+        const giornaleController = gui.add(nodeInfo, "abstract");
+        const authorsController = gui.add(nodeInfo, "authors");
 
         identifierController.onFinishChange((value) => {
           const targetNode = gData.nodes.find((node) => node.id === value);
