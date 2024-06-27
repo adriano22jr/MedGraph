@@ -1,2 +1,0 @@
-antimicrobial activity => activity | max_score: 0.7604801058769226 | count: 1
-antimicrobial activities => activity | max_score: 0.541536271572113 | count: 1

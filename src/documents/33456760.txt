@@ -1,7 +1,0 @@
-Colistin => antibiotic | max_score: 0.7208502888679504 | count: 1
-colistin => antibiotic | max_score: 0.7815751433372498 | count: 7
-Acinetobacter baumanii => bacteria | max_score: 0.9785665273666382 | count: 1
-Pseudomonas aeruginosa => bacteria | max_score: 0.9814591407775879 | count: 1
-Enterobacteriaceae => bacteria | max_score: 0.9356448650360107 | count: 1
-Escherichia coli => bacteria | max_score: 0.9724757671356201 | count: 1
-Klebsiella pneumoniae => bacteria | max_score: 0.9826860427856445 | count: 1

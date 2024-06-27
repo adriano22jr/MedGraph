@@ -1,7 +1,0 @@
-innate host defense system => chemical_system | max_score: 0.7880379557609558 | count: 1
-living organisms => organism | max_score: 0.8063467741012573 | count: 1
-Pardaxin => peptide | max_score: 0.8847090005874634 | count: 2
-antitumor activities => activity | max_score: 0.6703221797943115 | count: 1
-novel antibiotic => antibiotic | max_score: 0.551881730556488 | count: 1
-cancer therapy => treatment | max_score: 0.6307192444801331 | count: 1
-target cells => cell | max_score: 0.8816560506820679 | count: 1

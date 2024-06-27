@@ -1,7 +1,0 @@
-RiPPs => peptide | max_score: 0.5062474012374878 | count: 1
-in vitro antibacterial activity => activity | max_score: 0.5943943858146667 | count: 1
-ruminococcin C1 => peptide | max_score: 0.9349256157875061 | count: 4
-Clostridium perfringens => bacteria | max_score: 0.9812032580375671 | count: 1
-vancomycin => antibiotic | max_score: 0.9274977445602417 | count: 1
-gut environment => environmental_factor | max_score: 0.9540403485298157 | count: 1
-biological activities => activity | max_score: 0.5006722211837769 | count: 1

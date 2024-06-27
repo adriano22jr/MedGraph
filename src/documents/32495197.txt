@@ -1,5 +1,0 @@
-Polymyxins => antibiotic | max_score: 0.718507707118988 | count: 1
-last-line therapy => treatment | max_score: 0.5808287262916565 | count: 1
-multidrug-resistant bacteria => bacteria | max_score: 0.9312700629234314 | count: 1
-polymyxin B1 => peptide | max_score: 0.6588722467422485 | count: 3
-B1-1 => peptide | max_score: 0.6245246529579163 | count: 2

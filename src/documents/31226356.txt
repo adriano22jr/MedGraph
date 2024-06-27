@@ -1,8 +1,0 @@
-antibiotics => drug | max_score: 0.7629909515380859 | count: 3
-nanoparticles => compound | max_score: 0.6489103436470032 | count: 2
-peptides => peptide | max_score: 0.8780512809753418 | count: 1
-activity => activity | max_score: 0.6001973748207092 | count: 1
-Nanoparticles => compound | max_score: 0.745418906211853 | count: 1
-theranostic agent => compound | max_score: 0.5041396021842957 | count: 1
-bacterial cells => cell | max_score: 0.7301831245422363 | count: 1
-biological systems => chemical_system | max_score: 0.8477129340171814 | count: 1

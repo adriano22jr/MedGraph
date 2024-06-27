@@ -1,9 +1,0 @@
-bacterial pathogens => bacteria | max_score: 0.7638580203056335 | count: 2
-food chain => environmental_factor | max_score: 0.9502484202384949 | count: 2
-persister-cells => cell_type | max_score: 0.7551231980323792 | count: 1
-bacterial spores => cell | max_score: 0.5349547863006592 | count: 1
-environmental niche => environmental_factor | max_score: 0.92461097240448 | count: 1
-traditional antimicrobials => antibiotic | max_score: 0.6573878526687622 | count: 1
-metabolic activities => activity | max_score: 0.9015033841133118 | count: 1
-antimicrobial peptides => peptide | max_score: 0.7909968495368958 | count: 1
-AMPs => peptide | max_score: 0.6993853449821472 | count: 2

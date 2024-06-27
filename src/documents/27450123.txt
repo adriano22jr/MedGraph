@@ -1,5 +1,0 @@
-Antimicrobial peptides => compound | max_score: 0.6456316709518433 | count: 1
-antimicrobial peptides => compound | max_score: 0.5671826601028442 | count: 1
-melectin => peptide | max_score: 0.8627192974090576 | count: 1
-antapin => peptide | max_score: 0.8105871081352234 | count: 1
-antimicrobial activity => activity | max_score: 0.913828432559967 | count: 2

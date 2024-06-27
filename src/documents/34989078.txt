@@ -1,7 +1,0 @@
-Alyteserin-2a => compound | max_score: 0.5293465852737427 | count: 1
-skin exudates => body_part | max_score: 0.6851962208747864 | count: 1
-midwife toad => species | max_score: 0.7665616273880005 | count: 1
-alyteserin-2a => compound | max_score: 0.5118616223335266 | count: 1
-antitumor activity => activity | max_score: 0.7823476195335388 | count: 1
-alyteserin-2a => peptide | max_score: 0.704561173915863 | count: 2
-alyteserin-2a-Sp3 => peptide | max_score: 0.55953049659729 | count: 1

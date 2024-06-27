@@ -1,8 +1,0 @@
-revision surgery => surgical_procedure | max_score: 0.7433411478996277 | count: 1
-accuracy => medical_term | max_score: 0.6764705181121826 | count: 1
-α-defensin => peptide | max_score: 0.5967769026756287 | count: 7
-Sensitivity => medical_term | max_score: 0.8198199272155762 | count: 1
-specificity => medical_term | max_score: 0.8288537263870239 | count: 1
-diagnostic odds ratio => medical_term | max_score: 0.6396386623382568 | count: 1
-positive likelihood ratio => medical_term | max_score: 0.6688768267631531 | count: 2
-negative likelihood ratio => medical_term | max_score: 0.7187444567680359 | count: 2

@@ -1,8 +1,0 @@
-medical devices => device | max_score: 0.5778103470802307 | count: 1
-bactericidal activity => biological_process | max_score: 0.6318610906600952 | count: 1
-AMPs => peptide | max_score: 0.5349422693252563 | count: 2
-antibiotics => antibiotic | max_score: 0.658879280090332 | count: 1
-protamine => peptide | max_score: 0.6636770963668823 | count: 4
-Adherent bacteria => bacteria | max_score: 0.6780577898025513 | count: 1
-planktonic bacteria => bacteria | max_score: 0.8197305202484131 | count: 1
-antimicrobial activity => biological_process | max_score: 0.6171637177467346 | count: 1

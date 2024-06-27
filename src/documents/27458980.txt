@@ -1,6 +1,0 @@
-multidrug-resistant gram-negative bacteria => bacteria | max_score: 0.670050323009491 | count: 1
-poor outcomes => condition_outcome | max_score: 0.6977618932723999 | count: 1
-Klebsiella pneumoniae => bacteria | max_score: 0.9736788272857666 | count: 1
-fosfomycin => antibiotic | max_score: 0.8160023093223572 | count: 2
-multidrug regimen => treatment | max_score: 0.895411491394043 | count: 1
-aggressive surgical source control => surgical_procedure | max_score: 0.5904229879379272 | count: 1

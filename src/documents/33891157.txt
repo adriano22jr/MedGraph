@@ -1,5 +1,0 @@
-microbes => bacteria | max_score: 0.5947946906089783 | count: 1
-rationale design => study_design | max_score: 0.8470945358276367 | count: 1
-cell membrane => cell | max_score: 0.5244600176811218 | count: 1
-bacteria => bacteria | max_score: 0.8186156749725342 | count: 3
-Mac1 => peptide | max_score: 0.7039741277694702 | count: 2

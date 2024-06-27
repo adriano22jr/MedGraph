@@ -1,9 +1,0 @@
-Otosporin® => drug | max_score: 0.9065659642219543 | count: 2
-bleaching effectiveness => medical_term | max_score: 0.5727269053459167 | count: 2
-participants => subject | max_score: 0.5737857222557068 | count: 1
-triple-blind => study_design | max_score: 0.7357349395751953 | count: 1
-multicenter => study_design | max_score: 0.6832520365715027 | count: 1
-randomized clinical trial => clinical_trial | max_score: 0.5016881227493286 | count: 1
-patient's hemi-arch => body_part | max_score: 0.6360574960708618 | count: 1
-digital spectrophotometer => device | max_score: 0.8367331624031067 | count: 1
-Bleaching effectiveness => medical_term | max_score: 0.5798994302749634 | count: 1

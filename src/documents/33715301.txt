@@ -1,8 +1,0 @@
-Buthus occitanus => species | max_score: 0.8126437067985535 | count: 1
-B. occitanus => species | max_score: 0.8523612022399902 | count: 1
-B. occitanus => species | max_score: 0.8526242971420288 | count: 5
-ion channels => protein | max_score: 0.517010509967804 | count: 1
-antimicrobial peptides => peptide | max_score: 0.5081997513771057 | count: 1
-amphipathic peptides => peptide | max_score: 0.7535221576690674 | count: 1
-myotropic neuropeptides => molecule | max_score: 0.6520119309425354 | count: 1
-hypothetical secreted proteins => protein | max_score: 0.5324393510818481 | count: 1

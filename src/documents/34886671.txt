@@ -1,6 +1,0 @@
-Escherichia coli => bacteria | max_score: 0.9853470325469971 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.9870282411575317 | count: 1
-osteogenesis-associated genes/proteins => protein | max_score: 0.5665627717971802 | count: 1
-Wnt/β-catenin signaling pathway => biological_process | max_score: 0.7120345234870911 | count: 1
-multifunctional PEEK implants => device | max_score: 0.5872865319252014 | count: 2
-osseointegration => biological_process | max_score: 0.5742936134338379 | count: 1

@@ -1,9 +1,0 @@
-Slc2a4 => gene | max_score: 0.9082930088043213 | count: 7
-glucose transporter 4 protein => protein | max_score: 0.7186466455459595 | count: 1
-GLUT4 => protein | max_score: 0.8785755634307861 | count: 1
-type 2 diabetes => disease_disorder | max_score: 0.5649951696395874 | count: 1
-AMPs => peptide | max_score: 0.665971577167511 | count: 6
-RAB1-RAB7 => peptide | max_score: 0.6691765785217285 | count: 1
-RAB1 => peptide | max_score: 0.825493335723877 | count: 1
-Slc2a4 => protein | max_score: 0.6769887804985046 | count: 1
-angiogenesis => biological_process | max_score: 0.7073225975036621 | count: 1

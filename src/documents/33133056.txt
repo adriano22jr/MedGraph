@@ -1,8 +1,0 @@
-multicellular organisms => organism | max_score: 0.5794745683670044 | count: 1
-physiological conditions => environmental_factor | max_score: 0.8989235162734985 | count: 1
-pexiganan => peptide | max_score: 0.9104285836219788 | count: 4
-host defense peptide => peptide | max_score: 0.6400230526924133 | count: 1
-African clawed frog => species | max_score: 0.8041311502456665 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.9833563566207886 | count: 2
-proteins => protein | max_score: 0.5447275042533875 | count: 1
-nucleotide metabolism => biological_process | max_score: 0.836705207824707 | count: 1

@@ -1,6 +1,0 @@
-Immunoglobulin A nephropathy => disease_disorder | max_score: 0.5843778848648071 | count: 1
-DEFA1A3 => gene | max_score: 0.7878827452659607 | count: 1
-DEFA1A3 => mutation | max_score: 0.861305832862854 | count: 2
-DEFA3 => mutation | max_score: 0.8045474290847778 | count: 1
-noncoding deletion variant => mutation | max_score: 0.7001031637191772 | count: 1
-DEFA3 => gene | max_score: 0.702709436416626 | count: 1

@@ -1,6 +1,0 @@
-lateral pressure profile => biological_process | max_score: 0.5912591218948364 | count: 4
-binding => biological_process | max_score: 0.6428605914115906 | count: 1
-insertion => biological_process | max_score: 0.6325303316116333 | count: 3
-function => biological_process | max_score: 0.5032950639724731 | count: 1
-antimicrobial peptides => peptide | max_score: 0.6608917713165283 | count: 1
-PGLa => peptide | max_score: 0.7843124270439148 | count: 1

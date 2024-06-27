@@ -1,8 +1,0 @@
-Dental caries => disease_disorder | max_score: 0.8732643723487854 | count: 1
-Dental plaque => environmental_factor | max_score: 0.9061358571052551 | count: 1
-teeth => body_part | max_score: 0.5799087882041931 | count: 1
-caries => disease_disorder | max_score: 0.5949785709381104 | count: 4
-antimicrobial peptides => peptide | max_score: 0.8542744517326355 | count: 1
-arginine => peptide | max_score: 0.709174633026123 | count: 1
-natural products => environmental_factor | max_score: 0.7321782112121582 | count: 1
-dental caries => disease_disorder | max_score: 0.8596881031990051 | count: 1

@@ -1,8 +1,0 @@
-human neutrophil defensins => immunologic_marker | max_score: 0.5100094676017761 | count: 1
-HNP1-3 => immunologic_marker | max_score: 0.7476624846458435 | count: 10
-glucose => immunologic_marker | max_score: 0.5555368661880493 | count: 1
-interleukin-6 => immunologic_marker | max_score: 0.8366072177886963 | count: 3
-procalcitonin => immunologic_marker | max_score: 0.6541810631752014 | count: 1
-automatic analyzer => device | max_score: 0.9296613931655884 | count: 1
-presepsin => immunologic_marker | max_score: 0.5790835618972778 | count: 1
-Pathfast system => device | max_score: 0.887938380241394 | count: 1

@@ -1,9 +1,0 @@
-Antisense PNA-peptide conjugates => compound | max_score: 0.6021127104759216 | count: 1
-essential bacterial genes => gene | max_score: 0.8429279327392578 | count: 1
-minimal inhibitory concentration (MIC) => lab_value | max_score: 0.6583714485168457 | count: 1
-antimicrobial activity => activity | max_score: 0.9191341400146484 | count: 1
-synthetic antimicrobial compounds => compound | max_score: 0.5310614109039307 | count: 1
-minimal inhibitory concentration => lab_value | max_score: 0.7227123379707336 | count: 1
-peptide-PNA conjugates => compound | max_score: 0.5114789605140686 | count: 1
-Escherichia coli => bacteria | max_score: 0.9842202067375183 | count: 1
-minimal bactericidal concentration (MBC) => lab_value | max_score: 0.6160683035850525 | count: 1

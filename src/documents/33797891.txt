@@ -1,2 +1,0 @@
-Gram-negative bacteria => bacteria | max_score: 0.9680013656616211 | count: 2
-phospholipids => molecule | max_score: 0.5769482254981995 | count: 1

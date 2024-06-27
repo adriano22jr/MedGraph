@@ -1,9 +1,0 @@
-myosin heavy chain => protein | max_score: 0.9256548285484314 | count: 1
-Larimichthys crocea => species | max_score: 0.8196814060211182 | count: 1
-LCMHC => peptide | max_score: 0.921680212020874 | count: 6
-Staphylococcus aureus => bacteria | max_score: 0.9779828786849976 | count: 1
-low-intensity ultrasound treatment => treatment | max_score: 0.8376206755638123 | count: 1
-minimal inhibitory concentration (MIC) => lab_value | max_score: 0.5873298048973083 | count: 1
-ultrasound treatment => treatment | max_score: 0.7455587983131409 | count: 1
-low-intensity ultrasound => treatment | max_score: 0.6457065939903259 | count: 2
-S. aureus => bacteria | max_score: 0.6829912662506104 | count: 1

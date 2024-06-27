@@ -1,3 +1,0 @@
-broad-spectrum antimicrobial activities => activity | max_score: 0.6274964809417725 | count: 1
-multi-drug resistant bacteria => bacteria | max_score: 0.6152522563934326 | count: 1
-LKKL => peptide | max_score: 0.6770889163017273 | count: 3

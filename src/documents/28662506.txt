@@ -1,9 +1,0 @@
-PMB => antibiotic | max_score: 0.5742273330688477 | count: 2
-radiation-induced mortality => condition_outcome | max_score: 0.581689715385437 | count: 2
-mice => species | max_score: 0.9266214966773987 | count: 4
-total-body radiation => environmental_factor | max_score: 0.5664348602294922 | count: 1
-TNF-α => protein | max_score: 0.6542250514030457 | count: 1
-IL-6 => protein | max_score: 0.6193896532058716 | count: 1
-G-CSF => protein | max_score: 0.5730136632919312 | count: 1
-IL-10 => protein | max_score: 0.6129269599914551 | count: 1
-TLR4-Myd88-IL-6 pathway => biological_process | max_score: 0.5132760405540466 | count: 1

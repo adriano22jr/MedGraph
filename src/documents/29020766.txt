@@ -1,5 +1,0 @@
-molecular self-assembly => biological_process | max_score: 0.6110025644302368 | count: 1
-proteins => protein | max_score: 0.878631055355072 | count: 1
-antibacterial activity => activity | max_score: 0.8899068236351013 | count: 3
-bactericidal activity => activity | max_score: 0.8782185316085815 | count: 1
-bacteria => bacteria | max_score: 0.817588746547699 | count: 1

@@ -1,7 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.5719406008720398 | count: 1
-AMPs => peptide | max_score: 0.751616358757019 | count: 4
-bacteria => bacteria | max_score: 0.6844419836997986 | count: 1
-proteolytic enzymes => enzyme | max_score: 0.9615423679351807 | count: 2
-antimicrobial activity => activity | max_score: 0.8529444336891174 | count: 2
-human cells => cell | max_score: 0.8874568939208984 | count: 1
-chronic wound => body_part | max_score: 0.6436380743980408 | count: 1

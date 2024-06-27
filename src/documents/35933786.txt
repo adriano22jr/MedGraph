@@ -1,8 +1,0 @@
-Chagas disease => disease_disorder | max_score: 0.8450495004653931 | count: 1
-Trypanosoma cruzi => parasite | max_score: 0.9774101376533508 | count: 1
-chemotherapeutic treatments => treatment | max_score: 0.7212191224098206 | count: 1
-innate immune system => chemical_system | max_score: 0.5081114172935486 | count: 1
-M-PONTX-Dq3a => peptide | max_score: 0.9535250663757324 | count: 4
-trypanocidal activities => activity | max_score: 0.765327513217926 | count: 2
-current therapies => treatment | max_score: 0.6674662232398987 | count: 1
-trypanocidal activity => activity | max_score: 0.568991482257843 | count: 1

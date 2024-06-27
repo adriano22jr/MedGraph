@@ -1,8 +1,0 @@
-Mycobacterium tuberculosis => bacteria | max_score: 0.8605758547782898 | count: 1
-Mtb => bacteria | max_score: 0.6692540049552917 | count: 3
-rv1819c => gene | max_score: 0.9329594373703003 | count: 1
-Rv1819c => protein | max_score: 0.9059059023857117 | count: 4
-bleomycin7 => peptide | max_score: 0.8183056712150574 | count: 1
-7,700 Å3 => volume | max_score: 0.7877267599105835 | count: 1
-bleomycin => peptide | max_score: 0.8791697025299072 | count: 1
-ABC transporter family => protein_family | max_score: 0.9240309596061707 | count: 1

@@ -1,8 +1,0 @@
-Gram-negative bacteria => bacteria | max_score: 0.9391316175460815 | count: 2
-Enterobacteriaceae family => protein_family | max_score: 0.864937961101532 | count: 1
-Pseudomonas => bacteria | max_score: 0.7531291246414185 | count: 1
-Acinetobacter species => bacteria | max_score: 0.7696372866630554 | count: 1
-beta-lactamase => enzyme | max_score: 0.9779217839241028 | count: 5
-beta-lactam antibiotics => antibiotic | max_score: 0.8702825903892517 | count: 2
-clavulanic acid => antibiotic | max_score: 0.8122143149375916 | count: 1
-tazobactam => antibiotic | max_score: 0.7919094562530518 | count: 1

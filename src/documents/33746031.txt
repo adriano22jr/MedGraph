@@ -1,8 +1,0 @@
-LTPs => protein | max_score: 0.6009019613265991 | count: 1
-LTP1 => peptide | max_score: 0.6618571877479553 | count: 2
-LTP2 => peptide | max_score: 0.7256320118904114 | count: 2
-plant species => plant | max_score: 0.6141528487205505 | count: 1
-phytopathogens => parasite | max_score: 0.6331754922866821 | count: 1
-antitumoral => activity | max_score: 0.51003497838974 | count: 1
-insecticidal activity => activity | max_score: 0.8395900130271912 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.9357243776321411 | count: 1

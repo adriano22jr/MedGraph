@@ -1,7 +1,0 @@
-pH-activity => environmental_factor | max_score: 0.7235698103904724 | count: 1
-Klebsiella pneumoniae => bacteria | max_score: 0.9818024039268494 | count: 1
-Methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.914140522480011 | count: 1
-MRSA => bacteria | max_score: 0.6738245487213135 | count: 1
-pH => environmental_factor | max_score: 0.9491574764251709 | count: 3
-bacterial cells => cell | max_score: 0.7114845514297485 | count: 1
-polymyxin B => antibiotic | max_score: 0.8062816858291626 | count: 1

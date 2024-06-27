@@ -1,9 +1,0 @@
-Escherichia coli => bacteria | max_score: 0.6676324009895325 | count: 1
-E. coli => bacteria | max_score: 0.8508481383323669 | count: 3
-ESC => antibiotic | max_score: 0.8733654618263245 | count: 2
-carbapenem => antibiotic | max_score: 0.9163432121276855 | count: 2
-colistin => antibiotic | max_score: 0.9213711619377136 | count: 3
-Illumina technology => device | max_score: 0.5971255898475647 | count: 1
-Carbapenem => antibiotic | max_score: 0.9271934032440186 | count: 1
-blaOXA-204 => molecule | max_score: 0.5227826237678528 | count: 1
-blaNDM-5 => molecule | max_score: 0.5619323253631592 | count: 1

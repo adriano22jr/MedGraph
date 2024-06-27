@@ -1,6 +1,0 @@
-VDR => gene | max_score: 0.763357400894165 | count: 10
-patients => subject | max_score: 0.6928403973579407 | count: 7
-intestinal biopsies => tissue | max_score: 0.7616512775421143 | count: 1
-HSCT => surgical_procedure | max_score: 0.5235764384269714 | count: 1
-relapse-related mortality => condition_outcome | max_score: 0.5390451550483704 | count: 1
-anti-microbial peptides (AMPs) => peptide | max_score: 0.5958086252212524 | count: 1

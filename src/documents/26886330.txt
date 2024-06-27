@@ -1,2 +1,0 @@
-Rotahaler => device | max_score: 0.9787984490394592 | count: 1
-60 L/min => volume | max_score: 0.9520705342292786 | count: 1

@@ -1,4 +1,0 @@
-antimicrobial peptides => peptide | max_score: 0.7310064435005188 | count: 2
-AMPs => peptide | max_score: 0.6161797046661377 | count: 2
-antimicrobial activity => activity | max_score: 0.7387799024581909 | count: 2
-biological activity => activity | max_score: 0.5907567143440247 | count: 2

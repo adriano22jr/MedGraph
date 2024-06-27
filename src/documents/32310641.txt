@@ -1,5 +1,0 @@
-pathogen cells => cell | max_score: 0.6959438323974609 | count: 1
-melittin => peptide | max_score: 0.7966058254241943 | count: 1
-MEL => peptide | max_score: 0.5874220132827759 | count: 1
-ofloxacin => antibiotic | max_score: 0.648210346698761 | count: 1
-mammalian cells => cell | max_score: 0.6719309687614441 | count: 1

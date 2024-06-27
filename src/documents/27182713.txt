@@ -1,9 +1,0 @@
-LL37 => peptide | max_score: 0.9350749850273132 | count: 4
-antimicrobial activity => biological_process | max_score: 0.5801211595535278 | count: 1
-Serpin A1 => peptide | max_score: 0.6200730800628662 | count: 1
-elastase => enzyme | max_score: 0.7112250328063965 | count: 1
-anti-inflammatory activity => biological_process | max_score: 0.6371450424194336 | count: 1
-BJ fibroblast cells => cell_line | max_score: 0.9651523232460022 | count: 1
-keratinocytes => cell_type | max_score: 0.9328994750976562 | count: 1
-S. aureus => bacteria | max_score: 0.9744937419891357 | count: 1
-E. coli => bacteria | max_score: 0.9725193977355957 | count: 1

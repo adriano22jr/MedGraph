@@ -1,9 +1,0 @@
-plasma => volume | max_score: 0.8092120885848999 | count: 2
-Ca-binding antimicrobial proteins => protein | max_score: 0.6170080900192261 | count: 1
-S100A7 => protein | max_score: 0.8913419246673584 | count: 5
-S100A8 => protein | max_score: 0.8981423377990723 | count: 5
-dairy cows => species | max_score: 0.7854769825935364 | count: 2
-Holstein Friesian cows => species | max_score: 0.9053366780281067 | count: 1
-Blood => body_part | max_score: 0.58641117811203 | count: 1
-days => date | max_score: 0.5058405995368958 | count: 1
-Plasma => body_part | max_score: 0.6562634110450745 | count: 1

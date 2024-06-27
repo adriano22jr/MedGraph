@@ -1,3 +1,0 @@
-MP-KE => protein | max_score: 0.9149507880210876 | count: 3
-zwitterionic peptides => peptide | max_score: 0.7263035178184509 | count: 1
-water molecules => molecule | max_score: 0.8029782772064209 | count: 1

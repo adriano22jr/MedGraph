@@ -1,6 +1,0 @@
-immune system => medical_term | max_score: 0.6342189311981201 | count: 1
-CCL8 => gene | max_score: 0.9258897304534912 | count: 1
-DEFB1 => gene | max_score: 0.944777250289917 | count: 1
-IRGs score => medical_term | max_score: 0.6266435384750366 | count: 2
-age => age | max_score: 0.8667917847633362 | count: 1
-TNM stage => medical_term | max_score: 0.7027462124824524 | count: 1

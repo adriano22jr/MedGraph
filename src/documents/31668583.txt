@@ -1,9 +1,0 @@
-(C10-16)2Dab-KKK-NH2 => peptide | max_score: 0.6171903610229492 | count: 1
-(C10-16)2Dap-KKK-NH2 => peptide | max_score: 0.6305705904960632 | count: 1
-Dab => peptide | max_score: 0.785876989364624 | count: 1
-Dap => peptide | max_score: 0.7747440934181213 | count: 1
-self-assembly behaviour => biological_process | max_score: 0.5095339417457581 | count: 1
-haemolytic activities => activity | max_score: 0.77180016040802 | count: 1
-human keratinocytes => cell_line | max_score: 0.9149035811424255 | count: 1
-Acyl chain elongation => biological_process | max_score: 0.563595712184906 | count: 1
-antimicrobial activity => activity | max_score: 0.6797205805778503 | count: 2

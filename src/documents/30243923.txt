@@ -1,6 +1,0 @@
-αs2-casein => protein | max_score: 0.7495679259300232 | count: 1
-casocidin I => peptide | max_score: 0.7800883054733276 | count: 1
-casocidins => peptide | max_score: 0.7268863916397095 | count: 4
-H2O => environmental_factor | max_score: 0.933169424533844 | count: 2
-membrane mimetic environments => environmental_factor | max_score: 0.6621078252792358 | count: 1
-antimicrobial activity => activity | max_score: 0.7345566749572754 | count: 1

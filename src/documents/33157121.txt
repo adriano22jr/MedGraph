@@ -1,6 +1,0 @@
-LL-37 => peptide | max_score: 0.8131312131881714 | count: 2
-human cathelicidin => peptide | max_score: 0.5577720999717712 | count: 1
-HNP1 => peptide | max_score: 0.7235369682312012 | count: 2
-defensin family => protein_family | max_score: 0.9875665903091431 | count: 1
-neutrophils => cell_type | max_score: 0.9411600828170776 | count: 1
-bacteria => bacteria | max_score: 0.8201326727867126 | count: 1

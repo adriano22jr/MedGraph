@@ -1,8 +1,0 @@
-antimicrobial activity => activity | max_score: 0.8158496618270874 | count: 2
-bacterial soil => environmental_factor | max_score: 0.5942545533180237 | count: 1
-battacin => peptide | max_score: 0.6304298639297485 | count: 3
-Gram negative => bacteria | max_score: 0.8640632033348083 | count: 1
-Gram positive => bacteria | max_score: 0.8684053421020508 | count: 1
-fungal pathogens => fungus | max_score: 0.5627461075782776 | count: 1
-lipopeptides => peptide | max_score: 0.5202041864395142 | count: 1
-antimicrobial activities => activity | max_score: 0.6524384021759033 | count: 1

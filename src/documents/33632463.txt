@@ -1,9 +1,0 @@
-Drug transporters => biological_process | max_score: 0.5262873768806458 | count: 1
-efflux transporters => protein | max_score: 0.685977578163147 | count: 1
-influx transporters => protein | max_score: 0.6959043741226196 | count: 1
-secretory transporters => protein | max_score: 0.7413866519927979 | count: 1
-absorptive transporters => protein | max_score: 0.6645785570144653 | count: 1
-ATP-driven transporters => protein | max_score: 0.7372872233390808 | count: 1
-Solute Linked Carrier (SLC) => protein | max_score: 0.6089565753936768 | count: 1
-drug discovery process => biological_process | max_score: 0.5609474778175354 | count: 1
-synthetic antimicrobial peptides => peptide | max_score: 0.6353965401649475 | count: 1

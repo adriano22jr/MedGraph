@@ -1,8 +1,0 @@
-colistimethate sodium => drug | max_score: 0.681855320930481 | count: 1
-pathogen-directed treatment => treatment | max_score: 0.6088853478431702 | count: 1
-retrospective case-series analysis => study_design | max_score: 0.7923964858055115 | count: 1
-1 January 2004 => date | max_score: 0.9778884649276733 | count: 1
-1 May 2014 => date | max_score: 0.9802676439285278 | count: 1
-CMS => drug | max_score: 0.5773032903671265 | count: 3
-age => age | max_score: 0.8554989695549011 | count: 2
-1.01 => lab_value | max_score: 0.6325729489326477 | count: 1

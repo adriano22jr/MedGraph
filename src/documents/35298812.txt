@@ -1,3 +1,0 @@
-peptide adsorption => biological_process | max_score: 0.6610053181648254 | count: 1
-antimicrobial peptide => peptide | max_score: 0.5376048684120178 | count: 1
-Magainin 2 => peptide | max_score: 0.8894332647323608 | count: 1

@@ -1,4 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.7126898169517517 | count: 1
-AMPs => peptide | max_score: 0.7849680185317993 | count: 4
-human immune system => anatomical_system | max_score: 0.6508910059928894 | count: 1
-clinical trials => clinical_trial | max_score: 0.9545754790306091 | count: 1

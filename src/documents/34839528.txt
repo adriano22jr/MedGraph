@@ -1,8 +1,0 @@
-MDR UPEC => bacteria | max_score: 0.7330455183982849 | count: 3
-FOS => antibiotic | max_score: 0.8932677507400513 | count: 9
-COL => antibiotic | max_score: 0.8173012733459473 | count: 11
-NIT => antibiotic | max_score: 0.8318692445755005 | count: 7
-TRI => antibiotic | max_score: 0.8178191184997559 | count: 7
-MRS => bacteria | max_score: 0.7050479054450989 | count: 2
-MICs => lab_value | max_score: 0.7857024669647217 | count: 2
-CFU per ml => volume | max_score: 0.5227176547050476 | count: 1

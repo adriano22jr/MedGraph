@@ -1,7 +1,0 @@
-extreme temperatures => environmental_factor | max_score: 0.8072054982185364 | count: 1
-pH values => environmental_factor | max_score: 0.854769766330719 | count: 1
-mammalian cells => cell | max_score: 0.9343730807304382 | count: 1
-PsDef1 => protein | max_score: 0.8033553957939148 | count: 3
-Scots pine => plant | max_score: 0.9943185448646545 | count: 1
-PsDef2 => protein | max_score: 0.7387406229972839 | count: 3
-insect α-amylase => enzyme | max_score: 0.9143751859664917 | count: 1

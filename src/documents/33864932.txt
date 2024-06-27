@@ -1,8 +1,0 @@
-Colistin => antibiotic | max_score: 0.9699353575706482 | count: 1
-Klebsiella pneumoniae => bacteria | max_score: 0.8355205655097961 | count: 1
-CRKP => bacteria | max_score: 0.6902531385421753 | count: 8
-colistin => antibiotic | max_score: 0.9703308343887329 | count: 10
-case-control study => study_design | max_score: 0.6773160099983215 | count: 1
-October 2016 => date | max_score: 0.9908967614173889 | count: 1
-June 2019 => date | max_score: 0.9911141991615295 | count: 1
-mgrB gene => gene | max_score: 0.9737783670425415 | count: 1

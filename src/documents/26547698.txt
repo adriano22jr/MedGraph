@@ -1,7 +1,0 @@
-neutrophil functions => lab_value | max_score: 0.5284320116043091 | count: 1
-LL-37 levels => lab_value | max_score: 0.6915035247802734 | count: 3
-non-surgical periodontal treatment => treatment | max_score: 0.9246191382408142 | count: 3
-GCF LL-37 levels => lab_value | max_score: 0.7635045647621155 | count: 6
-non-surgical treatment => treatment | max_score: 0.8783883452415466 | count: 1
-periodontal parameters => lab_value | max_score: 0.7010975480079651 | count: 1
-Periodontal parameters => medical_term | max_score: 0.7240687608718872 | count: 1

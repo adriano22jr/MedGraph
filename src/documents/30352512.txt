@@ -1,4 +1,0 @@
-1018K6 peptide => peptide | max_score: 0.8006353974342346 | count: 1
-pathogen bacteria => bacteria | max_score: 0.5358700752258301 | count: 1
-Listeria => bacteria | max_score: 0.876915693283081 | count: 1
-Salmonella => bacteria | max_score: 0.8910732269287109 | count: 1

@@ -1,8 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.5228764414787292 | count: 1
-AMPs => peptide | max_score: 0.6002272367477417 | count: 5
-host defense => biological_process | max_score: 0.7411848902702332 | count: 1
-microbial competition => biological_process | max_score: 0.7621750235557556 | count: 1
-traditional antibiotics => antibiotic | max_score: 0.6630956530570984 | count: 1
-multidrug-resistant bacteria => bacteria | max_score: 0.8379656076431274 | count: 1
-lactoferrin => protein | max_score: 0.9393988251686096 | count: 2
-thrombin => protein | max_score: 0.902862548828125 | count: 2

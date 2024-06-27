@@ -1,9 +1,0 @@
-Mycoplasma bovis => parasite | max_score: 0.6879677772521973 | count: 1
-ANXA2 => gene | max_score: 0.6661416292190552 | count: 5
-M. bovis => parasite | max_score: 0.6151913404464722 | count: 3
-ANXA2 => protein | max_score: 0.6904192566871643 | count: 3
-bovine lung epithelial cells => cell_line | max_score: 0.5429173707962036 | count: 1
-EBL => cell_line | max_score: 0.6989458203315735 | count: 5
-M. bovis => bacteria | max_score: 0.6480204463005066 | count: 1
-F-actin polymerization => biological_process | max_score: 0.5071433782577515 | count: 1
-IL-17 => protein | max_score: 0.6099609136581421 | count: 1

@@ -1,8 +1,0 @@
-peptide polymer => compound | max_score: 0.5277438759803772 | count: 2
-Bu => peptide | max_score: 0.6096205711364746 | count: 1
-potent activity => activity | max_score: 0.8130343556404114 | count: 1
-MDR bacteria => bacteria | max_score: 0.7754319310188293 | count: 2
-polymyxin B => antibiotic | max_score: 0.7281351089477539 | count: 1
-Pseudomonas aeruginosa => bacteria | max_score: 0.864181399345398 | count: 1
-P. aeruginosa => bacteria | max_score: 0.685459315776825 | count: 1
-host defense peptides => peptide | max_score: 0.5047076344490051 | count: 1

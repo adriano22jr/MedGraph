@@ -1,8 +1,0 @@
-Nisin => antibiotic | max_score: 0.8582578301429749 | count: 1
-lantibiotics => antibiotic | max_score: 0.6972483992576599 | count: 1
-lactic acid bacterium => bacteria | max_score: 0.5092192888259888 | count: 1
-Lactococcus lactis => bacteria | max_score: 0.9769655466079712 | count: 1
-antibacterial activity => activity | max_score: 0.8363054394721985 | count: 1
-gram-positive bacteria => bacteria | max_score: 0.903810441493988 | count: 1
-nisin => antibiotic | max_score: 0.8571631908416748 | count: 3
-antimicrobial peptides => peptide | max_score: 0.5180670619010925 | count: 1

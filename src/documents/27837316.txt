@@ -1,8 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.8944576978683472 | count: 1
-plants => plant | max_score: 0.9480992555618286 | count: 1
-innate immune system => chemical_system | max_score: 0.894736111164093 | count: 1
-bacterial infectious activity => biological_process | max_score: 0.7216753959655762 | count: 1
-function => biological_process | max_score: 0.5210996270179749 | count: 1
-antimicrobial peptides => peptide | max_score: 0.9080378413200378 | count: 2
-pore formation => biological_process | max_score: 0.5629790425300598 | count: 1
-bacteria => bacteria | max_score: 0.7871448397636414 | count: 2

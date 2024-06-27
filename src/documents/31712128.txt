@@ -1,9 +1,0 @@
-1018 => peptide | max_score: 0.8828667402267456 | count: 4
-DJK-5 => peptide | max_score: 0.9307564496994019 | count: 4
-isthmus => anatomical_system | max_score: 0.8723795413970947 | count: 3
-canal => anatomical_system | max_score: 0.8649082183837891 | count: 4
-dentinal tubules => anatomical_system | max_score: 0.8787079453468323 | count: 3
-premolars => anatomical_system | max_score: 0.5509641766548157 | count: 1
-root canal system => anatomical_system | max_score: 0.7171968817710876 | count: 1
-metabolic activity => activity | max_score: 0.7868584394454956 | count: 2
-E. faecalis => bacteria | max_score: 0.5781040787696838 | count: 1

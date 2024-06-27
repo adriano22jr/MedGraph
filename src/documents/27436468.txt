@@ -1,8 +1,0 @@
-Tigecycline => antibiotic | max_score: 0.9474013447761536 | count: 1
-new guidelines => clinical_guideline | max_score: 0.6327937841415405 | count: 1
-Acinetobacter baumannii => bacteria | max_score: 0.9391682744026184 | count: 1
-tigecycline => antibiotic | max_score: 0.9361260533332825 | count: 2
-colimycin => antibiotic | max_score: 0.7403734922409058 | count: 1
-21 days => treatment_duration | max_score: 0.8655830025672913 | count: 1
-treatment => treatment | max_score: 0.6289817094802856 | count: 1
-favourable outcome => condition_outcome | max_score: 0.9569867253303528 | count: 1

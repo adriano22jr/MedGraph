@@ -1,5 +1,0 @@
-[60] => compound | max_score: 0.574059009552002 | count: 3
-C60 moiety => compound | max_score: 0.5094083547592163 | count: 1
-cellular uptake => biological_process | max_score: 0.6155921816825867 | count: 1
-transdermal transport => biological_process | max_score: 0.6081424951553345 | count: 1
-antimicrobial activity => activity | max_score: 0.8570569753646851 | count: 1

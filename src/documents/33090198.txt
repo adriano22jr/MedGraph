@@ -1,6 +1,0 @@
-neurotoxic peptides => peptide | max_score: 0.6692176461219788 | count: 1
-antimicrobial peptides => peptide | max_score: 0.572622537612915 | count: 1
-AMPs => peptide | max_score: 0.568841814994812 | count: 1
-Lycosa sinensis => species | max_score: 0.9486579895019531 | count: 1
-LS-AMPs => peptide | max_score: 0.5756350159645081 | count: 3
-L. sinensis => species | max_score: 0.6628008484840393 | count: 2

@@ -1,8 +1,0 @@
-antimicrobial activity => activity | max_score: 0.8047879934310913 | count: 2
-chitosan => compound | max_score: 0.8049399852752686 | count: 2
-low molecular weight derivatives => compound | max_score: 0.5330287218093872 | count: 1
-starting compounds => compound | max_score: 0.5350684523582458 | count: 1
-human cervical carcinoma cells => cell_line | max_score: 0.9022095203399658 | count: 1
-erythrocyte membranes => cell | max_score: 0.5129602551460266 | count: 1
-lytic activity => activity | max_score: 0.8411142230033875 | count: 1
-less charged compound => compound | max_score: 0.5419103503227234 | count: 1

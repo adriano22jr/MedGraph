@@ -1,5 +1,0 @@
-Temporin L => peptide | max_score: 0.5976459980010986 | count: 1
-TempL => peptide | max_score: 0.7401909828186035 | count: 15
-Q3K,TempL => peptide | max_score: 0.7023485898971558 | count: 2
-mice => bacteria | max_score: 0.6447551846504211 | count: 1
-P. aeruginosa => bacteria | max_score: 0.9405297040939331 | count: 1

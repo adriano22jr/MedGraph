@@ -1,8 +1,0 @@
-eggshell membrane => body_part | max_score: 0.8671168684959412 | count: 1
-egg white => body_part | max_score: 0.8459546566009521 | count: 1
-yolk => body_part | max_score: 0.8983646035194397 | count: 2
-peptides => peptide | max_score: 0.6166660189628601 | count: 6
-antiviral => peptide | max_score: 0.6090096235275269 | count: 2
-pepsin-like enzymes => enzyme | max_score: 0.8510516285896301 | count: 1
-anti-inflammatory => activity | max_score: 0.5656275153160095 | count: 1
-egg consumption => diet | max_score: 0.8316137194633484 | count: 1

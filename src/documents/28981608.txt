@@ -1,9 +1,0 @@
-AMPs => peptide | max_score: 0.5835221409797668 | count: 2
-protease => enzyme | max_score: 0.7992699146270752 | count: 1
-polybia-CP => peptide | max_score: 0.8298244476318359 | count: 2
-trypsin => enzyme | max_score: 0.9620598554611206 | count: 2
-chymotrypsin => enzyme | max_score: 0.9598151445388794 | count: 2
-antimicrobial activity => activity | max_score: 0.9447657465934753 | count: 2
-D-CP => peptide | max_score: 0.6778793931007385 | count: 3
-D-lys-CP => peptide | max_score: 0.6718231439590454 | count: 4
-hemolytic activity => activity | max_score: 0.8322869539260864 | count: 1

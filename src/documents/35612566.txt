@@ -1,7 +1,0 @@
-colistin => antibiotic | max_score: 0.9586805105209351 | count: 8
-selenium nanoparticles => compound | max_score: 0.503483772277832 | count: 1
-SeNPs => compound | max_score: 0.8211225271224976 | count: 5
-Ac. baumannii => bacteria | max_score: 0.9449975490570068 | count: 4
-MIC => lab_value | max_score: 0.6811522841453552 | count: 1
-synergistic activity => activity | max_score: 0.5744584202766418 | count: 1
-Colistin => antibiotic | max_score: 0.8878358602523804 | count: 1

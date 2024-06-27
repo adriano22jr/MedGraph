@@ -1,9 +1,0 @@
-HD6 => peptide | max_score: 0.7602944374084473 | count: 7
-bacteria => bacteria | max_score: 0.6002326011657715 | count: 1
-epithelium => tissue | max_score: 0.5373661518096924 | count: 1
-Candida albicans => fungus | max_score: 0.9860875010490417 | count: 1
-human intestinal epithelial cells => cell_line | max_score: 0.826084315776825 | count: 1
-C. albicans => fungus | max_score: 0.9044255018234253 | count: 4
-human epithelial cells => cell_line | max_score: 0.788165271282196 | count: 1
-biofilm formation => biological_process | max_score: 0.6212093234062195 | count: 1
-functional activity => activity | max_score: 0.7929835319519043 | count: 1

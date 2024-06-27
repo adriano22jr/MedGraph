@@ -1,7 +1,0 @@
-Toraymyxin => drug | max_score: 0.7674093246459961 | count: 6
-direct hemoperfusion therapy => treatment | max_score: 0.7533875703811646 | count: 1
-septic shock => disease_disorder | max_score: 0.8777453303337097 | count: 3
-1994 => date | max_score: 0.9863864183425903 | count: 1
-endotoxemia => disease_disorder | max_score: 0.699335515499115 | count: 1
-severe sepsis => disease_disorder | max_score: 0.5551148056983948 | count: 1
-pulmonary diseases => disease_disorder | max_score: 0.6444187760353088 | count: 1

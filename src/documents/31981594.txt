@@ -1,7 +1,0 @@
-conventional chemotherapy => treatment | max_score: 0.6171417832374573 | count: 1
-HD-5 => peptide | max_score: 0.691716194152832 | count: 3
-in vivo => study_design | max_score: 0.6997635364532471 | count: 1
-tumor biostatistics => medical_term | max_score: 0.5601588487625122 | count: 1
-MC 540 => peptide | max_score: 0.6451018452644348 | count: 2
-In vivo => study_design | max_score: 0.6520271301269531 | count: 1
-neutrophils => cell_type | max_score: 0.7185720205307007 | count: 1

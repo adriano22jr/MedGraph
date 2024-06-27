@@ -1,8 +1,0 @@
-Acinetobacter baumannii => bacteria | max_score: 0.9470419883728027 | count: 1
-Gram-negative => bacteria | max_score: 0.8243041634559631 | count: 1
-ursolic acid => antibiotic | max_score: 0.7471483945846558 | count: 1
-A. baumannii => bacteria | max_score: 0.5398142337799072 | count: 1
-Compound 4 => compound | max_score: 0.67311692237854 | count: 1
-ursolic acid => compound | max_score: 0.7710880041122437 | count: 1
-MIC => lab_value | max_score: 0.787273645401001 | count: 7
-CRAB => bacteria | max_score: 0.5611996650695801 | count: 2

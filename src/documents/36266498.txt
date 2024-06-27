@@ -1,4 +1,0 @@
-proteins => protein | max_score: 0.5386579632759094 | count: 1
-Melittin => peptide | max_score: 0.9544510245323181 | count: 1
-melittin => peptide | max_score: 0.9481089115142822 | count: 4
-alamethicin => peptide | max_score: 0.6516126394271851 | count: 1

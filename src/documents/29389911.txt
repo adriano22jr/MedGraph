@@ -1,6 +1,0 @@
-Host-defense peptides => peptide | max_score: 0.7875590324401855 | count: 1
-antimicrobial peptides => peptide | max_score: 0.6818695068359375 | count: 1
-AMPs => peptide | max_score: 0.5755309462547302 | count: 1
-animals => species | max_score: 0.6535916924476624 | count: 1
-broad spectrum of activity => activity | max_score: 0.7704247832298279 | count: 1
-classic antibiotics => antibiotic | max_score: 0.5345752239227295 | count: 1

@@ -1,6 +1,0 @@
-severe cases => severity | max_score: 0.9429717659950256 | count: 1
-Antimicrobial peptide-coated contact lenses => device | max_score: 0.8608188033103943 | count: 1
-antimicrobial contact lens => device | max_score: 0.5006039142608643 | count: 1
-antimicrobial peptide-coated contact lenses => device | max_score: 0.86484295129776 | count: 1
-humans => species | max_score: 0.5587461590766907 | count: 1
-antimicrobial contact lenses => device | max_score: 0.8104463219642639 | count: 1

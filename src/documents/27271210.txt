@@ -1,5 +1,0 @@
-antimicrobial activity => activity | max_score: 0.8575907349586487 | count: 1
-RO-A => peptide | max_score: 0.8655511140823364 | count: 3
-Escherichia coli => bacteria | max_score: 0.9696512222290039 | count: 2
-Bacillus subtilis => bacteria | max_score: 0.9125749468803406 | count: 1
-mammalian cells => cell | max_score: 0.7956727743148804 | count: 1

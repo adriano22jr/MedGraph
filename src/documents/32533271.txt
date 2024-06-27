@@ -1,6 +1,0 @@
-systematic review => study_design | max_score: 0.6346035003662109 | count: 2
-Acinetobacter baumannii => bacteria | max_score: 0.9640640020370483 | count: 1
-September 1, 2019 => date | max_score: 0.9876048564910889 | count: 1
-January 1, 2010 => date | max_score: 0.9430150985717773 | count: 1
-polymyxins => antibiotic | max_score: 0.8233106732368469 | count: 2
-carbapenem-resistant gram-negative bacteria => bacteria | max_score: 0.5869081616401672 | count: 1

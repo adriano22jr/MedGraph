@@ -1,5 +1,0 @@
-CBD103 gene => gene | max_score: 0.952024519443512 | count: 5
-Arctic fox => species | max_score: 0.9366540312767029 | count: 5
-promoter activity => activity | max_score: 0.9392443299293518 | count: 2
-dual-luciferase reporter assay system => device | max_score: 0.6452956199645996 | count: 2
-Point mutations => mutation | max_score: 0.9247366786003113 | count: 1

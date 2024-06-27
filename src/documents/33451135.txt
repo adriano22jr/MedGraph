@@ -1,9 +1,0 @@
-Sub5 => peptide | max_score: 0.7671688795089722 | count: 8
-bovine => fungus | max_score: 0.7546976208686829 | count: 1
-Saccharomyces cerevisiae => fungus | max_score: 0.9783011078834534 | count: 1
-actin => protein | max_score: 0.787517786026001 | count: 6
-actin filament-based process => biological_process | max_score: 0.6953005790710449 | count: 1
-PFAM => protein_family | max_score: 0.7767369747161865 | count: 1
-transcription and translation => biological_process | max_score: 0.5959632992744446 | count: 1
-DNA repair => biological_process | max_score: 0.6521828174591064 | count: 1
-chaperone => protein | max_score: 0.5548889636993408 | count: 1

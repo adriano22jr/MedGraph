@@ -1,7 +1,0 @@
-bacteria => bacteria | max_score: 0.7949153184890747 | count: 3
-novel antimicrobial compounds => compound | max_score: 0.608151376247406 | count: 1
-optimal cell function => biological_process | max_score: 0.5805708169937134 | count: 1
-Surface-acting agents => compound | max_score: 0.6340429186820984 | count: 1
-biofilm formation => biological_process | max_score: 0.5641917586326599 | count: 1
-membrane permeabilization => biological_process | max_score: 0.6474195718765259 | count: 1
-loss of viability => biological_process | max_score: 0.6461018919944763 | count: 1

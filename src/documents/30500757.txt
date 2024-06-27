@@ -1,5 +1,0 @@
-Colistin => antibiotic | max_score: 0.9215231537818909 | count: 2
-colistin => antibiotic | max_score: 0.9144531488418579 | count: 4
-Bacillus polymyxa var. Colistinus => bacteria | max_score: 0.8943794965744019 | count: 1
-colistimethate sodium => antibiotic | max_score: 0.7846469283103943 | count: 1
-resistant gram-negative bacteria => bacteria | max_score: 0.7037459015846252 | count: 1

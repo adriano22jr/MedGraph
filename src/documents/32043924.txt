@@ -1,7 +1,0 @@
-PJI => medical_abbreviation | max_score: 0.5806246995925903 | count: 4
-Modified Musculoskeletal Infection Society system => diagnostic_procedure | max_score: 0.5427202582359314 | count: 1
-culturing => diagnostic_procedure | max_score: 0.8610087633132935 | count: 1
-polymerase chain reaction => diagnostic_procedure | max_score: 0.8849797248840332 | count: 1
-biomarkers => immunologic_marker | max_score: 0.5011783838272095 | count: 1
-alpha defensin peptides => peptide | max_score: 0.7681140899658203 | count: 1
-leukocyte level testing => diagnostic_procedure | max_score: 0.7661336660385132 | count: 1

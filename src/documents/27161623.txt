@@ -1,7 +1,0 @@
-Escherichia coli => bacteria | max_score: 0.960869312286377 | count: 1
-mcr-1 gene => gene | max_score: 0.9525341391563416 | count: 1
-plasmid backbones => molecule | max_score: 0.8078897595405579 | count: 1
-plasmids => molecule | max_score: 0.6066373586654663 | count: 1
-DNA sequences => molecule | max_score: 0.5892396569252014 | count: 1
-mcr-1 => gene | max_score: 0.7749586701393127 | count: 3
-Promoter sequences => molecule | max_score: 0.8221933841705322 | count: 1

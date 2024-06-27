@@ -1,7 +1,0 @@
-mcr-1 => gene | max_score: 0.8164598941802979 | count: 10
-Escherichia coli => bacteria | max_score: 0.8632494211196899 | count: 1
-E. coli => bacteria | max_score: 0.8736448884010315 | count: 7
-Tn6330 => mutation | max_score: 0.7137818336486816 | count: 2
-ΔTn6330 => mutation | max_score: 0.7044501304626465 | count: 1
-ISApl1 => gene | max_score: 0.7354795336723328 | count: 5
-colistin => antibiotic | max_score: 0.8072609901428223 | count: 1

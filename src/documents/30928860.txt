@@ -1,6 +1,0 @@
-single nucleotide polymorphisms => mutation | max_score: 0.5276239514350891 | count: 1
-β-defensin 1 gene => gene | max_score: 0.9417648315429688 | count: 2
--20 G > A => mutation | max_score: 0.7481197714805603 | count: 2
--44 C > G => mutation | max_score: 0.848041296005249 | count: 3
-recurrent aphthous stomatitis => disease_disorder | max_score: 0.839816153049469 | count: 3
-males => sex | max_score: 0.9722617268562317 | count: 3

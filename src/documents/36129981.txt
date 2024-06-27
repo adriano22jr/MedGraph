@@ -1,7 +1,0 @@
-midgut gene => gene | max_score: 0.9762508273124695 | count: 1
-Anopheles gambiae => species | max_score: 0.8426998257637024 | count: 1
-magainin 2 => peptide | max_score: 0.9376016855239868 | count: 1
-melittin => peptide | max_score: 0.939513087272644 | count: 1
-oocyst development => biological_process | max_score: 0.7634416818618774 | count: 1
-Plasmodium falciparum => parasite | max_score: 0.9710672497749329 | count: 1
-Plasmodium berghei => parasite | max_score: 0.9711419939994812 | count: 1

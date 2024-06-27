@@ -1,9 +1,0 @@
-Hyperglycaemia-induced oxidative stress => biological_process | max_score: 0.5958943963050842 | count: 1
-esculentin-2CHa(GA30) => peptide | max_score: 0.9211221933364868 | count: 4
-oxidative stress => biological_process | max_score: 0.5581191778182983 | count: 1
-Drosophila melanogaster => species | max_score: 0.8415148258209229 | count: 1
-Adult flies => organism | max_score: 0.5710256695747375 | count: 1
-high sucrose diet => diet | max_score: 0.9170066118240356 | count: 1
-High-sucrose diet => diet | max_score: 0.8472221493721008 | count: 1
-catalase activity => activity | max_score: 0.9039981961250305 | count: 2
-Esculentin-2CHa(GA30) => peptide | max_score: 0.9057223200798035 | count: 1

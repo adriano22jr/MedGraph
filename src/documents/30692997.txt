@@ -1,8 +1,0 @@
-Amphibian skin => body_part | max_score: 0.8527683615684509 | count: 1
-frog skin => body_part | max_score: 0.8489592671394348 | count: 3
-pathogens => parasite | max_score: 0.5724064707756042 | count: 3
-amphibian skin => body_part | max_score: 0.8653374314308167 | count: 2
-skin => body_part | max_score: 0.5561051964759827 | count: 2
-environmental abiotic factors => environmental_factor | max_score: 0.8836455345153809 | count: 1
-anthropogenic => environmental_factor | max_score: 0.7905558347702026 | count: 1
-antimicrobial peptides => peptide | max_score: 0.685589611530304 | count: 1

@@ -1,8 +1,0 @@
-broad-spectrum activity => activity | max_score: 0.5738875865936279 | count: 1
-cancer cells => cell | max_score: 0.7030342817306519 | count: 1
-VmCT1 => peptide | max_score: 0.9232661724090576 | count: 6
-Vaejovis mexicanus => species | max_score: 0.8806323409080505 | count: 1
-antimicrobial activity => activity | max_score: 0.5577259063720703 | count: 1
-μmol L-1 => volume | max_score: 0.6734212636947632 | count: 5
-MCF-7 => cell_line | max_score: 0.9650943875312805 | count: 2
-antiplasmodial activity => activity | max_score: 0.7453372478485107 | count: 1

@@ -1,8 +1,0 @@
-pore formation => biological_process | max_score: 0.785822868347168 | count: 1
-amphiphilic copolymers => compound | max_score: 0.7247359156608582 | count: 2
-anti-microbial peptides => compound | max_score: 0.7307380437850952 | count: 1
-pore-formation => biological_process | max_score: 0.7529515027999878 | count: 2
-adsorption => biological_process | max_score: 0.5688925385475159 | count: 2
-copolymers => compound | max_score: 0.6255512237548828 | count: 3
-Pore formation => biological_process | max_score: 0.806850254535675 | count: 1
-Pore-formation => biological_process | max_score: 0.7485524415969849 | count: 1

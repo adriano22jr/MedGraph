@@ -1,4 +1,0 @@
-Klebsiella spp. => bacteria | max_score: 0.9554517269134521 | count: 6
-environmental/synthetic conditions => environmental_factor | max_score: 0.7579700946807861 | count: 1
-carbapenemase-encoding genes => gene | max_score: 0.6735461950302124 | count: 1
-mobile colistin resistance genes => gene | max_score: 0.5760574340820312 | count: 1

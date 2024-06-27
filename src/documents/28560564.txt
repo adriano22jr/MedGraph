@@ -1,7 +1,0 @@
-surfactin => peptide | max_score: 0.6620690226554871 | count: 2
-gramicidin S => peptide | max_score: 0.7482141852378845 | count: 2
-GS => peptide | max_score: 0.5579264163970947 | count: 7
-gas-phase => environmental_factor | max_score: 0.7884723544120789 | count: 1
-aqueous solution => environmental_factor | max_score: 0.6696453094482422 | count: 1
-Srf => peptide | max_score: 0.5451659560203552 | count: 3
-aqueous environment => environmental_factor | max_score: 0.5443228483200073 | count: 1

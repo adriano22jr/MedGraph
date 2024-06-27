@@ -1,6 +1,0 @@
-Pt5e => peptide | max_score: 0.8128660917282104 | count: 5
-zebrafish => species | max_score: 0.7548544406890869 | count: 1
-phosvitin => peptide | max_score: 0.8039742708206177 | count: 1
-clinical MDR bacteria => bacteria | max_score: 0.9326697587966919 | count: 3
-cationic elastin-like polypeptide => peptide | max_score: 0.5691236257553101 | count: 1
-MDR bacteria => bacteria | max_score: 0.6864074468612671 | count: 1

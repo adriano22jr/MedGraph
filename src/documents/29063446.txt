@@ -1,5 +1,0 @@
-Klebsiella pneumoniae => bacteria | max_score: 0.8860929012298584 | count: 1
-Acinetobacter baumanii => bacteria | max_score: 0.9172477126121521 | count: 1
-Enterobacter cloacae => bacteria | max_score: 0.9394366145133972 | count: 1
-Providencia stuartii => bacteria | max_score: 0.9270128607749939 | count: 1
-Pseudomonas aeruginosa => bacteria | max_score: 0.8932697772979736 | count: 1

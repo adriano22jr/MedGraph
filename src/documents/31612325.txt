@@ -1,7 +1,0 @@
-fungi => fungus | max_score: 0.8747988343238831 | count: 1
-plant species => plant | max_score: 0.8437906503677368 | count: 2
-antimycotic drugs => drug | max_score: 0.6694980263710022 | count: 1
-peptides => peptide | max_score: 0.6508364081382751 | count: 5
-antifungal activity => activity | max_score: 0.9303295016288757 | count: 2
-plant-origin peptides => peptide | max_score: 0.643092691898346 | count: 1
-peptide => peptide | max_score: 0.5260009765625 | count: 1

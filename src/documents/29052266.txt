@@ -1,8 +1,0 @@
-mcr-1 gene => gene | max_score: 0.9460539221763611 | count: 2
-Escherichia coli => bacteria | max_score: 0.9054789543151855 | count: 1
-E. coli => bacteria | max_score: 0.5438414216041565 | count: 1
-chickens => species | max_score: 0.6878852844238281 | count: 2
-pork => species | max_score: 0.5742868781089783 | count: 2
-plasmid => molecule | max_score: 0.8020980954170227 | count: 3
-mcr-1 => gene | max_score: 0.7003805637359619 | count: 2
-IncX4 => gene | max_score: 0.6017100214958191 | count: 1

@@ -1,8 +1,0 @@
-Ceftazidime-avibactam => antibiotic | max_score: 0.9197817444801331 | count: 2
-polymyxin => antibiotic | max_score: 0.8617874383926392 | count: 7
-ceftazidime-avibactam => antibiotic | max_score: 0.9547305107116699 | count: 7
-Klebsiella pneumoniae => bacteria | max_score: 0.956433892250061 | count: 2
-K. pneumoniae => bacteria | max_score: 0.6539962887763977 | count: 2
-ompk35 => gene | max_score: 0.7365028262138367 | count: 1
-ompk36 => gene | max_score: 0.6875465512275696 | count: 1
-bactericidal activity => activity | max_score: 0.5483923554420471 | count: 1

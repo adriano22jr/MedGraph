@@ -1,5 +1,0 @@
-Candida auris => fungus | max_score: 0.9807127714157104 | count: 1
-medical devices => device | max_score: 0.8600289225578308 | count: 1
-antifungal peptides => peptide | max_score: 0.8296973705291748 | count: 1
-C. auris => fungus | max_score: 0.761613667011261 | count: 3
-antifungal peptide drug => drug | max_score: 0.5403217077255249 | count: 1

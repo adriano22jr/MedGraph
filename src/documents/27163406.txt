@@ -1,7 +1,0 @@
-nervous system => anatomical_system | max_score: 0.7798570394515991 | count: 1
-electrode => device | max_score: 0.6441656351089478 | count: 6
-nerve trunk => anatomical_system | max_score: 0.6758436560630798 | count: 1
-soft biological tissue => tissue | max_score: 0.8295363187789917 | count: 1
-nerve electrode => device | max_score: 0.7174555063247681 | count: 2
-cyclosporin A => drug | max_score: 0.7413448095321655 | count: 1
-Micro-wells => device | max_score: 0.6956649422645569 | count: 1

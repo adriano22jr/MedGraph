@@ -1,7 +1,0 @@
-inhaled exposure => treatment | max_score: 0.7504370212554932 | count: 1
-Pam2-ODN => drug | max_score: 0.8143178224563599 | count: 3
-mouse => species | max_score: 0.6108688116073608 | count: 3
-ROS => molecule | max_score: 0.6807008385658264 | count: 6
-Pseudomonas aerugnosa => bacteria | max_score: 0.9711477160453796 | count: 1
-human lung epithelial cells => cell_line | max_score: 0.6009097695350647 | count: 1
-dual oxidase => enzyme | max_score: 0.8306822180747986 | count: 1

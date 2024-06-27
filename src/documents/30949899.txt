@@ -1,6 +1,0 @@
-Colistin => antibiotic | max_score: 0.9354732036590576 | count: 1
-nephrotoxicity => disease_disorder | max_score: 0.5906280279159546 | count: 4
-resistant gram-negative infections => disease_disorder | max_score: 0.5852339863777161 | count: 1
-colistin => antibiotic | max_score: 0.9359569549560547 | count: 3
-experimental designs => study_design | max_score: 0.9257012009620667 | count: 1
-animal models => study_design | max_score: 0.5651763081550598 | count: 1

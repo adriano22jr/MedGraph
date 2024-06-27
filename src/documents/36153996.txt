@@ -1,8 +1,0 @@
-Escherichia coli => bacteria | max_score: 0.871924102306366 | count: 1
-bioactive peptides => peptide | max_score: 0.5881450176239014 | count: 1
-E. coli O157:H7 => bacteria | max_score: 0.7732808589935303 | count: 2
-mouse models => subject | max_score: 0.6136868596076965 | count: 1
-body weight => weight | max_score: 0.941822350025177 | count: 1
-clinical signs => sign_symptom | max_score: 0.8732273578643799 | count: 1
-intestinal barrier => body_part | max_score: 0.6227540373802185 | count: 1
-immune functions => biological_process | max_score: 0.5744084119796753 | count: 1

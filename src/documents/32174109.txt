@@ -1,6 +1,0 @@
-β-cyclodextrin polymers => compound | max_score: 0.647249698638916 | count: 1
-adamantane derivatives => compound | max_score: 0.732210636138916 | count: 1
-melittin => peptide | max_score: 0.9637042284011841 | count: 3
-hemolytic activity => activity | max_score: 0.705995500087738 | count: 1
-PSMα3 => peptide | max_score: 0.5078827738761902 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.9729852676391602 | count: 1

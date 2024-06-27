@@ -1,7 +1,0 @@
-Staphylococcus aureus => bacteria | max_score: 0.91994309425354 | count: 2
-MRSA => bacteria | max_score: 0.821657121181488 | count: 3
-antimicrobial peptides => peptide | max_score: 0.6095376014709473 | count: 1
-AMPs => peptide | max_score: 0.6108818054199219 | count: 1
-human cell lines => cell_line | max_score: 0.8211438059806824 | count: 1
-bacteriostatic activity => activity | max_score: 0.8899418711662292 | count: 1
-native human dermal fibroblast cells => cell_type | max_score: 0.6375749111175537 | count: 1

@@ -1,9 +1,0 @@
-dermaseptin-PT9 => peptide | max_score: 0.5589305758476257 | count: 1
-DPT9 => peptide | max_score: 0.8092027902603149 | count: 2
-Phyllomedusa tarsius => fungus | max_score: 0.8768333792686462 | count: 1
-haemolytic activity => activity | max_score: 0.9153825640678406 | count: 1
-horse erythrocytes => cell | max_score: 0.8273131847381592 | count: 1
-anti-proliferative effect => activity | max_score: 0.812465250492096 | count: 2
-human cancer cells => cell | max_score: 0.618129551410675 | count: 1
-K8, 23-DPT9 => peptide | max_score: 0.7300030589103699 | count: 2
-HMEC-1 => cell_line | max_score: 0.9818268418312073 | count: 1

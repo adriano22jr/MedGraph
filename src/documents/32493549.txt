@@ -1,4 +1,0 @@
-KSL-W peptide => peptide | max_score: 0.8939948678016663 | count: 1
-chlorhexidine => antibiotic | max_score: 0.7608857154846191 | count: 1
-Fusobacterium nucleatum => bacteria | max_score: 0.8040316700935364 | count: 1
-F. nucleatum => bacteria | max_score: 0.6936335563659668 | count: 3

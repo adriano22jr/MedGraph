@@ -1,3 +1,0 @@
-wounds => body_part | max_score: 0.6642070412635803 | count: 2
-DAP => peptide | max_score: 0.5750802159309387 | count: 1
-re-epithelization => biological_process | max_score: 0.5601518154144287 | count: 1

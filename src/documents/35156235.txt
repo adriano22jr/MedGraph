@@ -1,9 +1,0 @@
-heparin-binding protein => immunologic_marker | max_score: 0.6876212954521179 | count: 1
-HBP => immunologic_marker | max_score: 0.6841444373130798 | count: 15
-interstitial lung disease => disease_disorder | max_score: 0.6659526824951172 | count: 1
-AE-ILD => disease_disorder | max_score: 0.6536634564399719 | count: 4
-severity => severity | max_score: 0.5943723320960999 | count: 1
-CRP => immunologic_marker | max_score: 0.5255105495452881 | count: 1
-PCT => lab_value | max_score: 0.5331751108169556 | count: 1
-SAA => lab_value | max_score: 0.5712825655937195 | count: 1
-radiology examination => diagnostic_procedure | max_score: 0.635831356048584 | count: 1

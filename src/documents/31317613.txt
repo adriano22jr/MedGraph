@@ -1,4 +1,0 @@
-Ctn[15-34] => peptide | max_score: 0.8609119653701782 | count: 5
-crotalicidin => peptide | max_score: 0.6820706129074097 | count: 1
-Ctn => peptide | max_score: 0.6211121678352356 | count: 1
-C-terminal amidation => biological_process | max_score: 0.6439126133918762 | count: 1

@@ -1,8 +1,0 @@
-antibiotic-resistant microbes => bacteria | max_score: 0.5167338848114014 | count: 1
-serum proteins => protein | max_score: 0.6525299549102783 | count: 1
-TP4 => peptide | max_score: 0.8877847790718079 | count: 2
-tilapia => species | max_score: 0.6363732814788818 | count: 1
-ibuprofen => drug | max_score: 0.7033377289772034 | count: 1
-bovine serum albumin => protein | max_score: 0.895832359790802 | count: 1
-α1-antitrypsin => protein | max_score: 0.9554305672645569 | count: 3
-albumin => protein | max_score: 0.6250535845756531 | count: 2

@@ -1,9 +1,0 @@
-Termites => fungus | max_score: 0.615425705909729 | count: 1
-pathogens => parasite | max_score: 0.619387686252594 | count: 3
-innate immune system => biological_process | max_score: 0.7651329040527344 | count: 2
-Antimicrobial peptides => peptide | max_score: 0.5227543115615845 | count: 1
-AMPs => peptide | max_score: 0.6716552972793579 | count: 3
-termites => fungus | max_score: 0.6540957689285278 | count: 3
-Odontotermes formosanus => species | max_score: 0.629844069480896 | count: 1
-Oftermicins => peptide | max_score: 0.8139764070510864 | count: 3
-Serratia marcescens Bizio => fungus | max_score: 0.6058425903320312 | count: 1

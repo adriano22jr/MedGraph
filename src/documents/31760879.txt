@@ -1,4 +1,0 @@
-pathogenic bacteria => bacteria | max_score: 0.7538307309150696 | count: 1
-antimicrobial peptides => peptide | max_score: 0.7590590119361877 | count: 2
-AMPs => peptide | max_score: 0.8132675886154175 | count: 4
-multidrug-resistant pathogens => bacteria | max_score: 0.6109574437141418 | count: 1

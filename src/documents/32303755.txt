@@ -1,8 +1,0 @@
-microorganisms => organism | max_score: 0.8167338967323303 | count: 2
-1:1:1 + Double Antibiotic => compound | max_score: 0.6343157887458801 | count: 1
-bacitracin => antibiotic | max_score: 0.7417497634887695 | count: 2
-silver sulfadiazine => antibiotic | max_score: 0.8427410125732422 | count: 2
-nystatin => antibiotic | max_score: 0.729315459728241 | count: 1
-neomycin sulfate => antibiotic | max_score: 0.7635073661804199 | count: 2
-polymyxin B => antibiotic | max_score: 0.813937246799469 | count: 2
-3:1 + Double Antibiotic => compound | max_score: 0.6554807424545288 | count: 1

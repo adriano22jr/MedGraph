@@ -1,3 +1,0 @@
-lipidation => biological_process | max_score: 0.7950076460838318 | count: 1
-lipopeptides => compound | max_score: 0.6406436562538147 | count: 3
-Lys residues => peptide | max_score: 0.534364640712738 | count: 1

@@ -1,9 +1,0 @@
-intraoperative irrigation => surgical_procedure | max_score: 0.6224012970924377 | count: 1
-povidone-iodine => antibiotic | max_score: 0.7387135028839111 | count: 3
-chlorhexidine => antibiotic | max_score: 0.6660717129707336 | count: 2
-wound irrigation => surgical_procedure | max_score: 0.6523358821868896 | count: 1
-surgical débridement => surgical_procedure | max_score: 0.7726553082466125 | count: 1
-bacteria => bacteria | max_score: 0.5220056772232056 | count: 2
-bacitracin => antibiotic | max_score: 0.5672280788421631 | count: 1
-gentamicin => antibiotic | max_score: 0.7080399394035339 | count: 1
-polymyxin => antibiotic | max_score: 0.6762447953224182 | count: 1

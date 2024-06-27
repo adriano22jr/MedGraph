@@ -1,4 +1,0 @@
-Smp43 => peptide | max_score: 0.9351235628128052 | count: 3
-Scorpio maurus palmatus => species | max_score: 0.8767218589782715 | count: 1
-PDMS microfluidic devices => device | max_score: 0.9468326568603516 | count: 1
-bespoke microfluidic trap structure => device | max_score: 0.6297335624694824 | count: 1

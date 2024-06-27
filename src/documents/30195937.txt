@@ -1,5 +1,0 @@
-magainin 2 => peptide | max_score: 0.928462028503418 | count: 2
-PGLa => peptide | max_score: 0.7507511973381042 | count: 5
-model membranes => device | max_score: 0.5683484077453613 | count: 1
-membrane proteins => protein | max_score: 0.5050187110900879 | count: 1
-magainin => peptide | max_score: 0.5621998310089111 | count: 1

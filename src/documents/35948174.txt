@@ -1,9 +1,0 @@
-diabetic wounds => body_part | max_score: 0.8137584924697876 | count: 2
-8Br-cAMP => peptide | max_score: 0.6597863435745239 | count: 4
-hydrogel => device | max_score: 0.5202150940895081 | count: 2
-Jelleine-1 => peptide | max_score: 0.6477176547050476 | count: 1
-J-1 => peptide | max_score: 0.5995301008224487 | count: 1
-methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.8020898699760437 | count: 1
-MRSA => bacteria | max_score: 0.6709461808204651 | count: 2
-hydrogel system => device | max_score: 0.5326383113861084 | count: 1
-antimicrobial activity => activity | max_score: 0.7088226079940796 | count: 1

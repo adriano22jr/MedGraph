@@ -1,7 +1,0 @@
-Colistin => antibiotic | max_score: 0.7787051200866699 | count: 2
-mortality => condition_outcome | max_score: 0.6901816129684448 | count: 4
-systematic review and meta-analysis => study_design | max_score: 0.5739716291427612 | count: 1
-colistin => antibiotic | max_score: 0.8528948426246643 | count: 3
-failure => condition_outcome | max_score: 0.5543283820152283 | count: 1
-Colistin => drug | max_score: 0.7516269087791443 | count: 1
-nephrotoxicity => disease_disorder | max_score: 0.5223883390426636 | count: 1

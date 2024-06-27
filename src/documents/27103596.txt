@@ -1,9 +1,0 @@
-Silver nanoparticles => compound | max_score: 0.6046778559684753 | count: 1
-catalysts => chemical_system | max_score: 0.5911643505096436 | count: 1
-antimicrobial systems => chemical_system | max_score: 0.8009094595909119 | count: 1
-supramolecular assemblies => chemical_system | max_score: 0.5636491179466248 | count: 1
-aldehyde functionality => molecular_function | max_score: 0.651282787322998 | count: 1
-silver metal nanoparticles => compound | max_score: 0.5074297785758972 | count: 1
-antimicrobial activity => activity | max_score: 0.9429235458374023 | count: 1
-eukaryotic cells => cell | max_score: 0.8708516955375671 | count: 1
-silver nanoparticles => compound | max_score: 0.6370471119880676 | count: 1

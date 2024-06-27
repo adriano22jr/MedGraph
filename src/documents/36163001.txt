@@ -1,4 +1,0 @@
-Antimicrobial Peptides => peptide | max_score: 0.7389350533485413 | count: 1
-hemolysis activity prediction => activity | max_score: 0.6386366486549377 | count: 2
-antimicrobial peptides => peptide | max_score: 0.8087349534034729 | count: 2
-hemolysis activity => activity | max_score: 0.5482023358345032 | count: 1

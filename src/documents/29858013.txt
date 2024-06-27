@@ -1,8 +1,0 @@
-Shigella => bacteria | max_score: 0.9665067791938782 | count: 5
-Gram-negative bacterium => bacteria | max_score: 0.8334891200065613 | count: 1
-intestinal epithelium => anatomical_system | max_score: 0.8687194585800171 | count: 2
-HD5 => peptide | max_score: 0.8550312519073486 | count: 5
-host defense peptide => peptide | max_score: 0.5855002999305725 | count: 1
-innate immunity => biological_process | max_score: 0.7427915930747986 | count: 2
-bacterial membrane proteins => protein | max_score: 0.7155088186264038 | count: 1
-human colorectal tissues => tissue | max_score: 0.9585579633712769 | count: 1

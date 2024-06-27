@@ -1,4 +1,0 @@
-conformational dynamics => biological_process | max_score: 0.5270907878875732 | count: 1
-self-assembly process => biological_process | max_score: 0.5523985028266907 | count: 1
-Trichogin GA IV => peptide | max_score: 0.8343777060508728 | count: 1
-air/water interface => environmental_factor | max_score: 0.5841379165649414 | count: 1

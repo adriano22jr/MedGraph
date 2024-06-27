@@ -1,9 +1,0 @@
-Yersinia pestis => bacteria | max_score: 0.8133860230445862 | count: 1
-antimicrobial peptides => peptide | max_score: 0.533180832862854 | count: 1
-PMB-sensitive phenotype => mutation | max_score: 0.6375759840011597 | count: 1
-Y. pestis => bacteria | max_score: 0.7726960182189941 | count: 3
-E. coli => bacteria | max_score: 0.6814554929733276 | count: 1
-GmhB => protein | max_score: 0.7850415706634521 | count: 1
-d-glycero-d-manno-heptose-1,7-diphosphate phosphatase => enzyme | max_score: 0.7588542699813843 | count: 1
-gmhB gene => gene | max_score: 0.7542275786399841 | count: 2
-LPS => molecule | max_score: 0.5105977654457092 | count: 1

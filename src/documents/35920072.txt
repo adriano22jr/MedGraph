@@ -1,7 +1,0 @@
-Antimicrobial peptides => antibiotic | max_score: 0.5012872815132141 | count: 1
-AMPs => antibiotic | max_score: 0.5486198663711548 | count: 3
-antibacterial activity => activity | max_score: 0.8613446354866028 | count: 1
-proof of principal study => study_design | max_score: 0.6130874156951904 | count: 1
-OH-CM6 => peptide | max_score: 0.5455197095870972 | count: 1
-antimicrobial activity => activity | max_score: 0.8097928762435913 | count: 1
-Antibacterial activity => activity | max_score: 0.8688767552375793 | count: 1

@@ -1,4 +1,0 @@
-Citrobacter amalonaticus => bacteria | max_score: 0.9667996168136597 | count: 1
-pediatric patient => subject | max_score: 0.5372790098190308 | count: 1
-blaNDM-1 => gene | max_score: 0.9614635705947876 | count: 1
-mcr-1 => gene | max_score: 0.9201996326446533 | count: 1

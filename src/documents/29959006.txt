@@ -1,8 +1,0 @@
-nephrolithiasis => disease_disorder | max_score: 0.7130385637283325 | count: 4
-TCF7L2 => gene | max_score: 0.7976194024085999 | count: 6
-DEFB1 => gene | max_score: 0.7122650742530823 | count: 5
-CD14 gene => gene | max_score: 0.8511602282524109 | count: 1
-CD14 => gene | max_score: 0.787493109703064 | count: 2
-healthy controls => subject | max_score: 0.502493679523468 | count: 1
-C-allele => mutation | max_score: 0.7819054126739502 | count: 1
-T-allele => mutation | max_score: 0.8783832788467407 | count: 1

@@ -1,8 +1,0 @@
-antimicrobial peptides => peptide | max_score: 0.8622103333473206 | count: 2
-polyurethanes => compound | max_score: 0.5935662388801575 | count: 6
-blood cells => cell | max_score: 0.780887246131897 | count: 1
-dye encapsulated phospholipids => compound | max_score: 0.5580987334251404 | count: 1
-bacterial cells => cell | max_score: 0.5540145039558411 | count: 1
-antimicrobial activity => activity | max_score: 0.5988364219665527 | count: 1
-Gram negative bacteria => bacteria | max_score: 0.9383975863456726 | count: 1
-mammalian cells => cell | max_score: 0.8259921669960022 | count: 1

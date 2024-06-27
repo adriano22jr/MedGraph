@@ -1,9 +1,0 @@
-S100 => protein_family | max_score: 0.9142260551452637 | count: 8
-inflammation => biological_process | max_score: 0.6696912050247192 | count: 1
-cellular homeostasis => biological_process | max_score: 0.5894092321395874 | count: 1
-healthy cell => cell | max_score: 0.624171793460846 | count: 1
-calcium homeostasis => biological_process | max_score: 0.6158186197280884 | count: 1
-antimicrobial peptides => peptide | max_score: 0.9308589100837708 | count: 1
-chemo-attractants => immunologic_marker | max_score: 0.5455798506736755 | count: 1
-metal scavengers => immunologic_marker | max_score: 0.573662519454956 | count: 1
-innate immune response => biological_process | max_score: 0.5794577598571777 | count: 1

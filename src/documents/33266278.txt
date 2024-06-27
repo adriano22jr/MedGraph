@@ -1,8 +1,0 @@
-peptides => peptide | max_score: 0.6615867614746094 | count: 5
-mammalian cells => cell | max_score: 0.8086638450622559 | count: 1
-Peptides => peptide | max_score: 0.5692253708839417 | count: 1
-novobiocin => antibiotic | max_score: 0.9171411991119385 | count: 2
-Escherichia coli => bacteria | max_score: 0.9593969583511353 | count: 1
-activity => activity | max_score: 0.5565624237060547 | count: 1
-E. coli => bacteria | max_score: 0.8028446435928345 | count: 2
-RND efflux pump => protein | max_score: 0.5826109051704407 | count: 1

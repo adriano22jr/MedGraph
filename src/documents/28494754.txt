@@ -1,5 +1,0 @@
-LL-37 => peptide | max_score: 0.8686033487319946 | count: 10
-autoimmune diseases => disease_disorder | max_score: 0.5135229825973511 | count: 1
-cathelicidin => peptide | max_score: 0.9366637468338013 | count: 3
-mucosal disease activity => activity | max_score: 0.8716667890548706 | count: 3
-IBD => disease_disorder | max_score: 0.5851916074752808 | count: 1

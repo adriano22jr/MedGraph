@@ -1,8 +1,0 @@
-antimicrobial activity => activity | max_score: 0.9046681523323059 | count: 3
-pathogenic microorganisms => organism | max_score: 0.6032206416130066 | count: 2
-angiogenic activities => activity | max_score: 0.6253468990325928 | count: 1
-LPR-KRK => peptide | max_score: 0.8496254086494446 | count: 1
-human umbilical vein endothelial cells => cell_line | max_score: 0.9564700722694397 | count: 1
-angiogenic activity => activity | max_score: 0.8742503523826599 | count: 1
-hemolytic activity => activity | max_score: 0.6662019491195679 | count: 2
-mammalian red blood cells => cell_line | max_score: 0.6903051733970642 | count: 1

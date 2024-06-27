@@ -1,6 +1,0 @@
-Cathelicidin => peptide | max_score: 0.7567930817604065 | count: 1
-LL-37 => peptide | max_score: 0.8271722197532654 | count: 9
-serum levels => lab_value | max_score: 0.8596895337104797 | count: 1
-Serum levels => lab_value | max_score: 0.8233439922332764 | count: 1
-PAB values => lab_value | max_score: 0.718101978302002 | count: 1
-SLEDAI => medical_term | max_score: 0.5048176050186157 | count: 2

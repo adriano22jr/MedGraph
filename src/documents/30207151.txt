@@ -1,2 +1,0 @@
-Sugar cane => plant | max_score: 0.6229813694953918 | count: 1
-Sd5 => protein | max_score: 0.8838969469070435 | count: 7

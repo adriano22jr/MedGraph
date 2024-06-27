@@ -1,5 +1,0 @@
-cytoplasmic leakage => activity | max_score: 0.6032054424285889 | count: 1
-G3 => peptide | max_score: 0.503673255443573 | count: 1
-antimicrobial activity => activity | max_score: 0.8573238849639893 | count: 2
-critical AMP concentration => lab_value | max_score: 0.6345547437667847 | count: 1
-hemolytic activity => activity | max_score: 0.7584948539733887 | count: 1

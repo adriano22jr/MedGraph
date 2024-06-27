@@ -1,5 +1,0 @@
-Gram-negative bacteria => bacteria | max_score: 0.9852960109710693 | count: 2
-Gram-positive pathogens => bacteria | max_score: 0.7550444602966309 | count: 1
-Potentiator molecules => compound | max_score: 0.8325129747390747 | count: 2
-potentiator molecules => compound | max_score: 0.7897561192512512 | count: 1
-combination therapy => treatment | max_score: 0.8224107027053833 | count: 1

@@ -1,7 +1,0 @@
-ciprofloxacin => antibiotic | max_score: 0.9393573999404907 | count: 6
-colistin => antibiotic | max_score: 0.9216976165771484 | count: 3
-Colistin => antibiotic | max_score: 0.8837712407112122 | count: 1
-relative humidity => environmental_factor | max_score: 0.6594962477684021 | count: 1
-RH => environmental_factor | max_score: 0.6352709531784058 | count: 4
-multistage liquid impinger => device | max_score: 0.8871874809265137 | count: 1
-RS01 monodose inhaler device => device | max_score: 0.9320990443229675 | count: 1

@@ -1,6 +1,0 @@
-immune function => biological_process | max_score: 0.5228726267814636 | count: 1
-physiological factors => environmental_factor | max_score: 0.8072078227996826 | count: 1
-Drosophila melanogaster => species | max_score: 0.8504199385643005 | count: 1
-Micrococcus luteus => bacteria | max_score: 0.9620030522346497 | count: 1
-low-P high-C diet => diet | max_score: 0.9464271664619446 | count: 2
-key antimicrobial peptides => peptide | max_score: 0.7879884243011475 | count: 1

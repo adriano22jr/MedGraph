@@ -1,6 +1,0 @@
-low volume => volume | max_score: 0.7480891346931458 | count: 1
-solution-phase self-association => biological_process | max_score: 0.6332217454910278 | count: 1
-Meta-cresol => compound | max_score: 0.5194870233535767 | count: 1
-phenol => compound | max_score: 0.5340033173561096 | count: 1
-benzyl alcohol => compound | max_score: 0.5999882817268372 | count: 2
-salt stress => environmental_factor | max_score: 0.8786708116531372 | count: 1

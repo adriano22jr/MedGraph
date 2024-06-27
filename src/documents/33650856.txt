@@ -1,5 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.7521663308143616 | count: 1
-antimicrobial activity => activity | max_score: 0.668536901473999 | count: 1
-RPMs => peptide | max_score: 0.6244111657142639 | count: 7
-Pseudomonas aeruginosa => bacteria | max_score: 0.9853264093399048 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.9750831127166748 | count: 1

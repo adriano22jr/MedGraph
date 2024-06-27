@@ -1,8 +1,0 @@
-antimicrobial peptides => peptide | max_score: 0.6824283599853516 | count: 1
-AMPs => peptide | max_score: 0.5824909210205078 | count: 1
-DNA => molecule | max_score: 0.9795112609863281 | count: 3
-antimicrobial peptide => peptide | max_score: 0.5019397735595703 | count: 1
-peptides => peptide | max_score: 0.5688809752464294 | count: 2
-atomic force microscopy => device | max_score: 0.5221471786499023 | count: 1
-AFM => device | max_score: 0.5680629014968872 | count: 1
-physiological conditions => environmental_factor | max_score: 0.8267686367034912 | count: 1

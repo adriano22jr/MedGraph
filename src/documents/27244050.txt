@@ -1,8 +1,0 @@
-clinical outcome => condition_outcome | max_score: 0.8036841750144958 | count: 1
-T-cells => cell_type | max_score: 0.9409400820732117 | count: 1
-monocytes => cell_type | max_score: 0.9620122313499451 | count: 1
-neutrophils => cell_type | max_score: 0.9600369334220886 | count: 1
-platelets => cell_type | max_score: 0.927959144115448 | count: 1
-major histocompatibility complexes => immunologic_marker | max_score: 0.8286560773849487 | count: 1
-interleukins => immunologic_marker | max_score: 0.8794307112693787 | count: 1
-α-defensins => immunologic_marker | max_score: 0.8922964334487915 | count: 1

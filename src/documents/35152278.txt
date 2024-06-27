@@ -1,8 +1,0 @@
-mucormycosis => fungus | max_score: 0.9748201370239258 | count: 1
-plants => plant | max_score: 0.7972152829170227 | count: 1
-antifungal peptides => peptide | max_score: 0.5691707134246826 | count: 1
-AFPs => peptide | max_score: 0.710422158241272 | count: 5
-host defense mechanism => biological_process | max_score: 0.5131770372390747 | count: 1
-antibacterial peptides => peptide | max_score: 0.6288065314292908 | count: 1
-Histatin => protein | max_score: 0.6013005375862122 | count: 1
-Snakin => protein | max_score: 0.5556438565254211 | count: 1

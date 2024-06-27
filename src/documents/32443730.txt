@@ -1,3 +1,0 @@
-Fmoc-triazine amino acids => compound | max_score: 0.5101625323295593 | count: 1
-BJK-4 => peptide | max_score: 0.7776737213134766 | count: 1
-hemolytic activity => activity | max_score: 0.8925355672836304 | count: 1

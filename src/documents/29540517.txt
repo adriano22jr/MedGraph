@@ -1,4 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.7469816207885742 | count: 1
-AMPs => peptide | max_score: 0.8378362655639648 | count: 6
-multicellular organisms => organism | max_score: 0.7828065156936646 | count: 1
-colistin => antibiotic | max_score: 0.9375817775726318 | count: 1

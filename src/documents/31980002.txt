@@ -1,9 +1,0 @@
-periodontitis => disease_disorder | max_score: 0.7910335063934326 | count: 5
-hBDs => peptide | max_score: 0.7447062730789185 | count: 1
-cathelicidin => peptide | max_score: 0.7515064477920532 | count: 2
-LL-37 => peptide | max_score: 0.902617871761322 | count: 6
-hBD-1 => peptide | max_score: 0.784069836139679 | count: 3
-hBD-2 => peptide | max_score: 0.7994545698165894 | count: 2
-hBD-3 => peptide | max_score: 0.8567143082618713 | count: 2
-HbA1c => lab_value | max_score: 0.9154177308082581 | count: 2
-Periodontitis => disease_disorder | max_score: 0.6395731568336487 | count: 1

@@ -1,9 +1,0 @@
-Interleukin-22 => protein | max_score: 0.5154792666435242 | count: 1
-IL-22 => protein | max_score: 0.5887685418128967 | count: 5
-mucosal tissues => tissue | max_score: 0.7779923677444458 | count: 1
-epithelial cell => cell | max_score: 0.5476633906364441 | count: 1
-apoptosis => biological_process | max_score: 0.8355617523193359 | count: 1
-mucin => protein | max_score: 0.5710184574127197 | count: 1
-antimicrobial peptides => protein | max_score: 0.7452179789543152 | count: 1
-wild-type control mice => species | max_score: 0.8071985840797424 | count: 1
-CD4 T cell => cell | max_score: 0.6054918766021729 | count: 1

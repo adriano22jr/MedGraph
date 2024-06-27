@@ -1,2 +1,0 @@
-unique activity => activity | max_score: 0.646389901638031 | count: 1
-single mutations => mutation | max_score: 0.8825980424880981 | count: 1

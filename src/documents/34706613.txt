@@ -1,8 +1,0 @@
-lactic acid bacteria => bacteria | max_score: 0.8371482491493225 | count: 1
-LAB => bacteria | max_score: 0.6935142874717712 | count: 3
-conserved forages => plant | max_score: 0.8957503437995911 | count: 1
-cattle => species | max_score: 0.5555497407913208 | count: 1
-animal feed => plant | max_score: 0.7174015045166016 | count: 1
-biomass obtention => biological_process | max_score: 0.603646457195282 | count: 1
-antimicrobial peptides => peptide | max_score: 0.8544195294380188 | count: 1
-bioreactors => device | max_score: 0.8952859044075012 | count: 1

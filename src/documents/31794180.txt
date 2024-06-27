@@ -1,6 +1,0 @@
-protein pseudocapsids => protein | max_score: 0.5820050239562988 | count: 1
-antimicrobial activities => activity | max_score: 0.6105936765670776 | count: 1
-conventional antibiotics => antibiotic | max_score: 0.664417564868927 | count: 1
-phenotypic bacterial variants => bacteria | max_score: 0.6454547643661499 | count: 1
-superbugs => bacteria | max_score: 0.7075289487838745 | count: 1
-bacterial cells => cell | max_score: 0.8173368573188782 | count: 1

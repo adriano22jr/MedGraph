@@ -1,7 +1,0 @@
-Nannochloropsis gaditana => species | max_score: 0.8009532690048218 | count: 2
-psbA promoter => gene | max_score: 0.505905270576477 | count: 1
-rbcL promoter => gene | max_score: 0.5578262805938721 | count: 1
-rbcL => gene | max_score: 0.6064357161521912 | count: 3
-psbA => gene | max_score: 0.6773227453231812 | count: 3
-herbicide-resistant gene => gene | max_score: 0.6091203093528748 | count: 1
-bar => gene | max_score: 0.7885807156562805 | count: 1

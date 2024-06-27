@@ -1,9 +1,0 @@
-Cyclolipopeptides => compound | max_score: 0.5868672132492065 | count: 1
-Lys-Lys-Leu-Lys-Lys-Phe-Lys-Lys-Leu-Gln => peptide | max_score: 0.6070540547370911 | count: 1
-BPC194 => peptide | max_score: 0.7354651689529419 | count: 1
-cyclolipopeptides => compound | max_score: 0.6086962819099426 | count: 3
-antimicrobial activity => activity | max_score: 0.8935778141021729 | count: 2
-hemolysis => activity | max_score: 0.602778434753418 | count: 2
-tobacco leaves => plant | max_score: 0.8272265195846558 | count: 1
-phytopathogenic bacteria => bacteria | max_score: 0.6167124509811401 | count: 1
-fungi => fungus | max_score: 0.87630295753479 | count: 1

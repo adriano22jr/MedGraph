@@ -1,8 +1,0 @@
-plantaricin S => peptide | max_score: 0.9505212903022766 | count: 6
-Lactobacillus plantarum => bacteria | max_score: 0.9490266442298889 | count: 1
-Pls-α => peptide | max_score: 0.8534708619117737 | count: 2
-Pls-β => peptide | max_score: 0.8530076742172241 | count: 2
-Activity assays => activity | max_score: 0.5595866441726685 | count: 2
-antimicrobial activity => activity | max_score: 0.7446147799491882 | count: 1
-muricidin => peptide | max_score: 0.8776160478591919 | count: 3
-activity assays => activity | max_score: 0.5153031945228577 | count: 1

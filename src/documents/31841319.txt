@@ -1,9 +1,0 @@
-Ib-AMP4 => peptide | max_score: 0.6668795943260193 | count: 1
-P1c => peptide | max_score: 0.7534446120262146 | count: 1
-E. coli => bacteria | max_score: 0.96235591173172 | count: 1
-IGP protein => protein | max_score: 0.579788088798523 | count: 2
-cancer cells => cell_line | max_score: 0.5806668996810913 | count: 1
-A549 cells => cell_line | max_score: 0.948543131351471 | count: 1
-integrin αvβ3 => protein | max_score: 0.7715201377868652 | count: 1
-A549 cancer cells => cell_line | max_score: 0.8718781471252441 | count: 1
-tumor tissue => tissue | max_score: 0.9648910164833069 | count: 1

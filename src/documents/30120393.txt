@@ -1,6 +1,0 @@
-Staphylococcus aureus => bacteria | max_score: 0.8551433086395264 | count: 1
-S. aureus => bacteria | max_score: 0.7874622941017151 | count: 5
-LL-37 => peptide | max_score: 0.9508525729179382 | count: 2
-LL-13 => peptide | max_score: 0.9282743334770203 | count: 3
-LL-17 => peptide | max_score: 0.9329214692115784 | count: 3
-vancomycin => antibiotic | max_score: 0.9724218845367432 | count: 5

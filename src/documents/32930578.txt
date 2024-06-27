@@ -1,7 +1,0 @@
-plipastatin => peptide | max_score: 0.9071138501167297 | count: 5
-Bacillus subtilis => bacteria | max_score: 0.7066771388053894 | count: 1
-srf => gene | max_score: 0.5745494365692139 | count: 1
-Cas9 => enzyme | max_score: 0.5614496469497681 | count: 1
-plipastatins => peptide | max_score: 0.810613751411438 | count: 3
-mg/L => volume | max_score: 0.5471988320350647 | count: 1
-fungi => fungus | max_score: 0.5679652094841003 | count: 1

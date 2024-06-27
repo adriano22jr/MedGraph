@@ -1,3 +1,0 @@
-Escherichia coli => bacteria | max_score: 0.9531209468841553 | count: 1
-piperacillin-tazobactam => antibiotic | max_score: 0.731391966342926 | count: 1
-TZP => antibiotic | max_score: 0.7866650819778442 | count: 2

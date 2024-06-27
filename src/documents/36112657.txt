@@ -1,3 +1,0 @@
-PLG0206 => peptide | max_score: 0.9075182676315308 | count: 4
-broad-spectrum activity => activity | max_score: 0.7995180487632751 | count: 1
-potent anti-biofilm activity => activity | max_score: 0.7344517111778259 | count: 1

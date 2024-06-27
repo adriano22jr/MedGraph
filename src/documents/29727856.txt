@@ -1,7 +1,0 @@
-IDR-1018 => peptide | max_score: 0.8237708806991577 | count: 4
-broad-spectrum antimicrobial activity => activity | max_score: 0.8400806188583374 | count: 1
-1018-K6 => peptide | max_score: 0.8132794499397278 | count: 3
-Listeria monocytogenes => bacteria | max_score: 0.9601245522499084 | count: 1
-food-processing environments => environmental_factor | max_score: 0.8999595046043396 | count: 1
-serotype 4b => bacteria | max_score: 0.7382466197013855 | count: 1
-EC50 values => lab_value | max_score: 0.7153241634368896 | count: 1

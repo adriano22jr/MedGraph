@@ -1,6 +1,0 @@
-IL-4 => protein | max_score: 0.6743215918540955 | count: 3
-IL-13 => protein | max_score: 0.6714721918106079 | count: 2
-skin barrier function => biological_process | max_score: 0.6192224025726318 | count: 1
-filaggrin => protein | max_score: 0.7743067145347595 | count: 2
-keratinocytes => cell_type | max_score: 0.8869709968566895 | count: 1
-homeostasis => biological_process | max_score: 0.6415713429450989 | count: 1

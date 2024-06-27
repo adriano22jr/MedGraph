@@ -1,5 +1,0 @@
-Pseudomonas aeruginosa => bacteria | max_score: 0.9799527525901794 | count: 1
-P. aeruginosa => bacteria | max_score: 0.6988059282302856 | count: 1
-lectin LecB => protein | max_score: 0.7371493577957153 | count: 1
-α-helices => protein | max_score: 0.8490839600563049 | count: 2
-lectin => protein | max_score: 0.6226699948310852 | count: 1

@@ -1,5 +1,0 @@
-Histatin 5 => peptide | max_score: 0.7790239453315735 | count: 2
-His-5 => peptide | max_score: 0.6732438206672668 | count: 5
-C. albicans => fungus | max_score: 0.9766272306442261 | count: 4
-morphological transformation => biological_process | max_score: 0.5024685263633728 | count: 1
-potassium efflux => biological_process | max_score: 0.8215010166168213 | count: 2

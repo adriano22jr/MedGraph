@@ -1,8 +1,0 @@
-disease diagnosis => diagnostic_procedure | max_score: 0.5421395897865295 | count: 3
-Histatins => protein_family | max_score: 0.9665273427963257 | count: 1
-oral cavity => anatomical_system | max_score: 0.7149836421012878 | count: 1
-histatins => protein_family | max_score: 0.9622087478637695 | count: 2
-HIV => virus | max_score: 0.7302709817886353 | count: 1
-histidine-rich peptides => peptide | max_score: 0.6870154142379761 | count: 3
-3-azidocoumarin => peptide | max_score: 0.5782124400138855 | count: 2
-histatin 5 => peptide | max_score: 0.6935279965400696 | count: 2

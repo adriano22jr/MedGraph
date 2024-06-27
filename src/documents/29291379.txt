@@ -1,3 +1,0 @@
-SVS-1 => peptide | max_score: 0.872287392616272 | count: 5
-KVKVKVKVdPlPTKVKVKVK => peptide | max_score: 0.5492047071456909 | count: 1
-high-curvature conditions => environmental_factor | max_score: 0.5752097368240356 | count: 1

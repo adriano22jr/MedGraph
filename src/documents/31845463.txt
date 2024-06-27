@@ -1,8 +1,0 @@
-FMDP => antibiotic | max_score: 0.5321349501609802 | count: 1
-antifungal activity => activity | max_score: 0.834298849105835 | count: 1
-FMDP => compound | max_score: 0.546244740486145 | count: 2
-antimicrobial activity => activity | max_score: 0.7817069292068481 | count: 1
-fungal strains => fungus | max_score: 0.7217879891395569 | count: 1
-fluconazole-resistant hospital-acquired strains => fungus | max_score: 0.7807998657226562 | count: 1
-amphiphilic branched peptides => peptide | max_score: 0.5640520453453064 | count: 1
-specific transport proteins => protein | max_score: 0.8460445404052734 | count: 1

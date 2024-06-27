@@ -1,8 +1,0 @@
-α-defensins => immunologic_marker | max_score: 0.6832069754600525 | count: 3
-quantitative enzyme-linked immunosorbent assay => diagnostic_procedure | max_score: 0.6729708313941956 | count: 1
-qualitative lateral flow immunoassay => diagnostic_procedure | max_score: 0.6394008994102478 | count: 1
-primary joint arthroplasty => surgical_procedure | max_score: 0.818798840045929 | count: 1
-Microbiological analysis => diagnostic_procedure | max_score: 0.7074832916259766 | count: 1
-Synovasure assays => diagnostic_procedure | max_score: 0.6237396001815796 | count: 1
-human neutrophil peptide (HNP) => peptide | max_score: 0.641044557094574 | count: 1
-HNP-1 => peptide | max_score: 0.5191118717193604 | count: 1

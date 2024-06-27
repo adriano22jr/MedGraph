@@ -1,4 +1,0 @@
-PEGylation => biological_process | max_score: 0.6470612287521362 | count: 3
-trypsin-like proteases => enzyme | max_score: 0.9696387052536011 | count: 1
-Onc112 => peptide | max_score: 0.8425185084342957 | count: 3
-proline-rich antimicrobial peptide => peptide | max_score: 0.6667938232421875 | count: 1

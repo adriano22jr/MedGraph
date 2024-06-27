@@ -1,8 +1,0 @@
-LEAP2 => peptide | max_score: 0.8105619549751282 | count: 12
-G protein-coupled receptor => protein | max_score: 0.6157663464546204 | count: 1
-GHSR1a => protein | max_score: 0.9264787435531616 | count: 11
-ghrelin => peptide | max_score: 0.8831783533096313 | count: 2
-energy metabolism => biological_process | max_score: 0.7648657560348511 | count: 1
-ghrelin-GHSR1a system => biological_process | max_score: 0.6842842698097229 | count: 1
-Arg6 => protein | max_score: 0.5217416882514954 | count: 1
-Asp99 => protein | max_score: 0.655892014503479 | count: 2

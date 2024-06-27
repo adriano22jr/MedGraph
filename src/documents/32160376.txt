@@ -1,9 +1,0 @@
-calycosin => drug | max_score: 0.7453514933586121 | count: 9
-polymyxin B => antibiotic | max_score: 0.9242871403694153 | count: 7
-mcr-1-positive bacterial strains => bacteria | max_score: 0.5228967666625977 | count: 2
-MCR-1 => protein | max_score: 0.8811361193656921 | count: 3
-antibacterial activity => activity | max_score: 0.6627877354621887 | count: 1
-combined therapy => treatment | max_score: 0.8048078417778015 | count: 2
-Calycosin => drug | max_score: 0.7174440622329712 | count: 1
-HeLa cells => cell_line | max_score: 0.9822831749916077 | count: 1
-A549 cells => cell_line | max_score: 0.9871793389320374 | count: 1

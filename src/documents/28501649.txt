@@ -1,9 +1,0 @@
-Mfs => cell_type | max_score: 0.6777860522270203 | count: 6
-rabbits => species | max_score: 0.538223385810852 | count: 1
-tibial implants => device | max_score: 0.746411144733429 | count: 2
-M1 => cell_type | max_score: 0.7123003005981445 | count: 4
-M2 => cell_type | max_score: 0.6645004153251648 | count: 2
-White New Zealand rabbits => species | max_score: 0.8692493438720703 | count: 1
-superoxide => molecule | max_score: 0.6404263377189636 | count: 4
-proteases => enzyme | max_score: 0.6304260492324829 | count: 1
-arginase => enzyme | max_score: 0.8415327668190002 | count: 1

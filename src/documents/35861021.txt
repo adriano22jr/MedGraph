@@ -1,8 +1,0 @@
-overpopulation => environmental_factor | max_score: 0.8672170639038086 | count: 1
-increased global migration => environmental_factor | max_score: 0.7687451243400574 | count: 1
-selection pressure => environmental_factor | max_score: 0.6981781125068665 | count: 1
-antibiotics => antibiotic | max_score: 0.6756373047828674 | count: 2
-Antibiotics => antibiotic | max_score: 0.6617239713668823 | count: 1
-antimicrobial peptides => peptide | max_score: 0.8113268613815308 | count: 1
-immunomodulation => treatment | max_score: 0.6872758269309998 | count: 1
-host-directed therapy => treatment | max_score: 0.7404267191886902 | count: 1

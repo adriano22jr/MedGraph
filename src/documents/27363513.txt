@@ -1,9 +1,0 @@
-peptides => peptide | max_score: 0.6996520161628723 | count: 4
-cationic membrane-active peptides => peptide | max_score: 0.6971853971481323 | count: 1
-Acholeplasma laidlawii => bacteria | max_score: 0.8329810500144958 | count: 1
-3T3-L1 => cell_line | max_score: 0.9810972213745117 | count: 1
-HeLa cells => cell_line | max_score: 0.9778002500534058 | count: 1
-prokaryotic cells => cell_type | max_score: 0.7391328811645508 | count: 1
-normal eukaryotic cells => cell_type | max_score: 0.7943998575210571 | count: 1
-cancer cells => cell_type | max_score: 0.8020532131195068 | count: 1
-anticancer activities => activity | max_score: 0.803593635559082 | count: 1

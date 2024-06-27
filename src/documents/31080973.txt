@@ -1,3 +1,0 @@
-AMPs => peptide | max_score: 0.5719943642616272 | count: 2
-suramin => drug | max_score: 0.8935837149620056 | count: 4
-CM15 => peptide | max_score: 0.8505368232727051 | count: 2

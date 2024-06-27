@@ -1,9 +1,0 @@
-craniotomy => surgical_procedure | max_score: 0.9088097214698792 | count: 1
-severe intracranial infection => severity | max_score: 0.5236561894416809 | count: 1
-Acinetobacter baumannii => bacteria | max_score: 0.8944915533065796 | count: 1
-A. baumannii => bacteria | max_score: 0.868890643119812 | count: 2
-intravenous (IV) => surgical_procedure | max_score: 0.511116087436676 | count: 1
-sequential intraventricular (IVT) => surgical_procedure | max_score: 0.5263187289237976 | count: 1
-tigecycline => antibiotic | max_score: 0.8282501101493835 | count: 2
-polymyxin B => antibiotic | max_score: 0.8836795091629028 | count: 2
-Good results => condition_outcome | max_score: 0.8021142482757568 | count: 1

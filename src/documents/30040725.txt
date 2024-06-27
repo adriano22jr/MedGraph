@@ -1,7 +1,0 @@
-Alzheimer's disease => disease_disorder | max_score: 0.7868138551712036 | count: 1
-AD => medical_abbreviation | max_score: 0.6591825485229492 | count: 5
-Aβ => peptide | max_score: 0.6646373867988586 | count: 3
-toxin production => biological_process | max_score: 0.5399491786956787 | count: 2
-immune response => biological_process | max_score: 0.5631129145622253 | count: 1
-antimicrobial peptides => peptide | max_score: 0.5812086462974548 | count: 1
-oral bacteria => bacteria | max_score: 0.842384934425354 | count: 1

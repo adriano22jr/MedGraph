@@ -1,8 +1,0 @@
-fluoroquinolone => antibiotic | max_score: 0.6809312701225281 | count: 2
-retrospective => study_design | max_score: 0.686090350151062 | count: 1
-ciprofloxacin => antibiotic | max_score: 0.9324201941490173 | count: 4
-ofloxacin => antibiotic | max_score: 0.905382513999939 | count: 3
-gatifloxacin => antibiotic | max_score: 0.9024181962013245 | count: 3
-moxifloxacin => antibiotic | max_score: 0.9114760756492615 | count: 3
-Gram-positive bacteria => bacteria | max_score: 0.9196848273277283 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.9050857424736023 | count: 1

@@ -1,6 +1,0 @@
-bacterial homeostasis => biological_process | max_score: 0.733127236366272 | count: 2
-opaL => gene | max_score: 0.7920018434524536 | count: 3
-extremely hydrophobic peptides => peptide | max_score: 0.5339428782463074 | count: 1
-recipient bacteria => bacteria | max_score: 0.624735951423645 | count: 1
-T7 RNA polymerase => enzyme | max_score: 0.9396381378173828 | count: 2
-Escherichia coli => bacteria | max_score: 0.8563250303268433 | count: 1

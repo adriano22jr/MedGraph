@@ -1,8 +1,0 @@
-mycobacterial antigen => immunologic_marker | max_score: 0.6346218585968018 | count: 2
-human neutrophil peptides 1-3 => peptide | max_score: 0.5269877314567566 | count: 1
-HNP1-3 => peptide | max_score: 0.8162569999694824 | count: 5
-granulysin => peptide | max_score: 0.9504987597465515 | count: 5
-human beta defensin-2 (HBD-2) => peptide | max_score: 0.7149088978767395 | count: 1
-cathelicidin => peptide | max_score: 0.8532330989837646 | count: 3
-LL-37 => peptide | max_score: 0.6846897602081299 | count: 1
-HBD-2 => peptide | max_score: 0.7741759419441223 | count: 3

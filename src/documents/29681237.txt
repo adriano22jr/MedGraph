@@ -1,6 +1,0 @@
-wounds => body_part | max_score: 0.772174596786499 | count: 3
-burns => body_part | max_score: 0.7904614210128784 | count: 3
-conventional therapeutics => treatment | max_score: 0.7121551036834717 | count: 1
-microbes => organism | max_score: 0.6731107234954834 | count: 1
-Antimicrobial peptides => peptide | max_score: 0.8831323981285095 | count: 1
-antimicrobial peptides => peptide | max_score: 0.8970028162002563 | count: 1

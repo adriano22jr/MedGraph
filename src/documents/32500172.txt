@@ -1,5 +1,0 @@
-Protegrin-1 => peptide | max_score: 0.6468843221664429 | count: 1
-PG-1 => peptide | max_score: 0.6653849482536316 | count: 4
-family of powerful antimicrobial peptides => protein_family | max_score: 0.5093375444412231 | count: 1
-membrane permeabilization => biological_process | max_score: 0.6382712721824646 | count: 1
-dose-response function => molecular_function | max_score: 0.978648841381073 | count: 1

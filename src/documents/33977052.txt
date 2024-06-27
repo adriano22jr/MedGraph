@@ -1,9 +1,0 @@
-host cells => cell | max_score: 0.7892777919769287 | count: 2
-adenylate cyclase (CyaA) => enzyme | max_score: 0.646003782749176 | count: 1
-Bordetella pertussis => bacteria | max_score: 0.9803838133811951 | count: 1
-CyaA => protein | max_score: 0.7246019244194031 | count: 5
-antimicrobial peptides => peptide | max_score: 0.708890438079834 | count: 1
-calmodulin => protein | max_score: 0.7141335606575012 | count: 4
-CaM => protein | max_score: 0.5856330394744873 | count: 2
-target cells => cell | max_score: 0.7844037413597107 | count: 2
-calmidazolium => peptide | max_score: 0.7056189179420471 | count: 1

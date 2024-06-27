@@ -1,5 +1,0 @@
-DNA => molecule | max_score: 0.8545356392860413 | count: 4
-RNA => molecule | max_score: 0.9373952746391296 | count: 4
-bacteriolytic protein => protein | max_score: 0.7203611135482788 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.8837000727653503 | count: 1
-PMAP36 => protein | max_score: 0.5716070532798767 | count: 1

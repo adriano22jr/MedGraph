@@ -1,5 +1,0 @@
-wasp venom peptide => peptide | max_score: 0.7059857845306396 | count: 1
-Ano-3/3s => peptide | max_score: 0.746709942817688 | count: 3
-mice => species | max_score: 0.8140788674354553 | count: 1
-immunogenic cell death => biological_process | max_score: 0.5556049346923828 | count: 1
-CD8+ T cell => cell_type | max_score: 0.73554927110672 | count: 1

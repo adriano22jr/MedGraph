@@ -1,8 +1,0 @@
-LL-37 => peptide | max_score: 0.9306306838989258 | count: 4
-antimicrobial activity => activity | max_score: 0.8757624626159668 | count: 1
-Ribonuclease 1 => enzyme | max_score: 0.6924489736557007 | count: 1
-RNase 1 => enzyme | max_score: 0.9655768275260925 | count: 5
-Gram-negative bacterial cells => cell | max_score: 0.829146683216095 | count: 1
-Escherichia coli => bacteria | max_score: 0.9221054315567017 | count: 1
-E. coli cells => cell | max_score: 0.5135056376457214 | count: 1
-human => bacteria | max_score: 0.592899739742279 | count: 1

@@ -1,7 +1,0 @@
-shoulder arthroplasty => surgical_procedure | max_score: 0.9362375736236572 | count: 1
-P. acnes => bacteria | max_score: 0.8238818645477295 | count: 5
-C-reactive protein level => lab_value | max_score: 0.9521608948707581 | count: 1
-erythrocyte sedimentation rate => lab_value | max_score: 0.9576255083084106 | count: 1
-gold standard => medical_term | max_score: 0.5405526757240295 | count: 1
-intraoperative culture => diagnostic_procedure | max_score: 0.8343247175216675 | count: 1
-molecular techniques => diagnostic_procedure | max_score: 0.5983173847198486 | count: 1

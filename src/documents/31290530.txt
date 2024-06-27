@@ -1,9 +1,0 @@
-phospholipids => compound | max_score: 0.6578230261802673 | count: 4
-C57BL/6 mice => species | max_score: 0.8997386693954468 | count: 1
-MP supplementation => treatment | max_score: 0.7739552855491638 | count: 2
-BW => weight | max_score: 0.5624000430107117 | count: 1
-goblet cells => cell_type | max_score: 0.8780072927474976 | count: 4
-antimicrobial peptides => gene | max_score: 0.5961760878562927 | count: 1
-colonic myofibroblasts => cell_type | max_score: 0.7171841859817505 | count: 2
-severity => severity | max_score: 0.5467423796653748 | count: 1
-Notch pathway => biological_process | max_score: 0.517386794090271 | count: 1

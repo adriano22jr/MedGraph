@@ -1,7 +1,0 @@
-colistin resistance gene => gene | max_score: 0.5965864062309265 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.921896755695343 | count: 1
-2016 => date | max_score: 0.9330487847328186 | count: 1
-Escherichia coli => bacteria | max_score: 0.9368886947631836 | count: 1
-E. coli => bacteria | max_score: 0.6926531791687012 | count: 2
-mcr-1 gene => gene | max_score: 0.9122353792190552 | count: 1
-activity => activity | max_score: 0.6139809489250183 | count: 1

@@ -1,9 +1,0 @@
-alumina nanoparticles => compound | max_score: 0.5863005518913269 | count: 4
-orthodontic implants => device | max_score: 0.6139693856239319 | count: 1
-antimicrobial peptides => peptide | max_score: 0.5471644401550293 | count: 2
-broad-spectrum of activities => activity | max_score: 0.7287918329238892 | count: 1
-BP100 => peptide | max_score: 0.8415630459785461 | count: 2
-Cys-Ala-Ala-Ala => peptide | max_score: 0.8105751872062683 | count: 1
-DD K => peptide | max_score: 0.6685260534286499 | count: 1
-bacteria => bacteria | max_score: 0.7209259867668152 | count: 1
-fungi => fungus | max_score: 0.938606858253479 | count: 1

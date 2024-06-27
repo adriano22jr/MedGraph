@@ -1,7 +1,0 @@
-mcr-1 => gene | max_score: 0.9837251305580139 | count: 7
-Colistin => antibiotic | max_score: 0.9414610266685486 | count: 1
-carbapenem-resistant bacteria => bacteria | max_score: 0.9509040117263794 | count: 1
-2010 => date | max_score: 0.777672290802002 | count: 1
-2012 => date | max_score: 0.8931888341903687 | count: 2
-amplicons => molecule | max_score: 0.6427040696144104 | count: 1
-2011 => date | max_score: 0.6345092058181763 | count: 1

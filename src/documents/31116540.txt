@@ -1,8 +1,0 @@
-cathelicidins => protein_family | max_score: 0.9107624888420105 | count: 6
-Viperidae => protein_family | max_score: 0.6914176940917969 | count: 4
-Biodae => protein_family | max_score: 0.5566507577896118 | count: 2
-SA-CATH => peptide | max_score: 0.9103705883026123 | count: 7
-Sinonatrix annularis => species | max_score: 0.8398850560188293 | count: 1
-biofilm inhibitory => activity | max_score: 0.6996539235115051 | count: 1
-anti-inflammatory => activity | max_score: 0.7741723656654358 | count: 2
-Elapidae => protein_family | max_score: 0.5370099544525146 | count: 1

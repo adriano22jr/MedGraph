@@ -1,4 +1,0 @@
-antimicrobial peptides => peptide | max_score: 0.6257886290550232 | count: 2
-poly (amino acid)s => peptide | max_score: 0.7530215978622437 | count: 1
-short AMPs => peptide | max_score: 0.8334689140319824 | count: 1
-lipopeptides => peptide | max_score: 0.8846144676208496 | count: 1

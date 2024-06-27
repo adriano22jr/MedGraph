@@ -1,7 +1,0 @@
-VapBC30 complex => protein | max_score: 0.6432276368141174 | count: 1
-V30-SP-8 peptide => peptide | max_score: 0.8114952445030212 | count: 1
-Mycobacterium smegmatis => bacteria | max_score: 0.9478164911270142 | count: 1
-bactericidal activity => activity | max_score: 0.979878306388855 | count: 1
-minimum inhibitory concentration => lab_value | max_score: 0.8761082887649536 | count: 1
-MIC50 => lab_value | max_score: 0.844117283821106 | count: 1
-M. tuberculosis => bacteria | max_score: 0.6065359115600586 | count: 1

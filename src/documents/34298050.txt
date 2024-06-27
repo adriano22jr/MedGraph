@@ -1,6 +1,0 @@
-colistin => antibiotic | max_score: 0.560524046421051 | count: 1
-hyaluronic acid => molecule | max_score: 0.5264471173286438 | count: 1
-multi-resistant gram-negative microorganisms => bacteria | max_score: 0.5841414928436279 | count: 1
-ESKAPE pathogens => bacteria | max_score: 0.5785687565803528 | count: 1
-pharmacological activity => activity | max_score: 0.7319151163101196 | count: 1
-Pseudomonas aeruginosa => bacteria | max_score: 0.9630368947982788 | count: 1

@@ -1,7 +1,0 @@
-colistin => antibiotic | max_score: 0.9362374544143677 | count: 5
-colistin-associated AKI => disease_disorder | max_score: 0.6317256689071655 | count: 3
-retrospective cohort => study_design | max_score: 0.8829712867736816 | count: 1
-severe infections => severity | max_score: 0.5103492736816406 | count: 1
-age => age | max_score: 0.9354522228240967 | count: 2
-sex => sex | max_score: 0.8883553147315979 | count: 1
-primary outcome => condition_outcome | max_score: 0.7616606950759888 | count: 1

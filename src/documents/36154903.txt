@@ -1,7 +1,0 @@
-GRR10W4 => peptide | max_score: 0.8298697471618652 | count: 2
-GRRPRPRPRPWWWW-NH2 => peptide | max_score: 0.7595301270484924 | count: 1
-model systems => device | max_score: 0.7456408739089966 | count: 1
-respiratory interface => anatomical_system | max_score: 0.5558297634124756 | count: 1
-surface balances => device | max_score: 0.5298590660095215 | count: 1
-GRR10W4-F => peptide | max_score: 0.8350706696510315 | count: 3
-airway epithelial cells => cell_type | max_score: 0.6034520864486694 | count: 1

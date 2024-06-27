@@ -1,8 +1,0 @@
-IgA nephropathy => disease_disorder | max_score: 0.6439155340194702 | count: 1
-IgAN => disease_disorder | max_score: 0.5115851759910583 | count: 1
-DEFA locus => gene | max_score: 0.9055343866348267 | count: 1
-α-defensins => peptide | max_score: 0.9200060963630676 | count: 12
-healthy controls => subject | max_score: 0.6730692386627197 | count: 4
-HNP1-3 => peptide | max_score: 0.5191616415977478 | count: 1
-renal function => lab_value | max_score: 0.5910143256187439 | count: 1
-neutrophil count => lab_value | max_score: 0.5994491577148438 | count: 1

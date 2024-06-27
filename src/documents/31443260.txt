@@ -1,9 +1,0 @@
-Acanthostrongylophora ingens => plant | max_score: 0.9060962200164795 | count: 1
-diketopiperazines => compound | max_score: 0.5363022089004517 | count: 1
-antikinases => compound | max_score: 0.5389268398284912 | count: 1
-amyloid β-42 => peptide | max_score: 0.8911793828010559 | count: 3
-acanthocyclamine A (3) => compound | max_score: 0.5900354385375977 | count: 1
-Escherichia coli => bacteria | max_score: 0.9040716886520386 | count: 1
-antimicrobial activity => activity | max_score: 0.9231259226799011 | count: 1
-aftin-5 => compound | max_score: 0.6880244016647339 | count: 1
-Alzheimer's disease => disease_disorder | max_score: 0.7395941019058228 | count: 1

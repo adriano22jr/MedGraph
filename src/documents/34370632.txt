@@ -1,9 +1,0 @@
-proteases => enzyme | max_score: 0.7881749272346497 | count: 9
-extracellular environment => environmental_factor | max_score: 0.7472929358482361 | count: 1
-peptides => protein | max_score: 0.8914850950241089 | count: 1
-proteins => protein | max_score: 0.7857828140258789 | count: 2
-bacteria => bacteria | max_score: 0.8404073119163513 | count: 5
-immune system => environmental_factor | max_score: 0.756598174571991 | count: 1
-antimicrobial activity => activity | max_score: 0.9054370522499084 | count: 1
-biofilm formation => biological_process | max_score: 0.6729000210762024 | count: 1
-secreted proteases => enzyme | max_score: 0.8518922924995422 | count: 1

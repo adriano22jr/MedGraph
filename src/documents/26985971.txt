@@ -1,5 +1,0 @@
-vertebrates => species | max_score: 0.6010258793830872 | count: 1
-invertebrates => species | max_score: 0.5619404911994934 | count: 1
-GH-2 => peptide | max_score: 0.6253430247306824 | count: 1
-skin secretions => body_part | max_score: 0.7059915065765381 | count: 1
-Bombina orientalis => species | max_score: 0.8928772211074829 | count: 1

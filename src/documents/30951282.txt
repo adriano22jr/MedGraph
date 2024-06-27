@@ -1,7 +1,0 @@
-Laponite nanoparticles => compound | max_score: 0.7045381665229797 | count: 5
-LL-37 => peptide | max_score: 0.9174097776412964 | count: 4
-Gram-negative Escherichia coli bacteria => bacteria | max_score: 0.7437734603881836 | count: 1
-LPS => molecule | max_score: 0.6758323907852173 | count: 2
-Gram-negative bacteria => bacteria | max_score: 0.7838552594184875 | count: 2
-Laponite => compound | max_score: 0.5327578783035278 | count: 1
-Bacillus subtilis => bacteria | max_score: 0.7200396060943604 | count: 1

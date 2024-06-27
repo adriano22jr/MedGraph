@@ -1,9 +1,0 @@
-keratinocytes => cell_type | max_score: 0.8555766940116882 | count: 1
-Malassezia yeasts => fungus | max_score: 0.8529573678970337 | count: 1
-antimicrobial peptides => peptide | max_score: 0.6049553751945496 | count: 1
-M. sympodialis => fungus | max_score: 0.7919130921363831 | count: 2
-M. furfur => fungus | max_score: 0.8545105457305908 | count: 2
-reconstructed human epidermis => tissue | max_score: 0.9070241451263428 | count: 1
-100 μL => volume | max_score: 0.9423907995223999 | count: 1
-human epidermis => tissue | max_score: 0.9049972891807556 | count: 1
-cytokines => protein | max_score: 0.5011751055717468 | count: 1

@@ -1,7 +1,0 @@
-HD5RED => peptide | max_score: 0.7715491056442261 | count: 4
-LPS => molecule | max_score: 0.7790716290473938 | count: 4
-lipid A => molecule | max_score: 0.6926618814468384 | count: 1
-LPS-binding protein => protein | max_score: 0.8191510438919067 | count: 1
-TLR4-NF-κB signaling pathway => biological_process | max_score: 0.5104215145111084 | count: 1
-ciprofloxacin => antibiotic | max_score: 0.818865180015564 | count: 1
-Acinetobacter baumannii => bacteria | max_score: 0.9207205176353455 | count: 1

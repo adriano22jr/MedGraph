@@ -1,8 +1,0 @@
-Gcn5-related N-acetyltransferases => protein_family | max_score: 0.9654150009155273 | count: 2
-in vivo functions => molecular_function | max_score: 0.7048529982566833 | count: 1
-Pseudomonas aeruginosa => bacteria | max_score: 0.986596405506134 | count: 1
-PA3944 enzyme => enzyme | max_score: 0.8717407584190369 | count: 1
-polymyxin B => antibiotic | max_score: 0.7761809229850769 | count: 1
-colistin => antibiotic | max_score: 0.7429261803627014 | count: 1
-antimicrobial peptide => peptide | max_score: 0.5222592949867249 | count: 1
-PA3944 => enzyme | max_score: 0.6271130442619324 | count: 2

@@ -1,4 +1,0 @@
-colistin => antibiotic | max_score: 0.9324217438697815 | count: 5
-Colistin => antibiotic | max_score: 0.8775211572647095 | count: 1
-frozen panels => device | max_score: 0.7310409545898438 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.8964962959289551 | count: 1

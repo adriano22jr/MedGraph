@@ -1,9 +1,0 @@
-Pseudomonas aeruginosa => bacteria | max_score: 0.9593601822853088 | count: 1
-P. aeruginosa => bacteria | max_score: 0.9624035954475403 | count: 7
-targeting peptide => peptide | max_score: 0.5110672116279602 | count: 1
-PA2 => peptide | max_score: 0.7857593297958374 | count: 1
-OprF porin => protein | max_score: 0.8517780900001526 | count: 1
-GNU7 => peptide | max_score: 0.8696150183677673 | count: 1
-PA2-GNU7 => peptide | max_score: 0.7007932662963867 | count: 4
-antimicrobial activity => activity | max_score: 0.6580345630645752 | count: 1
-conventional antibiotics => antibiotic | max_score: 0.5717505216598511 | count: 1

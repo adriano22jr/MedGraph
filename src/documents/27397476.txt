@@ -1,7 +1,0 @@
-Scorpions => species | max_score: 0.6734897494316101 | count: 1
-peptide toxins => molecule | max_score: 0.5059243440628052 | count: 1
-ion channels => protein | max_score: 0.8618964552879333 | count: 3
-voltage gating => biological_process | max_score: 0.6807519197463989 | count: 1
-sodium channels => protein | max_score: 0.5305875539779663 | count: 1
-antimicrobial activity => activity | max_score: 0.9643386006355286 | count: 1
-anticancer activity => activity | max_score: 0.9506914019584656 | count: 1

@@ -1,7 +1,0 @@
-implanted devices => device | max_score: 0.9262804388999939 | count: 1
-host tissue => tissue | max_score: 0.9543746709823608 | count: 1
-antimicrobial peptide => peptide | max_score: 0.5830015540122986 | count: 1
-AMP => peptide | max_score: 0.5197375416755676 | count: 1
-AMPs => peptide | max_score: 0.7055246829986572 | count: 2
-Gram-positive => bacteria | max_score: 0.5369198322296143 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.9572429656982422 | count: 1

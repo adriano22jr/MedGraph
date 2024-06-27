@@ -1,5 +1,0 @@
-Polymyxin B => drug | max_score: 0.9067620635032654 | count: 1
-multidrug-resistant Gram-negative infections => disease_disorder | max_score: 0.6702340245246887 | count: 1
-pharmacokinetics => medical_term | max_score: 0.7467108964920044 | count: 2
-polymyxin B => drug | max_score: 0.9023151993751526 | count: 2
-humans => species | max_score: 0.7580387592315674 | count: 1

@@ -1,7 +1,0 @@
-plasmids => molecule | max_score: 0.5026189088821411 | count: 1
-Enterobacteriaceae => bacteria | max_score: 0.9486241936683655 | count: 4
-mcr-1 gene => gene | max_score: 0.9875736832618713 | count: 5
-colistin => antibiotic | max_score: 0.9256777167320251 | count: 5
-mg/L => volume | max_score: 0.7880685925483704 | count: 2
-promoter activity => activity | max_score: 0.8167935609817505 | count: 1
-promoter-probe vector pKK232-8 => molecule | max_score: 0.5643042922019958 | count: 1

@@ -1,8 +1,0 @@
-female adults => sex | max_score: 0.7206223607063293 | count: 1
-Acheta domesticus => species | max_score: 0.871460497379303 | count: 1
-Cryptotermes secundus => species | max_score: 0.750251829624176 | count: 1
-Zootermopsis nevadensis => species | max_score: 0.800881028175354 | count: 1
-Gregarina niphandrodes => species | max_score: 0.7484959363937378 | count: 1
-RNA interference => biological_process | max_score: 0.554319441318512 | count: 1
-prolixicin => molecule | max_score: 0.5561997294425964 | count: 1
-hexamerins => molecule | max_score: 0.5810806155204773 | count: 1

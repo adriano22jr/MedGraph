@@ -1,4 +1,0 @@
-psoriasis => disease_disorder | max_score: 0.8214022517204285 | count: 3
-secukinumab, where treatment was directly switched from cyclosporin A => drug | max_score: 0.959347665309906 | count: 1
-secukinumab => drug | max_score: 0.967271625995636 | count: 2
-BD-2 => protein | max_score: 0.5280798673629761 | count: 1

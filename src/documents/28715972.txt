@@ -1,5 +1,0 @@
-defensins => protein | max_score: 0.8028555512428284 | count: 4
-Defensins => protein | max_score: 0.8041284084320068 | count: 1
-antiviral activity => activity | max_score: 0.7107691764831543 | count: 1
-individual viruses => virus | max_score: 0.7528838515281677 | count: 1
-immunomodulatory activity => activity | max_score: 0.7281870245933533 | count: 1

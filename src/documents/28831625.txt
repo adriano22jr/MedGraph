@@ -1,8 +1,0 @@
-traditional anti-tumor drugs => drug | max_score: 0.508022129535675 | count: 1
-BP100 => peptide | max_score: 0.9163742661476135 | count: 3
-antimicrobial activity => biological_process | max_score: 0.5674182176589966 | count: 1
-anti-cancer activity => biological_process | max_score: 0.8137485980987549 | count: 1
-cytochrome C => protein | max_score: 0.7356292605400085 | count: 1
-apoptosis => biological_process | max_score: 0.8129034638404846 | count: 1
-anti-tumor activity => biological_process | max_score: 0.7917749881744385 | count: 1
-multidrug resistant cells => cell | max_score: 0.7860100865364075 | count: 1

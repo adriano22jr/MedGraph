@@ -1,5 +1,0 @@
-melittin => peptide | max_score: 0.9602611660957336 | count: 4
-cancer therapy => treatment | max_score: 0.7883824110031128 | count: 2
-cancer cells => cell | max_score: 0.7855278849601746 | count: 1
-endocytosis => biological_process | max_score: 0.6238129138946533 | count: 1
-In vivo study => study_design | max_score: 0.6030606627464294 | count: 1

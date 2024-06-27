@@ -1,8 +1,0 @@
-gH625 => peptide | max_score: 0.8724409937858582 | count: 1
-gH625-GCGKKK => peptide | max_score: 0.7603792548179626 | count: 1
-Candida => fungus | max_score: 0.9638391137123108 | count: 1
-bacterial species => bacteria | max_score: 0.7270795702934265 | count: 1
-medical silicone devices => device | max_score: 0.9566308856010437 | count: 1
-gH625-GCGKKKK => peptide | max_score: 0.7224332094192505 | count: 1
-C. tropicalis/S. marcescens => bacteria | max_score: 0.7170674800872803 | count: 1
-C. tropicalis/S. aureus => bacteria | max_score: 0.7569698095321655 | count: 1

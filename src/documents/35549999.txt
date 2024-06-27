@@ -1,5 +1,0 @@
-cartridge => device | max_score: 0.8142211437225342 | count: 1
-ex vivo => study_design | max_score: 0.6669109463691711 | count: 1
-human studies => study_design | max_score: 0.5984492897987366 | count: 1
-chronic liver disease => disease_disorder | max_score: 0.7018961310386658 | count: 1
-septic shock => disease_disorder | max_score: 0.7079479098320007 | count: 1

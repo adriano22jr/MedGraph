@@ -1,9 +1,0 @@
-PVHCRF neurons => cell | max_score: 0.7882372140884399 | count: 4
-hypothalamic-pituitary-adrenal axis (HPA) => anatomical_system | max_score: 0.6619951725006104 | count: 1
-ghrelin => peptide | max_score: 0.8877458572387695 | count: 5
-LEAP2 => peptide | max_score: 0.6771790385246277 | count: 3
-HPA axis => anatomical_system | max_score: 0.5203732848167419 | count: 1
-mice => species | max_score: 0.8374489545822144 | count: 2
-c-Fos => immunologic_marker | max_score: 0.786786675453186 | count: 1
-brain sections => tissue | max_score: 0.9000722765922546 | count: 1
-male => sex | max_score: 0.5637131929397583 | count: 1

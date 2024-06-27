@@ -1,6 +1,0 @@
-invasive organisms => organism | max_score: 0.547139585018158 | count: 1
-antibiotics => antibiotic | max_score: 0.809226930141449 | count: 4
-pathogens => organism | max_score: 0.7336456179618835 | count: 2
-therapies => treatment | max_score: 0.5124171376228333 | count: 1
-antimicrobial peptides => peptide | max_score: 0.9276206493377686 | count: 1
-antimicrobial activity => activity | max_score: 0.6557187438011169 | count: 1

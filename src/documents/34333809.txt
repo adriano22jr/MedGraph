@@ -1,5 +1,0 @@
-SARS-CoV-2 => virus | max_score: 0.9935605525970459 | count: 4
-LL-37 => peptide | max_score: 0.8238407969474792 | count: 5
-Angiotensin Converting Enzyme 2 => enzyme | max_score: 0.9458255171775818 | count: 1
-Vitamin D => molecule | max_score: 0.560039222240448 | count: 3
-severity => severity | max_score: 0.5022955536842346 | count: 1

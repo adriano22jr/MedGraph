@@ -1,6 +1,0 @@
-Klebsiella pneumoniae => bacteria | max_score: 0.9849798083305359 | count: 3
-March 2019 => date | max_score: 0.9858983755111694 | count: 1
-February 2020 => date | max_score: 0.986998975276947 | count: 1
-carbapenemases => gene | max_score: 0.7711164355278015 | count: 1
-mcr1 => gene | max_score: 0.636082649230957 | count: 1
-mcr-1 => gene | max_score: 0.6251869201660156 | count: 1

@@ -1,5 +1,0 @@
-pathogens => bacteria | max_score: 0.5225850939750671 | count: 1
-traditional antibiotics => antibiotic | max_score: 0.8016084432601929 | count: 2
-proteins => protein | max_score: 0.5611816048622131 | count: 1
-C16-KKK => peptide | max_score: 0.6586235761642456 | count: 1
-membrane function => molecular_function | max_score: 0.5262453556060791 | count: 1

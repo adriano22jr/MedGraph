@@ -1,8 +1,0 @@
-traditional antibiotics => antibiotic | max_score: 0.5623759031295776 | count: 1
-phenylalanine => peptide | max_score: 0.618818461894989 | count: 1
-lysine => peptide | max_score: 0.6191746592521667 | count: 1
-antimicrobial activity => activity | max_score: 0.6518351435661316 | count: 1
-Gram-negative => bacteria | max_score: 0.9469378590583801 | count: 1
-Gram-positive => bacteria | max_score: 0.9491876363754272 | count: 1
-plant pathogenic bacteria => bacteria | max_score: 0.6191411018371582 | count: 1
-disease severity => severity | max_score: 0.7148013114929199 | count: 1

@@ -1,4 +1,0 @@
-humans => species | max_score: 0.76249098777771 | count: 1
-SARS-CoV-2 => virus | max_score: 0.7839760184288025 | count: 1
-COVID-19 => disease_disorder | max_score: 0.6702120304107666 | count: 1
-March 11, 2020 => date | max_score: 0.9895254373550415 | count: 1

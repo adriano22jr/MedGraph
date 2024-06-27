@@ -1,5 +1,0 @@
-gelation => biological_process | max_score: 0.5382183194160461 | count: 2
-bacteria => bacteria | max_score: 0.606433629989624 | count: 1
-bacterial flocculation => biological_process | max_score: 0.5744941234588623 | count: 1
-E. coli => bacteria | max_score: 0.9639062285423279 | count: 1
-S. aureus => bacteria | max_score: 0.9757677316665649 | count: 1

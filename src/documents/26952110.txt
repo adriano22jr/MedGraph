@@ -1,6 +1,0 @@
-K1K8 => peptide | max_score: 0.8947396874427795 | count: 5
-Hp1404 => peptide | max_score: 0.5727057456970215 | count: 2
-hemolytic activity => activity | max_score: 0.9341548681259155 | count: 1
-methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.7744913697242737 | count: 1
-wounded region => body_part | max_score: 0.5884848237037659 | count: 1
-bacterial cells => cell | max_score: 0.5831174850463867 | count: 1

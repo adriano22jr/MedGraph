@@ -1,7 +1,0 @@
-Gram-negative bacteria => bacteria | max_score: 0.9642878174781799 | count: 2
-lipopolysaccharide => molecule | max_score: 0.5070326924324036 | count: 1
-LPS => molecule | max_score: 0.6819031238555908 | count: 5
-antimicrobial peptides => peptide | max_score: 0.555467963218689 | count: 1
-biologically relevant medium => environmental_factor | max_score: 0.9367364645004272 | count: 1
-hydrophobic interactions => biological_process | max_score: 0.5716724395751953 | count: 1
-magainin 2 => peptide | max_score: 0.8565493822097778 | count: 1

@@ -1,8 +1,0 @@
-hybrid peptide K11 => peptide | max_score: 0.5656284093856812 | count: 1
-bacterial cells => cell | max_score: 0.784755527973175 | count: 1
-murine excision model => study_design | max_score: 0.6953825354576111 | count: 1
-Treatment => treatment | max_score: 0.5814154744148254 | count: 1
-body weight => weight | max_score: 0.9090656638145447 | count: 1
-wound => body_part | max_score: 0.501326322555542 | count: 1
-treatment => treatment | max_score: 0.6177746057510376 | count: 1
-catalase => enzyme | max_score: 0.946526825428009 | count: 1

@@ -1,5 +1,0 @@
-polymeric nanoparticles => chemical_system | max_score: 0.6064960956573486 | count: 2
-controlled-release drug delivery systems => chemical_system | max_score: 0.6208454370498657 | count: 1
-magainin2 => peptide | max_score: 0.8986905813217163 | count: 2
-α-helical antimicrobial peptide => peptide | max_score: 0.5622292757034302 | count: 1
-controlled-release peptide delivery systems => chemical_system | max_score: 0.5011200904846191 | count: 1

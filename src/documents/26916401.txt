@@ -1,8 +1,0 @@
-Pa-MAP 1.9 => peptide | max_score: 0.8972748517990112 | count: 4
-Pleuronectes americanus => species | max_score: 0.9578118324279785 | count: 1
-Gram-negative planktonic bacteria => bacteria | max_score: 0.9237397313117981 | count: 1
-biofilms => bacteria | max_score: 0.7049938440322876 | count: 1
-mammalian cells => cell | max_score: 0.9135078191757202 | count: 2
-AFM => device | max_score: 0.5312892198562622 | count: 1
-anionic LUVs => protein | max_score: 0.6049148440361023 | count: 1
-cholesterol-enriched LUVs => protein | max_score: 0.6680920124053955 | count: 1

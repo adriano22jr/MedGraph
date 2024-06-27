@@ -1,3 +1,0 @@
-Tethered bimolecular lipid membranes => chemical_system | max_score: 0.7446919083595276 | count: 1
-solid supported membrane systems => chemical_system | max_score: 0.6745462417602539 | count: 1
-V4 => peptide | max_score: 0.85955411195755 | count: 1

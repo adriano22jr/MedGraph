@@ -1,7 +1,0 @@
-mRNA => molecule | max_score: 0.7795965671539307 | count: 3
-human postmortem tissues => tissue | max_score: 0.8609673380851746 | count: 1
-human tissues => tissue | max_score: 0.8550580739974976 | count: 3
-PMI => medical_term | max_score: 0.5061013698577881 | count: 1
-DEFB4B => gene | max_score: 0.8553030490875244 | count: 1
-IFNG => gene | max_score: 0.873802661895752 | count: 1
-postmortem tissues => tissue | max_score: 0.6273402571678162 | count: 1

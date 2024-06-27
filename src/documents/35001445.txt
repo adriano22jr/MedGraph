@@ -1,8 +1,0 @@
-Melittin => peptide | max_score: 0.9452519416809082 | count: 2
-melittin => peptide | max_score: 0.955577552318573 | count: 5
-non-viral delivery systems => chemical_system | max_score: 0.7587112784385681 | count: 1
-endosomal escape => biological_process | max_score: 0.7106395363807678 | count: 1
-DNA nanoparticles => molecule | max_score: 0.9137420654296875 | count: 3
-MelP5 => peptide | max_score: 0.8238252997398376 | count: 4
-Macrolittin 70 => peptide | max_score: 0.7629375457763672 | count: 2
-HepG2 cells => cell_line | max_score: 0.977508008480072 | count: 1

@@ -1,7 +1,0 @@
-gramicidin => peptide | max_score: 0.9435854554176331 | count: 2
-daptomycin => antibiotic | max_score: 0.919954240322113 | count: 5
-colistin => antibiotic | max_score: 0.842732310295105 | count: 1
-Gram-positive => bacteria | max_score: 0.5518959760665894 | count: 1
-ion leakage => biological_process | max_score: 0.7038447856903076 | count: 1
-Daptomycin => antibiotic | max_score: 0.8360239863395691 | count: 1
-Dap2Ca3PG2 => peptide | max_score: 0.7009804844856262 | count: 1

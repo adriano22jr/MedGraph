@@ -1,9 +1,0 @@
-Chilopoda => species | max_score: 0.5552746653556824 | count: 1
-lacrain => peptide | max_score: 0.9108796715736389 | count: 2
-Brazilian Chilopoda Scolopendra viridicornis => species | max_score: 0.6805840134620667 | count: 1
-Lacrain => peptide | max_score: 0.8485909700393677 | count: 2
-Gram-negative bacteria => bacteria | max_score: 0.9506688714027405 | count: 1
-bactericidal activity => activity | max_score: 0.9069415330886841 | count: 1
-haemolytic activity => activity | max_score: 0.855330765247345 | count: 1
-human erythrocytes => cell | max_score: 0.8561424016952515 | count: 1
-antibacterial activity => activity | max_score: 0.6051222085952759 | count: 1

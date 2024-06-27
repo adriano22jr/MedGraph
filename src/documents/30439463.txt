@@ -1,6 +1,0 @@
-Klebsiella pneumoniae => bacteria | max_score: 0.9811813235282898 | count: 2
-last-resort antibiotics => antibiotic | max_score: 0.500757098197937 | count: 1
-colistin => antibiotic | max_score: 0.9573480486869812 | count: 6
-MALDI-TOF MS => device | max_score: 0.7704235315322876 | count: 3
-K. pneumoniae => bacteria | max_score: 0.7040913105010986 | count: 2
-patient outcomes => condition_outcome | max_score: 0.6900140047073364 | count: 1

@@ -1,6 +1,0 @@
-Membrane interactions => biological_process | max_score: 0.7593324780464172 | count: 1
-inorganic nanoparticles => compound | max_score: 0.5055004954338074 | count: 1
-membrane destabilization => biological_process | max_score: 0.6645906567573547 | count: 2
-LL-37 => peptide | max_score: 0.7991636395454407 | count: 1
-Gram-negative => bacteria | max_score: 0.5707217454910278 | count: 1
-Gram-positive bacteria => bacteria | max_score: 0.8571540713310242 | count: 1

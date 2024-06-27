@@ -1,8 +1,0 @@
-antimicrobial activity => activity | max_score: 0.7904326319694519 | count: 1
-Stigmurin => peptide | max_score: 0.8699146509170532 | count: 2
-StigA25 => peptide | max_score: 0.860742449760437 | count: 2
-StigA31 => peptide | max_score: 0.8325303792953491 | count: 2
-amino acid substitutions => activity | max_score: 0.5564108490943909 | count: 1
-environment => environmental_factor | max_score: 0.9741476774215698 | count: 1
-pH => environmental_factor | max_score: 0.5586984753608704 | count: 1
-broad-spectrum antimicrobial activity => activity | max_score: 0.8729111552238464 | count: 1

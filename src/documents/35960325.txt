@@ -1,9 +1,0 @@
-conventional antibiotics => antibiotic | max_score: 0.5921440720558167 | count: 1
-Gram-positive bacteria => bacteria | max_score: 0.928720235824585 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.968824565410614 | count: 3
-lipopolysaccharides => molecule | max_score: 0.5841048359870911 | count: 1
-membrane environments => environmental_factor | max_score: 0.5893535017967224 | count: 1
-CM15 peptide => peptide | max_score: 0.8030821084976196 | count: 1
-E. coli => bacteria | max_score: 0.9428560137748718 | count: 1
-lipid-A molecules => molecule | max_score: 0.5543088316917419 | count: 1
-antimicrobial activity => activity | max_score: 0.6365359425544739 | count: 1

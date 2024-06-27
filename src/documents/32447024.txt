@@ -1,6 +1,0 @@
-Gram-negative bacteria => bacteria | max_score: 0.9797413349151611 | count: 2
-frog-skin temporins => peptide | max_score: 0.6861354112625122 | count: 1
-temporin L => peptide | max_score: 0.5974390506744385 | count: 1
-TL => peptide | max_score: 0.6582443118095398 | count: 5
-yeast strains => fungus | max_score: 0.9514498710632324 | count: 1
-human cells => cell | max_score: 0.8594072461128235 | count: 1

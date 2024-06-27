@@ -1,4 +1,0 @@
-histone lysine-specific demethylase 1 => enzyme | max_score: 0.6196538805961609 | count: 1
-LSD1 => enzyme | max_score: 0.798032283782959 | count: 1
-polymyxins => antibiotic | max_score: 0.7635872960090637 | count: 1
-quinazoline-based compounds => compound | max_score: 0.8302181363105774 | count: 1

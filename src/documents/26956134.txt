@@ -1,8 +1,0 @@
-NPR1 => gene | max_score: 0.953965961933136 | count: 2
-defensin => gene | max_score: 0.928564190864563 | count: 2
-peanut => plant | max_score: 0.7707821726799011 | count: 5
-Aspergillus flavus => fungus | max_score: 0.9863858222961426 | count: 2
-Cercospora arachidicola => parasite | max_score: 0.8143476843833923 | count: 2
-Arachis hypogeae L. => plant | max_score: 0.7776962518692017 | count: 1
-Brassica juncea => plant | max_score: 0.8381249308586121 | count: 1
-Trigonella foenum-graecum => plant | max_score: 0.8393319845199585 | count: 1

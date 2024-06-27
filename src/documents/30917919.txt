@@ -1,9 +1,0 @@
-Bac2A => peptide | max_score: 0.8136926889419556 | count: 3
-RLARIVVIRVAR-NH2 => peptide | max_score: 0.6932979226112366 | count: 1
-Bactenecin-one => peptide | max_score: 0.7619284987449646 | count: 1
-gram-positive bacteria => bacteria | max_score: 0.8844661116600037 | count: 1
-antibacterial activity => activity | max_score: 0.7672113180160522 | count: 1
-lipid environment => environmental_factor | max_score: 0.9918855428695679 | count: 1
-antibacterial activities => activity | max_score: 0.6482636332511902 | count: 1
-MIC => lab_value | max_score: 0.9086976647377014 | count: 2
-Staphylococcus aureus => bacteria | max_score: 0.8183792233467102 | count: 1

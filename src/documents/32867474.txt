@@ -1,9 +1,0 @@
-polymer brushes => device | max_score: 0.6704608201980591 | count: 2
-medical devices => device | max_score: 0.5098726153373718 | count: 1
-hierarchical polymer brush system => device | max_score: 0.6573835611343384 | count: 1
-polymer brush system => device | max_score: 0.7645091414451599 | count: 1
-anionic inner layer => device | max_score: 0.5252335667610168 | count: 1
-cationic antimicrobial peptide => peptide | max_score: 0.559367835521698 | count: 1
-AMP => peptide | max_score: 0.6265103816986084 | count: 1
-bacteria => bacteria | max_score: 0.8038730025291443 | count: 3
-neutral pH conditions => environmental_factor | max_score: 0.9343740940093994 | count: 1

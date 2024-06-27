@@ -1,4 +1,0 @@
-intrinsically disordered protein => protein | max_score: 0.7060829401016235 | count: 1
-all atom-pair distribution function => molecular_function | max_score: 0.7246537208557129 | count: 1
-NMR 3JHNHα three bond couplings => molecular_function | max_score: 0.5003008246421814 | count: 1
-histatin 5 => peptide | max_score: 0.760777473449707 | count: 1

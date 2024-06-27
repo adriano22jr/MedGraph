@@ -1,9 +1,0 @@
-psoriasis => disease_disorder | max_score: 0.5891122817993164 | count: 2
-patients => subject | max_score: 0.6659421324729919 | count: 4
-psoriasis vulgaris => disease_disorder | max_score: 0.6777053475379944 | count: 1
-dermal cells => cell | max_score: 0.7859221696853638 | count: 1
-coagulation factor => protein | max_score: 0.7763863801956177 | count: 1
-fibrinogen α chain-derived peptide => peptide | max_score: 0.7293664813041687 | count: 1
-fibrinopeptide A-des-alanine (FPAdA) => peptide | max_score: 0.7059149146080017 | count: 1
-filaggrin => peptide | max_score: 0.7253403663635254 | count: 1
-FLG => peptide | max_score: 0.5070101618766785 | count: 1

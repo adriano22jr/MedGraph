@@ -1,7 +1,0 @@
-Zika virus => virus | max_score: 0.9166121482849121 | count: 1
-ZIKV => virus | max_score: 0.9334095120429993 | count: 8
-BR2GK => peptide | max_score: 0.7663754224777222 | count: 7
-brevinin-2 family => protein_family | max_score: 0.9658938050270081 | count: 1
-antibacterial activity => activity | max_score: 0.8182458281517029 | count: 1
-inhibitory activity => activity | max_score: 0.6205843687057495 | count: 1
-IC50 => lab_value | max_score: 0.7742767930030823 | count: 1

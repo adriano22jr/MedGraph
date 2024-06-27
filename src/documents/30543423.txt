@@ -1,9 +1,0 @@
-ghrelin receptor => protein | max_score: 0.8913276195526123 | count: 1
-growth hormone secretagogue receptor => protein | max_score: 0.5783032774925232 | count: 1
-GHSR => protein | max_score: 0.8017404079437256 | count: 4
-G-protein-coupled receptor => protein | max_score: 0.8873119354248047 | count: 1
-food intake => biological_process | max_score: 0.7975550293922424 | count: 2
-reward-seeking behaviors => biological_process | max_score: 0.6607376933097839 | count: 1
-LEAP2 => peptide | max_score: 0.8762917518615723 | count: 7
-calcium mobilization => biological_process | max_score: 0.7361814379692078 | count: 1
-mice => species | max_score: 0.8725679516792297 | count: 1

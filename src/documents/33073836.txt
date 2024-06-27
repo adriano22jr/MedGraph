@@ -1,8 +1,0 @@
-cell proliferation => biological_process | max_score: 0.6559813618659973 | count: 1
-tissue engineering => biological_process | max_score: 0.6124242544174194 | count: 1
-antibacterial => antibiotic | max_score: 0.5398038625717163 | count: 1
-wound healing => biological_process | max_score: 0.6914964318275452 | count: 2
-drug delivery => biological_process | max_score: 0.52965247631073 | count: 1
-bioimaging => biological_process | max_score: 0.5372226238250732 | count: 1
-noncovalent interactions => biological_process | max_score: 0.5173948407173157 | count: 1
-peptides => peptide | max_score: 0.5385125279426575 | count: 1

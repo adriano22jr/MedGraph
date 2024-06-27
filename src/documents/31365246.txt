@@ -1,5 +1,0 @@
-I3K => peptide | max_score: 0.870771050453186 | count: 2
-temperature => environmental_factor | max_score: 0.6402787566184998 | count: 4
-thermoreversible sol-gel system => chemical_system | max_score: 0.6155173778533936 | count: 1
-body temperature => environmental_factor | max_score: 0.5239280462265015 | count: 1
-G(IIKK)3I-NH2 => peptide | max_score: 0.7551172375679016 | count: 2

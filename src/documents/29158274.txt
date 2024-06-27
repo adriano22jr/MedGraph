@@ -1,7 +1,0 @@
-Proteus mirabilis => bacteria | max_score: 0.9395653009414673 | count: 1
-blaIMP-1 => gene | max_score: 0.6296848058700562 | count: 1
-blaCTX-M-2 => gene | max_score: 0.6754339933395386 | count: 1
-carbapenemases => molecule | max_score: 0.6015077829360962 | count: 1
-Enterobacteriaceae => bacteria | max_score: 0.8332043290138245 | count: 1
-polymyxins => antibiotic | max_score: 0.8297063112258911 | count: 1
-tigecycline => antibiotic | max_score: 0.8517725467681885 | count: 1

@@ -1,7 +1,0 @@
-Microorganisms => bacteria | max_score: 0.6349338889122009 | count: 1
-medical devices => device | max_score: 0.8847771286964417 | count: 1
-implants => device | max_score: 0.6657055020332336 | count: 1
-Anti-biofilm peptides => peptide | max_score: 0.901373565196991 | count: 3
-broad-spectrum activity => activity | max_score: 0.8171506524085999 | count: 1
-Gram-negative bacteria => bacteria | max_score: 0.8828877806663513 | count: 1
-conventional antibiotics => antibiotic | max_score: 0.7303210496902466 | count: 1

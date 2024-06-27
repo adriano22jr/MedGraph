@@ -1,6 +1,0 @@
-horine => peptide | max_score: 0.9187254309654236 | count: 4
-verine => peptide | max_score: 0.9312474131584167 | count: 4
-gram-positive pathogens => bacteria | max_score: 0.6983561515808105 | count: 1
-broad-spectrum antimicrobial activity => activity | max_score: 0.8601732850074768 | count: 1
-mice => species | max_score: 0.8034897446632385 | count: 2
-conventional antibiotics => antibiotic | max_score: 0.5403400659561157 | count: 1

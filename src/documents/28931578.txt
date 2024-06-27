@@ -1,4 +1,0 @@
-high-throughput microfluidic platform => device | max_score: 0.9523988366127014 | count: 1
-magainin 2 amide => peptide | max_score: 0.8141362071037292 | count: 1
-bacterial cells => cell | max_score: 0.6836645007133484 | count: 2
-melittin => peptide | max_score: 0.8778485059738159 | count: 1

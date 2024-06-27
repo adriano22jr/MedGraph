@@ -1,7 +1,0 @@
-RRWWRWWRR => peptide | max_score: 0.8843408823013306 | count: 1
-E. coli => bacteria | max_score: 0.982159435749054 | count: 1
-B. subtilis => bacteria | max_score: 0.9804326295852661 | count: 1
-S. aureus => bacteria | max_score: 0.9884182810783386 | count: 1
-therapeutic index => medical_term | max_score: 0.6806308627128601 | count: 3
-antimicrobial activity => activity | max_score: 0.7164990305900574 | count: 2
-hemolytic activity => activity | max_score: 0.5262925624847412 | count: 1

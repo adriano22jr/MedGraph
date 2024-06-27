@@ -1,6 +1,0 @@
-multi-drug resistant microbes => bacteria | max_score: 0.7227941155433655 | count: 1
-superbugs => bacteria | max_score: 0.8192387819290161 | count: 1
-viruses => virus | max_score: 0.8582000732421875 | count: 2
-proteins => protein | max_score: 0.6213691830635071 | count: 1
-peptides => peptide | max_score: 0.6840184926986694 | count: 1
-bacteria => bacteria | max_score: 0.5448797345161438 | count: 1

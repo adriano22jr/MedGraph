@@ -1,4 +1,0 @@
-β-amyloid => peptide | max_score: 0.7969852089881897 | count: 3
-Langmuir films => device | max_score: 0.5138185024261475 | count: 1
-Aβ1-40 => peptide | max_score: 0.7305991053581238 | count: 1
-Aβ1-42 => peptide | max_score: 0.7473757863044739 | count: 1

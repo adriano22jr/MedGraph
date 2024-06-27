@@ -1,7 +1,0 @@
-retrospective cohort study => study_design | max_score: 0.8377072811126709 | count: 1
-polymyxin B => antibiotic | max_score: 0.8141301870346069 | count: 1
-aminoglycosides => antibiotic | max_score: 0.8691555857658386 | count: 2
-polymyxin B => drug | max_score: 0.7599642276763916 | count: 1
-acute kidney injury => disease_disorder | max_score: 0.609829306602478 | count: 1
-median time to acute kidney injury => treatment_duration | max_score: 0.5710904598236084 | count: 1
-Polymyxin B => antibiotic | max_score: 0.7726678848266602 | count: 1

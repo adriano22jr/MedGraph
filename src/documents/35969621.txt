@@ -1,7 +1,0 @@
-Bordetella pertussis => bacteria | max_score: 0.8764073252677917 | count: 1
-poly-β-1,6-N-acetyl-D-glucosamine (PNAG/PGA) => protein_family | max_score: 0.733011782169342 | count: 1
-antimicrobial peptides => peptide | max_score: 0.5067437291145325 | count: 1
-bpsA-D locus => gene | max_score: 0.5062805414199829 | count: 1
-B. pertussis => bacteria | max_score: 0.5991618037223816 | count: 2
-Bps => molecule | max_score: 0.5147624015808105 | count: 2
-PNAG/PGA => protein_family | max_score: 0.6997223496437073 | count: 1

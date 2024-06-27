@@ -1,9 +1,0 @@
-bacteria => bacteria | max_score: 0.7347114086151123 | count: 2
-fungi => fungus | max_score: 0.9617866277694702 | count: 1
-bomidin => peptide | max_score: 0.8254884481430054 | count: 5
-bovine myeloid antimicrobial peptide-27 => peptide | max_score: 0.5753715634346008 | count: 1
-Escherichia coli => bacteria | max_score: 0.9643579125404358 | count: 1
-severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) => virus | max_score: 0.8288546800613403 | count: 1
-herpes simplex virus (HSV) => virus | max_score: 0.9132115840911865 | count: 1
-dengue virus (DENV) => virus | max_score: 0.9200882315635681 | count: 1
-chikungunya virus (CHIKV) => virus | max_score: 0.889835774898529 | count: 1

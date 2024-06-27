@@ -1,4 +1,0 @@
-AMPs => peptide | max_score: 0.5830416083335876 | count: 3
-lipid A => molecule | max_score: 0.7952359914779663 | count: 4
-Gram negative bacteria => bacteria | max_score: 0.8751221895217896 | count: 1
-activity => activity | max_score: 0.5982545614242554 | count: 3

@@ -1,8 +1,0 @@
-Gram-negative pathogens => bacteria | max_score: 0.7651986479759216 | count: 1
-colistin => antibiotic | max_score: 0.9422146677970886 | count: 7
-mcr genes => gene | max_score: 0.9269706606864929 | count: 2
-Rapid Polymyxin NP test => diagnostic_procedure | max_score: 0.5625866651535034 | count: 2
-Escherichia coli => bacteria | max_score: 0.9101810455322266 | count: 1
-mcr-1 gene => gene | max_score: 0.9144922494888306 | count: 1
-Broth microdilution => diagnostic_procedure | max_score: 0.5568026304244995 | count: 1
-disk diffusion method => diagnostic_procedure | max_score: 0.5026965737342834 | count: 1

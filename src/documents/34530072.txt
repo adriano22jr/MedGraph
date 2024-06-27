@@ -1,9 +1,0 @@
-novel coronavirus => virus | max_score: 0.6771068572998047 | count: 1
-COVID-19 => virus | max_score: 0.9318389296531677 | count: 2
-microalgae => plant | max_score: 0.9608170390129089 | count: 2
-spike protein => protein | max_score: 0.9102070927619934 | count: 2
-COVID19 => virus | max_score: 0.8709116578102112 | count: 1
-SP => protein | max_score: 0.6253330111503601 | count: 3
-LDAVNR => peptide | max_score: 0.902687668800354 | count: 1
-S.maxima => plant | max_score: 0.6377989053726196 | count: 1
-COVID => virus | max_score: 0.5565818548202515 | count: 1

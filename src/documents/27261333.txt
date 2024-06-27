@@ -1,9 +1,0 @@
-Mycobacterium tuberculosis => bacteria | max_score: 0.9302250742912292 | count: 1
-multi-drug standard therapies => treatment | max_score: 0.7048686146736145 | count: 1
-LLKKK18 => peptide | max_score: 0.9263918399810791 | count: 1
-mycobacteria => bacteria | max_score: 0.6892730593681335 | count: 2
-macrophages => cell | max_score: 0.9476640224456787 | count: 2
-M. avium => bacteria | max_score: 0.7546122670173645 | count: 2
-M. tuberculosis => bacteria | max_score: 0.7760864496231079 | count: 2
-mice => species | max_score: 0.7230710983276367 | count: 1
-every other day administrations => drug_frequency | max_score: 0.6935641169548035 | count: 1

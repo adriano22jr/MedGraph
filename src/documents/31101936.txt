@@ -1,5 +1,0 @@
-antiviral drugs => drug | max_score: 0.5659626126289368 | count: 1
-antimicrobial peptides => peptide | max_score: 0.8938465714454651 | count: 3
-antiviral activity => activity | max_score: 0.5657997727394104 | count: 1
-mammals => species | max_score: 0.6538861393928528 | count: 1
-human viruses => virus | max_score: 0.8957977890968323 | count: 1

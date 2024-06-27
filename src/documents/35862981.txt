@@ -1,9 +1,0 @@
-conventional antibiotics => antibiotic | max_score: 0.7237989902496338 | count: 2
-antimicrobial peptides => peptide | max_score: 0.6140133738517761 | count: 1
-AMPs => peptide | max_score: 0.6497705578804016 | count: 2
-bacteria => bacteria | max_score: 0.6042152643203735 | count: 2
-membrane disruption => biological_process | max_score: 0.6309226751327515 | count: 1
-combination therapy => treatment | max_score: 0.7799728512763977 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.9522086977958679 | count: 1
-individual AMPs => peptide | max_score: 0.7209109663963318 | count: 4
-random antimicrobial peptide mixture => treatment | max_score: 0.5222781300544739 | count: 1

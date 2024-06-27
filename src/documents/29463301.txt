@@ -1,8 +1,0 @@
-Gram-negative bacteria => bacteria | max_score: 0.8274602293968201 | count: 1
-colistin => antibiotic | max_score: 0.7263253331184387 | count: 3
-mcr-1 => gene | max_score: 0.9796572327613831 | count: 4
-mcr-2 => gene | max_score: 0.9753981232643127 | count: 4
-mcr-3 => gene | max_score: 0.9718116521835327 | count: 3
-mcr-4 => gene | max_score: 0.9727140069007874 | count: 4
-mcr-5 => gene | max_score: 0.9774413704872131 | count: 4
-women => sex | max_score: 0.9420899152755737 | count: 1

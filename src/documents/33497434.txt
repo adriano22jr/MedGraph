@@ -1,8 +1,0 @@
-SARS-CoV-2 => virus | max_score: 0.983068585395813 | count: 1
-Antimicrobial peptides => peptide | max_score: 0.5931786298751831 | count: 1
-functional activity => activity | max_score: 0.7717174887657166 | count: 1
-coronavirus => virus | max_score: 0.7662534117698669 | count: 1
-anti-CoV peptides => peptide | max_score: 0.7308911085128784 | count: 5
-antivirus peptides => peptide | max_score: 0.7064234018325806 | count: 1
-antivirus => peptide | max_score: 0.5354230999946594 | count: 2
-non-AMP => peptide | max_score: 0.5269381403923035 | count: 1

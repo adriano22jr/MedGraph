@@ -1,8 +1,0 @@
-N-terminal-encoded targeting peptide => peptide | max_score: 0.6475235223770142 | count: 1
-TP => peptide | max_score: 0.8179857730865479 | count: 4
-mitochondrial processing peptidase (MPP) => protein_family | max_score: 0.7241132855415344 | count: 1
-stromal processing peptidase (SPP) => enzyme | max_score: 0.6898794174194336 | count: 1
-presequence protease (PreP) => enzyme | max_score: 0.7172777652740479 | count: 1
-organellar oligo-peptidase (OOP) => enzyme | max_score: 0.7319176197052002 | count: 1
-bacteria => bacteria | max_score: 0.6878086924552917 | count: 3
-peptidase activity => activity | max_score: 0.8479143381118774 | count: 1

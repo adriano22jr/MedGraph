@@ -1,7 +1,0 @@
-CESR => biological_process | max_score: 0.672058641910553 | count: 3
-bacterial cell => cell | max_score: 0.6255019307136536 | count: 1
-signaling network => biological_process | max_score: 0.506084680557251 | count: 1
-Bacillus subtilis => bacteria | max_score: 0.9785856008529663 | count: 1
-antimicrobial peptides => peptide | max_score: 0.8529462814331055 | count: 1
-B. subtilis => bacteria | max_score: 0.592363178730011 | count: 1
-IM-HKs => enzyme | max_score: 0.5812333226203918 | count: 2

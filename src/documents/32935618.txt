@@ -1,8 +1,0 @@
-colistin => antibiotic | max_score: 0.8605866432189941 | count: 8
-January 1, 2016 => date | max_score: 0.9933278560638428 | count: 1
-December 31, 2018 => date | max_score: 0.9913978576660156 | count: 1
-serum creatinine (SCr) => lab_value | max_score: 0.8430436253547668 | count: 1
-infecting pathogen => organism | max_score: 0.5279591679573059 | count: 1
-primary outcome => condition_outcome | max_score: 0.7222813963890076 | count: 1
-neurologic reaction => side_effect | max_score: 0.518320620059967 | count: 1
-respiratory reaction => side_effect | max_score: 0.5209659337997437 | count: 1

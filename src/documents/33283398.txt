@@ -1,6 +1,0 @@
-antimicrobial activity => activity | max_score: 0.7218937873840332 | count: 1
-antibacterial activity => activity | max_score: 0.8625123500823975 | count: 2
-methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.9629122018814087 | count: 1
-membrane lysis => biological_process | max_score: 0.5246630907058716 | count: 1
-nanomolar activity => activity | max_score: 0.9261323809623718 | count: 1
-d-phe-2-Abz-d-ala => peptide | max_score: 0.5494307279586792 | count: 1

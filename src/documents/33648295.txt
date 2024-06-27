@@ -1,7 +1,0 @@
-Bacillus velesensis => bacteria | max_score: 0.8851119875907898 | count: 1
-P34 => peptide | max_score: 0.7654194235801697 | count: 2
-Gram-positive bacteria => bacteria | max_score: 0.9190364480018616 | count: 1
-Eudragit RS-100 (EUD) => compound | max_score: 0.5095848441123962 | count: 1
-antimicrobial activities => activity | max_score: 0.7552586793899536 | count: 1
-L. monocytogenes => bacteria | max_score: 0.9152632355690002 | count: 3
-casein proteins => protein | max_score: 0.8907724618911743 | count: 1

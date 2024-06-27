@@ -1,5 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.6773828268051147 | count: 1
-AMPs => peptide | max_score: 0.7712172865867615 | count: 5
-bacteria => bacteria | max_score: 0.7489070892333984 | count: 1
-clinical trials => clinical_trial | max_score: 0.9451705813407898 | count: 1
-delivery systems => chemical_system | max_score: 0.6815871596336365 | count: 1

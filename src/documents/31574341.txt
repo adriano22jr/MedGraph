@@ -1,6 +1,0 @@
-activity => activity | max_score: 0.5474668741226196 | count: 1
-nanoparticles => compound | max_score: 0.5427001714706421 | count: 1
-antimicrobial peptides => peptide | max_score: 0.7985376715660095 | count: 1
-peptidomimetics => peptide | max_score: 0.534106969833374 | count: 1
-phage therapy => treatment | max_score: 0.5442274212837219 | count: 1
-enzybiotics => compound | max_score: 0.5002835988998413 | count: 1

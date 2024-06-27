@@ -1,6 +1,0 @@
-angiotensin-converting enzyme => enzyme | max_score: 0.87876296043396 | count: 1
-antimicrobial activity => activity | max_score: 0.9298264384269714 | count: 2
-PDC213 => peptide | max_score: 0.9553143978118896 | count: 5
-β-Casein 213-226 aa => enzyme | max_score: 0.5989556908607483 | count: 1
-S. aureus => bacteria | max_score: 0.9803270697593689 | count: 1
-Y. enterocolitica => bacteria | max_score: 0.9749011397361755 | count: 1

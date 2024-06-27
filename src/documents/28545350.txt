@@ -1,4 +1,0 @@
-peptides => peptide | max_score: 0.7033432722091675 | count: 6
-hemolysis => biological_process | max_score: 0.9110831618309021 | count: 3
-cytotoxicity => biological_process | max_score: 0.8691660761833191 | count: 3
-peptides => molecule | max_score: 0.6352259516716003 | count: 2

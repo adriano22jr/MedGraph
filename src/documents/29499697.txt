@@ -1,8 +1,0 @@
-bovine mastitis => disease_disorder | max_score: 0.7431240677833557 | count: 5
-alpha-hemolysin => peptide | max_score: 0.7411741614341736 | count: 1
-S. aureus => bacteria | max_score: 0.8945152163505554 | count: 6
-hla gene => gene | max_score: 0.9579441547393799 | count: 4
-alpha-hmolysin => peptide | max_score: 0.799910306930542 | count: 1
-CTX => antibiotic | max_score: 0.8105922341346741 | count: 1
-penicilin => antibiotic | max_score: 0.8938114047050476 | count: 1
-Hla peptides => peptide | max_score: 0.8943381905555725 | count: 1

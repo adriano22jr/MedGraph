@@ -1,7 +1,0 @@
-DNA => molecule | max_score: 0.7021082043647766 | count: 3
-Statherin => molecule | max_score: 0.638157069683075 | count: 1
-Histatin 3 (HTN3) => molecule | max_score: 0.5593644976615906 | count: 1
-blue light => environmental_factor | max_score: 0.797407329082489 | count: 1
-RNA markers => molecule | max_score: 0.6404532790184021 | count: 3
-wet conditions => environmental_factor | max_score: 0.9272409677505493 | count: 2
-dry conditions => environmental_factor | max_score: 0.8012340664863586 | count: 1

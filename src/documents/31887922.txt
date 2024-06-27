@@ -1,8 +1,0 @@
-angiogenesis => biological_process | max_score: 0.8945122361183167 | count: 3
-CSSH => compound | max_score: 0.5005963444709778 | count: 1
-adhesion => biological_process | max_score: 0.850044310092926 | count: 3
-spreading => biological_process | max_score: 0.7573933601379395 | count: 2
-migration => biological_process | max_score: 0.8573388457298279 | count: 3
-tubule formation => biological_process | max_score: 0.7247408032417297 | count: 1
-HUVECs => cell_line | max_score: 0.9346861243247986 | count: 1
-CD31 positive cells => cell_type | max_score: 0.7800878882408142 | count: 1

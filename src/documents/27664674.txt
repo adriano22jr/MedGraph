@@ -1,8 +1,0 @@
-CecXJ-37N => peptide | max_score: 0.9332493543624878 | count: 7
-MICs => lab_value | max_score: 0.8819853067398071 | count: 1
-prokaryotic membrane comparable environments => environmental_factor | max_score: 0.9371986985206604 | count: 1
-MHC => protein | max_score: 0.8187716603279114 | count: 1
-trypsin => enzyme | max_score: 0.9291911125183105 | count: 1
-pepsin => enzyme | max_score: 0.9307308197021484 | count: 1
-E. coli => bacteria | max_score: 0.9162002801895142 | count: 2
-antimicrobial activity => activity | max_score: 0.6781252026557922 | count: 1

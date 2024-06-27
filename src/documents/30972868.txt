@@ -1,7 +1,0 @@
-Polymyxin B => drug | max_score: 0.6399356722831726 | count: 1
-PMB => drug | max_score: 0.6153733134269714 | count: 8
-boar => species | max_score: 0.7272707223892212 | count: 4
-spermatozoa => cell | max_score: 0.814726710319519 | count: 4
-acrosomal exocytosis => biological_process | max_score: 0.9339268803596497 | count: 6
-BTS extender => drug | max_score: 0.6186961531639099 | count: 1
-Spermatozoa => cell | max_score: 0.5963117480278015 | count: 1

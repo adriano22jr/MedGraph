@@ -1,5 +1,0 @@
-AMPs => peptide | max_score: 0.5497298836708069 | count: 3
-LL37 => peptide | max_score: 0.5783800482749939 | count: 1
-Melittin => peptide | max_score: 0.6213962435722351 | count: 1
-diphosphoryl lipid A => molecule | max_score: 0.583248496055603 | count: 2
-Escherichia coli => bacteria | max_score: 0.9784656167030334 | count: 1

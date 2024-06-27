@@ -1,8 +1,0 @@
-Acinetobacter baumannii => bacteria | max_score: 0.8579233288764954 | count: 1
-catheters => device | max_score: 0.8431311845779419 | count: 1
-bacteriostatic activity => activity | max_score: 0.5919047594070435 | count: 1
-A. baumannii => bacteria | max_score: 0.7878815531730652 | count: 3
-LFU => treatment | max_score: 0.544638991355896 | count: 2
-colistin => antibiotic | max_score: 0.9309898614883423 | count: 6
-vancomycin => antibiotic | max_score: 0.917360246181488 | count: 4
-30 min => treatment_duration | max_score: 0.8120509386062622 | count: 1

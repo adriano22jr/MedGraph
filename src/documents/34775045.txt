@@ -1,9 +1,0 @@
-haemolymph => body_part | max_score: 0.9154275059700012 | count: 4
-digestive enzymes => enzyme | max_score: 0.8721783757209778 | count: 2
-midgut => body_part | max_score: 0.90681391954422 | count: 1
-bee central nervous system => anatomical_system | max_score: 0.730871319770813 | count: 1
-vitellogenins => enzyme | max_score: 0.6371207237243652 | count: 1
-bee venom => body_part | max_score: 0.6002720594406128 | count: 1
-melittin => immunologic_marker | max_score: 0.5919501185417175 | count: 2
-maximal bee activity => activity | max_score: 0.9754210114479065 | count: 1
-available food => diet | max_score: 0.7068446278572083 | count: 1

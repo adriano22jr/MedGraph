@@ -1,6 +1,0 @@
-Fungal pathogens => parasite | max_score: 0.5490776300430298 | count: 1
-AFP family => protein_family | max_score: 0.9782509803771973 | count: 2
-AFP => protein | max_score: 0.5348677039146423 | count: 5
-Aspergillus giganteus => fungus | max_score: 0.9918461441993713 | count: 1
-plant => plant | max_score: 0.9184427857398987 | count: 1
-bacterial cells => cell | max_score: 0.7813569903373718 | count: 1

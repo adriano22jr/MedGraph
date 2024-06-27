@@ -1,7 +1,0 @@
-Aurein 2.6-COOH => peptide | max_score: 0.6869391798973083 | count: 1
-aurein 3.1-COOH => peptide | max_score: 0.680193305015564 | count: 1
-AMPs => peptide | max_score: 0.5062057971954346 | count: 1
-aurein 2.6-COOH => peptide | max_score: 0.7827963829040527 | count: 1
-aurein 3.1-CHOOH => peptide | max_score: 0.5097032189369202 | count: 1
-aurein 2.6-CONH₂ => peptide | max_score: 0.721868097782135 | count: 1
-aurein 3.1-CONH₂ => peptide | max_score: 0.6844408512115479 | count: 1

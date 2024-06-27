@@ -1,9 +1,0 @@
-Ventilator-associated pneumonia => disease_disorder | max_score: 0.6065072417259216 | count: 1
-hospital-acquired pneumonia => disease_disorder | max_score: 0.603420615196228 | count: 1
-multi-drug resistant organisms => organism | max_score: 0.7948404550552368 | count: 1
-VAP => disease_disorder | max_score: 0.5236857533454895 | count: 1
-pharmacodynamic principles => medical_term | max_score: 0.5233847498893738 | count: 1
-pharmacokinetic and pharmacodynamic principles => medical_term | max_score: 0.677375853061676 | count: 2
-augmented renal clearance => medical_term | max_score: 0.6467307806015015 | count: 2
-colistin => antibiotic | max_score: 0.9086677432060242 | count: 2
-inhaled antibiotics => antibiotic | max_score: 0.664042592048645 | count: 2

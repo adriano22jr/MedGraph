@@ -1,8 +1,0 @@
-inhaled polymyxin therapy => treatment | max_score: 0.6092626452445984 | count: 1
-lung epithelial cells => cell_type | max_score: 0.7398638129234314 | count: 1
-A549 cells => cell_line | max_score: 0.9775960445404053 | count: 2
-polymyxin B => drug | max_score: 0.9194939732551575 | count: 4
-ubiquitin protein => protein | max_score: 0.9048243165016174 | count: 1
-lysosomal activity => activity | max_score: 0.9300842881202698 | count: 1
-autophagic protein LC3A => protein | max_score: 0.6441293954849243 | count: 1
-Polymyxin B => drug | max_score: 0.6694939732551575 | count: 1

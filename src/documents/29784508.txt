@@ -1,9 +1,0 @@
-women => sex | max_score: 0.9711564779281616 | count: 1
-age of 18 => age | max_score: 0.8893420100212097 | count: 1
-Mast cells => cell_type | max_score: 0.8877016305923462 | count: 1
-IL-33 => immunologic_marker | max_score: 0.7507413625717163 | count: 4
-LL-37 => peptide | max_score: 0.7039462327957153 | count: 2
-myeloperoxidase (MPO) => enzyme | max_score: 0.6326814293861389 | count: 1
-bladder tissues => tissue | max_score: 0.9557545781135559 | count: 1
-von Frey filaments => device | max_score: 0.5833516120910645 | count: 1
-WT mice => species | max_score: 0.5354847311973572 | count: 1

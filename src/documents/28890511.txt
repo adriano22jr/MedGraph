@@ -1,6 +1,0 @@
-OP-145 => peptide | max_score: 0.9217571020126343 | count: 5
-clinically isolated drug-resistant strains => bacteria | max_score: 0.7041562795639038 | count: 2
-methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.7436074614524841 | count: 1
-MRSA => bacteria | max_score: 0.8406599164009094 | count: 3
-growth => biological_process | max_score: 0.7139810919761658 | count: 2
-biofilm formation => biological_process | max_score: 0.7314469814300537 | count: 2

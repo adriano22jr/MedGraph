@@ -1,9 +1,0 @@
-gram-negative bacteria => bacteria | max_score: 0.8179473876953125 | count: 2
-multi-drug resistant bacteria => bacteria | max_score: 0.5818429589271545 | count: 1
-Jelleine-1 => peptide | max_score: 0.9283609390258789 | count: 1
-honeybees => species | max_score: 0.5320575833320618 | count: 1
-antimicrobial activity => activity | max_score: 0.7550581097602844 | count: 3
-jelleine-1 => peptide | max_score: 0.9309517741203308 | count: 3
-analog 15 => compound | max_score: 0.532490074634552 | count: 2
-gram-positive bacteria => bacteria | max_score: 0.5116550326347351 | count: 1
-Pseudomonas aeruginosa => bacteria | max_score: 0.9094104170799255 | count: 1

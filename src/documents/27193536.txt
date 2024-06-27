@@ -1,7 +1,0 @@
-MIC => lab_value | max_score: 0.5678274631500244 | count: 3
-pexiganan => peptide | max_score: 0.9501559138298035 | count: 3
-Escherichia coli => bacteria | max_score: 0.9819270968437195 | count: 1
-E. coli => bacteria | max_score: 0.7628561854362488 | count: 1
-plate reader => device | max_score: 0.9748318195343018 | count: 1
-cells => cell | max_score: 0.6531586050987244 | count: 2
-peptide activity => activity | max_score: 0.8391950726509094 | count: 1

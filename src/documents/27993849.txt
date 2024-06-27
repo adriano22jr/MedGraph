@@ -1,9 +1,0 @@
-Acinetobacter baumannii => bacteria | max_score: 0.9045325517654419 | count: 1
-Early CR isolates => bacteria | max_score: 0.5188195109367371 | count: 1
-late CR isolates => bacteria | max_score: 0.6365418434143066 | count: 1
-survival => biological_process | max_score: 0.5957242846488953 | count: 2
-lungs => body_part | max_score: 0.7274893522262573 | count: 1
-mice => species | max_score: 0.5248678922653198 | count: 1
-oxidative stress => environmental_factor | max_score: 0.9192537665367126 | count: 1
-early CR strains => bacteria | max_score: 0.5691584944725037 | count: 1
-catalase => enzyme | max_score: 0.8794976472854614 | count: 1

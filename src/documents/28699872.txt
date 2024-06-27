@@ -1,8 +1,0 @@
-CM11 peptide => peptide | max_score: 0.9043922424316406 | count: 1
-Brucella melitensis => bacteria | max_score: 0.9186871647834778 | count: 1
-B. melitensis => bacteria | max_score: 0.7752252817153931 | count: 2
-ciprofloxacin => antibiotic | max_score: 0.9217543601989746 | count: 2
-rifampin => antibiotic | max_score: 0.8980568647384644 | count: 3
-streptomycin => antibiotic | max_score: 0.9061248898506165 | count: 2
-co-trimoxazole => antibiotic | max_score: 0.8675553798675537 | count: 2
-Mycobacterium tuberculosis => bacteria | max_score: 0.8012217879295349 | count: 1

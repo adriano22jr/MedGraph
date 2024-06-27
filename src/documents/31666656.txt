@@ -1,8 +1,0 @@
-alpha-defensin => immunologic_marker | max_score: 0.9313602447509766 | count: 2
-C-reactive protein (CRP) => immunologic_marker | max_score: 0.6319614052772522 | count: 1
-multi-target lateral flow immunoassay strip => device | max_score: 0.6128939986228943 | count: 2
-msLFIA => device | max_score: 0.8179399967193604 | count: 4
-staking pad design => device | max_score: 0.7113391757011414 | count: 2
-CRP => immunologic_marker | max_score: 0.6433243155479431 | count: 1
-commercial enzyme-linked immunosorbent assay kit => device | max_score: 0.6297404766082764 | count: 1
-stacking pad design => device | max_score: 0.5008553862571716 | count: 1

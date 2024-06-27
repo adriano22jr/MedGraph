@@ -1,6 +1,0 @@
-mcr-4 gene => gene | max_score: 0.953606128692627 | count: 2
-Salmonella enterica serovar Typhimurium => bacteria | max_score: 0.8821383118629456 | count: 1
-2016 => date | max_score: 0.9836379289627075 | count: 1
-mcr-4 genes => gene | max_score: 0.6191904544830322 | count: 1
-variant mcr-4.2 => mutation | max_score: 0.8727207183837891 | count: 1
-Salmonella species => bacteria | max_score: 0.6359542012214661 | count: 1

@@ -1,9 +1,0 @@
-antibiotics => antibiotic | max_score: 0.5593327283859253 | count: 1
-ecological balance => environmental_factor | max_score: 0.928188681602478 | count: 1
-targeted antimicrobial therapies => treatment | max_score: 0.8035658597946167 | count: 1
-pathogenic bacteria => bacteria | max_score: 0.5627175569534302 | count: 1
-cCF10 => peptide | max_score: 0.8325594663619995 | count: 1
-cCF10-C4 => peptide | max_score: 0.8041337132453918 | count: 2
-antimicrobial activity => activity | max_score: 0.7001628875732422 | count: 1
-E. faecalis => bacteria | max_score: 0.8065663576126099 | count: 1
-C4 => peptide | max_score: 0.6169094443321228 | count: 1

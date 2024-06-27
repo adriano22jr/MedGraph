@@ -1,9 +1,0 @@
-Atopic dermatitis => disease_disorder | max_score: 0.575567364692688 | count: 1
-disease severity => severity | max_score: 0.8108727931976318 | count: 1
-keratinocyte => cell_type | max_score: 0.6453158855438232 | count: 2
-IL-31 => gene | max_score: 0.6751147508621216 | count: 3
-three-dimensional organotypic skin models => device | max_score: 0.7439064979553223 | count: 2
-IL-31 => peptide | max_score: 0.6182734370231628 | count: 8
-SCID/NOD mice => species | max_score: 0.6820069551467896 | count: 1
-Anakinra => drug | max_score: 0.914297878742218 | count: 1
-antimicrobial peptides => peptide | max_score: 0.6613821387290955 | count: 1

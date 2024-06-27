@@ -1,7 +1,0 @@
-human leukocyte antigen gene complex => gene | max_score: 0.7347661256790161 | count: 1
-cytotoxic T cells => cell_type | max_score: 0.8654136061668396 | count: 1
-immunopeptidome => biological_process | max_score: 0.7401350736618042 | count: 2
-lung tumors => tissue | max_score: 0.9481098651885986 | count: 1
-host defense protein family => protein_family | max_score: 0.7761820554733276 | count: 1
-defensins => protein_family | max_score: 0.9670906066894531 | count: 1
-lung tissue samples => tissue | max_score: 0.8405974507331848 | count: 1

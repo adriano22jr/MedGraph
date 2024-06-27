@@ -1,9 +1,0 @@
-Crop plants => plant | max_score: 0.9099193811416626 | count: 1
-R genes => gene | max_score: 0.7489611506462097 | count: 2
-cultivated crop species => plant | max_score: 0.6093021035194397 | count: 1
-Biotechnological tools => device | max_score: 0.7645736336708069 | count: 1
-transgenerational plant immunity => biological_process | max_score: 0.6245130300521851 | count: 1
-pattern recognition receptors (PRRs) => protein | max_score: 0.542041003704071 | count: 1
-gene regulation => biological_process | max_score: 0.6291626691818237 | count: 1
-antimicrobial peptides => peptide | max_score: 0.6330676078796387 | count: 1
-AMPs => peptide | max_score: 0.6019566059112549 | count: 1

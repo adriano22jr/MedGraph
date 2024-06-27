@@ -1,5 +1,0 @@
-Magainin 2 => peptide | max_score: 0.9335243701934814 | count: 1
-PGLa => peptide | max_score: 0.9068293571472168 | count: 2
-antibacterial activity => activity | max_score: 0.9434457421302795 | count: 1
-antimicrobial activity => activity | max_score: 0.7663626074790955 | count: 1
-magainin 2 => peptide | max_score: 0.9399986267089844 | count: 1

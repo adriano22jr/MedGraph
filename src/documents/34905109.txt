@@ -1,9 +1,0 @@
-Carbapenem-resistant Acinetobacter baumannii => bacteria | max_score: 0.8850464820861816 | count: 1
-Drug repurposing => treatment | max_score: 0.7906574010848999 | count: 1
-carbapenem-resistant A. baumannii => bacteria | max_score: 0.7618221640586853 | count: 1
-antimicrobial activity => activity | max_score: 0.8062408566474915 | count: 1
-side effects => side_effect | max_score: 0.6414451599121094 | count: 1
-toxicity => side_effect | max_score: 0.5594211220741272 | count: 1
-plasma concentrations => lab_value | max_score: 0.8120396137237549 | count: 2
-fusidic acid => antibiotic | max_score: 0.839561402797699 | count: 1
-colistin => antibiotic | max_score: 0.8435747027397156 | count: 1

@@ -1,8 +1,0 @@
-epithelial renewal => biological_process | max_score: 0.8179925084114075 | count: 2
-Drosophila => species | max_score: 0.9488314986228943 | count: 2
-Imd-NF-κB pathway => biological_process | max_score: 0.8546813726425171 | count: 2
-enterocyte (EC) => cell_type | max_score: 0.6405009031295776 | count: 1
-JNK => protein | max_score: 0.6945482492446899 | count: 1
-GATAe => protein | max_score: 0.8330783247947693 | count: 1
-NF-κB => protein | max_score: 0.7547902464866638 | count: 1
-barrier integrity => biological_process | max_score: 0.5241255164146423 | count: 1

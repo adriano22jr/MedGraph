@@ -1,7 +1,0 @@
-antibiotics => antibiotic | max_score: 0.7845697999000549 | count: 1
-antibiotic-resistant strains of bacteria => bacteria | max_score: 0.6793351173400879 | count: 1
-Antimicrobial peptides => peptide | max_score: 0.7260274291038513 | count: 1
-AMPs => peptide | max_score: 0.7314431071281433 | count: 7
-host defense peptides => peptide | max_score: 0.7121412754058838 | count: 1
-antimicrobial activity => activity | max_score: 0.5780890583992004 | count: 1
-potent anti-biofilm activity => activity | max_score: 0.7177681922912598 | count: 1

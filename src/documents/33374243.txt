@@ -1,5 +1,0 @@
-Gammaproteobacteria => bacteria | max_score: 0.9480032920837402 | count: 1
-peptides => peptide | max_score: 0.74781334400177 | count: 1
-polyketides => compound | max_score: 0.637864351272583 | count: 1
-lipopeptides => compound | max_score: 0.5562042593955994 | count: 1
-Trichoderma sp. => fungus | max_score: 0.9299527406692505 | count: 1

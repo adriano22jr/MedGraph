@@ -1,9 +1,0 @@
-phytopathogens => parasite | max_score: 0.6354727745056152 | count: 2
-potato => plant | max_score: 0.859305739402771 | count: 1
-Solanum tuberosum => plant | max_score: 0.9597693681716919 | count: 1
-PSI => protein | max_score: 0.7367604970932007 | count: 10
-aspartic protease => protein | max_score: 0.876457691192627 | count: 1
-phytopathogen plasma membranes => cell | max_score: 0.5307648181915283 | count: 1
-membrane fusion => biological_process | max_score: 0.7961507439613342 | count: 2
-Membrane fusion => biological_process | max_score: 0.8329518437385559 | count: 1
-host cells => cell | max_score: 0.5797439217567444 | count: 1

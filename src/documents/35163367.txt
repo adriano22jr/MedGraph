@@ -1,9 +1,0 @@
-Bioactive peptides => peptide | max_score: 0.7724136114120483 | count: 1
-parent proteins => protein | max_score: 0.8490616083145142 | count: 1
-proteins => protein | max_score: 0.5886409282684326 | count: 1
-microorganisms => organism | max_score: 0.7180940508842468 | count: 1
-organisms => organism | max_score: 0.5918254852294922 | count: 1
-bioactive peptides => peptide | max_score: 0.7543107867240906 | count: 2
-antimicrobial => antibiotic | max_score: 0.626543402671814 | count: 1
-antioxidant activities => activity | max_score: 0.8940775990486145 | count: 1
-blood-lipid-lowering effect => activity | max_score: 0.558650016784668 | count: 1

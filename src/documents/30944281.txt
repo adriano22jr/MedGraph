@@ -1,7 +1,0 @@
-CD86 => protein | max_score: 0.8420323133468628 | count: 2
-CD54 => protein | max_score: 0.8342218399047852 | count: 3
-caspase-1 => protein | max_score: 0.7157841920852661 | count: 1
-LPS => molecule | max_score: 0.5034058094024658 | count: 1
-ovalbumin => protein | max_score: 0.6955419778823853 | count: 1
-ovomucoid => protein | max_score: 0.7102117538452148 | count: 1
-lysozyme => protein | max_score: 0.726943850517273 | count: 1

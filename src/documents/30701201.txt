@@ -1,9 +1,0 @@
-Colistin => antibiotic | max_score: 0.9710158705711365 | count: 1
-multidrug-resistant bacterial pathogens => bacteria | max_score: 0.6643558740615845 | count: 1
-colistin => antibiotic | max_score: 0.9731600880622864 | count: 3
-MCR-4 => gene | max_score: 0.8033005595207214 | count: 6
-MCR family => protein_family | max_score: 0.8816042542457581 | count: 1
-Shewanella frigidimarina => bacteria | max_score: 0.8777077794075012 | count: 1
-MCR-1/2 family => protein_family | max_score: 0.9400902986526489 | count: 1
-MCR-1 => gene | max_score: 0.710783064365387 | count: 1
-ping-pong catalysis mechanism => molecular_function | max_score: 0.6386657953262329 | count: 1

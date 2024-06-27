@@ -1,5 +1,0 @@
-medical devices => device | max_score: 0.8790435791015625 | count: 1
-AMP => peptide | max_score: 0.5496639013290405 | count: 1
-RRPRPRPRPWWWW-NH2 => peptide | max_score: 0.9071613550186157 | count: 1
-Staphylococcus epidermidis => bacteria | max_score: 0.9799640774726868 | count: 1
-Staphylococcus aureus => bacteria | max_score: 0.9839717149734497 | count: 1

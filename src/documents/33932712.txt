@@ -1,9 +1,0 @@
-Ascaphin-8 => peptide | max_score: 0.936901867389679 | count: 2
-skin secretions => body_part | max_score: 0.6357243657112122 | count: 1
-North American tailed frog => species | max_score: 0.6403974294662476 | count: 1
-Ascaphus truei => species | max_score: 0.9380491971969604 | count: 1
-antiproliferative activities => activity | max_score: 0.6548592448234558 | count: 1
-human cancer cell lines => cell_line | max_score: 0.9447310566902161 | count: 1
-Ascaphin-8-3 => peptide | max_score: 0.8177588582038879 | count: 2
-parent peptide => peptide | max_score: 0.5705878734588623 | count: 2
-A549 cells => cell_line | max_score: 0.973324179649353 | count: 1

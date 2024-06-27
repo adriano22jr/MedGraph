@@ -1,5 +1,0 @@
-colistin => antibiotic | max_score: 0.7916648983955383 | count: 2
-Mobile Colistin Resistance (MCR) => protein | max_score: 0.5749240517616272 | count: 1
-EDTA => antibiotic | max_score: 0.6917756199836731 | count: 2
-pre-diffusion => biological_process | max_score: 0.508272111415863 | count: 1
-microorganisms => organism | max_score: 0.5229452252388 | count: 1

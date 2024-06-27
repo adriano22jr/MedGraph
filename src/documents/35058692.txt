@@ -1,5 +1,0 @@
-CNTs => chemical_system | max_score: 0.5735703110694885 | count: 1
-aqueous environments => environmental_factor | max_score: 0.9654902815818787 | count: 1
-drug-encapsulation dynamics => biological_process | max_score: 0.5405926704406738 | count: 1
-HA-FD-13 => peptide | max_score: 0.8654602766036987 | count: 1
-HCNTs => chemical_system | max_score: 0.6224290132522583 | count: 2

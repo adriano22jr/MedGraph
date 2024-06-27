@@ -1,6 +1,0 @@
-guinea-pig => species | max_score: 0.8657954335212708 | count: 1
-human => species | max_score: 0.758041262626648 | count: 1
-plasma exudation => biological_process | max_score: 0.8837264180183411 | count: 6
-antimicrobial peptides => peptide | max_score: 0.831648588180542 | count: 1
-local cells => cell | max_score: 0.8420631885528564 | count: 1
-Plasma exudation => biological_process | max_score: 0.863257646560669 | count: 1

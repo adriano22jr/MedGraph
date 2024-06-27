@@ -1,8 +1,0 @@
-colistin => antibiotic | max_score: 0.9287815093994141 | count: 7
-pilot prospective study => study_design | max_score: 0.5999428033828735 | count: 1
-age >12 yr => age | max_score: 0.8734887838363647 | count: 1
-2 MU => drug_dosage | max_score: 0.592574417591095 | count: 2
-every 8 h => drug_frequency | max_score: 0.9154946804046631 | count: 2
-AUC0-8 => lab_value | max_score: 0.6500070691108704 | count: 1
-minimal inhibitory concentration (MIC) => lab_value | max_score: 0.5613511204719543 | count: 1
-AUC0-8/MIC => lab_value | max_score: 0.5056711435317993 | count: 1

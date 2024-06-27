@@ -1,9 +1,0 @@
-RELMβ => protein | max_score: 0.785640299320221 | count: 11
-colonic epithelial cells => cell_type | max_score: 0.9462803602218628 | count: 1
-bacterial exposure => environmental_factor | max_score: 0.6119551658630371 | count: 1
-germ-free mice => species | max_score: 0.8639161586761475 | count: 1
-antimicrobial activity => activity | max_score: 0.8547419309616089 | count: 4
-LS174T cells => cell_line | max_score: 0.9842654466629028 | count: 2
-S. aureus => bacteria | max_score: 0.9562961459159851 | count: 3
-MRSAs => bacteria | max_score: 0.7251408100128174 | count: 1
-E. coli => bacteria | max_score: 0.9278890490531921 | count: 1

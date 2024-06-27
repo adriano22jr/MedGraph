@@ -1,7 +1,0 @@
-melittin => peptide | max_score: 0.8910509943962097 | count: 2
-photomelittin => peptide | max_score: 0.9157705307006836 | count: 2
-membrane activity => activity | max_score: 0.8339263796806335 | count: 1
-light-dependent activity => activity | max_score: 0.7128280997276306 | count: 1
-UV light => environmental_factor | max_score: 0.9709077477455139 | count: 1
-visible light => environmental_factor | max_score: 0.96440190076828 | count: 1
-human red blood cells => cell | max_score: 0.8413735032081604 | count: 1

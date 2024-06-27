@@ -1,9 +1,0 @@
-Octapeptins => compound | max_score: 0.6199420094490051 | count: 1
-fungi => fungus | max_score: 0.9360313415527344 | count: 1
-Gram-positive bacteria => bacteria | max_score: 0.8371896147727966 | count: 1
-octapeptin A3 => peptide | max_score: 0.7910855412483215 | count: 2
-Pseudomonas aeruginosa => bacteria | max_score: 0.967734694480896 | count: 1
-lipid A => molecule | max_score: 0.8483250737190247 | count: 5
-polymyxin B => antibiotic | max_score: 0.8249840140342712 | count: 1
-octapeptins => compound | max_score: 0.6454153656959534 | count: 3
-polymyxin-resistant Gram-negative bacteria => bacteria | max_score: 0.7430569529533386 | count: 1

@@ -1,9 +1,0 @@
-TC19 => peptide | max_score: 0.8952505588531494 | count: 5
-L3 => peptide | max_score: 0.7246853709220886 | count: 1
-human fibroblasts => cell_line | max_score: 0.8161472082138062 | count: 1
-pro-inflammatory activity => activity | max_score: 0.8767996430397034 | count: 1
-chemotactic activity => activity | max_score: 0.8443747162818909 | count: 1
-human neutrophils => cell_line | max_score: 0.7641069889068604 | count: 1
-methicillin-resistant Staphylococcus aureus => bacteria | max_score: 0.6262664198875427 | count: 1
-MDR Acinetobacter baumannii => bacteria | max_score: 0.8334771394729614 | count: 1
-mice => species | max_score: 0.8179255723953247 | count: 1

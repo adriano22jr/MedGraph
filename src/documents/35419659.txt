@@ -1,8 +1,0 @@
-AMPs => peptide | max_score: 0.6309904456138611 | count: 5
-bacteria => bacteria | max_score: 0.6550068855285645 | count: 2
-humans => organism | max_score: 0.6493197679519653 | count: 1
-environment => environmental_factor | max_score: 0.5026955008506775 | count: 1
-membrane environments => environmental_factor | max_score: 0.7229701280593872 | count: 1
-medium conditions => environmental_factor | max_score: 0.8471697568893433 | count: 1
-aqueous solvent => environmental_factor | max_score: 0.7445966601371765 | count: 1
-less polar solvent => environmental_factor | max_score: 0.528907835483551 | count: 1

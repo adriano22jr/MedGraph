@@ -1,9 +1,0 @@
-Escherichia fergusonii => bacteria | max_score: 0.9355356097221375 | count: 2
-E. fergusonii => bacteria | max_score: 0.8215023875236511 | count: 5
-mcr-1 => gene | max_score: 0.8850943446159363 | count: 9
-IncI2 => gene | max_score: 0.6230841279029846 | count: 1
-farm environments => environmental_factor | max_score: 0.9696042537689209 | count: 1
-IncX4-type => gene | max_score: 0.547940731048584 | count: 1
-IncI2-type plasmids => gene | max_score: 0.5411275029182434 | count: 1
-chromosomal mutations => mutation | max_score: 0.662121593952179 | count: 1
-p5ZF15-2-1 => gene | max_score: 0.5194806456565857 | count: 1

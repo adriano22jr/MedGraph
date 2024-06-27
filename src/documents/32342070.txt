@@ -1,7 +1,0 @@
-clinical environments => environmental_factor | max_score: 0.8894925117492676 | count: 1
-biofilm-forming species => bacteria | max_score: 0.7778630256652832 | count: 1
-traditional antibiotic susceptibility tests (ASTs) => diagnostic_procedure | max_score: 0.6143091917037964 | count: 1
-planktonic bacteria => bacteria | max_score: 0.8677871823310852 | count: 1
-Calgary biofilm device => device | max_score: 0.9681097269058228 | count: 1
-antibiotics => antibiotic | max_score: 0.6161490678787231 | count: 2
-P. aeruginosa => bacteria | max_score: 0.8302267789840698 | count: 1

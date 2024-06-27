@@ -1,6 +1,0 @@
-neutrophils => cell | max_score: 0.8529894351959229 | count: 2
-neutrophil elastase (NE) => enzyme | max_score: 0.5735397934913635 | count: 1
-myeloperoxidase (MPO) => enzyme | max_score: 0.6087231636047363 | count: 1
-NETs => biological_process | max_score: 0.5011675357818604 | count: 1
-cell-free DNA => molecule | max_score: 0.7240003943443298 | count: 2
-NET-specific proteins => molecule | max_score: 0.5551539659500122 | count: 1

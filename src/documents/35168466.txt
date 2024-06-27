@@ -1,4 +1,0 @@
-animal models => study_design | max_score: 0.7180969715118408 | count: 1
-bacterial culture => study_design | max_score: 0.5118639469146729 | count: 1
-cells => cell | max_score: 0.5633357763290405 | count: 1
-trypsin inhibitor-type peptides => peptide | max_score: 0.6987249255180359 | count: 1

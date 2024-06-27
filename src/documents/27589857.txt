@@ -1,7 +1,0 @@
-protegrins => protein_family | max_score: 0.8294888138771057 | count: 3
-PG1-PG5 => protein_family | max_score: 0.6560654640197754 | count: 1
-PG-1 => protein | max_score: 0.5633001327514648 | count: 2
-membrane mimicking environment => environmental_factor | max_score: 0.9466004967689514 | count: 1
-PG-2 => protein | max_score: 0.5631925463676453 | count: 2
-PG-3 => protein | max_score: 0.5399602651596069 | count: 3
-PG-5 => protein | max_score: 0.5583696365356445 | count: 3

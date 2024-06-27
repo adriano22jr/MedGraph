@@ -1,8 +1,0 @@
-AMP => antibiotic | max_score: 0.553246021270752 | count: 2
-Lr-AMP1f => peptide | max_score: 0.9360150694847107 | count: 8
-atomic force microscope => device | max_score: 0.9144092202186584 | count: 1
-MIC => lab_value | max_score: 0.5644693970680237 | count: 2
-E. coli => bacteria | max_score: 0.9762678742408752 | count: 2
-S. epidermidis => bacteria | max_score: 0.967964768409729 | count: 2
-µg/mL => volume | max_score: 0.5674530267715454 | count: 2
-HEK293 cells => cell_line | max_score: 0.9852713346481323 | count: 1

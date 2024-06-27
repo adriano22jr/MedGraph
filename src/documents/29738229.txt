@@ -1,9 +1,0 @@
-Ala6-Arg => peptide | max_score: 0.6581234335899353 | count: 1
-A6R => peptide | max_score: 0.5633946061134338 | count: 2
-CONH-A6R-NH2 => peptide | max_score: 0.6925427317619324 | count: 1
-capA6R => peptide | max_score: 0.6501904726028442 | count: 2
-NH2-A6R-OH => peptide | max_score: 0.6676686406135559 | count: 1
-POPE/POPG => chemical_system | max_score: 0.6268854141235352 | count: 1
-bacteria => bacteria | max_score: 0.6727544665336609 | count: 1
-POPC/DOPC => chemical_system | max_score: 0.5380422472953796 | count: 1
-mammalian cells => cell | max_score: 0.8708544373512268 | count: 1

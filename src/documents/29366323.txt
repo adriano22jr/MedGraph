@@ -1,5 +1,0 @@
-Pichia pastoris => fungus | max_score: 0.9709188938140869 | count: 1
-apidaecin Ia => peptide | max_score: 0.7549265623092651 | count: 1
-human serum albumin => protein | max_score: 0.9303578734397888 | count: 1
-Escherichia coli => bacteria | max_score: 0.982792854309082 | count: 1
-bioreactors => device | max_score: 0.9449648261070251 | count: 1

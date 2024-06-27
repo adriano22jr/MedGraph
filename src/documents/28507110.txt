@@ -1,4 +1,0 @@
-Staphylococcus aureus => bacteria | max_score: 0.9739635586738586 | count: 1
-catheter material => device | max_score: 0.5117769241333008 | count: 1
-S. aureus => bacteria | max_score: 0.8663405776023865 | count: 2
-biofilm-resistant catheter => device | max_score: 0.6517040133476257 | count: 1

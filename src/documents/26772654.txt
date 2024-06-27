@@ -1,6 +1,0 @@
-LPS => molecule | max_score: 0.725341260433197 | count: 16
-albumin => protein | max_score: 0.9613233804702759 | count: 5
-hemoglobin => protein | max_score: 0.946876585483551 | count: 3
-neutrophils => cell | max_score: 0.9100311398506165 | count: 6
-temperature => environmental_factor | max_score: 0.9516568779945374 | count: 1
-LBP => protein | max_score: 0.6340400576591492 | count: 5

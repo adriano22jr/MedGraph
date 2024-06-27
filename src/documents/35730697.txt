@@ -1,7 +1,0 @@
-antibiotics => antibiotic | max_score: 0.8526813983917236 | count: 4
-feed => diet | max_score: 0.6448057293891907 | count: 2
-peptide polymers => peptide | max_score: 0.633912980556488 | count: 2
-common pathogenic bacteria => bacteria | max_score: 0.6835440397262573 | count: 1
-optimal peptide polymer => peptide | max_score: 0.5594937205314636 | count: 2
-adult zebrafish => species | max_score: 0.5347522497177124 | count: 1
-enzymes => enzyme | max_score: 0.9047662615776062 | count: 1

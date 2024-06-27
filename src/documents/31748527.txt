@@ -1,7 +1,0 @@
-Acinetobacter baumannii => bacteria | max_score: 0.7849536538124084 | count: 1
-A. baumannii => bacteria | max_score: 0.8911037445068359 | count: 6
-fosfomycin => antibiotic | max_score: 0.9209293127059937 | count: 6
-minocycline => antibiotic | max_score: 0.9134184122085571 | count: 6
-colistin => antibiotic | max_score: 0.8902167677879333 | count: 7
-lung tissue => tissue | max_score: 0.9590597748756409 | count: 1
-combination regimens => treatment | max_score: 0.592566192150116 | count: 2

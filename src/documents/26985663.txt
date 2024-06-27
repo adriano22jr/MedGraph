@@ -1,9 +1,0 @@
-Formosan subterranean termite => species | max_score: 0.5819022059440613 | count: 2
-Coptotermes formosanus Shiraki => species | max_score: 0.7095780968666077 | count: 1
-warm and humid regions => environmental_factor | max_score: 0.8663164377212524 | count: 1
-yeast strains => fungus | max_score: 0.576598584651947 | count: 1
-protozoa => parasite | max_score: 0.7889779210090637 | count: 5
-Melittin => peptide | max_score: 0.9594040513038635 | count: 5
-gut => body_part | max_score: 0.589148998260498 | count: 6
-genetically engineered yeast => fungus | max_score: 0.5634644627571106 | count: 1
-gut tissue => tissue | max_score: 0.7619726657867432 | count: 1

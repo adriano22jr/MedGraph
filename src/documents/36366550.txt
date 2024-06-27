@@ -1,8 +1,0 @@
-influenza A and B viruses => virus | max_score: 0.9314622282981873 | count: 1
-severe infections => severity | max_score: 0.5102737545967102 | count: 1
-vaccination => treatment | max_score: 0.7982298135757446 | count: 1
-antiviral drugs => drug | max_score: 0.5276799201965332 | count: 1
-M2 channel blockers => drug | max_score: 0.7424944043159485 | count: 1
-neuraminidase inhibitors => drug | max_score: 0.7743111848831177 | count: 1
-baloxavir marboxil => drug | max_score: 0.8319597840309143 | count: 1
-favipiravir => drug | max_score: 0.7553175687789917 | count: 1

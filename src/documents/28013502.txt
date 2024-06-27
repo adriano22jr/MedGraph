@@ -1,6 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.5018163919448853 | count: 1
-AMPs => peptide | max_score: 0.5730125308036804 | count: 4
-permeabilization => biological_process | max_score: 0.5595091581344604 | count: 2
-calcein => peptide | max_score: 0.5992768406867981 | count: 1
-Escherichia coli => bacteria | max_score: 0.7663648128509521 | count: 1
-gram-negative bacteria => bacteria | max_score: 0.914108395576477 | count: 1

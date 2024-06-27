@@ -1,8 +1,0 @@
-FRRW => peptide | max_score: 0.8752195239067078 | count: 6
-FRRWWWRRF-NH2 => peptide | max_score: 0.749958336353302 | count: 1
-bacteria => bacteria | max_score: 0.8406741619110107 | count: 3
-mammalian cell => cell | max_score: 0.9027757048606873 | count: 1
-intra-molecular mechanisms => biological_process | max_score: 0.5486847758293152 | count: 1
-ciprofloxacin => antibiotic | max_score: 0.9688100814819336 | count: 2
-gentamicin => antibiotic | max_score: 0.919063925743103 | count: 1
-polymyxin B => antibiotic | max_score: 0.8342896699905396 | count: 1

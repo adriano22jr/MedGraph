@@ -1,6 +1,0 @@
-nisin => peptide | max_score: 0.7507373094558716 | count: 11
-Streptococcus uberis => bacteria | max_score: 0.9356999397277832 | count: 1
-mastitis => disease_disorder | max_score: 0.7412013411521912 | count: 1
-S. uberis DPC 5344 => cell_line | max_score: 0.6284409165382385 | count: 1
-S. uberis ATCC 700407 => cell_line | max_score: 0.6232415437698364 | count: 2
-S. uberis => bacteria | max_score: 0.7524360418319702 | count: 1

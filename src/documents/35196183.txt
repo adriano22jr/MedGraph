@@ -1,6 +1,0 @@
-toxic epidermal necrolysis => disease_disorder | max_score: 0.6095882058143616 | count: 1
-Colistin => antibiotic | max_score: 0.9421547651290894 | count: 2
-colistin => antibiotic | max_score: 0.9605764150619507 | count: 5
-SJS/TEN => disease_disorder | max_score: 0.613564670085907 | count: 7
-January 2013 => date | max_score: 0.9857603907585144 | count: 1
-March 2021 => date | max_score: 0.9770426750183105 | count: 1

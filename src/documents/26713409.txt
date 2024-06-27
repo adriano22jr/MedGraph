@@ -1,7 +1,0 @@
-crotamine => peptide | max_score: 0.9657319784164429 | count: 5
-antitumoral activities => activity | max_score: 0.7727179527282715 | count: 1
-Candida spp. => fungus | max_score: 0.8885752558708191 | count: 1
-Candida albicans => fungus | max_score: 0.9818653464317322 | count: 1
-Candida krusei => fungus | max_score: 0.9858280420303345 | count: 1
-Caenorhabditis elegans => species | max_score: 0.5626326203346252 | count: 1
-mammalian tumoral cell lines => cell_line | max_score: 0.9736396074295044 | count: 1

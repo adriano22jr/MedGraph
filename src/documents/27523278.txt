@@ -1,8 +1,0 @@
-Lugworm => species | max_score: 0.6333451271057129 | count: 4
-Marphysa sanguinea => species | max_score: 0.8301422595977783 | count: 2
-hemerythrin => protein | max_score: 0.8956813812255859 | count: 3
-msHemerycin => peptide | max_score: 0.8854926824569702 | count: 4
-msHemerycin => protein | max_score: 0.7700011134147644 | count: 1
-muscle => tissue | max_score: 0.9058974981307983 | count: 1
-brain => tissue | max_score: 0.8993703722953796 | count: 1
-digestive gland => tissue | max_score: 0.909424901008606 | count: 1

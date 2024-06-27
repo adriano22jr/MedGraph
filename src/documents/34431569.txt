@@ -1,5 +1,0 @@
-PEGylated styrene-maleic acid copolymers => compound | max_score: 0.595588207244873 | count: 1
-cytokine-complexing glycosaminoglycans => compound | max_score: 0.6112769246101379 | count: 1
-cell-adhesion-mediating peptides => peptide | max_score: 0.7192113399505615 | count: 1
-antimicrobials-APs => compound | max_score: 0.5440791249275208 | count: 1
-human umbilical vein endothelial cell => cell_line | max_score: 0.8566218018531799 | count: 1

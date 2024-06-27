@@ -1,8 +1,0 @@
-innate immunity => biological_process | max_score: 0.5120232105255127 | count: 1
-antimicrobial activity => biological_process | max_score: 0.6539042592048645 | count: 1
-adaptive immune response => biological_process | max_score: 0.6247754096984863 | count: 1
-individuals => subject | max_score: 0.6376452445983887 | count: 6
-chronic periodontitis => disease_disorder | max_score: 0.8483718037605286 | count: 3
-pg/mL => lab_value | max_score: 0.729093074798584 | count: 1
-site diagnosis => diagnostic_procedure | max_score: 0.6644043922424316 | count: 1
-individual diagnosis => diagnostic_procedure | max_score: 0.6095712184906006 | count: 1

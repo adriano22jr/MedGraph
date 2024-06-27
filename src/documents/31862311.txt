@@ -1,5 +1,0 @@
-antimicrobial peptides => peptide | max_score: 0.6141171455383301 | count: 1
-AMPs => peptide | max_score: 0.74122154712677 | count: 2
-peptide delivery systems => chemical_system | max_score: 0.6062807440757751 | count: 1
-experimental design => study_design | max_score: 0.7420654892921448 | count: 1
-PGLa => peptide | max_score: 0.766388475894928 | count: 1

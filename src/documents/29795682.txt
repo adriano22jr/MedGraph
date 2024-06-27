@@ -1,3 +1,0 @@
-phospholipids => molecule | max_score: 0.6502271890640259 | count: 1
-water box => device | max_score: 0.8639494776725769 | count: 1
-antimicrobial peptides => peptide | max_score: 0.5709081292152405 | count: 1

@@ -1,8 +1,0 @@
-polymyxin antibiotics => antibiotic | max_score: 0.5203516483306885 | count: 1
-polymyxin B => antibiotic | max_score: 0.890187680721283 | count: 1
-colistin => antibiotic | max_score: 0.9179049730300903 | count: 3
-susceptibility testing => diagnostic_procedure | max_score: 0.6852810382843018 | count: 4
-gradient agar diffusion => diagnostic_procedure | max_score: 0.8104687929153442 | count: 3
-calcium enhancement => diagnostic_procedure | max_score: 0.6070167422294617 | count: 2
-Enterobacterales => bacteria | max_score: 0.8768430948257446 | count: 2
-Pseudomonas aeruginosa => bacteria | max_score: 0.9344417452812195 | count: 1

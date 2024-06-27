@@ -1,7 +1,0 @@
-alpha defensin => immunologic_marker | max_score: 0.9560337066650391 | count: 4
-knee => body_part | max_score: 0.6911011934280396 | count: 2
-revision arthroplasty => surgical_procedure | max_score: 0.6437143683433533 | count: 1
-October 2016 => date | max_score: 0.9936001300811768 | count: 1
-April 2017 => date | max_score: 0.9930739402770996 | count: 1
-< 5 mL => volume | max_score: 0.9574365615844727 | count: 1
-hip => body_part | max_score: 0.5404430627822876 | count: 1

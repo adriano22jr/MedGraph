@@ -1,6 +1,0 @@
-subjects => subject | max_score: 0.6732964515686035 | count: 6
-phase-I => study_design | max_score: 0.5568904876708984 | count: 1
-CM10 arrays => device | max_score: 0.7765704989433289 | count: 1
-β-defensin-128 => peptide | max_score: 0.8998658657073975 | count: 4
-histatin-3 => peptide | max_score: 0.8625850081443787 | count: 3
-danger-recognizing peptide family => protein_family | max_score: 0.9725326895713806 | count: 1

@@ -1,5 +1,0 @@
-microbes => organism | max_score: 0.5073143243789673 | count: 1
-antimicrobial peptides => peptide | max_score: 0.6363368034362793 | count: 1
-broad-spectrum activity => activity | max_score: 0.8751792311668396 | count: 1
-microbial cell => cell | max_score: 0.8319295048713684 | count: 1
-antimicrobial peptide => peptide | max_score: 0.5502045750617981 | count: 1

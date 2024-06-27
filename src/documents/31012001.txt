@@ -1,7 +1,0 @@
-harpin-like peptides => peptide | max_score: 0.7738849520683289 | count: 1
-alpha-harpinins => peptide | max_score: 0.8373239636421204 | count: 1
-EcAMP group => protein_family | max_score: 0.9270564317703247 | count: 1
-barnyard grass => plant | max_score: 0.9001297354698181 | count: 1
-E. crusgalli => plant | max_score: 0.9418808817863464 | count: 1
-innate immunity => biological_process | max_score: 0.6797220706939697 | count: 1
-biotic stresses => environmental_factor | max_score: 0.9784513711929321 | count: 1

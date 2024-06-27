@@ -1,3 +1,0 @@
-Antimicrobial peptides => peptide | max_score: 0.8147865533828735 | count: 1
-multidrug-resistant bacteria => bacteria | max_score: 0.9544389843940735 | count: 1
-antimicrobial peptides => peptide | max_score: 0.848763644695282 | count: 2
