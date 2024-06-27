@@ -42,7 +42,6 @@ def get_node_details(node_id):
             authors = list(collection_authors.find({"_id": {"$in": [ObjectId(author_id) for author_id in author_ids]}}, {"_id": 0, "author": 1}))
             authors = [author['author'] for author in authors]
             node['authors'] = authors
-            print(node)
             return jsonify(node)
         else:
             return jsonify({"error": "Node not found"}), 404
