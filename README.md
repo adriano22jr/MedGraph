@@ -33,7 +33,7 @@ Then, run ```app.py``` and open the development server.
 - **Edge Left-click**: Shows infos on the selected link and the nodes connected by it.
 
 ### Nodes Search
-- **Typing into the Search bar**: Focus a node that was searched in Search bar
+- **Typing into the Search bar**: Focus a node that was searched in Search bar.
 
 ## Credits 👨🏻‍👦🏻‍👦🏻
 
