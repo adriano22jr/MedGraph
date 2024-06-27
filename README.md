@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 Then, run ```app.py``` and open the development server.
 
-### ⚠️ Please keep in mind that, in order to correctly display nodes information, you need to be connect to the MedGraph database, currently local hosted. ⚠️
+### ⚠️ Please keep in mind that, in order to correctly display nodes information, you need to be connected to the MedGraph database, currently local hosted. ⚠️
 
 ## Commands 🖱️
 
@@ -31,6 +31,9 @@ Then, run ```app.py``` and open the development server.
 
 ### Edges Interaction
 - **Edge Left-click**: Shows infos on the selected link and the nodes connected by it.
+
+### Nodes Search
+- **Typing into the Search bar**: Focus a node that was searched in Search bar
 
 ## Credits 👨🏻‍👦🏻‍👦🏻
 
