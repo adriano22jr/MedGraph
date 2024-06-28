@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@antv/g6-extension-3d": "^0.1.1",
-    "express": "^4.19.2",
-    "request-promise": "^4.2.6"
-  }
-}
