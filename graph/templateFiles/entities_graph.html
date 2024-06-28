@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+{% block content%}
+    <div id="3d-graph"></div>
+{% endblock %}
+{% block script %}
+    <script type="importmap">
+        { "imports": { "three": "//unpkg.com/three/build/three.module.js" } }
+    </script>
+    <script type="module">
+        import { UnrealBloomPass } from "//unpkg.com/three/examples/jsm/postprocessing/UnrealBloomPass.js";
+
+        let nodeInfo = {
+        identifier: "",
+        color0: "#804cdc"
+        };
+
+        const response = await fetch("/entities-graph-data");
+        const gData = await response.json();
+        const Graph = ForceGraph3D()(document.getElementById("3d-graph"))
+            .nodeAutoColorBy("id")
+            .linkAutoColorBy("weight")
+            .linkVisibility(false)
+            .graphData(gData);
+
+        
+        let gui = new dat.GUI();
+        gui.hide();
+        gui.domElement.classList.add("gui-container");
+
+        function resetGUI() {
+            gui.destroy();
+            gui = new dat.GUI();
+            gui.domElement.classList.add("gui-container");
+        }
+
+        let linkGUI = new dat.GUI();
+        linkGUI.hide();
+        function resetLinkGUI() {
+            linkGUI.destroy();
+            linkGUI = new dat.GUI();
+            linkGUI.domElement.classList.add("gui-container");
+        }
+
+        Graph.onNodeClick((node) => {
+            Graph.linkVisibility((link) => {
+                return link.source.id === node.id || link.target.id === node.id;
+            });
+
+            const distance = 200;
+            const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+
+            const newPos =
+                node.x || node.y || node.z
+                ? {
+                    x: node.x * distRatio,
+                    y: node.y * distRatio,
+                    z: node.z * distRatio,
+                    }
+                : { x: 0, y: 0, z: distance };
+
+            Graph.cameraPosition(
+                newPos,
+                node,
+                1000 // ms transition duration
+            );
+
+            resetGUI();
+            var papers = node.papers.toString();
+
+            nodeInfo = {
+                identifier: node.id,
+                name: node.name,
+                category: node.category,
+                papers: papers,
+            };
+
+            gui.add(nodeInfo, "name");
+            gui.add(nodeInfo, "category");
+            gui.add(nodeInfo, "papers");
+            gui.show();
+
+
+            function makeTextarea(controller) {
+                const textArea = document.createElement('textarea');
+                textArea.value = controller.getValue();
+                textArea.style.width = '100%';
+                textArea.style.height = '100px';
+                textArea.readOnly = true;
+                controller.__li.replaceChild(textArea, controller.__input);
+            }
+        });
+
+        let searchGUI = new dat.GUI();
+        searchGUI.add(nodeInfo, "identifier").name("Cerca un nodo: ").onFinishChange((value) => {
+        const targetNode = gData.nodes.find((node) => node.name === value);
+        if (targetNode) {
+            const distance = 200;
+            const distRatio = 1 + distance / Math.hypot(targetNode.x, targetNode.y, targetNode.z);
+
+            const newPos = targetNode.x || targetNode.y || targetNode.z
+            ? {
+                x: targetNode.x * distRatio,
+                y: targetNode.y * distRatio,
+                z: targetNode.z * distRatio,
+                }
+            : { x: 0, y: 0, z: distance }; 
+
+            Graph.cameraPosition(
+            newPos, 
+            targetNode, 
+            2000 // ms
+            );
+        } else {
+            console.log("Node not found");
+        }
+        });
+
+        Graph.onNodeRightClick((node) => {})
+            .backgroundColor("#020003")
+            .nodeOpacity(1)
+            .nodeLabel("name")
+            .linkOpacity(1)
+            .linkHoverPrecision(1.2)
+            .linkLabel("weight")
+            .d3Force("link")
+            .distance((d) => {
+                return 1300;
+            })
+            .strength(0);
+
+        Graph.onLinkClick((link) => {
+            var sub = link.source;
+            var ent = link.target;
+
+            var linkInfo = { 
+                source: link.source.name,
+                target: link.target.name,
+                common_papers: link.common_papers.toString(),
+            };
+
+            resetLinkGUI();
+            linkGUI.add(linkInfo, "source");
+            linkGUI.add(linkInfo, "target");
+            linkGUI.add(linkInfo, "common_papers");
+            linkGUI.show();
+        });
+
+        const bloomPass = new UnrealBloomPass();
+        bloomPass.strength = 1;
+        bloomPass.radius = 1;
+        bloomPass.threshold = 0;
+        Graph.postProcessingComposer().addPass(bloomPass);
+    </script>
+{% endblock %}

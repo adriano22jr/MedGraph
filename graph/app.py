@@ -18,8 +18,16 @@ except Exception as e:
 def index():
     return render_template('index.html')
 
-@app.route('/data')
-def get_data():
+@app.route('/papers-graph')
+def get_papers_graph():
+    return render_template('papers_graph.html')
+
+@app.route('/entities-graph')
+def get_entities_graph():
+    return render_template('entities_graph.html')
+
+@app.route('/papers-data')
+def get_papers_data():
     try:
         with open('graph/even_more_updated_output_file.json', 'r') as f:
             data = json.load(f)
@@ -27,8 +35,16 @@ def get_data():
     except Exception as e:
         print("Errore nel caricamento dei dati:", e)
         return jsonify({"error": "Errore nel caricamento dei dati"}), 500
-
-
+    
+@app.route("/entities-graph-data")
+def get_entities_graph_data():
+    try:
+        with open('graph/entities_graph.json', 'r') as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        print("Errore nel caricamento dei dati:", e)
+        return jsonify({"error": "Errore nel caricamento dei dati"}), 500
 
 @app.route('/node/<node_id>')
 def get_node_details(node_id):
@@ -48,6 +64,9 @@ def get_node_details(node_id):
     except Exception as e:
         print("Errore nella ricerca del nodo:", e)
         return jsonify({"error": "Errore nella ricerca del nodo"}), 500
+
+
+
 
 if __name__ == '__main__':
     app.run(debug=True)
