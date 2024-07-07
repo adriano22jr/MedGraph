@@ -21,6 +21,6 @@ def clean_nodes_and_links(filepath, output_file_path):
         json.dump(data, file, indent=4)
 
 # Esempio di utilizzo
-json_file_path = 'graph\\updated_output_file.json'
-output_file_path = 'graph\\even_more_updated_output_file.json'
+json_file_path = "graph-webapp/updated_output_file.json"
+output_file_path = "graph-webapp/even_more_updated_output_file.json"
 clean_nodes_and_links(json_file_path, output_file_path)

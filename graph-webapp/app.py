@@ -29,7 +29,7 @@ def get_entities_graph():
 @app.route('/papers-data')
 def get_papers_data():
     try:
-        with open('graph/even_more_updated_output_file.json', 'r') as f:
+        with open('graph-webapp/even_more_updated_output_file.json', 'r') as f:
             data = json.load(f)
         return jsonify(data)
     except Exception as e:
@@ -39,7 +39,7 @@ def get_papers_data():
 @app.route("/entities-graph-data")
 def get_entities_graph_data():
     try:
-        with open('graph/entities_graph.json', 'r') as f:
+        with open('graph-webapp/entities_graph.json', 'r') as f:
             data = json.load(f)
         return jsonify(data)
     except Exception as e:
@@ -53,7 +53,7 @@ def get_node_details(node_id):
         node = collection.find_one({"_id": node_id}, {"title": 1, "Year": 1, "abstract": 1, "authors": 1})
         
         if node:
-            # Recupera i dettagli degli autori
+            # Retrieves from the database authors' data
             author_ids = node.get('authors', [])
             authors = list(collection_authors.find({"_id": {"$in": [ObjectId(author_id) for author_id in author_ids]}}, {"_id": 0, "author": 1}))
             authors = [author['author'] for author in authors]
@@ -64,8 +64,6 @@ def get_node_details(node_id):
     except Exception as e:
         print("Errore nella ricerca del nodo:", e)
         return jsonify({"error": "Errore nella ricerca del nodo"}), 500
-
-
 
 
 if __name__ == '__main__':
